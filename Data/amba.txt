@@ -1,0 +1,137 @@
+# GPD ASCII Format
+# 30 Jan 04
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** Pollen Database for Siberia and the Russian Far East.             **
+# ***********************************************************************
+#
+# Site name:      Amba River Exposure 596
+# Place:          RUS:Primorskiy Kray
+# Latitude:       43.19.00N      (  43.316667)
+# Longitude:      131.49.00E     ( 131.816667)
+# Elevation(m):   5
+# Sigle:          AMBA
+# Entity name:    P596-598
+# Contact person: Korotky, A.M.
+# Entity notes:   main tree species are Quercus spp., Carpinus cordata, Tilia
+#                 spp., Acer spp.,Abies holophylla,
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   345.0    10    3040     25     25  SOAN-287     L    peat
+#   425.0    10    5100    110    110  Ki-1056      L    plant detritus
+#
+# Chron name:     GPD 1
+# Age model:      linear interpolation
+# Age bounds:     2940 - 5490
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#   200.0     0    2500   3000   2000   SED
+#   345.0    10    3040   3065   3015   C14
+#   425.0    10    5100   5210   4990   C14
+#
+# Publications:   Korotky, A.M., L.P. Karaulova, and T.S. Troitskaya. 1980.
+#                 The Quaternary deposits of Primor'ye. Nauka, Novosibirsk. In
+#                 Russian.
+#
+#                 Anderson, P.M., and A.V. Lozhkin, editors. 2002. Late
+#                 Quaternary Vegetation and Climate of Siberia and the Russian
+#                 Far East (Palynological and Radiocarbon Database). North
+#                 East Science Center, Far East Branch, Russian Academy of
+#                 Sciences, Magadan, Russia.
+#
+43 8
+    1 Abi      A Abies
+    2 Ace      A Acer
+    3 Aln      A Alnus
+    4 Bet.co   A Betula costata
+    5 Bet.da   A Betula dahurica
+    6 Bet.er   A Betula ermanii
+    7 Bet.pl   A Betula platyphylla
+    8 Bet.sc   A Betula schmidtii
+    9 Bet.ud   A Betula undiff.
+   10 Cpn.co   A Carpinus cordata
+   11 Cor      A Corylus
+   12 Eph      A Ephedra
+   13 Erles    A Ericales
+   14 Jug      A Juglans
+   15 Pdn      A Phellodendron
+   16 Pic.Eu   A Picea sect. Eupicea
+   17 Pic.Om   A Picea sect. Omorica
+   18 Pin.ko   A Pinus koraiensis
+   19 PinSt.ud A Pinus subg. Strobus undiff.
+   20 Que.de   A Quercus dentata
+   21 Que.mo   A Quercus mongolica
+   22 Syr      A Syringa
+   23 Til      A Tilia
+   24 Tsu      A Tsuga
+   25 Ulm      A Ulmus
+   26 Art      B Artemisia
+   27 Astae.ud B Asteraceae undiff.
+   28 Braae    B Brassicaceae
+   29 Cryae    B Caryophyllaceae
+   30 Cheae    B Chenopodiaceae
+   31 Cypae    B Cyperaceae
+   32 Fabae    B Fabaceae
+   33 Poaae    B Poaceae
+   34 Polae    B Polygonaceae
+   35 Ranae    B Ranunculaceae
+   36 Saxae    B Saxifragaceae
+   37 Cgr      F Coniogramme
+   38 Lyc-t    F Lycopodium-type
+   39 Osu      F Osmunda
+   40 Plpae    F Polypodiaceae
+   41 Br:Bryes M Bryales
+   42 Br:Spg   M Sphagnum
+   43 Aliae    Q Alismataceae
+200, , 2500
+     0.0     0.0    25.0     0.0     4.0     0.0    31.0     0.0    25.0     2.0
+     3.0     0.0     0.0     8.0     0.0     2.0     0.0    37.0     5.0     0.0
+    68.0     2.0     4.0     1.0     6.0    51.0     3.0     8.0     0.0     1.0
+    37.0    30.0    15.0     0.0     0.0     4.0     0.0     0.0     1.0    65.0
+    39.0     3.0     0.0
+220, , 2574
+     5.0     2.0    26.0     0.0     2.0     2.0    22.0     0.0    26.0     2.0
+     0.0     2.0     1.0    10.0     4.0     7.0     8.0    77.0     2.0     0.0
+    46.0     0.0     1.0     0.0    10.0    92.0     0.0     1.0     0.0     8.0
+    62.0     5.0    29.0     5.0     0.0     0.0     3.0     0.0     5.0   157.0
+    50.0     7.0     1.0
+280, , 2797
+    15.0     0.0    21.0     4.0     0.0     0.0    20.0     0.0     4.0     1.0
+     0.0     0.0     0.0     9.0     0.0     5.0     0.0   177.0     0.0     0.0
+    31.0     1.0     5.0     1.0     6.0    17.0     4.0     0.0     0.0     0.0
+    12.0    14.0     2.0     1.0     0.0     0.0     0.0     0.0     1.0    43.0
+    15.0     2.0     0.0
+320, , 2946
+     3.0     1.0    14.0     0.0     0.0     4.0    21.0     0.0     2.0     4.0
+     2.0     0.0     0.0    18.0     0.0     2.0     0.0   127.0     0.0    20.0
+    58.0     0.0     1.0     0.0     7.0    34.0     0.0     0.0     3.0     1.0
+    83.0     5.0     3.0     5.0     1.0     0.0     0.0     1.0     1.0    60.0
+    32.0     1.0     0.0
+340, , 3021
+     0.0     1.0    15.0     0.0     0.0     2.0    29.0     0.0     6.0     3.0
+     1.0     0.0     0.0    14.0     1.0     1.0     0.0    30.0     0.0     0.0
+   121.0     0.0     2.0     0.0     9.0    31.0     1.0     0.0     0.0     0.0
+     0.0     2.0     2.0     1.0     0.0     0.0     0.0     0.0     2.0    36.0
+    11.0     0.0     0.0
+400, , 4456
+     0.0     0.0     8.0     0.0     0.0     2.0     8.0     0.0    40.0     1.0
+     0.0     0.0     0.0     8.0     1.0     0.0     0.0    17.0     0.0     0.0
+    42.0     0.0     1.0     0.0     8.0     3.0     0.0     0.0     0.0     0.0
+    27.0     1.0     3.0     0.0     0.0     0.0     0.0     0.0     0.0   100.0
+    85.0     5.0     0.0
+420, , 4971
+    10.0     2.0    20.0     0.0     4.0     0.0    10.0     2.0     5.0     4.0
+    10.0     0.0     0.0    10.0     4.0     4.0     2.0    10.0     0.0     3.0
+    82.0     0.0     0.0     0.0    15.0    15.0    10.0     0.0     0.0     6.0
+    10.0     0.0    15.0     0.0     0.0     0.0     0.0     2.0     4.0   110.0
+    39.0    10.0     0.0
+440, , 5486
+    18.0     2.0    40.0     0.0     6.0     2.0    20.0     0.0    10.0     0.0
+    15.0     0.0     2.0    10.0     4.0    16.0    14.0    10.0     0.0     0.0
+    70.0     0.0     0.0     0.0    10.0    15.0    15.0     0.0     0.0     6.0
+    22.0     0.0    29.0     0.0     0.0     0.0     0.0     4.0     2.0    65.0
+    50.0    18.0     0.0

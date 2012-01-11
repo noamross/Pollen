@@ -1,0 +1,105 @@
+# GPD ASCII Format
+# 23 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Crozier Lake
+# Place:          CAN:Ontario
+# Latitude:       47.54.00N      (  47.9     )
+# Longitude:      84.52.00W      ( -84.866667)
+# Elevation(m):   223
+# Sigle:          CROZIER
+# Entity name:
+# Contact person: Saarnisto, M.
+# Entity notes:   All counts multiplied by a factor of 10 for the purposes of
+#                 onesums 7/10/82.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#  1223.0          7590    180    180  Hel-396      U
+#
+# Chron name:     COHMAP chron# 1
+# Age model:      linear interpolation
+# Age bounds:     6500 - 9000
+# Chron notes:    1 C-14 date 7590 C-14 date Saarnisto 1975 CJB, others strat
+#                 dates Age bounds for application of the model: top = 6500;
+#                 bottom = 9000.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#  1205.0          6800   7000   6600   POL
+#  1223.0          7590   7770   7410   C14
+#  1290.0          9000   9200   8800   POL
+#
+# Publications:   Saarnisto, M. 1975. Stratigraphical studies on the shoreline
+#                 displacement of Lake Superior. Canadian Journal of Earth
+#                 Sciences 12:300-319.
+#
+15 16
+    1 Abi      A Abies
+    2 Ace      A Acer
+    3 Aln      A Alnus
+    4 Bet      A Betula
+    5 Cupae    A Cupressaceae
+    6 Fra      A Fraxinus
+    7 Lar      A Larix
+    8 Myr      A Myrica
+    9 Os/Ca    A Ostrya/Carpinus
+   10 Pic      A Picea
+   11 Pin.Pi   A Pinus subg. Pinus
+   12 Pin.St   A Pinus subg. Strobus
+   13 Que      A Quercus
+   14 Ulm      A Ulmus
+   15 Cypae    B Cyperaceae
+1160, , 4825
+    10.0     0.0    50.0   210.0    70.0    10.0     0.0     0.0     0.0     0.0
+   400.0   160.0    20.0    10.0     0.0
+1170, , 5263
+    20.0     0.0    10.0   240.0    40.0     0.0    10.0    10.0     0.0    20.0
+   350.0   140.0    50.0     0.0     0.0
+1180, , 5702
+    20.0     0.0     0.0   240.0    20.0    10.0     0.0     0.0     0.0     0.0
+   450.0   190.0    30.0     0.0     0.0
+1190, , 6141
+    10.0     0.0     0.0   240.0    50.0     0.0    10.0     0.0     0.0    10.0
+   440.0   240.0    20.0    10.0    10.0
+1200, , 6580
+     0.0     0.0     0.0   230.0    80.0    10.0     0.0     0.0     0.0    30.0
+   380.0   150.0    10.0     0.0     0.0
+1210, , 7019
+    10.0     0.0    10.0   520.0    10.0     0.0     0.0     0.0    20.0    30.0
+   240.0    30.0    20.0    10.0     0.0
+1220, , 7458
+    50.0     0.0    20.0   410.0    30.0     0.0    10.0     0.0    20.0    50.0
+   240.0    50.0    30.0    10.0    10.0
+1230, , 7737
+    20.0    10.0    20.0   450.0    50.0     0.0     0.0    20.0    10.0    60.0
+   200.0    30.0    30.0    10.0    10.0
+1235, , 7842
+   500.0     0.0    10.0  4800.0   400.0     0.0     0.0     0.0    10.0    60.0
+  1700.0   200.0     0.0    10.0    20.0
+1240, , 7947
+    30.0     0.0    20.0   400.0    40.0    20.0    10.0     0.0    20.0    90.0
+   180.0    10.0    20.0     0.0    10.0
+1250, , 8158
+    90.0     0.0     0.0   110.0    30.0    10.0    10.0     0.0     0.0    90.0
+   510.0    50.0    20.0     0.0    20.0
+1260, , 8368
+    60.0    10.0     0.0    50.0    50.0    10.0    30.0     0.0     0.0   160.0
+   420.0   130.0    20.0    10.0    10.0
+1270, , 8579
+    70.0     0.0     0.0    40.0    40.0    10.0    20.0     0.0     0.0   170.0
+   480.0    80.0    10.0     0.0    10.0
+1280, , 8789
+    30.0    10.0     0.0    30.0    70.0    10.0    20.0     0.0    10.0   240.0
+   460.0    30.0    10.0     0.0     0.0
+1290, , 9000
+     0.0     0.0     0.0    10.0    30.0     0.0    10.0     0.0     0.0   380.0
+   490.0    40.0     0.0     0.0     0.0
+1300, , 9210
+    40.0     0.0     0.0    40.0    60.0    10.0    20.0     0.0    10.0   270.0
+   410.0    30.0    20.0    10.0    10.0

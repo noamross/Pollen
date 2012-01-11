@@ -1,0 +1,945 @@
+3pines.txt - Three Pines Bog, Canada:Ontario, 47.00.00N 80.07.00W, McAndrews, J.H.
+abalone.txt - Abalone Rocks Marsh, United States:California, 33.57.23N 119.58.36W, Cole, K.L.
+adange.txt - Adange, Republic of Georgia:Autonomic Rep of Abkhazia, 43.18.20N 41.20.00E, Kvavadze, E.V.
+age.txt - Agerods Mosse, Sweden:Malmohus Lan, 55.50.00N 13.25.00E, Regnell, J.
+aguasc1.txt - Aguas Calientes, Chile:, 23.05.00S 67.24.00W, Graf, K.
+aguasc2.txt - Aguas Calientes 2, Chile:, 23.30.00S 67.35.00W, Graf, K.
+aguilar.txt - Aguilar, Argentina:Jujuy, 23.50.00S 65.45.00W, Markgraf, V.
+ahl5.txt - Ahlenmoor, Germany:Niedersachsen, 53.42.00N 8.44.00E, Behre, K.-E.
+ajata.txt - Ajata, Chile:, 18.15.00S 69.12.00W, Graf, K.
+akuv.txt - Akuvaara, Finland:Lappi, 69.07.30N 27.41.00E, Hyvarinen, H.
+alderdal.txt - Alderdale Bog, Canada:Ontario, 46.03.00N 79.12.00W, Terasmae, J.
+alexandr.txt - Alexander Lake, Canada:Newfoundland, 53.20.00N 60.35.00W, Jordan, R.H.
+alexislk.txt - Alexis Lake, Canada:Newfoundland, 52.31.00N 57.02.00W, Lamb, H.F.
+alfies.txt - Alfies Lake, Canada:Ontario, 47.53.00N 84.52.00W, Saarnisto, M.
+aliuk.txt - Aliuk Pond, Canada:Newfoundland, 54.35.00N 57.22.00W, Jordan, R.H.
+allenbrg.txt - Allenberg Bog, United States:New York, 42.15.04N 78.52.57W, Miller, N.G.
+allie.txt - Allie Lake, United States:Minnesota, 44.48.00N 93.33.30W, McAndrews, J.H.
+almora1.txt - Almora Lake, United States:Minnesota, 46.12.22N 95.17.37W, Bjorck, S.
+amarete.txt - Amarete, Bolivia:, 15.14.00S 68.59.00W, Graf, K.
+amtkel.txt - Amtkel, Republic of Georgia:Autonomic Rep of Abkhazia, 43.16.05N 41.18.30E, Kvavadze, E.V.
+anderslk.txt - Anderson Lake, United States:Minnesota, 46.25.00N 92.43.00W, Wright, H.E., Jr.
+anderson.txt - Anderson Pond, United States:Tennessee, 36.02.00N 85.30.00W, Delcourt, H.R.
+andree.txt - Andree Bog, United States:Minnesota, 45.43.30N 93.15.00W, Cushing, E.J.
+andruslk.txt - Andrus Lake, United States:Michigan, 46.42.00N 85.02.25W, Shane, L.C.K.
+andylake.txt - Andy Lake, Canada:Northwest Territories, 64.39.00N 128.05.00W, Szeicz, J.M.
+angal.txt - Angal Lake, United States:Alaska, 67.08.00N 153.54.00W, Brubaker, L.B.
+ange.txt - Lac a l'Ange, Canada:Quebec, 47.28.54N 70.41.05W, Richard, P.J.H.
+antelope.txt - Antelope Playa, United States:Wyoming, 43.30.00N 105.27.00W, Markgraf, V.
+antoine.txt - Antoine Lake, Canada:Ontario, 47.44.00N 84.54.00W, Saarnisto, M.
+aquiri.txt - Lago do Aquiri, Brazil:Maranhao, 3.10.00S 44.59.00W, Behling, H.
+arringto.txt - Arrington Marsh, United States:Kansas, 39.29.42N 95.31.36W, Gruger, J.
+artsloug.txt - Arts Lough, Ireland:Wicklow, 52.57.00N 6.26.00W, Bradshaw, R.H.W.
+asa.txt - Lake èsa, Antarctica:, 62.37.43S 61.08.05W, Bjorck, S.
+ato.txt - Lac des Atocas, Canada:Quebec, 45.32.35N 73.18.40W, Richard, P.J.H.
+attawaps.txt - Attawapiskat Lake, Canada:Ontario, 53.00.00N 85.10.12W, Terasmae, J.
+axelake.txt - Axe Lake, Canada:Ontario, 45.22.48N 79.30.00W, McAndrews, J.H.
+badmed.txt - Bad Medicine Lake, United States:Minnesota, 47.08.00N 95.23.00W, McAndrews, J.H.
+ballin.txt - Ballinloghig Lake, Ireland:, 52.12.00N 10.18.30W, Whitlock, C.
+ballybet.txt - Ballybetagh, Ireland:, 53.10.00N 6.15.00W, Cwynar, L.C.
+balsam.txt - Balsam Lake, United States:New York, 42.30.00N 74.36.00W, Ibe, R.A.
+balsammd.txt - Balsam Meadow, United States:California, 37.11.45N 119.15.37W, Davis, O.K.
+barchamp.txt - Barchampe Lake, United States:Florida, 30.37.20N 83.15.14W, Grimm, E.C.
+barrett.txt - Barrett Lake, United States:California, 37.35.45N 119.00.30W, Anderson, R.S.
+barry.txt - Barry Lake, Canada:Ontario, 44.18.00N 77.55.00W, McAndrews, J.H.
+baseball.txt - Baseball Bog, Canada:Ontario, 47.13.48N 79.46.48W, McAndrews, J.H.
+basinpnd.txt - Basin Pond, United States:Maine, 44.28.12N 70.03.00W, Gajewski, K.J.
+basswood.txt - Basswood Road Lake/Splan Pond, Canada:New Brunswick, 45.15.20N 67.19.50W, Mott, R.J.
+bastien.txt - Lac Bastien, Canada:Ontario, 46.24.00N 78.55.00W, Bennett, K.D.
+batlgrnd.txt - Battle Ground Lake, United States:Washington, 45.48.00N 122.29.30W, Whitlock, C.
+battagli.txt - Battaglia Bog, United States:Ohio, 41.08.38N 81.19.43W, Shane, L.C.K.
+bbass.txt - Black Bass Lake, United States:Minnesota, 46.07.41N 93.42.14W, McAndrews, J.H.
+beach.txt - Beach Lake, Canada:Northwest Territories, 65.13.00N 127.03.00W, McAndrews, J.H.
+bearbog.txt - Bear Bog, Canada:Ontario, 47.10.48N 80.09.36W, McAndrews, J.H.
+beaver2.txt - Beaver Lake [Wyoming], United States:Wyoming, 44.10.43N 107.15.35W, Baker, R.G.
+bechan1.txt - Bechan Cave, United States:Utah, 38.00.00N 111.00.00W, Davis, O.K.
+bechan2m.txt - Bechan Cave, United States:Utah, 38.00.00N 111.00.00W, Davis, O.K.
+beckman.txt - Beckman Lake, United States:Minnesota, 45.25.30N 93.11.00W, Swain, P.C.
+beckmnbg.txt - Beckman Lake, United States:Minnesota, 45.25.30N 93.11.00W, Swain, P.C.
+beefpast.txt - Beef Pasture, United States:Colorado, 37.25.00N 108.09.00W, Petersen, K.L.
+begaswam.txt - Bega Swamp, Australia:New South Wales, 36.31.00S 149.30.00E, Hope, G.S.
+bells.txt - Bell's Lake, Canada:Northwest Territories, 65.01.00N 127.29.00W, Szeicz, J.M.
+belmont.txt - Belmont Bog, United States:New York, 42.15.00N 77.55.00W, Spear, R.W.
+ber.txt - Bereziuk, Canada:Quebec, 54.02.50N 76.07.13W, Richard, P.J.H.
+berrypnd.txt - Berry Pond, United States:Massachusetts, 42.30.00N 73.19.00W, Whitehead, D.R.
+biggsvil.txt - Biggsville (Cessford Quarry), United States:Illinois, 40.51.20N 90.52.48W, Baker, R.G.
+bigjohn.txt - Big John Pond, United States:Minnesota, 47.33.30N 94.58.00W, Almendinger, J.C.
+bigpond.txt - Big Pond, United States:Pennsylvania, 39.46.00N 78.33.00W, Watts, W.A.
+billys.txt - Billy's Lake, United States:Minnesota, 46.17.00N 94.35.00W, Jacobson, G.L., Jr.
+bishopsf.txt - Bishops Falls, Canada:Newfoundland, 48.56.10N 55.30.20W, Macpherson, J.B.
+blackntn.txt - Blackington Lake, Canada:Ontario, 47.54.00N 84.52.00W, Saarnisto, M.
+blackpnd.txt - Black Pond, United States:Tennessee, 35.37.15N 84.11.12W, Delcourt, P.A.
+blaktail.txt - Blacktail Pond, United States:Wyoming, 44.57.22N 110.36.00W, Gennett, J.A.
+blandin.txt - Blandin Pond, United States:Minnesota, 47.08.00N 93.40.00W, Cushing, E.J.
+blbigbee.txt - BL-Tombigbee, United States:Alabama, 33.33.48N 88.28.28W, Whitehead, D.R.
+blkhoof.txt - Blackhoof Site, United States:Minnesota, 46.30.12N 92.34.24W, Wright, H.E., Jr.
+bluelake.txt - Blue Lake, Australia:New South Wales, 36.25.00S 148.19.00E, Hope, G.S.
+blumound.txt - Blue Mounds Creek, United States:Wisconsin, 43.05.00N 89.52.00W, Davis, A.M.
+boavista.txt - Serra da Boa Vista, Brazil:Santa Catarina, 27.42.00S 49.09.00W, Behling, H.
+bobblack.txt - Bob Black Pond, United States:Georgia, 34.19.25N 84.52.05W, Watts, W.A.
+boblake.txt - Bob Lake, United States:Minnesota, 46.38.01N 92.36.53W, McAndrews, J.H.
+boga.txt - Bog A Pond, United States:Minnesota, 47.11.00N 95.10.00W, McAndrews, J.H.
+bogd.txt - Bog D, United States:Minnesota, 47.11.00N 95.10.00W, McAndrews, J.H.
+bondi.txt - Bondi Section, Canada:Ontario, 42.05.17N 82.38.15W, McAndrews, J.H.
+boneyspr.txt - Boney Spring, United States:Missouri, 38.06.43N 93.22.01W, King, J.E.
+border.txt - Border Beacon, Canada:Newfoundland, 55.20.00N 63.12.00W, Lamb, H.F.
+boriackb.txt - Boriack Bog, United States:Texas, 30.21.36N 97.07.34W, Bryant, V.M., Jr.
+bossuot.txt - Bossuot Lake, United States:Minnesota, 44.17.46N 93.44.03W, McAndrews, J.H.
+bouc.txt - Lac Boucane, Canada:Quebec, 47.27.28N 69.27.10W, Richard, P.J.H.
+boundar.txt - Boundary Lake, Canada:Quebec, 55.15.00N 67.24.00W, Stravers, L.K.S.
+boundary.txt - Boundary Pond, United States:Maine, 45.34.00N 70.40.30W, Mott, R.J.
+brandret.txt - Brandreth Bog, United States:New York, 43.55.00N 74.41.00W, Overpeck, J.T.
+bri2.txt - Brisay 2, Canada:Quebec, 54.21.21N 70.21.28W, Richard, P.J.H.
+brophy.txt - Brophy Ditch, Canada:Ontario, 43.13.12N 81.43.48W, McAndrews, J.H.
+brownlk.txt - Brown Lake [US:Wisconsin], United States:Wisconsin, 45.47.00N 89.29.00W, Shane, L.C.K.
+brownsby.txt - Brown's Bay, Lake Minnetonka, United States:Minnesota, 44.58.00N 93.33.00W, Shane, L.C.K.
+brownslk.txt - Brown Lake [US:Ohio], United States:Ohio, 40.40.50N 82.03.45W, Shane, L.C.K.
+brownspd.txt - Browns Pond, United States:Virginia, 38.09.17N 79.36.59W, Kneller, M.
+bruvat.txt - Bruvatnet, Norway:Finnmark, 70.11.00N 28.25.00E, Hyvarinen, H.
+buckbean.txt - Buckbean Fen, United States:Wyoming, 44.17.55N 110.15.38W, Baker, R.G.
+bucklake.txt - Buck Lake, United States:Florida, 27.14.04N 81.19.56W, Watts, W.A.
+buckles.txt - Buckle's Bog, United States:Maryland, 39.34.00N 79.16.00W, Maxwell, J.A.
+bucyrus.txt - Bucyrus Bog, United States:Ohio, 40.47.50N 82.56.00W, Shane, L.C.K.
+bugbee.txt - Bugbee Bog, United States:Vermont, 44.22.00N 72.09.00W, Dole, R.M., Jr.
+burden.txt - Burden Lake, United States:New York, 42.36.15N 73.34.00W, Webb, T. III
+burntsde.txt - Burntside Lake, United States:Minnesota, 47.55.27N 91.59.41W, Wright, H.E., Jr.
+busque.txt - Lac a la Busque, Canada:Quebec, 46.16.45N 70.35.45W, Richard, P.J.H.
+cahaba.txt - Cahaba Pond, United States:Alabama, 33.30.00N 86.32.00W, Delcourt, H.R.
+cal.txt - Saint-Calixte, Canada:Quebec, 45.57.40N 73.52.05W, Richard, P.J.H.
+calacont.txt - Cala Conto, Bolivia:Cochabamba, 17.34.00S 65.56.00W, Graf, K.
+camel.txt - Camel Lake, United States:Florida, 30.16.00N 85.01.00W, Grimm, E.C.
+camp11lk.txt - Camp 11 Lake, United States:Michigan, 46.40.00N 88.01.00W, Brubaker, L.B.
+camp12lk.txt - Camp 12 Lake, United States:Wisconsin, 45.59.10N 89.22.30W, Shane, L.C.K.
+campbell.txt - Campbell Lake, United States:Minnesota, 44.42.21N 93.30.00W, McAndrews, J.H.
+candelab.txt - Candelabra Lake, Canada:Yukon Territory, 61.41.00N 130.39.00W, Cwynar, L.C.
+canyon.txt - Canyon Lake, United States:Michigan, 46.50.00N 87.55.17W, Davis, M.B.
+car.txt - Tourbiere Caribou, Canada:Quebec, 47.38.23N 71.14.09W, Richard, P.J.H.
+carbuncl.txt - Carbuncle Pond, United States:Rhode Island, 41.42.00N 71.47.00W, Bernabo, J.C.
+carib.txt - Lac Caribou, Canada:Quebec, 48.11.52N 64.56.24W, Richard, P.J.H.
+caribbog.txt - Caribou Bog, United States:Maine, 45.56.00N 68.46.00W, Gajewski, K.J.
+caribou.txt - Caribou Hill, Canada:Newfoundland, 55.40.00N 63.15.00W, Lamb, H.F.
+carnino.txt - Selle di Carnino, Italy:Liguria, 44.09.00N 7.41.40E, Beaulieu, J.L. de
+carplake.txt - Carp Lake, United States:Washington, 45.55.05N 120.52.50W, Whitlock, C.
+carter.txt - Carter Site, United States:Ohio, 40.13.00N 84.40.50W, Shane, L.C.K.
+cas.txt - Lac Castor, Canada:Quebec, 46.36.50N 72.59.55W, Richard, P.J.H.
+cascade.txt - Cascade Fen, United States:Colorado, 37.29.00N 107.48.00W, Maher, L.J., Jr.
+catemaco.txt - Lago Catemaco, Mexico:Veracruz-Llave, 18.40.00N 95.00.00W, Byrne, A.R.
+caunahu1.txt - Caunahue, Chile:Los Lagos, 40.00.00S 72.00.00W, Markgraf, V.
+cayambe.txt - Cayambe, Ecuador:, 0.02.00S 78.02.00W, Graf, K.
+cedarblk.txt - Cedar Bog Lake, United States:Minnesota, 45.24.40N 93.11.50W, Cushing, E.J.
+cedarbog.txt - Cedar Bog, United States:New Jersey, 41.20.00N 74.40.00W, Niering, W.A.
+chabada2.txt - Chabada Lake, Russia:Yakutia, 61.59.00N 129.22.00E, Andreev, A.A.
+chacalt1.txt - Chacaltaya 1, Bolivia:, 16.22.00S 68.09.00W, Graf, K.
+chacalt2.txt - Chacaltaya 2, Bolivia:, 16.22.00S 68.09.00W, Graf, K.
+chalcola.txt - Chalco Lake, Mexico:Mexico, 19.30.00N 99.00.00W, Lozano-Garc°a, M.S.
+chase.txt - Chase Pond, Canada:Nova Scotia, 45.39.05N 60.40.30W, Mayle, F.E.
+chepu.txt - Chepu, Chile:, 42.00.00S 73.58.00W, Moar, N.T.
+chernih.txt - Chernikhovo, Byelorussia:, 53.25.00N 26.26.00E, Zernitskaya, V.P.
+cheyenne.txt - Cheyenne Bottoms, United States:Kansas, 38.28.00N 98.40.00W, Fredlund, G.G.
+chippewa.txt - Chippewa Bog, United States:Michigan, 43.07.26N 83.14.28W, Bailey, R.E.
+chism1.txt - Chism 1, Canada:Quebec, 54.47.58N 76.08.44W, Richard, P.J.H.
+chism2.txt - Chism 2, Canada:Quebec, 53.05.27N 76.20.21W, Richard, P.J.H.
+chivres.txt - Le Marais St Boetien, France:Aisne, 49.37.00N 3.49.00E, van Zeist, W.
+chtswrth.txt - Chatsworth Bog, United States:Illinois, 40.40.33N 88.20.36W, King, J.E.
+churchfn.txt - Churchill Falls North, Canada:Newfoundland, 53.36.00N 64.19.00W, Morrison, A.
+churchfs.txt - Churchill Falls South, Canada:Newfoundland, 53.35.00N 64.18.00W, Morrison, A.
+cielblan.txt - Lac Ciel Blanc, Canada:British Columbia, 59.31.00N 122.10.00W, MacDonald, G.M.
+cindy.txt - Cindy Pond, United States:Minnesota, 47.11.00N 94.55.00W, McAndrews, J.H.
+clarence.txt - Isla Clarence, Chile:, 54.12.00S 71.14.00W, Markgraf, V.
+clearlia.txt - Clear Lake [Iowa], United States:Iowa, 43.09.00N 93.21.00W, Baker, R.G.
+clearlk.txt - Clear Lake, United States:Indiana, 41.39.00N 86.31.48W, Bailey, R.E.
+clearpnd.txt - Clear Pond [South Carolina], United States:South Carolina, 33.47.55N 78.57.13W, Hussey, T.C.
+clearwtr.txt - Clearwater Lake, Canada:Saskatchewan, 50.52.25N 107.56.00W, Mott, R.J.
+clrpndny.txt - Clear Pond [New York], United States:New York, 43.45.00N 74.01.00W, Winkler, M.G.
+cocalvar.txt - Cerro Calvario, Bolivia:, 16.15.00S 68.30.00W, Graf, K.
+colomsh.txt - Colo Marsh, United States:Iowa, 42.01.12N 93.16.12W, Baker, R.G.
+columbin.txt - Columbine Ranch Fen, United States:Colorado, 37.36.45N 107.48.30W, Maher, L.J., Jr.
+comblake.txt - Comb Lake, Canada:Newfoundland, 49.41.24N 57.42.36W, McAndrews, J.H.
+comolake.txt - Como Lake, United States:Colorado, 37.33.00N 105.30.00W, Davis, O.K.
+compass.txt - Compass Pond, Canada:Newfoundland, 50.02.03N 56.11.47W, Macpherson, J.B.
+conklin.txt - Conklin Quarry, United States:Iowa, 41.41.40N 91.33.50W, Ashworth, A.C.
+conroy.txt - Conroy Lake, United States:Maine, 46.17.00N 67.53.00W, Gajewski, K.J.
+copper.txt - Coppermine Saddleback, Canada:Northwest Territories, 67.50.00N 115.19.00W, Nichols, H.
+cot.txt - Lac Cote, Canada:Quebec, 48.58.01N 65.57.00W, Richard, P.J.H.
+cotapamp.txt - Cotapampa, Bolivia:, 15.13.00S 69.06.00W, Graf, K.
+cotj.txt - Tourbiere de Lanoraie COTEAU JAUNE, Canada:Quebec, 45.57.39N 73.20.31W, Richard, P.J.H.
+cotton.txt - Cottonwood Slough, Canada:Alberta, 52.52.00N 118.06.00W, Kearney, M.S.
+cottonwd.txt - Cottonwood Lake, United States:South Dakota, 44.50.10N 99.54.23W, Grimm, E.C.
+cotwdmn.txt - Cottonwood Lake [Minnesota], United States:Minnesota, 45.45.40N 96.01.00W, McAndrews, J.H.
+cranber.txt - Cranberry Lake, Canada:Ontario, 44.06.00N 78.06.00W, McAndrews, J.H.
+cranelak.txt - Crane Lake, United States:Arizona, 36.43.00N 112.13.00W, Shafer, D.S.
+cranglds.txt - Cranberry Glades, United States:West Virginia, 38.12.00N 80.17.00W, Watts, W.A.
+crates.txt - Crates Lake, Canada:Ontario, 49.11.00N 81.16.00W, Liu, K.-B.
+crawford.txt - Crawford Lake, Canada:Ontario, 43.30.00N 79.49.48W, McAndrews, J.H.
+crazy.txt - Crazy Pond, United States:Minnesota, 47.11.00N 95.44.00W, McAndrews, J.H.
+credit.txt - Creditview Wetland, Canada:Ontario, 43.36.00N 79.36.00W, McAndrews, J.H.
+criders.txt - Crider's Pond, United States:Pennsylvania, 39.58.00N 77.33.00W, Watts, W.A.
+cristal.txt - Cristal Lake, Canada:Ontario, 52.07.00N 90.05.00W, Bjorck, S.
+crowfoot.txt - Crowfoot Lake, Canada:Alberta, 51.39.00N 116.25.00W, Reasoner, M.A.
+crowsnes.txt - Crowsnest Lake, United States:Alaska, 68.20.00N 146.29.00W, Anderson, P.M.
+crozier.txt - Crozier Lake, Canada:Ontario, 47.54.00N 84.52.00W, Saarnisto, M.
+crystal.txt - Crystal Lake [US:Pennsylvania], United States:Pennsylvania, 41.33.00N 80.22.00W, Walker, P.C.
+cs-4.txt - Voros-mocsar, Hungary:, 46.28.38N 19.11.27E, Cserny, T.
+ctar.txt - Starniki, Ukraine:, 50.16.00N 26.01.00E, Bezusko, L.G.
+cub2.txt - Cub Lake, United States:Michigan, 44.42.00N 85.57.30W, Rasmussen, J.B.
+cubcrkpd.txt - Cub Creek Pond, United States:Wyoming, 44.29.24N 110.17.01W, Wright, H.E., Jr.
+cubid.txt - Cub Lake [Idaho], United States:Idaho, 44.07.30N 111.11.00W, Baker, R.G.
+cuevahai.txt - Cueva Haichol, Argentina:Neuquen, 38.35.00S 70.40.00W, Markgraf, V.
+cuevamil.txt - Cueva Milodon, Chile:Magallanes y Antartica, 51.35.00S 72.38.00W, Markgraf, V.
+cumbreun.txt - Cumbre Unduavi, Bolivia:, 16.21.00S 68.02.30W, Graf, K.
+cumminsa.txt - Cummins Pond, Canada:Ontario, 48.24.27N 89.20.48W, McAndrews, J.H.
+cupola.txt - Cupola Pond, United States:Missouri, 36.48.00N 91.06.00W, Smith, E.N., Jr.
+curucaa.txt - Lagoa da Curuáa, Brazil:Para, 0.46.00S 47.51.00W, Behling, H.
+curucab.txt - Lagoa da Curuáa, Brazil:Para, 0.46.00S 47.51.00W, Behling, H.
+cycloid.txt - Cycloid Lake, Canada:Saskatchewan, 55.16.00N 105.16.00W, Mott, R.J.
+cygnet.txt - Cygnet Lake Fen, United States:Wyoming, 44.39.00N 110.36.00W, Whitlock, C.
+dalton.txt - Dalton Lake, United States:Minnesota, 46.10.26N 95.54.55W, McAndrews, J.H.
+darklake.txt - Dark Lake, United States:Wisconsin, 45.16.30N 91.28.30W, Winkler, M.G.
+daspatas.txt - Lagoa das Patas, Brazil:Amazonas, 0.16.00N 66.41.00W, De Oliveira, P.E.
+dau.txt - Daumont, Canada:Quebec, 54.53.00N 69.24.00W, Richard, P.J.H.
+davis.txt - Davis Lake, United States:Washington, 46.35.30N 122.15.00W, Whitlock, C.
+dead5826.txt - Dead Man Lake, United States:New Mexico, 36.14.15N 108.57.06W, Wright, H.E., Jr.
+dead6101.txt - Dead Man Lake, United States:New Mexico, 36.14.15N 108.57.06W, Wright, H.E., Jr.
+decoy.txt - Decoy Lake, Canada:Ontario, 43.14.00N 80.22.00W, Szeicz, J.M.
+deer.txt - Deer Lake Bog, United States:New Hampshire, 44.02.00N 71.50.00W, Spear, R.W.
+del1.txt - Delorme 1, Canada:Quebec, 54.25.08N 69.55.08W, Richard, P.J.H.
+del2.txt - Delorme 2, Canada:Quebec, 54.25.25N 69.55.47W, Richard, P.J.H.
+demain.txt - Lac Demain, Canada:Northwest Territories, 62.03.00N 118.42.00W, MacDonald, G.M.
+demontlk.txt - Demont Lake, United States:Michigan, 43.28.48N 85.00.00W, Kapp, R.O.
+dentonlk.txt - Denton Lake, United States:Wisconsin, 45.51.00N 89.19.00W, Shane, L.C.K.
+derput.txt - Derput, Russia:Yakutia, 57.02.00N 124.07.00E, Andreev, A.A.
+devilslk.txt - Devils Lake [North Dakota], United States:North Dakota, 48.05.00N 98.56.00W, McAndrews, J.H.
+devilswi.txt - Devils Lake [Wisconsin], United States:Wisconsin, 43.25.05N 89.43.55W, Maher, L.J., Jr.
+devon4.txt - Devon Island Glacier, Canada:Northwest Territories, 75.21.00N 82.30.00W, McAndrews, J.H.
+dia1.txt - Diana Cordeau, Canada:Quebec, 60.56.20N 69.58.19W, Richard, P.J.H.
+dia375.txt - Diana 375, Canada:Quebec, 60.59.15N 69.57.30W, Richard, P.J.H.
+dia500.txt - Diana 500, Canada:Quebec, 60.58.44N 69.59.31W, Richard, P.J.H.
+diab.txt - Lac du Diable, Canada:Quebec, 48.54.39N 66.07.30W, Richard, P.J.H.
+dinkey.txt - Dinkey Meadow, United States:California, 37.00.00N 119.05.00W, Davis, O.K.
+dismal.txt - Dismal Swamp [1], United States:Virginia, 36.35.00N 76.27.00W, Whitehead, D.R.
+dister59.txt - Disterhaft Farm Bog, United States:Wisconsin, 43.55.01N 89.10.01W, Maher, L.J., Jr.
+distrhft.txt - Disterhaft Farm Bog, United States:Wisconsin, 43.55.01N 89.10.01W, Baker, R.G.
+divide.txt - Divide Lake, United States:Wyoming, 43.56.00N 110.14.00W, Whitlock, C.
+dogfish.txt - Dogfish Lake, United States:Minnesota, 48.11.00N 92.11.00W, Waddington, J.C.B.
+dome.txt - Dome Creek Meadow, United States:Colorado, 40.01.27N 107.03.03W, Feiler, E.J.
+domsv.txt - Domsvatnet, Norway:Finnmark, 70.19.00N 31.02.00E, Hyvarinen, H.
+donut.txt - Donut Pond Bog, United States:Massachusetts, 41.16.30N 70.03.30W, Dunwiddie, P.W.
+dosquet.txt - Dosquet, Canada:Quebec, 46.27.00N 71.30.00W, Richard, P.J.H.
+dovjok.txt - Dovjok Swamp, Ukraine:Vinnitsa, 48.45.00N 28.15.00E, Kremenetskii, K.V.
+dsdp565.txt - DSDP Site 565, Costa Rica:, 9.43.41N 86.05.26W, Horn, S.P.
+duckpond.txt - Duck Pond, United States:Massachusetts, 41.55.58N 70.00.02W, Winkler, M.G.
+dufresne.txt - Lac Dufresne, Canada:Quebec, 45.51.00N 70.21.00W, Mott, R.J.
+dunnigan.txt - Dunnigan Lake, United States:Minnesota, 47.42.30N 91.38.30W, Shane, L.C.K.
+eagle.txt - Eagle Lake Bog, United States:New Hampshire, 44.10.00N 71.40.00W, Spear, R.W.
+eaglelk.txt - Eagle Lake, Canada:Newfoundland, 53.14.00N 58.33.00W, Lamb, H.F.
+eaglenes.txt - Eaglenest Lake, Canada:Alberta, 57.46.00N 112.06.00W, Vance, R.E.
+easttwin.txt - East Twin Lake [Minnesota], United States:Minnesota, 45.20.00N 93.30.30W, McAndrews, J.H.
+ebaltic.txt - East Baltic Bog, Canada:Prince Edward Island, 46.24.30N 62.09.00W, Anderson, T.W.
+edessa.txt - Edessa, Greece:, 40.49.05N 21.57.09E, Bottema, S.
+edward.txt - Edward Lake, Canada:Ontario, 44.22.00N 80.15.00W, McAndrews, J.H.
+eggert.txt - Eggert Lake, United States:Minnesota, 44.28.14N 93.37.11W, McAndrews, J.H.
+elake68.txt - E Lake, Canada:Manitoba, 50.43.00N 99.39.00W, Ritchie, J.C.
+eldora.txt - Eldora Fen, United States:Colorado, 39.56.12N 105.34.48W, Maher, L.J., Jr.
+ellnmere.txt - Lake Ellensmere, United States:Ohio, 39.21.15N 83.00.36W, Shane, L.C.K.
+elylake.txt - Ely Lake, United States:Pennsylvania, 41.46.00N 75.50.00W, Winkler, M.G.
+emerald.txt - Emerald Lake, United States:Wyoming, 44.04.00N 110.18.00W, Whitlock, C.
+emma.txt - Lake Emma, United States:Colorado, 37.49.00N 107.35.00W, Mode, W.N.
+encant.txt - Encantado, Argentina:Neuquen, 40.40.00S 71.08.00W, Markgraf, V.
+ennada72.txt - Ennadai Lake, 1972 Site, Canada:Northwest Territories, 61.14.40N 100.57.05W, Nichols, H.
+ennadai.txt - Ennadai Lake, Canada:Northwest Territories, 61.10.00N 100.55.00W, Nichols, H.
+erie.txt - Lake Erie, Canada:Ontario, 41.55.12N 82.45.36W, McAndrews, J.H.
+ernstpit.txt - Ernst Brother's Pit, United States:Wisconsin, 43.13.59N 88.02.31W, Maher, L.J., Jr.
+espoir.txt - Lac a la Fourche, Canada:Quebec, 47.36.35N 70.36.57W, Richard, P.J.H.
+etivlik.txt - Etivlik Lake, United States:Alaska, 68.08.00N 156.02.00W, Anderson, P.M.
+etwinoh.txt - East Twin Lake [Ohio], United States:Ohio, 41.11.55N 81.20.00W, Shane, L.C.K.
+excel.txt - Excelsior Basin, Canada:Alberta, 52.47.00N 117.07.00W, Kearney, M.S.
+excheque.txt - Exchequer Meadow, United States:California, 37.00.00N 119.50.00W, Davis, O.K.
+faith.txt - Faith Pond, United States:Minnesota, 47.17.00N 95.06.00W, McAndrews, J.H.
+fallback.txt - Fallback Lake, United States:Wyoming, 43.58.00N 110.26.00W, Whitlock, C.
+far.txt - Lac Faribault, Canada:Quebec, 58.52.01N 71.43.01W, Richard, P.J.H.
+farn1.txt - Tourbiere de Farnham, Canada:Quebec, 45.16.58N 72.58.58W, Richard, P.J.H.
+farquar.txt - Farquar Lake, United States:Minnesota, 44.45.28N 93.10.00W, McAndrews, J.H.
+fawn.txt - Fawn Lake [Ontario], Canada:Ontario, 45.25.12N 79.22.48W, McAndrews, J.H.
+fawnlake.txt - Fawn Lake, United States:Minnesota, 46.13.08N 94.45.12W, McAndrews, J.H.
+fernbank.txt - Fernbank Interglacial, United States:New York, 42.33.00N 76.37.12W, McAndrews, J.H.
+ferndal1.txt - Ferndale Bog, United States:Oklahoma, 34.24.20N 95.48.30W, Albert, L.E.
+ferndale.txt - Ferndale Bog, United States:Oklahoma, 34.24.20N 95.48.30W, Albert, L.E.
+fishnwt.txt - Fish Lake, Canada:Northwest Territories, 73.02.05N 85.13.00W, Short, S.K.
+floatil1.txt - Floating Island Lake, United States:Wyoming, 44.33.00N 107.28.00W, Baker, R.G.
+floatil2.txt - Floating Island Lake, United States:Wyoming, 44.33.00N 107.28.00W, Baker, R.G.
+forest1.txt - Forest Pond 1, United States:Wyoming, 43.28.18N 109.56.20W, Lynch, E.A.
+forest2.txt - Forest Pond 2, United States:Wyoming, 43.26.20N 109.57.00W, Lynch, E.A.
+forestlk.txt - Forest Lake, United States:Montana, 46.27.06N 112.09.57W, Brant, L.A.
+foundlk.txt - Found Lake, Canada:Ontario, 45.30.00N 78.30.00W, McAndrews, J.H.
+foxpond.txt - Fox Pond, United States:Minnesota, 47.09.54N 95.33.30W, McAndrews, J.H.
+frainslk.txt - Frains Lake, United States:Michigan, 42.19.48N 83.37.48W, Kerfoot, W.C.
+francis.txt - Francis Lake II, United States:New Jersey, 40.59.00N 74.51.00W, Cotter, J.F.P.
+frblake.txt - Hayes Lake, Canada:Ontario, 49.35.00N 93.45.00W, McAndrews, J.H.
+french.txt - French Lake, United States:Minnesota, 44.57.00N 94.25.00W, Grimm, E.C.
+frenchby.txt - Frenchmens Bay, Canada:Ontario, 43.49.12N 79.06.00W, McAndrews, J.H.
+freshpnd.txt - Fresh Pond, United States:Rhode Island, 41.09.30N 71.34.30W, Dunwiddie, P.W.
+fryingpn.txt - Frying Pan Lake, United States:Utah, 38.37.00N 111.40.00W, Shafer, D.S.
+fudger.txt - Fudger Lake, United States:Ohio, 40.06.00N 83.32.00W, Shane, L.C.K.
+furnival.txt - Furnival Lake, Canada:Ontario, 48.12.36N 84.55.48W, McAndrews, J.H.
+gabriel.txt - Saint-Gabriel, Canada:Quebec, 46.16.33N 73.28.33W, Richard, P.J.H.
+gagra.txt - Gagra, Republic of Georgia:Autonomic Rep of Abkhazia, 43.17.00N 40.16.00E, Kvavadze, E.V.
+gardiner.txt - Gardiner's Hole, United States:Wyoming, 44.55.00N 110.44.00W, Baker, R.G.
+gass.txt - Gass Lake, United States:Wisconsin, 44.03.00N 87.44.00W, Webb, S.L.
+gausebog.txt - Gause Bog, United States:Texas, 30.47.06N 96.43.16W, Bryant, V.M., Jr.
+gb68-17.txt - Georgian Bay, Lake Huron [1], Canada:Ontario, 44.44.24N 80.51.36W, McAndrews, J.H.
+gb71-104.txt - Georgian Bay, Lake Huron [2], Canada:Ontario, 45.10.12N 81.19.12W, McAndrews, J.H.
+geai.txt - Lac Geai, Canada:Quebec, 45.59.45N 73.59.34W, Richard, P.J.H.
+gelmt.txt - Gel'myazevskoye, Ukraine:, 49.40.00N 31.50.00E, Bezusko, L.G.
+george.txt - George Lake, United States:Minnesota, 44.14.00N 93.52.15W, McAndrews, J.H.
+ger.txt - Lac a St-Germain, Canada:Quebec, 45.56.45N 74.22.15W, Savoie, L.
+gerais.txt - Serra Campos Gerais, Brazil:Parana, 24.40.00S 50.13.00W, Behling, H.
+gillies.txt - Upper Gillies Lake, Canada:Nova Scotia, 46.04.00N 60.23.30W, Livingstone, D.A.
+glacial.txt - Glacial Lake, United States:Alaska, 64.52.00N 166.16.00W, Eisner, W.R.
+glatsch.txt - Glatsch Lake, United States:Minnesota, 47.16.48N 92.37.12W, Wright, H.E., Jr.
+glenboro.txt - Glenboro Lake Site, Canada:Manitoba, 49.26.00N 99.17.00W, Ritchie, J.C.
+goff.txt - Goff Lake, United States:Wyoming, 44.27.09N 109.50.19W, Wright, H.E., Jr.
+goldlkbg.txt - Gold Lake Bog, United States:Oregon, 43.39.00N 122.02.30W, Whitlock, C.
+goldsmth.txt - Goldsmith Lake, United States:Minnesota, 46.35.00N 92.28.00W, McAndrews, J.H.
+goshen.txt - Goshen Springs, United States:Alabama, 31.43.16N 86.08.03W, Delcourt, P.A.
+gould.txt - Gould Pond, United States:Maine, 44.59.00N 69.19.00W, Jacobson, G.L., Jr.
+gouldbog.txt - Gould's Bog, United States:Massachusetts, 42.32.00N 72.11.00W, Davis, M.B.
+graham.txt - Graham Lake, Canada:Ontario, 45.11.00N 77.21.00W, Fuller, J.L.
+grandrap.txt - Grand Rapids, Canada:Manitoba, 53.00.00N 98.15.00W, Ritchie, J.C.
+grant.txt - Grant Lake, Canada:Northwest Territories, 64.43.00N 100.28.00W, Kay, P.A.
+grasvatn.txt - Grasvatn, Norway:Sor-Trondelag, 63.42.00N 8.42.00E, Paus, A.A.
+gravel.txt - Gravel Ridge, Canada:Newfoundland, 55.02.00N 62.38.00W, Lamb, H.F.
+green.txt - Green Point Pond, Canada:Newfoundland, 49.40.12N 57.57.00W, McAndrews, J.H.
+greenlk.txt - Green Lake, United States:Michigan, 44.53.00N 85.07.00W, Lawrenz, R.W.
+greenwtr.txt - Greenwater Pond, United States:Massachusetts, 42.17.00N 73.19.00W, Patterson, W.A. III
+grenadie.txt - Grenadier Pond, Canada:Ontario, 43.38.24N 79.28.12W, McAndrews, J.H.
+griault.txt - Lac Griault, Canada:Quebec, 54.08.49N 76.07.44W, Richard, P.J.H.
+grice.txt - Grice Pond, United States:Minnesota, 47.12.00N 95.45.00W, McAndrews, J.H.
+guardpee.txt - Guardipee Lake, United States:Montana, 48.33.00N 112.43.00W, Whitlock, C.
+hack.txt - Hack Pond, United States:Virginia, 37.59.05N 78.59.50W, Craig, A.J.
+hail.txt - Hail Lake, Canada:Yukon Territory, 60.02.00N 129.01.00W, Cwynar, L.C.
+hamslake.txt - Hams Lake, Canada:Ontario, 43.14.12N 80.24.48W, Bennett, K.D.
+hanging.txt - Hanging Lake, Canada:Yukon Territory, 68.23.00N 138.23.00W, Cwynar, L.C.
+hanson.txt - Hanson Marsh, United States:Wisconsin, 43.25.59N 89.40.30W, Maher, L.J., Jr.
+harbertn.txt - Harberton, Argentina:Tierra del Fuego, 54.53.00S 67.10.00W, Markgraf, V.
+harding.txt - Harding Lake, United States:Alaska, 64.26.40N 146.54.27W, Ager, T.A.
+harr.txt - Lac Harriman, Canada:Quebec, 48.14.15N 65.50.20W, Richard, P.J.H.
+harrowsm.txt - Harrowsmith Bog, Canada:Ontario, 44.25.00N 76.42.00W, Terasmae, J.
+hawke.txt - Hawke Hills Kettle, Canada:Newfoundland, 47.19.20N 53.08.00W, Macpherson, J.B.
+hawley1.txt - Hawley Bog Pond-1, United States:Massachusetts, 42.34.00N 72.53.00W, Patterson, W.A. III
+haylake.txt - Hay Lake, United States:Arizona, 34.00.00N 109.25.30W, Jacobs, B.F.
+headlake.txt - Head Lake, United States:Colorado, 37.42.00N 105.30.00W, Shafer, D.S.
+headwatr.txt - Headwaters Lake, United States:Alaska, 67.56.00N 155.03.00W, Brubaker, L.B.
+healy.txt - Healy Lake, United States:Alaska, 64.00.00N 144.45.00W, Ager, T.A.
+heartny.txt - Heart Lake [New York], United States:New York, 44.10.50N 73.58.03W, Whitehead, D.R.
+heartsco.txt - Heart's Content Bog, United States:New York, 42.14.30N 73.58.45W, Ibe, R.A.
+hebron.txt - Hebron Lake, Canada:Newfoundland, 58.12.00N 63.02.00W, Lamb, H.F.
+hedrick.txt - Hedrick Pond, United States:Wyoming, 43.45.00N 110.36.00W, Whitlock, C.
+hellskit.txt - Hell's Kitchen Lake, United States:Wisconsin, 46.11.00N 89.42.00W, Swain, A.M.
+helmetta.txt - Helmetta Bog, United States:New Jersey, 40.23.00N 74.26.00W, Watts, W.A.
+hemopond.txt - Hemo Pond, United States:Minnesota, 47.13.00N 95.47.00W, McAndrews, J.H.
+hen.txt - Tourbiere de Lanoraie HENRI, Canada:Quebec, 45.59.20N 73.18.00W, Comtois, P.G.
+hershop.txt - Hershop Bog, United States:Texas, 29.35.00N 97.36.30W, Larson, D.A.
+hickory.txt - Hickory Ridge Basin, United States:Illinois, 38.56.50N 89.06.48W, Gruger, E.
+hidden.txt - Hidden Lake, United States:Alaska, 63.56.24N 144.39.30W, Ager, T.A.
+highlake.txt - High Lake, Canada:Ontario, 44.31.00N 76.36.00W, Fuller, J.L.
+honeymoo.txt - Honeymoon Pond, Canada:Yukon Territory, 64.38.00N 138.24.00W, Cwynar, L.C.
+hopedale.txt - Hopedale Pond, Canada:Newfoundland, 55.28.00N 60.17.00W, Short, S.K.
+horse.txt - Horse Pond, United States:Minnesota, 47.11.25N 95.52.20W, McAndrews, J.H.
+horshoha.txt - Horseshoe Lake, United States:Minnesota, 45.27.37N 93.02.52W, Cushing, E.J.
+hostage.txt - Hostage Lake, United States:Minnesota, 46.33.00N 94.08.00W, Almendinger, J.C.
+houghton.txt - Houghton Bog, United States:New York, 42.32.30N 78.40.13W, Miller, N.G.
+howes.txt - Howes Prairie Marsh, United States:Indiana, 41.39.00N 87.04.20W, Cole, K.L.
+hudsonlk.txt - Hudson Lake, United States:Indiana, 41.40.12N 86.31.48W, Bailey, R.E.
+huglake.txt - Hug Lake, United States:Minnesota, 47.57.30N 90.56.00W, Swain, A.M.
+humber3.txt - Humber Pond 3, Canada:Ontario, 43.38.24N 79.28.48W, McAndrews, J.H.
+humber5.txt - Humber Pond 5, Canada:Ontario, 43.38.24N 79.29.24W, McAndrews, J.H.
+humber7.txt - Humber Pond 7, Canada:Ontario, 43.39.00N 79.30.00W, McAndrews, J.H.
+hustler.txt - Hustler Lake, United States:Minnesota, 48.14.00N 92.09.30W, Shane, L.C.K.
+hynes.txt - Hynes Brook Salt Marsh, Canada:Newfoundland, 48.37.07N 58.57.54W, McAndrews, J.H.
+icehouse.txt - Icehouse Bottom (40MR23), United States:Tennessee, 35.35.18N 84.11.30W, Delcourt, H.R.
+iglutalk.txt - Iglutalik Lake, Canada:Northwest Territories, 66.08.06N 66.05.00W, Davis, P.T.
+igreja.txt - Morro da Igreja, Brazil:Santa Catarina, 28.11.00S 49.52.00W, Behling, H.
+indian.txt - Indian Lake, Canada:Ontario, 50.55.00N 90.27.00W, Bjorck, S.
+indianpf.txt - Indian Prairie Fen, United States:Oregon, 44.38.00N 122.34.30W, Whitlock, C.
+inglesby.txt - Inglesby Lake, Canada:Ontario, 44.29.00N 77.03.00W, McAndrews, J.H.
+iolabog.txt - Iola Bog, United States:Wisconsin, 44.30.00N 89.07.01W, Maher, L.J., Jr.
+irvin.txt - Irvin Lake, United States:Minnesota, 47.08.08N 93.38.37W, Cushing, E.J.
+itapeva.txt - Morro de Itapeva, Brazil:Sao Paulo, 22.47.00S 45.32.00W, Behling, H.
+ivan3.txt - Peat bog Ivanovskoye, Russia:, 56.49.00N 38.46.00E, Spiridonova, E.A.
+jacklake.txt - Jack Lake, Canada:Ontario, 47.19.00N 81.46.00W, Liu, K.-B.
+jacklond.txt - Jack London Lake, Russia:Magadan Oblast, 62.10.00N 149.30.00E, Anderson, P.M.
+jackson.txt - Jackson Pond, United States:Kentucky, 37.27.00N 85.43.00W, Wilkins, G.R.
+jacob.txt - Jacob Lake, United States:Arizona, 34.20.00N 110.50.00W, Jacobs, B.F.
+jacobsn1.txt - Jacobson Lake, United States:Minnesota, 46.25.01N 92.43.01W, Watts, W.A.
+jacobsn2.txt - Jacobson Lake, United States:Minnesota, 46.25.01N 92.43.01W, Watts, W.A.
+january.txt - January Cave, Canada:Alberta, 50.10.48N 114.31.12W, McAndrews, J.H.
+jbl004.txt - James Bay, Canada:Ontario, 50.13.12N 80.12.00W, McAndrews, J.H.
+jean.txt - Saint-Jean Ile d'Orleans, Canada:Quebec, 46.55.58N 70.55.58W, Richard, P.J.H.
+jewell.txt - Jewell Site, United States:Iowa, 42.15.36N 93.42.00W, Baker, R.G.
+jocklake.txt - Jock Lake, Canada:Ontario, 48.41.00N 86.27.00W, Saarnisto, M.
+joelake.txt - Joe Lake, United States:Alaska, 66.46.00N 157.13.00W, Anderson, P.M.
+joes3.txt - Joes Pond, Canada:Newfoundland, 48.14.24N 58.14.24W, McAndrews, J.H.
+johnson.txt - Johnson River Bog, United States:Alaska, 63.42.40N 144.39.00W, Ager, T.A.
+jon.txt - Tourbiere du lac Joncas, Canada:Quebec, 47.15.28N 71.09.46W, Richard, P.J.H.
+jones.txt - Jones Lake [US:Minnesota], United States:Minnesota, 45.25.45N 93.59.00W, McAndrews, J.H.
+jos.txt - Tourbiere de Lanoraie JOSEPH, Canada:Quebec, 45.59.31N 73.18.10W, Comtois, P.G.
+kaiyak.txt - Kaiyak Lake, United States:Alaska, 68.09.00N 161.25.00W, Anderson, P.M.
+kalsa.txt - Kalsa Mire, Estonia:Parnumaa, 58.10.00N 27.27.00E, Saarse, L.
+kamen.txt - Kamenicky, Czech Republic:Vychodocesky, 49.44.00N 15.58.00E, Rybnickova, E.
+kan.txt - Kanaaupscow, Canada:Quebec, 54.01.40N 76.38.38W, Richard, P.J.H.
+kansjon.txt - Kansjon, Sweden:Jonkopings Lan, 57.38.00N 14.32.00E, Jacobson, G.L., Jr.
+karasye.txt - Karas'e Lake, Kazakhstan:Kokchetav, 53.01.48N 70.13.12E, Tarasov, P.E.
+kardas.txt - Kardashinski Swamp, Ukraine:Kherson, 46.31.00N 32.37.00E, Kremenetskii, K.V.
+katanti.txt - Katantica, Bolivia:, 14.48.00S 69.11.00W, Graf, K.
+keele.txt - Keele Lake, Canada:Northwest Territories, 64.10.00N 127.37.00W, Szeicz, J.M.
+kegan.txt - Kegan Lake, United States:Minnesota, 44.45.30N 93.07.00W, McAndrews, J.H.
+kellhol1.txt - Kellys Hollow, United States:Wisconsin, 45.18.00N 90.21.00W, Heide, K.M.
+kellhol2.txt - Kellys Hollow, United States:Wisconsin, 45.18.00N 90.21.00W, Heide, K.M.
+kellners.txt - Kellners Lake, United States:Wisconsin, 44.14.17N 87.50.53W, Maher, L.J., Jr.
+kennys.txt - Kennys Pond, Canada:Newfoundland, 47.35.25N 52.42.50W, Macpherson, J.B.
+kenogami.txt - Lac Kenogami, Canada:Quebec, 48.21.57N 71.34.01W, Richard, P.J.H.
+kenosee.txt - Kenosee Lake, Canada:Saskatchewan, 49.49.00N 102.18.00W, Porter, S.C.
+kesc1.txt - Marais de Keswick, Canada:Ontario, 44.11.45N 79.30.46W, Richard, P.J.H.
+kesc2.txt - Marais de Keswick, Canada:Ontario, 44.11.45N 79.30.46W, Richard, P.J.H.
+kesv.txt - Marais de Keswick, Canada:Ontario, 44.11.45N 79.30.46W, Richard, P.J.H.
+khocho.txt - Khocho, Russia:Yakutia, 71.03.00N 136.14.00E, Andreev, A.A.
+khomust.txt - Khomustakh Lake, Russia:Yakutia, 63.49.12N 121.37.12E, Andreev, A.A.
+kinsman.txt - Kinsman Pond, United States:New Hampshire, 44.08.00N 71.44.00W, Spear, R.W.
+kirchnr1.txt - Kirchner Marsh, United States:Minnesota, 44.16.15N 93.07.30W, Wright, H.E., Jr.
+kirchnr2.txt - Kirchner Marsh, United States:Minnesota, 44.16.15N 93.07.30W, Wright, H.E., Jr.
+kiriku.txt - Kirikumae, Estonia:, 57.40.00N 27.15.00E, Saarse, L.
+kirk.txt - Kirk Lake, United States:Washington, 48.14.00N 121.37.00W, Cwynar, L.C.
+kitchner.txt - Kitchner Lake, United States:Michigan, 45.40.00N 87.27.18W, Davis, M.B.
+kogaluk.txt - Kogaluk Plateau Lake, Canada:Newfoundland, 56.04.00N 63.45.00W, Short, S.K.
+kollioks.txt - Kollioksak, United States:Alaska, 66.58.00N 156.27.00W, Anderson, P.M.
+kotirant.txt - Kotiranta Lake, United States:Minnesota, 46.43.12N 92.37.12W, Wright, H.E., Jr.
+kotyrkol.txt - Kotyrkol' Peat Bog, Kazakhstan:Kokchetav, 52.58.00N 70.25.00E, Tarasov, P.E.
+kryz.txt - Kryzewinski Lake, United States:Minnesota, 46.21.12N 92.52.13W, McAndrews, J.H.
+kylenlk.txt - Kylen Lake, United States:Minnesota, 47.21.00N 91.48.00W, Birks, H.J.B.
+laccolin.txt - Lac Colin, Canada:Quebec, 46.43.00N 70.18.00W, Mott, R.J.
+lachamar.txt - Lac Hamard, Canada:Quebec, 54.48.00N 67.30.00W, Stravers, L.K.S.
+laclouis.txt - Lac Louis, Canada:Quebec, 47.17.15N 79.07.00W, Vincent, J.-S.
+lacmagie.txt - Lac a Magie, Canada:Nova Scotia, 44.15.50N 66.04.45W, Mayle, F.E.
+laddlake.txt - Ladd Lake, United States:Ohio, 41.25.00N 84.45.00W, Shane, L.C.K.
+laesp.txt - La Esperanza, Chile:, 46.38.00S 72.50.00W, Graf, K.
+lagoajo.txt - Lago de Ajo, Spain:, 43.03.00N 6.09.00W, Watts, W.A.
+lagomor1.txt - Lago Moreno, Argentina:Rio Negro, 41.03.30S 71.31.00W, Markgraf, V.
+lagomor3.txt - Lago Moreno, Argentina:Rio Negro, 41.03.30S 71.31.00W, Markgraf, V.
+lagsal.txt - Laguna Salinas, Peru:Arequipa, 16.24.00S 71.09.00W, Graf, K.
+lake16.txt - Lake Sixteen, United States:Michigan, 45.36.00N 84.19.00W, Futyma, R.P.
+lake27.txt - Lake 27, United States:Michigan, 45.04.00N 84.47.00W, Bernabo, J.C.
+lake31.txt - Lake 31, Greenland:, 67.03.00N 50.28.00W, Eisner, W.R.
+lakea.txt - Lake A, Canada:Saskatchewan, 53.14.15N 105.43.30W, Mott, R.J.
+lakeann.txt - Lake Ann, United States:Minnesota, 45.25.30N 93.41.15W, McAndrews, J.H.
+lakeannf.txt - Lake Ann, United States:Minnesota, 45.25.30N 93.41.15W, Shane, L.C.K.
+lakeannh.txt - Lake Ann, United States:Minnesota, 45.25.30N 93.41.15W, Shane, L.C.K.
+lakeb.txt - Lake B, Canada:Saskatchewan, 53.48.00N 106.04.45W, Mott, R.J.
+lakebi2.txt - Lake BI2, Canada:Quebec, 57.07.00N 76.22.42W, Gajewski, K.J.
+lakecarl.txt - Lake Carlson, United States:Minnesota, 44.49.20N 93.09.50W, Wright, H.E., Jr.
+lakech2.txt - Lake CH2, Canada:Quebec, 49.41.00N 74.35.00W, Garralla, S.
+lakeec1.txt - Lake EC1, Canada:Quebec, 56.17.00N 75.06.00W, Gajewski, K.J.
+lakegb2.txt - Lake GB2, Canada:Quebec, 56.06.00N 75.17.00W, Gajewski, K.J.
+lakehall.txt - Lake Hall, United States:Florida, 30.31.19N 84.14.57W, Watts, W.A.
+lakelb1.txt - Lake LB1, Canada:Quebec, 57.55.00N 75.37.00W, Gajewski, K.J.
+lakelr1.txt - Lake LR1, Canada:Quebec, 58.35.00N 75.15.00W, Gajewski, K.J.
+lakelr3.txt - Lake LR3, Canada:Quebec, 58.34.42N 75.14.42W, Gajewski, K.J.
+lakelt1.txt - Lake LT1, Canada:Quebec, 58.08.30N 75.09.00W, Gajewski, K.J.
+lakemary.txt - Lake Mary, United States:Wisconsin, 46.15.00N 89.54.00W, Webb, T. III
+lakeqc.txt - Lake QC, Canada:Ontario, 46.49.42N 80.41.54W, McAndrews, J.H.
+lakesix.txt - Lake Six, Canada:Ontario, 48.24.00N 81.19.00W, Liu, K.-B.
+lamblake.txt - Lamb Lake, United States:Minnesota, 48.09.55N 92.06.26W, Wright, H.E., Jr.
+lamision.txt - La Mision, Argentina:Tierra del Fuego, 53.30.00S 67.50.00W, Markgraf, V.
+lan17.txt - L'Anse aux Meadows Site, Canada:Newfoundland, 51.34.24N 55.33.00W, McAndrews, J.H.
+langdale.txt - Langdale Pond, United States:Georgia, 30.38.30N 83.11.42W, Grimm, E.C.
+lanstje.txt - Tourbiere de Lanoraie STJEAN, Canada:Quebec, 46.00.00N 73.13.01W, Comtois, P.G.
+lastlake.txt - Last Lake, Canada:Ontario, 47.53.00N 84.52.00W, Saarnisto, M.
+latpond.txt - Lateral Pond, Canada:Yukon Territory, 65.57.00N 135.56.00W, Ritchie, J.C.
+lbsara1b.txt - Little Bayou Sara Site 1B, United States:Louisiana, 30.55.33N 91.26.34W, Jackson, S.T.
+lbsara4j.txt - Little Bayou Sara Site 4J, United States:Louisiana, 30.57.42N 91.28.51W, Jackson, S.T.
+ldopires.txt - Lago do Pires, Brazil:Minas Gerais, 17.57.00S 42.13.00W, Behling, H.
+leadingt.txt - Leading Tickles, Canada:Newfoundland, 49.28.17N 55.28.23W, Macpherson, J.B.
+lejia.txt - Lej°a, Chile:Atacama, 23.29.00S 67.41.00W, Graf, K.
+leo.txt - Lac a Leonard, Canada:Quebec, 49.12.28N 65.48.46W, Labelle, C.
+lewis.txt - Lewis Lake, United States:Minnesota, 45.44.58N 93.21.51W, McAndrews, J.H.
+lgeorge.txt - Lake George, Australia:New South Wales, 35.05.00S 149.25.00E, Hope, G.S.
+lhuataco.txt - Laguna Huatacocha, Peru:, 10.46.00S 76.37.00W, Hansen, B.C.S.
+lilyak.txt - Lily Lake [US:Alaska], United States:Alaska, 59.12.00N 135.24.00W, Cwynar, L.C.
+lilylake.txt - Lily Lake [US:Minnesota], United States:Minnesota, 45.03.00N 92.49.30W, Eyster-Smith, N.M.
+lilylk.txt - Lily Lake [US:Wyoming], United States:Wyoming, 43.46.00N 110.19.00W, Whitlock, C.
+lilylkfn.txt - Lily Lake Fen, United States:Wyoming, 43.46.00N 110.19.00W, Whitlock, C.
+littbass.txt - Little Bass Lake, United States:Minnesota, 47.17.00N 93.36.00W, Swain, P.C.
+littlelk.txt - Little Lake [New Brunswick], Canada:New Brunswick, 45.08.40N 66.43.00W, Mott, R.J.
+littleor.txt - Little Lake [Oregon], United States:Oregon, 44.10.04N 123.34.56W, Whitlock, C.
+littlpin.txt - Little Pine Lake, United States:Wisconsin, 45.17.00N 91.29.00W, Gajewski, K.J.
+littrnlk.txt - Little Round Lake, Canada:Ontario, 44.48.00N 76.40.59W, Mott, R.J.
+ljeronim.txt - Laguna Jeronimo, Peru:, 11.47.00S 75.13.00W, Hansen, B.C.S.
+ljunin1.txt - Laguna Jun°n, Peru:, 11.00.00S 76.10.00W, Hansen, B.C.S.
+ljunin3.txt - Laguna Jun°n, Peru:, 11.00.00S 76.10.00W, Hansen, B.C.S.
+lkannie.txt - Lake Annie, United States:Florida, 27.12.00N 81.25.00W, Watts, W.A.
+lkcldsa.txt - Lake of the Clouds [Minnesota], United States:Minnesota, 48.00.00N 91.07.00W, Craig, A.J.
+lkcldsh.txt - Lake of the Clouds [Minnesota], United States:Minnesota, 48.00.00N 91.07.00W, Craig, A.J.
+lkhope.txt - Lake Hope Simpson, Canada:Newfoundland, 52.27.00N 56.26.00W, Hansen, B.C.S.
+llake.txt - Little Lake [Nova Scotia], Canada:Nova Scotia, 44.40.05N 63.56.20W, Mayle, F.E.
+lmilloc.txt - Laguna Milloc, Peru:, 11.34.00S 76.21.00W, Graf, K.
+lockport.txt - Lockport Gulf Section, United States:New York, 43.10.00N 78.43.00W, McAndrews, J.H.
+lonefox.txt - Lone Fox Lake, Canada:Alberta, 56.43.00N 119.43.00W, MacDonald, G.M.
+lonesome.txt - Lonesome Lake, United States:New Hampshire, 44.08.24N 71.42.04W, Spear, R.W.
+long.txt - Long Lake, Canada:Northwest Territories, 62.38.00N 101.14.00W, Kay, P.A.
+longlake.txt - Long Lake [US:New Mexico], United States:New Mexico, 36.00.20N 108.50.00W, Wright, H.E., Jr.
+longswmp.txt - Longswamp, United States:Pennsylvania, 40.29.00N 75.40.00W, Watts, W.A.
+loonpond.txt - Loon Pond, United States:Maine, 45.02.00N 68.12.00W, Jacobson, G.L., Jr.
+lostlake.txt - Lost Lake, United States:Michigan, 46.43.12N 87.58.12W, Brubaker, L.B.
+lostlkmt.txt - Lost Lake [Montana], United States:Montana, 47.38.07N 110.28.56W, Whitlock, C.
+lostpond.txt - Lost Pond, United States:New Hampshire, 44.14.49N 71.15.05W, Spear, R.W.
+lotbinie.txt - Sainte-Croix de Lotbiniere, Canada:Quebec, 46.36.21N 71.46.30W, Richard, P.J.H.
+louise-a.txt - Lake Louise, United States:Georgia, 30.43.30N 83.15.30W, Watts, W.A.
+louise-d.txt - Lake Louise, United States:Georgia, 30.43.30N 83.15.30W, Watts, W.A.
+louisepd.txt - Louise Pond, Canada:British Columbia, 53.25.00N 131.45.12W, Pellatt, M.G.
+lpaca.txt - Laguna Paca, Peru:, 11.43.00S 75.30.00W, Hansen, B.C.S.
+lpomacoc.txt - Laguna Pomacocha, Peru:, 11.45.00S 75.15.00W, Hansen, B.C.S.
+ltuctua.txt - Laguna Tuctua, Peru:, 11.40.00S 75.00.00W, Hansen, B.C.S.
+lynchscr.txt - Lynch's Crater A, Australia:Queensland, 17.22.00S 145.42.00E, Kershaw, A.P.
+lynnlake.txt - Lynn Lake, Canada:Manitoba, 56.50.30N 101.02.31W, Nichols, H.
+mabel.txt - Lake Mabel, United States:Minnesota, 44.27.00N 93.36.47W, McAndrews, J.H.
+macon.txt - Macon, United States:Illinois, 39.41.03N 89.03.32W, Gruger, E.
+madjaga.txt - Lake Madjagara, Russia:Yakutia, 64.50.00N 120.58.00E, Andreev, A.A.
+maindieu.txt - Main-a-Dieu, Canada:Nova Scotia, 45.58.30N 59.50.45W, Mayle, F.E.
+mal.txt - Tourbiere du lac Malbaie, Canada:Quebec, 47.35.50N 70.58.35W, Richard, P.J.H.
+maligne.txt - Maligne Lake, Canada:Alberta, 52.44.00N 117.37.00W, Kearney, M.S.
+mallinbo.txt - Mallin Book, Argentina:Rio Negro, 41.20.00S 71.35.00W, Markgraf, V.
+mangrove.txt - Mangrove Lake, Bermuda:, 32.18.00N 64.45.00W, Watts, W.A.
+mansell.txt - Mansell Pond, United States:Maine, 45.02.30N 68.44.00W, Almquist-Jacobson, H.
+maplhrst.txt - Maplehurst Lake, Canada:Ontario, 43.13.30N 80.39.35W, Mott, R.J.
+marc.txt - Lac Marcotte, Canada:Quebec, 47.04.40N 71.25.22W, Labelle, C.
+maria.txt - Maria Lake, Canada:Northwest Territories, 68.16.00N 133.28.00W, Ritchie, J.C.
+marion.txt - Marion Lake [British Columbia], Canada:British Columbia, 49.18.30N 122.32.50W, Mathewes, R.W.
+mariposa.txt - Mariposa Lake, United States:Wyoming, 44.09.00N 110.14.00W, Whitlock, C.
+martinpd.txt - Martin Pond, United States:Minnesota, 47.11.00N 94.56.00W, McAndrews, J.H.
+martyne.txt - Lac Martyne, Canada:Quebec, 56.47.00N 64.50.00W, McAndrews, J.H.
+mascardi.txt - Lago Mascardi-Gutierrez, Argentina:Rio Negro, 41.15.00S 71.28.00W, Markgraf, V.
+mashpaug.txt - Mashapaug Pond, United States:Rhode Island, 41.47.00N 71.26.00W, Bernabo, J.C.
+mau1.txt - Dauphinais, Canada:Quebec, 46.48.00N 72.59.24W, Richard, P.J.H.
+mau2.txt - Baie des Onze Iles, Canada:Quebec, 46.44.49N 73.07.51W, Richard, P.J.H.
+mau3.txt - Wapizagonke, Canada:Quebec, 46.43.35N 73.01.50W, Richard, P.J.H.
+mau5.txt - Sud du Lac du Noyer, Canada:Quebec, 46.47.16N 72.50.16W, Richard, P.J.H.
+mayberry.txt - Mayberry Well, United States:New Mexico, 33.42.00N 108.18.00W, Markgraf, V.
+mayflowr.txt - Mayflower Lake, Canada:New Brunswick, 45.18.10N 66.04.15W, Mayle, F.E.
+mccar.txt - McCarston's Lake, Canada:Ontario, 45.03.00N 80.05.24W, McAndrews, J.H.
+mccraney.txt - McCraney Pond, United States:Minnesota, 47.10.41N 95.41.53W, McAndrews, J.H.
+mcd.txt - McDougall Pond, Canada:Nova Scotia, 47.00.00N 60.34.01W, Richard, P.J.H.
+mclaughl.txt - McLaughlan Lake, Canada:Ontario, 45.21.48N 76.33.15W, Anderson, T.W.
+mcmaster.txt - McMaster Lake, Canada:Northwest Territories, 64.08.00N 110.35.00W, Moser, K.A.
+mcnrny2a.txt - McNearny Lake, United States:Michigan, 46.25.38N 84.57.30W, Shane, L.C.K.
+mcnrny3a.txt - McNearny Lake, United States:Michigan, 46.25.38N 84.57.30W, Shane, L.C.K.
+mcnrny4a.txt - McNearny Lake, United States:Michigan, 46.25.38N 84.57.30W, Shane, L.C.K.
+medicin2.txt - Medicine Lake, United States:South Dakota, 44.49.00N 97.21.00W, Allen, K.E.
+medicine.txt - Medicine Lake, United States:South Dakota, 44.49.00N 97.21.00W, Radle, N.J.
+meleze.txt - Lac Meleze, Canada:Northwest Territories, 65.13.00N 126.07.00W, MacDonald, G.M.
+mendotac.txt - Lake Mendota, United States:Wisconsin, 43.06.00N 89.25.00W, Winkler, M.G.
+mendotad.txt - Lake Mendota, United States:Wisconsin, 43.06.00N 89.25.00W, Winkler, M.G.
+merbleue.txt - Mer Bleue Peat Bog, Canada:Ontario, 45.24.00N 75.30.24W, Mott, R.J.
+mermaid.txt - Mermaid Bog, Canada:Prince Edward Island, 46.15.00N 63.01.30W, Anderson, T.W.
+mesetal1.txt - Meseta Latorre, Argentina:Santa Cruz, 51.31.00S 72.03.00W, Schabitz, F.
+mesetal2.txt - Meseta Latorre, Argentina:Santa Cruz, 51.31.00S 72.03.00W, Schabitz, F.
+mimi.txt - Lac Mimi, Canada:Quebec, 47.29.49N 70.22.33W, Poulin, P.
+minakoko.txt - Minakokosa Lake, United States:Alaska, 66.55.00N 155.02.00W, Anderson, P.M.
+minnien.txt - Lake Minnie, United States:Minnesota, 47.14.40N 95.00.30W, McAndrews, J.H.
+minnieo.txt - Lake Minnie, United States:Minnesota, 47.14.40N 95.00.30W, McAndrews, J.H.
+miranda.txt - Paramo de Miranda, Venezuela:, 8.55.00N 70.50.00W, Salgado-Labouriau, M.-L.
+mirrorlk.txt - Mirror Lake, United States:New Hampshire, 43.36.30N 71.41.30W, Davis, M.B.
+mirrorpl.txt - Mirror Pool, United States:North Dakota, 46.31.33N 97.14.29W, McAndrews, J.H.
+mohawk.txt - Mohawk Pond, United States:Connecticut, 41.49.00N 73.17.00W, Webb, T. III
+mokhovoe.txt - Mokhovoye, Kazakhstan:Kustanay, 53.46.00N 64.15.00E, Kremenetskii, K.V.
+molas.txt - Molas Lake, United States:Colorado, 37.44.45N 107.41.01W, Maher, L.J., Jr.
+molasbog.txt - Molas Pass Bog, United States:Colorado, 37.44.16N 107.41.51W, Maher, L.J., Jr.
+monhegan.txt - Monhegan Island Meadow, United States:Maine, 43.46.00N 69.18.00W, Bostwick, L.G.
+montagna.txt - Lac Montagnais, Canada:Quebec, 47.54.28N 71.10.30W, Richard, P.J.H.
+montezum.txt - Montezuma Well, United States:Arizona, 34.00.00N 112.00.00W, Davis, O.K.
+moonlake.txt - Moon Lake, United States:North Dakota, 46.51.27N 98.09.30W, Grimm, E.C.
+moraine.txt - Moraine Lake, Canada:Newfoundland, 52.16.00N 58.03.00W, Hansen, B.C.S.
+mordsger.txt - Mordsger Lake, Canada:Ontario, 51.23.00N 94.15.00W, McAndrews, J.H.
+morenogl.txt - Moreno Glacier Bog, Argentina:Santa Cruz, 50.28.00S 73.00.00W, Ager, T.A.
+mosquit3.txt - Mosquito Lake Bog, United States:Washington, 48.46.09N 122.07.04W, Watts, W.A.
+moulton.txt - Moulton Pond, United States:Maine, 44.37.39N 68.38.21W, Davis, R.B.
+mtblanc2.txt - Monte Blanco, Bolivia:, 17.01.30S 67.21.00W, Graf, K.
+mtblanco.txt - Monte Blanco, Bolivia:, 17.01.30S 67.21.00W, Graf, K.
+mudlake.txt - Mud Lake [Florida], United States:Florida, 29.18.00N 81.52.00W, Watts, W.A.
+mudlkmn1.txt - Mud Lake [Minnesota], United States:Minnesota, 44.13.38N 93.49.51W, McAndrews, J.H.
+mudlkmn2.txt - Mud Lake, United States:Minnesota, 46.52.00N 94.45.00W, Almendinger, J.C.
+munday.txt - Munday Creek, United States:Alaska, 60.02.00N 141.58.00W, Peteet, D.M.
+murphy.txt - Murphy Lake, United States:Minnesota, 44.42.40N 93.20.26W, McAndrews, J.H.
+muscotaa.txt - Muscotah Marsh, United States:Kansas, 39.31.48N 95.30.48W, Gruger, J.
+muscotab.txt - Muscotah Marsh, United States:Kansas, 39.31.48N 95.30.48W, Gruger, J.
+myrtle.txt - Myrtle Lake, United States:Minnesota, 47.59.00N 93.23.00W, Janssen, C.R.
+nainpond.txt - Nain Pond, Canada:Newfoundland, 56.32.00N 61.49.00W, Short, S.K.
+natla.txt - Natla Bog, Canada:Northwest Territories, 63.01.00N 128.48.00W, MacDonald, G.M.
+natural.txt - Natural Lake, United States:Oklahoma, 34.39.48N 95.23.10W, Albert, L.E.
+ned.txt - Nedlouc, Canada:Quebec, 57.39.00N 71.39.00W, Richard, P.J.H.
+nelslk.txt - Nels Lake, United States:Minnesota, 48.02.00N 91.54.00W, Shane, L.C.K.
+nelsonpd.txt - Nelson Pond, United States:Minnesota, 46.24.00N 92.41.00W, Jacobson, G.L., Jr.
+nevadasa.txt - Nevado Sabancaya, Peru:, 16.13.00S 71.05.00W, Graf, K.
+neville.txt - Neville Marsh, United States:Ohio, 40.32.45N 83.50.00W, Shane, L.C.K.
+niantic.txt - Niantic, United States:Illinois, 39.50.21N 89.09.23W, Gruger, E.
+nichols1.txt - Nichols Brook Site, United States:New York, 42.32.41N 78.28.44W, McAndrews, J.H.
+nichols2.txt - Nichols Brook Site, United States:New York, 42.32.41N 78.28.44W, McAndrews, J.H.
+nicol.txt - Nicol Lake, Canada:Northwest Territories, 61.35.00N 103.29.00W, Kay, P.A.
+nileds2.txt - Nile Delta S2, Egypt:, 31.18.00N 31.36.00E, Leroy, S.A.G.
+nileds6.txt - Nile Delta S6, Egypt:, 31.06.30N 31.43.00E, Leroy, S.A.G.
+nileds7.txt - Nile Delta S7, Egypt:, 31.07.30N 31.52.00E, Leroy, S.A.G.
+nileds8.txt - Nile Delta S8, Egypt:, 31.13.00N 32.02.00E, Leroy, S.A.G.
+niliq.txt - Niliq Lake, United States:Alaska, 67.52.00N 160.26.00W, Anderson, P.M.
+nina.txt - Nina Lake, Canada:Ontario, 46.36.00N 81.30.00W, Liu, K.-B.
+ninepin.txt - Ninepin 24, United States:Maryland, 38.18.00N 75.17.00W, Sirkin, L.A.
+nobottom.txt - No Bottom Pond, United States:Massachusetts, 41.17.00N 70.12.30W, Dunwiddie, P.W.
+nonconn1.txt - Nonconnah Creek, United States:Tennessee, 35.04.59N 89.55.00W, Delcourt, P.A.
+northbay.txt - North Bay Bog, Canada:Ontario, 46.27.00N 79.28.00W, Terasmae, J.
+northpnd.txt - North Pond, United States:Massachusetts, 42.39.00N 73.03.00W, Whitehead, D.R.
+nuttlake.txt - Nutt Lake, Canada:Ontario, 45.13.00N 79.27.00W, Bennett, K.D.
+nwriver.txt - Northwest River Pond, Canada:Newfoundland, 53.31.00N 60.10.00W, Jordan, R.H.
+ogechie.txt - Lake Ogechie, United States:Minnesota, 46.08.00N 93.47.00W, McAndrews, J.H.
+ohara.txt - Lake O'Hara, Canada:British Columbia, 51.21.35N 116.21.00W, Reasoner, M.A.
+okoboji.txt - Lake West Okoboji, United States:Iowa, 43.20.00N 95.12.00W, Van Zant, K.L.
+oldcamp.txt - Old Camp Lake, Russia:Magadan Oblast, 62.10.00N 149.30.00E, Anderson, P.M.
+oldfield.txt - Old Field, United States:Missouri, 37.07.00N 89.50.00W, King, J.E.
+oliver.txt - Oliver Pond, Canada:Ontario, 48.25.20N 89.19.26W, McAndrews, J.H.
+onamia.txt - Lake Onamia, United States:Minnesota, 46.04.06N 93.40.48W, McAndrews, J.H.
+ondrispd.txt - Ondris Pond, United States:Minnesota, 46.21.00N 94.24.00W, Jacobson, G.L., Jr.
+ont-roch.txt - Lake Ontario, Rochester Basin, United States:New York, 43.30.36N 76.54.00W, McAndrews, J.H.
+ontmis1.txt - Lake Ontario, Mississauga Basin, United States:New York, 43.33.24N 78.09.00W, McAndrews, J.H.
+opabin.txt - Opabin Lake, Canada:British Columbia, 51.20.35N 116.18.45W, Reasoner, M.A.
+ottomlk.txt - Otto Mielke Lake, United States:Wisconsin, 45.56.00N 89.37.30W, Shane, L.C.K.
+ouel.txt - Lac Ouellet, Canada:Quebec, 47.31.58N 68.56.38W, Richard, P.J.H.
+ozerki.txt - Ozerki, Kazakhstan:Semipalatinsk, 50.25.00N 80.28.00E, Tarasov, P.E.
+palace.txt - Palace Pier Section, Canada:Ontario, 43.37.12N 79.28.48W, McAndrews, J.H.
+panther.txt - Panther Run Pond, United States:Pennsylvania, 40.48.00N 77.25.00W, Watts, W.A.
+paradise.txt - Paradise Lake, Canada:Newfoundland, 53.03.00N 57.45.00W, Lamb, H.F.
+park1.txt - Park Pond 1, United States:Wyoming, 43.28.05N 109.57.34W, Lynch, E.A.
+park2.txt - Park Pond 2, United States:Wyoming, 43.27.00N 109.56.27W, Lynch, E.A.
+park3.txt - Park Pond 3, United States:Wyoming, 43.27.33N 109.55.12W, Lynch, E.A.
+parkhill.txt - Parkhill Creek, Canada:Ontario, 43.10.48N 81.45.00W, McAndrews, J.H.
+parrott.txt - Parrott's Pond, Canada:Ontario, 44.13.12N 76.42.00W, McAndrews, J.H.
+pasacaco.txt - Pasacaco Pond, United States:Rhode Island, 41.31.00N 71.27.00W, Bernabo, J.C.
+pashenn.txt - Pashennoe, Kazakhstan:Karaganda, 49.22.12N 75.24.00E, Tarasov, P.E.
+pasqua.txt - Pasqua Lake, Canada:Saskatchewan, 50.46.48N 104.00.00W, McAndrews, J.H.
+passlake.txt - Pass Lake, Canada:Ontario, 48.33.36N 88.44.24W, McAndrews, J.H.
+patbay.txt - Patricia Bay Lake, Canada:Northwest Territories, 70.28.00N 68.30.00W, Mode, W.N.
+patricia.txt - Lac Patricia, Canada:Quebec, 56.40.12N 64.40.48W, McAndrews, J.H.
+patschk1.txt - Patschke Bog, United States:Texas, 30.22.00N 97.07.00W, Potzger, J.E.
+patschke.txt - Patschke Bog, United States:Texas, 30.22.00N 97.07.00W, Bryant, V.M., Jr.
+patzcuar.txt - Lake Patzcuaro, Mexico:Michoacan de Ocampo, 19.35.00N 101.35.00W, Watts, W.A.
+paynter.txt - Paynter Marsh, Canada:Ontario, 44.06.00N 78.20.24W, McAndrews, J.H.
+pbbvanda.txt - Pittsburg Basin, United States:Illinois, 38.54.15N 89.11.15W, Gruger, E.
+peatsah.txt - Peatsah Section, Canada:Ontario, 43.19.48N 79.49.12W, McAndrews, J.H.
+peden2.txt - Puerto Eden, Chile:Aisen del Gen. del Campo, 49.08.00S 74.25.00W, Markgraf, V.
+pedpond.txt - Ped Pond, United States:Alaska, 67.12.00N 142.04.00W, Brubaker, L.B.
+peggy.txt - Peggy Lake, Canada:Ontario, 49.28.48N 92.00.00W, McAndrews, J.H.
+penningt.txt - Pennington Lake, United States:Minnesota, 45.46.50N 93.16.23W, McAndrews, J.H.
+perch.txt - Perch Lake, Canada:Ontario, 46.01.48N 77.20.24W, McAndrews, J.H.
+petersl.txt - Peterson Slough, United States:Minnesota, 46.58.00N 95.19.00W, Almendinger, J.C.
+pgoniabg.txt - Pogonia Bog Pond, United States:Minnesota, 45.02.00N 93.38.00W, Cushing, E.J.
+pgrande.txt - Poáo Grande, Brazil:Santa Catarina, 26.25.00S 48.52.00W, Behling, H.
+pickerel.txt - Pickerel Lake, United States:South Dakota, 45.30.00N 97.19.48W, Watts, W.A.
+piedrabl.txt - Paramo de Piedras Blancas, Venezuela:Merida, 9.10.00N 70.50.00W, Salgado-Labouriau, M.-L.
+pigeon.txt - Pigeon Marsh, United States:Georgia, 34.40.00N 85.10.00W, Watts, W.A.
+pilotmnd.txt - Pilot Mound Site, United States:Iowa, 42.09.36N 93.54.00W, Baker, R.G.
+pinckv19.txt - Pinckneyville Creek Site 19, United States:Mississippi, 31.02.45N 91.28.46W, Jackson, S.T.
+pinckv20.txt - Pinckneyville Creek Site 20, United States:Mississippi, 31.02.54N 91.28.55W, Jackson, S.T.
+pinckv21.txt - Pinckneyville Creek Site 21, United States:Mississippi, 31.02.52N 91.28.56W, Jackson, S.T.
+pinebog.txt - Pine Bog, United States:New Jersey, 41.17.00N 74.45.00W, Niering, W.A.
+pinecrst.txt - Pinecrest Lake, Canada:British Columbia, 50.30.00N 121.30.00W, Mathewes, R.W.
+pinklake.txt - Pink Lake, Canada:Quebec, 45.28.10N 75.48.30W, Mott, R.J.
+pitcher.txt - Pitcher Bog, Canada:Ontario, 44.49.12N 79.58.48W, McAndrews, J.H.
+pleasamn.txt - Pleasant Lake, United States:Minnesota, 44.35.20N 93.34.00W, McAndrews, J.H.
+plu.txt - Lac Pluvieux, Canada:Quebec, 47.50.38N 69.21.10W, Richard, P.J.H.
+poctay12.txt - Puerto Octay, Chile:Los Lagos, 40.56.00S 72.54.00W, Moreno, P.I.
+poctay13.txt - Puerto Octay, Chile:Los Lagos, 40.56.00S 72.54.00W, Moreno, P.I.
+pogonia.txt - Pogonia Bog Pond, United States:Minnesota, 45.02.00N 93.38.00W, Cushing, E.J.
+poland.txt - Poland Spring Pond, United States:Maine, 44.02.00N 70.21.00W, Jacobson, G.L., Jr.
+pondmill.txt - Pond Mills Pond, Canada:Ontario, 42.55.00N 81.15.00W, McAndrews, J.H.
+porqui2.txt - Porqui Pond, Canada:Ontario, 44.10.12N 79.46.12W, McAndrews, J.H.
+portage.txt - Portage Lake, United States:Minnesota, 47.04.53N 94.06.48W, McAndrews, J.H.
+portage1.txt - Portage Marsh, United States:Indiana, 41.34.34N 87.13.21W, Jackson, S.T.
+portage2.txt - Portage Marsh, United States:Indiana, 41.34.34N 87.13.21W, Jackson, S.T.
+portagep.txt - Portage Bog, Canada:Prince Edward Island, 46.40.25N 64.04.30W, Anderson, T.W.
+posylake.txt - Posy Lake, United States:Utah, 37.57.00N 111.42.00W, Shafer, D.S.
+potato1.txt - Potato Lake, United States:Arizona, 34.27.44N 111.20.43W, Anderson, R.S.
+potato2.txt - Potato Lake, United States:Arizona, 34.27.44N 111.20.43W, Anderson, R.S.
+pottsmtn.txt - Potts Mountain Pond, United States:Virginia, 37.36.00N 80.08.00W, Watts, W.A.
+powers.txt - Powers Fort Swale, United States:Missouri, 36.36.00N 90.35.00W, Royall, P.D.
+prettylk.txt - Pretty Lake, United States:Indiana, 41.34.59N 85.15.00W, Jones, A.S.
+primaver.txt - Primavera, Argentina:Neuquen, 40.40.00S 71.11.00W, Markgraf, V.
+prince.txt - Prince Lake, Canada:Ontario, 46.34.00N 84.33.00W, Saarnisto, M.
+princvil.txt - Princeville, Canada:Quebec, 46.08.45N 71.56.09W, Richard, P.J.H.
+protectn.txt - Protection Bog, United States:New York, 42.37.20N 78.28.00W, Miller, N.G.
+ptescumi.txt - Point Escuminac, Canada:New Brunswick, 47.04.30N 64.48.00W, Warner, B.G.
+purtaz.txt - Pur-Taz Peatland, Russia:, 66.42.00N 79.44.00E, Andreev, A.A.
+puyuk.txt - Puyuk Lake, United States:Alaska, 63.30.00N 162.12.00W, Ager, T.A.
+pyle.txt - Pyle Site, United States:Indiana, 40.40.00N 84.53.00W, Shane, L.C.K.
+pyramid.txt - Pyramid Hills Lake, Canada:Quebec, 57.38.00N 65.10.00W, Short, S.K.
+quarles.txt - Quarles Pond, United States:Virginia, 37.59.45N 79.04.20W, Craig, A.J.
+queens.txt - Queens Lake, Canada:Northwest Territories, 64.07.00N 110.34.00W, MacDonald, G.M.
+quexil80.txt - Lake Quexil, Guatemala:Peten, 16.55.00N 89.49.00W, Leyden, B.W.
+quicksnd.txt - Quicksand Pond, United States:Georgia, 34.19.35N 84.51.55W, Watts, W.A.
+quillin.txt - Quillin Site, United States:Ohio, 41.00.00N 81.58.00W, Shane, L.C.K.
+radtke.txt - Radtke Lake, United States:Wisconsin, 43.24.00N 88.06.00W, Webb, S.L.
+raf1.txt - Riviere-aux-Feuilles 1, Canada:Quebec, 58.13.58N 72.04.01W, Richard, P.J.H.
+raf2.txt - Riviere-aux-Feuilles 2, Canada:Quebec, 58.13.01N 71.57.00W, Richard, P.J.H.
+raft.txt - Tourbiere de la Riviere-aux-Feuilles, Canada:Quebec, 58.13.58N 72.04.01W, Richard, P.J.H.
+rahue.txt - Rahue, Argentina:Neuquen, 39.22.00S 70.56.00W, Markgraf, V.
+ralake.txt - Ra Lake, Canada:Northwest Territories, 65.14.00N 126.25.00W, MacDonald, G.M.
+ramsaylk.txt - Ramsay Lake, Canada:Quebec, 45.36.00N 76.06.00W, Mott, R.J.
+ranger.txt - Ranger Lake, United States:Alaska, 67.08.50N 153.39.00W, Brubaker, L.B.
+rattle.txt - Rattle Lake, Canada:Ontario, 49.21.00N 92.42.00W, Bjorck, S.
+ray.txt - Saint-Raymond, Canada:Quebec, 46.53.31N 71.48.28W, Richard, P.J.H.
+rayburn.txt - Rayburn's Dome, United States:Louisiana, 32.28.00N 93.10.00W, Fredlund, G.G.
+rebel.txt - Rebel Lake, United States:Alaska, 67.25.00N 149.48.00W, Anderson, P.M.
+redondo.txt - Redondo Lake, United States:Alaska, 67.41.00N 155.02.00W, Brubaker, L.B.
+redriver.txt - Vallee de l'Albion, Canada:Quebec, 45.40.15N 71.19.30W, Richard, P.J.H.
+redrock.txt - Redrock Lake, United States:Colorado, 40.05.00N 105.32.30W, Maher, L.J., Jr.
+redstone.txt - Redstone Lake, United States:Alaska, 67.15.00N 152.36.00W, Brubaker, L.B.
+reichow.txt - Reichow, United States:Minnesota, 47.11.16N 95.46.30W, McAndrews, J.H.
+reidel.txt - Reidel Lake, United States:Minnesota, 46.12.43N 95.17.03W, Almquist-Jacobson, H.
+reindeer.txt - Reindeer Lake, Canada:Northwest Territories, 69.07.00N 132.10.00W, Spear, R.W.
+rholl.txt - Rholl Lake, United States:Minnesota, 47.36.00N 96.10.00W, McAndrews, J.H.
+rhulefen.txt - Rhule Fen, United States:Indiana, 39.57.13N 85.44.30W, Shane, L.C.K.
+ricelake.txt - Rice Lake [North Dakota], United States:North Dakota, 48.00.29N 101.31.49W, Grimm, E.C.
+ricemna.txt - Rice Lake, United States:Minnesota, 46.55.20N 95.34.30W, McAndrews, J.H.
+ricemnb.txt - Rice Lake, United States:Minnesota, 46.55.20N 95.34.30W, McAndrews, J.H.
+richlnd1.txt - Richland Creek, United States:Illinois, 40.52.30N 89.21.12W, Gruger, E.
+richlnd2.txt - Richland Creek, United States:Illinois, 40.52.30N 89.21.12W, Gruger, E.
+riley.txt - R Lake [Ontario], Canada:Ontario, 54.18.20N 84.33.30W, McAndrews, J.H.
+riokaluy.txt - R°o Kaluyo, Bolivia:La Paz, 16.26.00S 68.08.00W, Graf, K.
+roadcut.txt - L'Anse aux Meadows Road Cut Bog, Canada:Newfoundland, 51.36.00N 55.31.48W, McAndrews, J.H.
+robcreek.txt - Roberts Creek, United States:Iowa, 42.59.10N 91.30.01W, Chumbley, C.A.
+robin.txt - Lac a Robin, Canada:Quebec, 48.03.07N 65.16.01W, Richard, P.J.H.
+robpond.txt - Robinson's Pond, Canada:Newfoundland, 48.15.36N 58.48.00W, McAndrews, J.H.
+rochmout.txt - Lac des Roches Moutonnees, Canada:Quebec, 56.46.00N 64.49.00W, McAndrews, J.H.
+rockisla.txt - Rock Island Lake, Russia:Magadan Oblast, 62.10.00N 149.30.00E, Anderson, P.M.
+rockyhoc.txt - Rockyhock Bay, United States:North Carolina, 36.10.00N 76.41.00W, Whitehead, D.R.
+rogerine.txt - Lake Rogerine, United States:New Jersey, 41.30.00N 74.20.00W, Nicholas, J.
+rogerslk.txt - Rogers Lake, United States:Connecticut, 41.22.00N 72.07.00W, Davis, M.B.
+rom.txt - Lac Romer, Canada:Quebec, 45.57.50N 73.19.51W, Comtois, P.G.
+rose1.txt - Rose Swamp, Canada:Ontario, 44.10.48N 79.26.24W, McAndrews, J.H.
+rosebuda.txt - Rosebud, United States:South Dakota, 43.13.45N 100.50.55W, Watts, W.A.
+rosebudb.txt - Rosebud, United States:South Dakota, 43.13.45N 100.50.55W, Watts, W.A.
+roselk.txt - Rose Lake, United States:Pennsylvania, 41.55.00N 77.55.30W, Cotter, J.F.P.
+rossburg.txt - Rossburg Bog, United States:Minnesota, 46.35.00N 93.36.00W, Wright, H.E., Jr.
+rosspond.txt - Ross Pond, United States:Maine, 43.55.17N 69.24.37W, Kellogg, D.C.
+rostock1.txt - Rostock Mammoth Site, Canada:Ontario, 43.30.00N 81.00.00W, McAndrews, J.H.
+rs29.txt - Lake RS29, Canada:Northwest Territories, 73.08.00N 95.17.00W, Gajewski, K.J.
+rs36.txt - Lake RS36, Canada:Northwest Territories, 72.35.00N 95.04.00W, Gajewski, K.J.
+rubylake.txt - Ruby Lake, United States:Wisconsin, 45.17.00N 91.27.30W, Winkler, M.G.
+ruppert.txt - Ruppert Lake, United States:Alaska, 67.04.00N 154.14.00W, Brubaker, L.B.
+rusaka.txt - Rusaka Swamp, Burundi:, 3.26.00S 29.37.00E, Bonnefille, R.
+rutzlake.txt - Rutz Lake, United States:Minnesota, 44.52.12N 93.52.12W, Waddington, J.C.B.
+ryerse.txt - Ryerse Lake, United States:Michigan, 46.07.55N 85.10.45W, Futyma, R.P.
+sagehen1.txt - Sagehen Marsh, United States:Colorado, 37.28.26N 108.30.14W, Petersen, K.L.
+sagehen2.txt - Sagehen Marsh, United States:Colorado, 37.28.26N 108.30.14W, Petersen, K.L.
+sagehen3.txt - Sagehen Marsh, United States:Colorado, 37.28.26N 108.30.14W, Petersen, K.L.
+sajama1.txt - Sajama, Bolivia:, 18.10.00S 68.53.00W, Graf, K.
+sakana.txt - Sakana Lake, United States:Alaska, 67.26.00N 147.51.00W, Brubaker, L.B.
+salado.txt - Salado, Argentina:Mendoza, 35.20.00S 69.45.00W, Markgraf, V.
+salilc3.txt - Lagoa Campestre de Salitre, Brazil:Minas Gerais, 19.00.00S 46.46.00W, Ledru, M.-P.
+salilc91.txt - Lagoa Campestre de Salitre, Brazil:Minas Gerais, 19.00.00S 46.46.00W, Ledru, M.-P.
+salina2.txt - Salina 2, Argentina:Mendoza, 32.15.00S 69.20.00W, Markgraf, V.
+salinaan.txt - Salina Anzoategui, Argentina:La Pampa, 39.00.23S 63.46.30W, Schabitz, F.
+salinapi.txt - Salina Piedra, Argentina:Buenos Aires, 40.34.59S 62.40.26W, Schabitz, F.
+sam.txt - Lac a Sam, Canada:Quebec, 46.39.15N 72.58.44W, Richard, P.J.H.
+samand.txt - Samandon, Russia:Yakutia, 70.46.00N 136.15.00E, Andreev, A.A.
+sanabria.txt - Sanabria Marsh, Spain:, 42.06.00N 6.44.00W, Watts, W.A.
+sandogar.txt - Sandogardy Pond, United States:New Hampshire, 42.50.00N 71.40.00W, Davis, M.B.
+sandycov.txt - Sandy Cove Pond, Canada:Newfoundland, 54.24.00N 57.43.00W, Jordan, R.H.
+sanjoaq.txt - San Joaquin Marsh, United States:California, 33.39.30N 117.51.30W, Davis, O.K.
+sanpedro.txt - San Pedro, Chile:, 42.15.00S 73.57.00W, Moar, N.T.
+sapaug.txt - San Agustin Plains, United States:New Mexico, 33.52.00N 108.15.00W, Markgraf, V.
+sapbhm.txt - San Agustin Plains, United States:New Mexico, 33.52.00N 108.15.00W, Markgraf, V.
+sappit.txt - San Agustin Plains, United States:New Mexico, 33.52.00N 108.15.00W, Markgraf, V.
+sarnia1.txt - Sarnia Elk Site Section, Canada:Ontario, 42.58.48N 82.19.12W, McAndrews, J.H.
+sav1.txt - Lac Manitou, Canada:Quebec, 46.03.28N 74.28.01W, Savoie, L.
+sav2.txt - Lac aux Quenouilles, Canada:Quebec, 46.10.19N 74.23.45W, Richard, P.J.H.
+sbacha1a.txt - Sierra Bacha, Mexico:Sonora, 29.50.00N 112.29.00W, Anderson, R.S.
+sbacha1b.txt - Sierra Bacha, Mexico:Sonora, 29.50.00N 112.29.00W, Anderson, R.S.
+sbacha1c.txt - Sierra Bacha, Mexico:Sonora, 29.50.00N 112.29.00W, Anderson, R.S.
+sbacha1e.txt - Sierra Bacha, Mexico:Sonora, 29.50.00N 112.29.00W, Anderson, R.S.
+sbacha1f.txt - Sierra Bacha, Mexico:Sonora, 29.50.00N 112.29.00W, Anderson, R.S.
+sbacha1h.txt - Sierra Bacha, Mexico:Sonora, 29.50.00N 112.29.00W, Anderson, R.S.
+sbacha1j.txt - Sierra Bacha, Mexico:Sonora, 29.50.00N 112.29.00W, Anderson, R.S.
+sbacha2f.txt - Sierra Bacha, Mexico:Sonora, 29.50.00N 112.29.00W, Anderson, R.S.
+sbacha3.txt - Sierra Bacha 3, Mexico:Sonora, 29.50.00N 112.29.00W, Anderson, R.S.
+sburin.txt - Lake Site South Burin Peninsula, Canada:Newfoundland, 46.55.10N 55.36.45W, Anderson, T.W.
+sc1pond.txt - SC1 Pond, Canada:British Columbia, 54.25.00N 131.54.24W, Pellatt, M.G.
+scott.txt - Scott Lake, United States:Florida, 27.58.00N 81.57.00W, Watts, W.A.
+screamin.txt - Screaming Yellowlegs Pond, United States:Alaska, 67.35.00N 151.25.00W, Brubaker, L.B.
+seagull.txt - Seagull Lake, United States:Alaska, 68.16.00N 145.13.00W, Brubaker, L.B.
+second4.txt - Second Lake, Canada:Ontario, 44.51.00N 79.58.48W, McAndrews, J.H.
+sedivy.txt - Sedivy Lake, United States:Minnesota, 47.12.32N 95.50.00W, McAndrews, J.H.
+seidel01.txt - Seidel, United States:Wisconsin, 44.27.00N 87.30.56W, Waddington, J.C.B.
+seidel02.txt - Seidel, United States:Wisconsin, 44.27.00N 87.30.56W, Maher, L.J., Jr.
+selby.txt - Selby Lake, United States:Alaska, 66.58.00N 156.27.00W, Anderson, P.M.
+sembasin.txt - Seminary School Basin, United States:Illinois, 38.53.51N 89.10.43W, Gruger, E.
+seminary.txt - Seminary Site, United States:North Dakota, 46.55.30N 96.45.30W, McAndrews, J.H.
+septiles.txt - "LD" Lake, Canada:Quebec, 50.08.25N 67.07.55W, Mott, R.J.
+sfs.txt - Saint-Francois de Sales, Canada:Quebec, 48.17.38N 72.08.49W, Richard, P.J.H.
+shadyval.txt - Shady Valley Bog, United States:Tennessee, 36.31.30N 81.56.00W, Barclay, F.H.
+shagawa.txt - Shagawa Lake, United States:Minnesota, 47.55.00N 91.52.00W, Bradbury, J.P.
+shangri.txt - Shangri-La Bog, Canada:British Columbia, 53.16.00N 132.24.30W, Pellatt, M.G.
+shawsbog.txt - Shaws Bog, Canada:Nova Scotia, 45.01.00N 64.11.00W, Hadden, K.A.
+she.txt - Mont Shefford, Canada:Quebec, 45.21.32N 72.35.05W, Richard, P.J.H.
+sheelar.txt - Sheelar Lake, United States:Florida, 29.31.00N 82.00.00W, Watts, W.A.
+sheley.txt - Sheley Pond, United States:Georgia, 31.04.51N 81.38.13W, Watts, W.A.
+sherd.txt - Sherd Lake, United States:Wyoming, 44.16.10N 107.00.42W, Baker, R.G.
+should1.txt - Shouldice Lake, Canada:Ontario, 45.09.00N 81.25.00W, McAndrews, J.H.
+silvermn.txt - Silver Lake [Minnesota], United States:Minnesota, 44.54.00N 94.12.00W, McAndrews, J.H.
+silverns.txt - Silver Lake [Nova Scotia], Canada:Nova Scotia, 44.33.48N 63.38.34W, Livingstone, D.A.
+silveroh.txt - Silver Lake [Ohio], United States:Ohio, 40.21.00N 83.48.00W, Ogden, J.G., III
+singtry.txt - Singletary Lake, United States:North Carolina, 34.30.00N 78.30.00W, Whitehead, D.R.
+sinkhole.txt - Sinkhole Pond, United States:Maine, 43.58.00N 70.21.00W, Jacobson, G.L., Jr.
+sioux.txt - Sioux Pond, Canada:Ontario, 49.56.00N 91.34.00W, Bjorck, S.
+siseeba.txt - Siseebakwet South, United States:Minnesota, 47.08.00N 93.41.00W, Cushing, E.J.
+sitef1.txt - Site F1, United States:Florida, 26.16.54N 80.18.24W, Willard, D.A.
+siteu3.txt - Site U3, United States:Florida, 26.17.15N 80.24.41W, Willard, D.A.
+sj89.txt - San Jose Chulchaca, Mexico:Yucatan, 20.52.00N 90.08.00W, Leyden, B.W.
+sj92.txt - Cenote San Jose Chulchaca, Mexico:Yucatan, 20.52.00N 90.08.00W, Leyden, B.W.
+sleet.txt - Sleet Lake, Canada:Northwest Territories, 69.17.00N 133.35.00W, Spear, R.W.
+sloughck.txt - Slough Creek Pond, United States:Wyoming, 44.56.00N 110.21.00W, Whitlock, C.
+slow.txt - Slow River, Canada:Northwest Territories, 63.02.00N 100.45.00W, Kay, P.A.
+smootlk.txt - Smoot Lake Bog, United States:Ohio, 40.12.20N 82.26.45W, Shane, L.C.K.
+snow.txt - Snow Lake, Canada:Newfoundland, 56.38.00N 63.53.00W, Lamb, H.F.
+snowshoe.txt - Snowshoe Lake, Canada:British Columbia, 57.27.00N 120.40.00W, MacDonald, G.M.
+soefjes.txt - South Soefje Bog, United States:Texas, 29.36.00N 97.31.01W, Bryant, V.M., Jr.
+solum.txt - Solum Lake, United States:Minnesota, 46.39.44N 96.15.00W, McAndrews, J.H.
+sonawest.txt - Sona Lake West, Canada:Newfoundland, 53.35.00N 63.57.00W, Morrison, A.
+sosednee.txt - Sosednee Lake, Russia:Magadan Oblast, 62.10.00N 149.30.00E, Anderson, P.M.
+sostanch.txt - South Stanchfield Lake, United States:Minnesota, 45.43.30N 93.28.00W, McAndrews, J.H.
+spectacl.txt - Spectacle Lake, United States:Minnesota, 45.34.20N 93.24.30W, McAndrews, J.H.
+spirit.txt - Spirit Lake, United States:Michigan, 46.28.12N 86.57.30W, Davis, M.B.
+spiritwd.txt - Spiritwood Lake, United States:North Dakota, 47.04.25N 98.35.14W, McAndrews, J.H.
+splanpd.txt - Basswood Road Lake/Splan Pond, Canada:New Brunswick, 45.15.20N 67.19.50W, Mayle, F.E.
+springlk.txt - Spring Lake, United States:Pennsylvania, 41.40.26N 76.21.00W, Nickmann, R.J.
+spruce.txt - Spruce Pond, United States:New York, 41.14.22N 74.12.15W, Maenza-Gmelch, T.E.
+srrastro.txt - Serra do Rio Rastro, Brazil:Santa Catarina, 28.33.00S 49.33.00W, Behling, H.
+stagespd.txt - Stage's Pond, United States:Ohio, 39.40.05N 82.56.15W, Shane, L.C.K.
+starkwea.txt - Starkweather Pond, United States:California, 37.39.45N 119.04.03W, Anderson, R.S.
+stcather.txt - St. Catherines Lake, United States:Minnesota, 44.37.37N 93.25.57W, McAndrews, J.H.
+stjean.txt - Lac Saint-Jean, Canada:Quebec, 48.30.00N 72.00.00W, Richard, P.J.H.
+stjean1.txt - Lac Saint-Jean, Canada:Quebec, 48.30.00N 72.00.00W, Richard, P.J.H.
+stjohn.txt - Saint John Island Pond, Canada:Newfoundland, 53.57.00N 58.55.00W, Jordan, R.H.
+stockbri.txt - Stockbridge Bowl, United States:Massachusetts, 42.20.00N 73.09.00W, Patterson, W.A. III
+stone.txt - Stone Lake, United States:Minnesota, 45.24.00N 93.31.20W, McAndrews, J.H.
+stontam1.txt - Stone Lake Tamarack Swamp, United States:Minnesota, 44.53.30N 93.41.30W, Swain, P.C.
+stontam2.txt - Stone Lake Tamarack Swamp, United States:Minnesota, 44.53.30N 93.41.30W, Swain, P.C.
+stotzel.txt - Stotzel-Leis Site, United States:Ohio, 40.13.00N 84.41.22W, Shane, L.C.K.
+stwdark2.txt - Stewart's Dark Lake, United States:Wisconsin, 45.18.00N 91.27.00W, Peters, M.A.
+sugrloaf.txt - Sugarloaf Pond, Canada:Newfoundland, 47.37.00N 52.40.00W, Macpherson, J.B.
+sunfish.txt - Sunfish Lake, United States:Minnesota, 44.52.29N 93.06.00W, McAndrews, J.H.
+suollakh.txt - Suollakh, Russia:Yakutia, 57.03.00N 123.51.00E, Andreev, A.A.
+surprise.txt - Surprise Lake, Canada:British Columbia, 49.19.30N 122.33.40W, Mathewes, R.W.
+suthrlnd.txt - Sutherland Pond, United States:New York, 41.23.29N 74.02.16W, Maenza-Gmelch, T.E.
+sverdrup.txt - Sverdrup, Russia:, 74.30.00N 79.30.00E, Tarasov, P.E.
+swamplk.txt - Swamp Lake, United States:California, 37.57.00N 119.49.00W, Anderson, R.S.
+swanlake.txt - Swan Lake, United States:Nebraska, 41.43.17N 102.30.31W, Wright, H.E., Jr.
+sweetlit.txt - Sweet Little Lake, Canada:Northwest Territories, 67.39.00N 132.01.00W, Ritchie, J.C.
+szabopnd.txt - Szabo Pond, United States:New Jersey, 40.24.00N 74.29.00W, Watts, W.A.
+tamarack.txt - Tamarack Creek, United States:Wisconsin, 44.09.00N 91.27.00W, Davis, A.M.
+tangle.txt - Tangle Lakes, United States:Alaska, 63.01.46N 146.03.48W, Ager, T.A.
+tannersv.txt - Tannersville Bog, United States:Pennsylvania, 41.02.00N 75.16.00W, Watts, W.A.
+taunton.txt - Williams Street Bog, United States:Massachusetts, 41.54.00N 71.04.00W, Davis, M.B.
+taupaw.txt - Taupawshas Bog, United States:Massachusetts, 41.16.30N 70.03.30W, Dunwiddie, P.W.
+telegrph.txt - Telegraph Creek, United States:Montana, 46.31.52N 112.23.44W, Brant, L.A.
+tempanos.txt - Tempano Sur, Chile:Aisen del Gen. del Campo, 48.44.00S 74.02.00W, Markgraf, V.
+tenlakes.txt - Ten Lakes, United States:California, 37.54.00N 119.32.00W, Anderson, R.S.
+tenmile.txt - Ten Mile Lake, United States:Alaska, 63.04.00N 145.42.00W, Anderson, P.M.
+terhell.txt - Terhell Pond, United States:Minnesota, 47.11.16N 95.46.14W, McAndrews, J.H.
+terrien.txt - Petit Lac Terrien, Canada:Quebec, 46.34.48N 70.37.12W, Mott, R.J.
+thirdlk.txt - Third Lake, United States:Minnesota, 48.06.30N 92.01.00W, Swain, P.C.
+thompson.txt - Thompson, United States:Minnesota, 47.12.00N 96.05.00W, McAndrews, J.H.
+thrdbgn.txt - Third Lake, United States:Minnesota, 48.06.30N 92.01.00W, Swain, P.C.
+thrdbgw.txt - Third Lake, United States:Minnesota, 48.06.30N 92.01.00W, Swain, P.C.
+tiinkdhu.txt - Tiinkdhul Lake, United States:Alaska, 66.35.00N 143.09.00W, Anderson, P.M.
+tioga.txt - Tioga Pass Pond, United States:California, 37.54.30N 119.15.30W, Anderson, R.S.
+titicut1.txt - Titicut Swamp, United States:Massachusetts, 41.57.00N 71.02.00W, Nelson, S.
+tlanding.txt - Thompson Landing, Canada:Northwest Territories, 63.04.00N 110.47.30W, Nichols, H.
+toboggan.txt - Toboggan Lake, Canada:Alberta, 50.46.00N 114.36.00W, MacDonald, G.M.
+toenjes.txt - Toenjes Lake, United States:Minnesota, 45.24.35N 93.58.53W, McAndrews, J.H.
+tom16a.txt - Tom Swamp, United States:Massachusetts, 42.31.00N 72.12.45W, Davis, M.B.
+tomswamp.txt - Tom Swamp, United States:Massachusetts, 42.31.00N 72.12.45W, Webb, T. III
+tonawa.txt - Tonawa Lake, Canada:Ontario, 44.51.00N 77.10.30W, McAndrews, J.H.
+tonquin.txt - Tonquin Creek, Canada:British Columbia, 52.44.00N 118.22.00W, Kearney, M.S.
+tor.txt - Lac a la Tortue, Canada:Quebec, 45.32.45N 73.19.01W, Gauthier, R.
+tornsbog.txt - Torren's Bog, United States:Ohio, 40.21.00N 82.28.00W, Ogden, J.G., III
+tracklk.txt - Track Lake, Canada:Quebec, 55.46.00N 65.10.00W, Short, S.K.
+tuk5.txt - Tuktoyaktuk 5, Canada:Northwest Territories, 69.03.00N 133.27.00W, Ritchie, J.C.
+tulane.txt - Lake Tulane, United States:Florida, 27.35.00N 81.30.00W, Grimm, E.C.
+tumbre1.txt - Tumbre 1, Chile:, 23.19.00S 67.47.00W, Graf, K.
+tumbre2.txt - Tumbre 2, Chile:, 23.19.00S 67.47.00W, Graf, K.
+tunica22.txt - Tunica Bayou Site 22, United States:Louisiana, 30.57.46N 91.31.10W, Jackson, S.T.
+tunica23.txt - Tunica Bayou Site 23, United States:Louisiana, 30.57.43N 91.31.10W, Jackson, S.T.
+tunturi.txt - Tunturi Lake, Canada:Quebec, 55.01.00N 67.30.00W, Stravers, L.K.S.
+tur.txt - Lac Turcotte, Canada:Quebec, 49.09.28N 65.45.46W, Labelle, C.
+tuskegee.txt - Tuskegee Pond, United States:Tennessee, 35.35.05N 84.12.38W, Delcourt, P.A.
+tuyajto.txt - Tuyajto, Chile:, 23.57.00S 67.47.00W, Graf, K.
+twin.txt - Twin Lakes [British Columbia], Canada:British Columbia, 50.45.00N 116.19.48W, McAndrews, J.H.
+twinlake.txt - Twin Lakes [US:Colorado], United States:Colorado, 37.28.10N 108.06.09W, Petersen, K.L.
+twinmn1.txt - Twin Lakes, United States:Minnesota, 45.50.56N 93.10.04W, McAndrews, J.H.
+ubliklk.txt - Ublik Pond, Canada:Newfoundland, 57.23.00N 62.03.00W, Short, S.K.
+unknown.txt - Unknown Pond, United States:Maine, 45.36.00N 70.38.00W, Mott, R.J.
+upgraven.txt - Upper Graven Lake, United States:Minnesota, 46.11.04N 95.18.25W, Almquist-Jacobson, H.
+upmallot.txt - Upper Mallot Lake, Canada:Ontario, 47.18.30N 84.15.30W, McAndrews, J.H.
+upprtwin.txt - Upper Twin Lake, Canada:Ontario, 46.33.00N 84.35.00W, Saarnisto, M.
+upsobrpd.txt - Upper South Branch Pond, United States:Maine, 46.05.00N 68.54.00W, Anderson, R.S.
+upwallfc.txt - Upper Wallface Pond, United States:New York, 44.08.47N 74.03.15W, Whitehead, D.R.
+utricula.txt - Utricularia Lake, United States:New Mexico, 35.58.08N 108.48.30W, Maher, L.J., Jr.
+vacalauq.txt - Vaca Lauquen, Argentina:Neuquen, 36.50.00S 71.05.00W, Markgraf, V.
+valagneg.txt - Valle Laguna Negra, Venezuela:Merida, 8.47.30N 70.46.00W, Graf, K.
+valavict.txt - Valle Laguna Victoria, Venezuela:Merida, 8.48.30N 70.47.30W, Graf, K.
+valhalla.txt - Valhalla Hollow, United States:New York, 44.18.31N 74.22.15W, Kearsley, J.B.
+vannostr.txt - Van Nostrand Lake, Canada:Ontario, 44.00.00N 79.22.48W, McAndrews, J.H.
+vernadap.txt - Veranada Pelan, Argentina:Neuquen, 36.53.00S 70.23.00W, Schabitz, F.
+vernadav.txt - Veranada Vulkanpickel, Argentina:Neuquen, 36.41.00S 70.25.00W, Schabitz, F.
+vestabrg.txt - Vestaburg Bog, United States:Michigan, 43.25.00N 84.53.00W, Gilliam, J.A.
+vhc1.txt - Baie du Diana, Canada:Quebec, 60.46.58N 69.49.58W, Richard, P.J.H.
+victoria.txt - Victoria Road Bog, Canada:Ontario, 44.37.00N 78.57.00W, Terasmae, J.
+volobog.txt - Volo Bog, United States:Illinois, 42.21.04N 88.11.04W, King, J.E.
+vstgills.txt - Val St. Gilles, Canada:Quebec, 49.01.00N 79.05.00W, Terasmae, J.
+wasamayu.txt - Wasa Mayu, Bolivia:Cochabamba, 17.32.00S 65.49.00W, Graf, K.
+watchtwr.txt - Watchtower Basin, Canada:Alberta, 52.47.00N 117.05.00W, Kearney, M.S.
+waub.txt - Waubashene Nippissing Transgression Site, Canada:Ontario, 44.46.48N 79.40.48W, McAndrews, J.H.
+weber-c1.txt - Weber Lake, United States:Minnesota, 47.28.18N 91.39.36W, Fries, M.
+weber-s1.txt - Weber Lake, United States:Minnesota, 47.28.18N 91.39.36W, Fries, M.
+weberlk.txt - Weber Lake, United States:Minnesota, 47.28.18N 91.39.36W, Fries, M.
+weedon.txt - Tourbiere de Weedon, Canada:Quebec, 45.41.31N 71.25.44W, Richard, P.J.H.
+wellsmst.txt - Wells Mastodon Site, United States:Indiana, 41.05.00N 86.26.00W, Gooding, A.M.
+wentzel.txt - Wentzel's Pond, United States:Minnesota, 46.57.00N 94.57.00W, Almendinger, J.C.
+weslem1.txt - Weslemkoon Lake, Canada:Ontario, 45.02.00N 77.26.00W, McAndrews, J.H.
+weslem2.txt - Weslemkoon Lake, Canada:Ontario, 45.02.00N 77.26.00W, McAndrews, J.H.
+whiskey.txt - Whiskey Lake, United States:New Mexico, 35.58.55N 108.48.39W, Wright, H.E., Jr.
+whitepnd.txt - White Pond, United States:South Carolina, 34.10.00N 80.46.30W, Watts, W.A.
+whitglch.txt - Whitney's Gulch, Canada:Quebec, 51.31.00N 57.18.00W, Lamb, H.F.
+whitlil1.txt - White Lily Lake, United States:Minnesota, 46.05.10N 93.06.10W, McAndrews, J.H.
+whitlily.txt - White Lily Lake, United States:Minnesota, 46.05.10N 93.06.10W, Cushing, E.J.
+wienlake.txt - Wien Lake, United States:Alaska, 64.20.00N 151.16.00W, Hu, F.S.
+wilcox.txt - Wilcox Pass, Canada:Alberta, 52.14.30N 117.13.00W, Beaudoin, A.B.
+wilwrdpd.txt - Willow River Pond, United States:Minnesota, 46.20.00N 92.47.00W, Jacobson, G.L., Jr.
+windsor.txt - Windsor Pond, United States:Massachusetts, 42.32.00N 72.59.00W, Patterson, W.A. III
+winne.txt - Winneconnet Pond, United States:Massachusetts, 41.58.00N 71.07.00W, Suter, S.M.
+winter.txt - Winter Gulf Site, United States:New York, 42.33.40N 78.56.02W, McAndrews, J.H.
+wintergr.txt - Wintergreen Lake, United States:Michigan, 42.24.00N 85.23.00W, Bailey, R.E.
+wldspear.txt - Wild Spear Lake, Canada:Alberta, 59.15.00N 114.09.00W, MacDonald, G.M.
+wolfcrk.txt - Wolf Creek, United States:Minnesota, 46.07.00N 94.07.00W, Birks, H.J.B.
+wolsfeld.txt - Wolsfeld Lake, United States:Minnesota, 45.00.00N 93.34.00W, Grimm, E.C.
+wolverin.txt - Wolverine Lake, United States:Michigan, 46.25.45N 85.39.40W, Futyma, R.P.
+wonder.txt - Wonder Lake, United States:Alaska, 63.29.00N 151.05.00W, Anderson, P.M.
+woodclif.txt - Woodcliff Lake, United States:New Jersey, 41.01.12N 74.01.48W, Solomon, A.M.
+woodlake.txt - Wood Lake, United States:Wisconsin, 45.20.00N 90.05.00W, Heide, K.M.
+woodwort.txt - Woodworth Pond, United States:North Dakota, 47.09.00N 99.14.00W, McAndrews, J.H.
+woodycov.txt - Woody Cove Section, Canada:Newfoundland, 47.51.42N 59.22.00W, McAndrews, J.H.
+woronzof.txt - Point Woronzof Peat Section, United States:Alaska, 61.07.12N 149.28.48W, Ager, T.A.
+woski.txt - Woski Pond, United States:California, 37.43.30N 119.37.30W, Anderson, R.S.
+wslpb.txt - West Sand Lake Peat Bog, United States:New York, 42.38.00N 73.36.00W, Webb, T. III
+wyldebog.txt - Wylde Bog, Canada:Ontario, 43.54.00N 80.24.00W, McAndrews, J.H.
+wyldelk.txt - Wylde Lake, Canada:Ontario, 43.54.36N 80.24.00W, McAndrews, J.H.
+yarlingt.txt - Yarlington Tier, Australia:Tasmania, 42.32.37S 147.18.02E, Harle, K.J.
+yelle.txt - Lac Yelle, Canada:Ontario, 48.30.14N 79.38.16W, Richard, P.J.H.
+yellowdg.txt - Yellow Dog Pond, United States:Michigan, 46.45.00N 87.57.00W, Brubaker, L.B.
+yesterdy.txt - Yesterday Lake, Canada:Alberta, 56.46.00N 119.29.00W, MacDonald, G.M.
+zuehl.txt - Zuehl Farm Site, United States:Iowa, 43.01.48N 93.52.12W, Baker, R.G.

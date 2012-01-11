@@ -1,0 +1,71 @@
+# GPD ASCII Format
+# 26 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the Latin American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Sierra Bacha
+# Place:          MEX:Sonora
+# Latitude:       29.50.00N      (  29.833333)
+# Longitude:      112.29.00W     (-112.483333)
+# Elevation(m):   220
+# Sigle:          SBACHA1E
+# Entity name:    SB1E
+# Contact person: Anderson, R.S.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#                  2585     85     85  A-5444       G    Neotoma pellets
+# Dating notes:   Midden Sample SB1E
+#
+# Chron name:     R.S. Anderson 1995
+# Age model:      sample directly dated
+# Age bounds:     2580 - 2590
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#  2585.0          2585   2755   2415   C14
+#
+# Publications:   Anderson, R.S., and T.R. Van Devender. 1995. Vegetation
+#                 history of the coastal lowlands of Sonora, Mexico - pollen
+#                 records from packrat middens. Journal of Arid Environments
+#                 30:295-306.
+#
+30 1
+    1 Acc      A Acacia
+    2 Bur.m    A Bursera microphylla
+    3 Cci      A Cercidium
+    4 Ece-t    A Encelia-type
+    5 Eph.ne-t A Ephedra nevadensis-type
+    6 Eph.vi-t A Ephedra viridis-type
+    7 Fou.s    A Fouquieria splendens
+    8 Jat      A Jatropha
+    9 Jun      A Juniperus
+   10 Jus.c    A Justicia californica
+   11 Lrr      A Larrea
+   12 Oln.t    A Olneya tesota
+   13 Sim.c    A Simmondsia chinensis
+   14 Alo      B Allionia
+   15 Amb-t    B Ambrosia-type
+   16 Ast.As.c B Asteraceae subf. Asteroideae (coarse-spine)
+   17 Brh      B Boerhavia
+   18 Cacae.ud B Cactaceae undiff.
+   19 Cng-t    B Carnegiea-type
+   20 Ch/Am    B Chenopodiaceae/Amaranthaceae
+   21 Dat      B Datura
+   22 Eup      B Euphorbia
+   23 Lot      B Lotus
+   24 Phs      B Physalis
+   25 Poaae    B Poaceae
+   26 Sol      B Solanum
+   27 Sph      B Sphaeralcea
+   28 Trs      B Trixis
+   29 ind.de   X Indeterminable (degraded)
+   30 unk      X Unknown
+2585, , 2585
+     1.0     9.0    62.0    40.0     4.0     2.0    17.0     1.0     1.0     1.0
+     3.0     4.0     2.0    10.0    36.0     4.0     6.0     4.0     6.0     4.0
+     1.0    11.0     2.0     1.0     1.0    10.0     7.0     1.0    23.0     5.0

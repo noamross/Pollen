@@ -1,0 +1,97 @@
+# GPD ASCII Format
+# 30 Jan 04
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** Pollen Database for Siberia and the Russian Far East.             **
+# ***********************************************************************
+#
+# Site name:      Badaran-Yuryakhskoye Exposure
+# Place:          RUS:
+# Latitude:       68.51.00N      (  68.85    )
+# Longitude:      139.24.00E     ( 139.4     )
+# Elevation(m):   520
+# Sigle:          BADARAN
+# Entity name:    4049
+# Contact person: Grinenko, O.V.
+# Entity notes:   site located in Selenyakh drainage of Indigirka basin
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   147.5     5    8170    270    270  MAG-1050     L    wood
+#
+# Chron name:     Default
+# Age model:      single dated level
+# Age bounds:     8160 - 8180
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#   147.5     5    8170   8440   7900   C14
+#
+# Publications:   Anderson, P.M., and A.V. Lozhkin, editors. 2002. Late
+#                 Quaternary Vegetation and Climate of Siberia and the Russian
+#                 Far East (Palynological and Radiocarbon Database). North
+#                 East Science Center, Far East Branch, Russian Academy of
+#                 Sciences, Magadan, Russia.
+#
+34 5
+    1 Aln.ud   A Alnus undiff.
+    2 Aln.vi   A Alnus viridis
+    3 Bet.di   A Betula divaricata
+    4 Bet.fr   A Betula fruticosa
+    5 Bet.na.e A Betula nana subsp. exilis
+    6 Bet.pl   A Betula platyphylla
+    7 Erles.ud A Ericales undiff.
+    8 Lar      A Larix
+    9 Led.pa   A Ledum palustre
+   10 Pin.pu   A Pinus pumila
+   11 Rho      A Rhododendron
+   12 Slx      A Salix
+   13 Apiae    B Apiaceae
+   14 Art      B Artemisia
+   15 Cryae    B Caryophyllaceae
+   16 Cypae    B Cyperaceae
+   17 Epi.la   B Epilobium latifolium
+   18 Lilae    B Liliaceae
+   19 Papae    B Papaveraceae
+   20 Poaae    B Poaceae
+   21 Pol.bs   B Polygonum bistorta
+   22 Ranae    B Ranunculaceae
+   23 Rosae    B Rosaceae
+   24 Valae    B Valerianaceae
+   25 Bot      F Botrychium
+   26 Dph.al   F Diphasiastrum alpinum
+   27 Dph.co   F Diphasiastrum complanatum
+   28 Equ      F Equisetum
+   29 Hup.sa-t F Huperzia selago subsp. arctica-type
+   30 Plpae    F Polypodiaceae
+   31 Sel.si   F Selaginella sibirica
+   32 Br:Bryes M Bryales
+   33 Br:Hepae M Hepaticae
+   34 Br:Spg   M Sphagnum
+70
+     6.9    59.0    25.2    10.2    91.2     6.9    82.2      .8     9.0      .8
+     2.8     2.8      .8     2.0     0.0     4.1     0.0     1.6     2.0     8.1
+     0.0     0.0     0.0     0.0     2.8     4.9     0.0     0.0     0.0     0.0
+     0.0     2.0     0.0    80.2
+100
+     5.8   190.2    35.0    15.0    79.2     7.9    17.1     2.1     0.0     2.9
+     2.9     2.9     0.0      .8     1.3     2.1     2.1     0.0     2.9     2.9
+      .8     1.3     0.0      .8      .8    14.2     2.9      .2      .8     5.8
+     1.0     1.3     0.0    10.0
+140
+     2.0   122.0    12.1     0.0    38.9     0.0     6.2     0.0     0.0     0.0
+     0.0     1.0     0.0     1.0     0.0     2.0     0.0     0.0     0.0     0.0
+     1.0     0.0     0.0     0.0     2.0    18.0     0.0     0.0     0.0    16.0
+     1.6     8.1     0.0    12.1
+150, , 8170
+     9.8   275.3    20.2     0.0    56.3     5.2     6.1     0.0     0.0     0.0
+     0.0    13.6     1.9     1.9      .9    21.6     1.9     0.0     0.0     2.8
+     0.0     0.0     1.9      .9     0.0     8.9      .9      .4     1.9    14.1
+     1.3     6.1     1.9     6.1
+160
+     2.0    13.0     4.0     0.0    11.0     1.0     2.0     0.0     0.0     0.0
+     0.0     0.0     0.0     1.0     1.0     2.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     3.0
+     6.8     0.0     0.0     1.0

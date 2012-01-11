@@ -1,0 +1,126 @@
+# GPD ASCII Format
+# 19 Mar 04
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** Pollen Database for Siberia and the Russian Far East.             **
+# ***********************************************************************
+#
+# Site name:      Paramonovskii Stream Exposure 4980
+# Place:          RUS:Primorskiy Kray
+# Latitude:       43.12.00N      (  43.2     )
+# Longitude:      133.45.00E     ( 133.75    )
+# Elevation(m):   120
+# Sigle:          PARAMON
+# Entity name:    P4980
+# Contact person: Korotky, A.M.
+# Entity notes:   broadleaf tress include Fraxinus manshurica, Quercus
+#                 mongolica, Acer, Tilia, Betula. Single dates in different
+#                 stratigraphic units are not sufficient to establish a
+#                 reliable chronology.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#    40.0    20    1960    100    100  TIG-291      L    soil (humic acids)
+#   205.0    10   16280    200    200  Ki-2349      L    wood
+#   295.0    10   35265    705    705  TIG-290      L    wood
+#
+# Chron name:     [no chron]
+#
+# Publications:   Shilo, N.A., editor. 1987. Resolution: Interagency
+#                 Stratigraphic meeting of Quaternary system of eastern USSR.
+#                 North East Interdisciplinary Research Institute, Far East
+#                 Branch, USSR Academy of Sciences, Magadan. In Russian.
+#
+#                 Korotky, A.M., L.P. Karaulova, and T.S. Troitskaya. 1980.
+#                 The Quaternary deposits of Primor'ye. Nauka, Novosibirsk. In
+#                 Russian.
+#
+#                 Korotky, A.M., V.G. Volkov, V.B. Bazarova, and N.N.
+#                 Kovalyukh. 1993. The catalog of radiocarbon dates of
+#                 Quaternary deposits of the Far East. Far Eastern Branch,
+#                 Russian Academy of Sciences, Vladivostok. In Russian.
+#
+#                 Anderson, P.M., and A.V. Lozhkin, editors. 2002. Late
+#                 Quaternary Vegetation and Climate of Siberia and the Russian
+#                 Far East (Palynological and Radiocarbon Database). North
+#                 East Science Center, Far East Branch, Russian Academy of
+#                 Sciences, Magadan, Russia.
+#
+40 7
+    1 Abi      A Abies
+    2 Aln.ud   A Alnus undiff.
+    3 Aln.vi   A Alnus viridis
+    4 Bet.Be   A Betula sect. Betula
+    5 Bet.Cs   A Betula sect. Costatae
+    6 Bet.Na   A Betula sect. Nanae
+    7 Bet.ud   A Betula undiff.
+    8 Cpn.co   A Carpinus cordata
+    9 Cor      A Corylus
+   10 Eph      A Ephedra
+   11 Erles    A Ericales
+   12 Fra      A Fraxinus
+   13 Jug      A Juglans
+   14 Pdn      A Phellodendron
+   15 Pic.Eu   A Picea sect. Eupicea
+   16 Pic.Om   A Picea sect. Omorica
+   17 Pin.ko   A Pinus koraiensis
+   18 Pin.Pi   A Pinus subg. Pinus
+   19 PinSt.ud A Pinus subg. Strobus undiff.
+   20 Que      A Quercus
+   21 Syr      A Syringa
+   22 Til      A Tilia
+   23 Ulm      A Ulmus
+   24 Apiae    B Apiaceae
+   25 Ara      B Aralia
+   26 Art      B Artemisia
+   27 Astae.ud B Asteraceae undiff.
+   28 Cheae    B Chenopodiaceae
+   29 Cypae    B Cyperaceae
+   30 Lilae    B Liliaceae
+   31 Poaae    B Poaceae
+   32 Polae    B Polygonaceae
+   33 Ranae    B Ranunculaceae
+   34 Saxae    B Saxifragaceae
+   35 Cgr      F Coniogramme
+   36 Lyc-t    F Lycopodium-type
+   37 Osu      F Osmunda
+   38 Plpae    F Polypodiaceae
+   39 Br:Bryes M Bryales
+   40 Br:Spg   M Sphagnum
+15
+     5.0    13.0     0.0    19.0    10.0     0.0    25.0     0.0     1.0     0.0
+     0.0     0.0     3.0     0.0     9.0    22.0    38.0     4.0     3.0    39.0
+     0.0     3.0     8.0     0.0     0.0    18.0     1.0     4.0    46.0     0.0
+     3.0     1.0     0.0     0.0     0.0     0.0     0.0   183.0    38.0     2.0
+70
+     0.0     4.0   136.0    10.0     6.0    47.0    52.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     3.0     0.0
+     0.0     1.0     0.0     0.0     0.0     0.0     1.0     0.0    26.0     1.0
+     1.0     1.0     9.0    11.0     0.0     1.0    34.0   190.0     6.0     0.0
+80
+     0.0    10.0   203.0     5.0     4.0    39.0    54.0     0.0     0.0     0.0
+     3.0     0.0     0.0     0.0     0.0     2.0     0.0     0.0     3.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     1.0     0.0    64.0     0.0
+     2.0     0.0     1.0     0.0     0.0     0.0     4.0   300.0     2.0     1.0
+110
+     0.0    18.0   242.0     0.0     0.0    21.0    19.0     0.0     0.0     0.0
+     3.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     1.0     0.0     0.0     0.0     0.0     2.0     1.0    35.0     0.0
+     0.0     0.0     1.0     3.0     0.0     1.0     0.0   260.0    32.0     1.0
+260
+     2.0     0.0     0.0     3.0     3.0     0.0     0.0     4.0     0.0     1.0
+     0.0     5.0   114.0     8.0     4.0     2.0     0.0     0.0   128.0    67.0
+    12.0     2.0    60.0     0.0     1.0     0.0     0.0     0.0     0.0     0.0
+     1.0     0.0     1.0     0.0     0.0     0.0     0.0     8.0     0.0     1.0
+290
+     0.0     0.0     2.0     0.0     5.0     2.0     0.0     0.0     0.0     0.0
+     1.0     0.0    11.0     0.0     0.0     0.0     0.0     3.0    51.0    31.0
+     0.0     0.0     4.0     3.0     0.0     0.0     0.0     2.0     4.0     0.0
+     1.0     0.0     0.0     0.0     0.0     1.0     3.0    25.0     2.0     0.0
+310
+     0.0     3.0     1.0     6.0     5.0     1.0     0.0     0.0     0.0     0.0
+     0.0     1.0    72.0     6.0     0.0     3.0   142.0     0.0     0.0    83.0
+     6.0     3.0    50.0     0.0     0.0     0.0     0.0     0.0     3.0     0.0
+     1.0     0.0     0.0     0.0     3.0     3.0     0.0    48.0     7.0     3.0

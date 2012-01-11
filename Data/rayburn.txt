@@ -1,0 +1,165 @@
+# GPD ASCII Format
+# 25 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Rayburn's Dome
+# Place:          USA:Louisiana
+# Latitude:       32.28.00N      (  32.466667)
+# Longitude:      93.10.00W      ( -93.166667)
+# Elevation(m):   61
+# Sigle:          RAYBURN
+# Entity name:    boring A-9
+# Contact person: Fredlund, G.G.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   320.0         12700
+#   370.0         13520    140    140
+#   500.0         14340    500    500
+# Dating notes:   Kolb & Fredlund (1981) report 2 radiocarbon dates "near"
+#                 boring A-9, 13520 +/- 140 and 14340 +/- 500. The COHMAP date
+#                 of 12700 is undocumented.
+#
+# Chron name:     COHMAP chron# 1
+# Age model:      linear interpolation
+# Age bounds:     0 - 22000
+# Chron notes:    3 C-14 dates, 12.7, 13.5, 14.3 k. Other dates set by P. & H.
+#                 Delcourt with 22k (pine-spruce), 19k (spruce-pine), 6k
+#                 (southern evergreen), and 0k at surface. No ragweed rise.
+#                 Age bounds for application of the model: top = 0; bottom =
+#                 22000.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0             0     20    -20   TOP
+#   300.0          6000   6500   5500   POL
+#   320.0         12700                 SED
+#   370.0         13520  13660  13380   SED
+#   500.0         14340  14840  13840   SED
+#   610.0         19000  19500  18500   POL
+#   910.0         22000  22500  21500   POL
+#
+# Publications:   Kolb, C.R., and G.G. Fredlund. 1981. Palynological studies:
+#                 Vacherie and Rayburn's Domes, north Louisiana salt dome
+#                 basin. Top Report E530-02200-T-2, Institute for
+#                 Environmental Studies, Louisiana State University, Baton
+#                 Rouge, Louisiana, USA.
+#
+32 16
+    1 Ace      A Acer
+    2 Aln      A Alnus
+    3 Bet      A Betula
+    4 Car      A Carya
+    5 Cas      A Castanea
+    6 Crn      A Cornus
+    7 Cupae    A Cupressaceae
+    8 Fra      A Fraxinus
+    9 Ilx      A Ilex
+   10 Jug      A Juglans
+   11 Lar      A Larix
+   12 Liq      A Liquidambar
+   13 Mag      A Magnolia
+   14 Nys      A Nyssa
+   15 Os/Ca    A Ostrya/Carpinus
+   16 Pic      A Picea
+   17 Pin      A Pinus
+   18 Que      A Quercus
+   19 Rh/Vi    A Rhamnaceae/Vitaceae
+   20 Rhu      A Rhus
+   21 Ulm      A Ulmus
+   22 Amb-t    B Ambrosia-type
+   23 Apiae    B Apiaceae
+   24 Astae.Au B Asteraceae subf. Asteroideae undiff.
+   25 Cryae    B Caryophyllaceae
+   26 Ch/Am    B Chenopodiaceae/Amaranthaceae
+   27 Lilae    B Liliaceae
+   28 Poaae    B Poaceae
+   29 Pol      B Polygonum
+   30 Equ      F Equisetum
+   31 Myp      Q Myriophyllum
+   32 unk      X Unknown
+0, , 0
+     0.0     0.0     0.0     6.0     3.0     4.0    10.0     0.0     0.0     0.0
+     0.0     1.0     0.0     0.0     0.0     0.0   130.0    20.0     1.0     0.0
+     1.0    10.0     0.0     0.0     0.0     4.0     0.0     4.0     0.0     0.0
+     0.0     6.0
+113, , 2259
+     0.0     0.0     0.0     4.0     3.0     5.0     8.0     0.0     3.0     0.0
+     0.0     2.0     0.0     3.0     4.0     0.0   100.0    16.0     3.0     3.0
+     2.0    14.0     0.0     2.0     0.0     3.0     1.0     8.0     1.0     1.0
+     0.0    14.0
+183, , 3659
+     0.0     1.0     0.0    10.0     0.0     0.0     6.0     0.0     1.0     0.0
+     0.0     1.0     0.0     0.0     3.0     0.0   110.0    16.0     2.0     2.0
+     2.0    20.0     0.0     3.0     0.0     3.0     2.0     4.0     1.0     0.0
+     0.0    12.0
+250, , 4999
+     2.0     1.0     1.0     0.0     4.0     1.0     4.0     0.0     1.0     0.0
+     0.0     4.0     1.0     4.0     1.0     0.0   110.0    10.0     2.0     0.0
+     1.0    12.0     0.0     2.0     0.0     4.0     4.0     8.0     0.0     0.0
+     0.0    22.0
+320, , 12700
+     1.0     1.0     2.0    20.0     8.0     0.0    22.0     0.0     1.0     3.0
+     4.0     0.0     0.0     0.0     2.0    30.0    20.0    40.0     1.0     0.0
+     2.0    10.0     0.0    50.0     2.0     4.0     2.0     0.0     2.0     6.0
+     0.0    12.0
+326, , 12798
+     1.0     2.0     2.0    10.0     4.0     0.0    20.0     1.0     1.0     2.0
+     2.0     0.0     0.0     0.0     6.0    20.0     6.0    21.0     0.0     0.0
+     4.0    22.0     0.0    30.0     2.0     6.0     1.0     6.0     3.0     5.0
+     0.0    18.0
+332, , 12896
+     1.0     4.0     0.0    10.0     3.0     0.0    20.0     2.0     3.0     2.0
+     3.0     0.0     4.0     0.0     6.0    14.0     4.0    22.0     0.0     0.0
+     2.0    22.0     2.0    34.0     5.0     2.0     6.0     6.0     3.0     2.0
+     0.0    18.0
+436, , 13936
+     2.0     4.0     6.0     8.0     0.0     0.0    34.0     0.0     0.0     2.0
+     2.0     2.0     0.0     0.0     6.0    10.0    14.0    20.0     0.0     2.0
+     2.0    24.0     0.0    10.0     4.0     2.0     2.0    20.0     2.0    10.0
+     0.0    12.0
+445, , 13993
+     1.0     2.0     2.0     4.0     0.0     1.0    26.0     0.0     0.0     2.0
+     1.0     2.0     0.0     1.0    10.0    12.0    10.0    20.0     0.0     1.0
+     4.0    26.0     0.0    10.0     3.0     1.0     5.0    30.0     0.0     6.0
+     4.0    16.0
+457, , 14068
+     2.0     1.0     2.0    12.0     1.0     2.0     8.0     0.0     2.0     0.0
+     0.0     0.0     0.0     1.0    10.0     2.0    14.0    44.0     0.0     1.0
+     2.0    28.0     0.0    20.0     2.0     5.0     2.0    20.0     1.0     2.0
+     6.0    10.0
+579, , 17686
+     1.0     1.0     1.0    12.0     1.0     1.0    18.0     2.0     2.0     0.0
+     0.0     0.0     0.0     0.0     2.0     1.0    20.0    22.0     0.0     0.0
+     1.0    48.0     0.0    10.0     0.0     1.0     4.0    16.0     4.0     6.0
+     0.0    26.0
+610, , 19000
+     0.0    10.0     2.0    10.0     1.0     0.0    10.0     0.0     1.0     2.0
+     0.0     1.0     0.0     1.0    20.0     3.0    10.0    30.0     0.0     0.0
+     0.0    50.0     0.0     6.0     0.0     0.0     5.0    20.0     0.0     1.0
+     0.0    15.0
+640, , 19299
+     3.0     4.0     3.0    16.0     3.0     0.0    12.0     4.0     2.0     0.0
+     0.0     0.0     3.0     1.0    10.0     3.0    20.0    40.0     1.0     1.0
+     0.0    20.0     0.0    10.0     0.0     0.0    10.0    10.0     1.0     2.0
+     4.0    18.0
+664, , 19539
+     1.0     5.0     8.0    10.0     3.0     2.0    14.0     2.0     1.0     0.0
+     0.0     0.0     1.0     0.0     4.0     4.0    30.0    42.0     0.0     2.0
+     0.0    22.0     0.0    10.0     0.0     0.0     6.0    10.0     0.0     1.0
+     2.0    20.0
+671, , 19609
+     1.0     2.0     1.0    16.0     0.0     0.0    10.0     1.0     0.0     0.0
+     0.0     0.0     1.0     4.0     5.0     2.0    44.0    42.0     0.0     1.0
+     0.0    10.0     0.0     5.0     0.0     0.0     4.0    20.0     0.0     4.0
+     1.0    20.0
+799, , 20889
+     0.0     0.0     1.0    16.0     1.0     0.0    26.0     1.0     1.0     1.0
+     0.0     0.0     0.0     0.0    10.0     2.0    30.0    34.0     0.0     0.0
+     2.0    28.0     0.0     4.0     2.0     1.0     6.0    10.0     0.0     4.0
+     0.0    20.0

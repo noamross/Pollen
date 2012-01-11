@@ -1,0 +1,137 @@
+# GPD ASCII Format
+# 22 May 04
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** Pollen Database for Siberia and the Russian Far East.             **
+# ***********************************************************************
+#
+# Site name:      Urochitsche Chernoruch'ye Exposure
+# Place:          RUS:Primorskiy Kray
+# Latitude:       43.14.00N      (  43.233333)
+# Longitude:      134.17.00E     ( 134.283333)
+# Elevation(m):   15
+# Sigle:          UROCHER
+# Entity name:    P653
+# Contact person: Korotky, A.M.
+# Entity notes:   broadleaf species include Quercus mongolica, Betula, Ulmus,
+#                 Fraxinus manshurica, Juglans manshurica, Chosenia
+#                 macrolepsis, Salix, Populus
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   167.5     5   22580    240    240  SOAN-551     L    Alnus wood
+#
+# Chron name:     PALE 1
+# Age model:      single dated level
+# Age bounds:     22570 - 22590
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#   165.0     5   22580  22820  22340   C14
+#
+# Publications:   Korotky, A.M., L.P. Karaulova, and T.S. Troitskaya. 1980.
+#                 The Quaternary deposits of Primor'ye. Nauka, Novosibirsk. In
+#                 Russian.
+#
+#                 Korotky, A.M., and L.P. Karaulova. 1975. New data about the
+#                 stratigraphy of Quaternary deposits of Primor'ye. Pages
+#                 79-110 in A.M. Korotky and A.P. Kulakov, editors. Questions
+#                 of geomorphology and Quaternary geology of the southern Far
+#                 East. Far Eastern Branch, USSR Academy of Sciences,
+#                 Vladivostok. In Russian.
+#
+#                 Pushkar, V.S. 1979. Biostratigraphy of sediments of the late
+#                 Anthropogene of the southern Far East. Nauka, Moscow. In
+#                 Russian.
+#
+#                 Anderson, P.M., and A.V. Lozhkin, editors. 2002. Late
+#                 Quaternary Vegetation and Climate of Siberia and the Russian
+#                 Far East (Palynological and Radiocarbon Database). North
+#                 East Science Center, Far East Branch, Russian Academy of
+#                 Sciences, Magadan, Russia.
+#
+37 9
+    1 Abi      A Abies
+    2 Aln.ud   A Alnus undiff.
+    3 Aln.vi   A Alnus viridis
+    4 Bet.da   A Betula dahurica
+    5 Bet.er   A Betula ermanii
+    6 Bet.pl   A Betula platyphylla
+    7 Bet.Na   A Betula sect. Nanae
+    8 Bet.ud   A Betula undiff.
+    9 Cor      A Corylus
+   10 Eph      A Ephedra
+   11 Ercae    A Ericaceae
+   12 Jug.ma   A Juglans mandshurica
+   13 Lar      A Larix
+   14 Pic.Eu   A Picea sect. Eupicea
+   15 Pic.Om   A Picea sect. Omorica
+   16 Pin.ko   A Pinus koraiensis
+   17 Pin.pu   A Pinus pumila
+   18 Pin.P.ud A Pinus subg. Pinus undiff.
+   19 PinSt.ud A Pinus subg. Strobus undiff.
+   20 Pin.sy   A Pinus sylvestris
+   21 Que.mo   A Quercus mongolica
+   22 Til      A Tilia
+   23 Art      B Artemisia
+   24 Astae.ud B Asteraceae undiff.
+   25 Braae    B Brassicaceae
+   26 Cryae    B Caryophyllaceae
+   27 Cypae    B Cyperaceae
+   28 Fabae    B Fabaceae
+   29 Poaae    B Poaceae
+   30 Polae    B Polygonaceae
+   31 Ranae    B Ranunculaceae
+   32 Saxae    B Saxifragaceae
+   33 Lyc.cl   F Lycopodium clavatum
+   34 Lyc-t    F Lycopodium-type
+   35 Plpae    F Polypodiaceae
+   36 Br:Bryes M Bryales
+   37 Br:Spg   M Sphagnum
+30
+     1.0    20.0     0.0     0.0     3.0    24.0     0.0    29.0     1.0     0.0
+     0.0     2.0     0.0    13.0     5.0    80.0     0.0     0.0    30.0    19.0
+    43.0     0.0     6.0     0.0     0.0     0.0   130.0     3.0     0.0     3.0
+     0.0     0.0     0.0     0.0   299.0     0.0     1.0
+65
+     0.0     7.0     0.0     1.0     0.0     9.0    13.0    42.0     0.0     1.0
+     0.0     4.0     0.0     7.0     1.0    38.0     0.0    19.0    89.0     0.0
+    50.0     0.0     6.0     3.0     0.0     0.0    43.0     0.0     0.0     3.0
+     0.0     2.0     0.0     0.0   176.0   130.0     6.0
+70
+     0.0     2.0    11.0     0.0     1.0    11.0    30.0    61.0     0.0     0.0
+     1.0     1.0     0.0     2.0     2.0     0.0     0.0     0.0     3.0     0.0
+    12.0     0.0     8.0     4.0     0.0     0.0    47.0     0.0     0.0     2.0
+     0.0     8.0     0.0     0.0   280.0   158.0    12.0
+85
+     0.0    13.0    32.0     0.0     0.0     0.0   150.0    50.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     4.0     0.0
+     0.0     1.0     0.0     0.0     0.0     0.0    26.0     1.0     0.0     0.0
+     3.0    17.0     0.0     0.0   258.0   246.0     0.0
+110
+     0.0     3.0    24.0     0.0     0.0     0.0   154.0    42.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     1.0     0.0    22.0     0.0     0.0     0.0    21.0     1.0     0.0     0.0
+     0.0     4.0     0.0     0.0    68.0   420.0    20.0
+140
+     3.0    20.0     7.0     0.0    13.0    40.0     0.0    36.0     0.0     0.0
+    13.0     0.0     2.0   103.0    27.0     3.0     3.0     2.0    14.0     0.0
+     1.0     0.0     6.0     0.0    11.0     1.0   157.0     2.0     0.0     0.0
+     0.0     0.0     0.0    11.0    26.0    28.0    30.0
+145
+     0.0     8.0     5.0     0.0     8.0    55.0     7.0    49.0     0.0     0.0
+     9.0     0.0     1.0    72.0    52.0    12.0     1.0     1.0     7.0     0.0
+     0.0     0.0     8.0     0.0     1.0     0.0   116.0     3.0     0.0     0.0
+     0.0     0.0     0.0     0.0    11.0    30.0   142.0
+155
+    10.0     4.0     3.0     2.0     2.0    26.0     0.0    18.0     0.0     0.0
+     0.0     0.0     1.0   150.0    17.0    38.0     0.0     0.0     0.0     0.0
+     0.0     0.0     2.0     1.0     2.0     0.0    67.0     0.0     1.0     0.0
+     0.0     0.0     6.0     0.0    11.0     1.0    47.0
+165, , 22580
+    12.0     5.0     0.0     0.0     1.0    17.0     0.0     6.0     0.0     0.0
+     5.0     0.0    11.0   146.0    63.0    25.0     4.0     1.0     3.0     0.0
+     1.0     0.0    10.0     0.0     4.0     0.0   131.0     0.0     1.0     0.0
+     0.0     0.0     0.0     2.0     0.0     2.0     5.0

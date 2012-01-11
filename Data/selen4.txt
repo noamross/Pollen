@@ -1,0 +1,118 @@
+# GPD ASCII Format
+# 19 Mar 04
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** Pollen Database for Siberia and the Russian Far East.             **
+# ***********************************************************************
+#
+# Site name:      Selennyakhskaya-4 Exposure
+# Place:          RUS:Sakha
+# Latitude:       69.06.50N      (  69.113889)
+# Longitude:      138.03.20E     ( 138.055556)
+# Elevation(m):   354
+# Sigle:          SELEN4
+# Entity name:    7312
+# Contact person: Grinenko, O.V.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   105.0    10    1430     40     40  Ki-3290      L    plant detritus
+#   355.0    10    7230     80     80  Ki-3291      L    plant detritus
+#
+# Chron name:     PALE 1
+# Age model:      single dated levels
+# Age bounds:     1430 - 7230
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#   100.0     0    1430   1470   1390   C14
+#   360.0     0    7230   7310   7150   C14
+#
+# Publications:   Anderson, P.M., and A.V. Lozhkin, editors. 2002. Late
+#                 Quaternary Vegetation and Climate of Siberia and the Russian
+#                 Far East (Palynological and Radiocarbon Database). North
+#                 East Science Center, Far East Branch, Russian Academy of
+#                 Sciences, Magadan, Russia.
+#
+51 4
+    1 Aln.ud   A Alnus undiff.
+    2 Aln.vi.f A Alnus viridis subsp. fruticosa
+    3 Bet.di   A Betula divaricata
+    4 Bet.na.e A Betula nana subsp. exilis
+    5 Bet.Be   A Betula sect. Betula
+    6 Bet.Cs   A Betula sect. Costatae
+    7 Bet.ud   A Betula undiff.
+    8 Erles    A Ericales
+    9 Lar      A Larix
+   10 Pic.Eu   A Picea sect. Eupicea
+   11 Pic.ud   A Picea undiff.
+   12 Pin.pu   A Pinus pumila
+   13 Pin.P.ud A Pinus subg. Pinus undiff.
+   14 PinSt.ud A Pinus subg. Strobus undiff.
+   15 Pin.Ce.u A Pinus subsect. Cembrae undiff.
+   16 Pin.sy   A Pinus sylvestris
+   17 Pin.ud   A Pinus undiff.
+   18 Slx      A Salix
+   19 Apiae    B Apiaceae
+   20 Art      B Artemisia
+   21 Astae.Ci B Asteraceae subf. Cichorioideae
+   22 Astae.ud B Asteraceae undiff.
+   23 Braae    B Brassicaceae
+   24 Cryae    B Caryophyllaceae
+   25 Cheae    B Chenopodiaceae
+   26 Cypae    B Cyperaceae
+   27 Fabae    B Fabaceae
+   28 Ongae    B Onagraceae
+   29 Papae    B Papaveraceae
+   30 Phl      B Phlox
+   31 Poaae    B Poaceae
+   32 Pol.cz   B Polygonum czukavinae
+   33 Pol.lx   B Polygonum laxmannii
+   34 Pol.Bi   B Polygonum sect. Bistorta
+   35 Pol.tr   B Polygonum tripterocarpum
+   36 Ptl      B Potentilla
+   37 Ranae    B Ranunculaceae
+   38 Rosae.ud B Rosaceae undiff.
+   39 Valae    B Valerianaceae
+   40 Dph.al   F Diphasiastrum alpinum
+   41 Equ      F Equisetum
+   42 Lyc.an.a F Lycopodium annotinum subsp. alpestre
+   43 Lyc.cl   F Lycopodium clavatum
+   44 Plpae    F Polypodiaceae
+   45 Polta.ud F Polypodiophyta undiff.
+   46 Sel.si   F Selaginella sibirica
+   47 Br:Bes.u M Bryales undiff.
+   48 Br:Hae.u M Hepaticae undiff.
+   49 Br:Mee   M Meesia
+   50 Br:Ric   M Riccia
+   51 Br:Spg   M Sphagnum
+100, , 1430
+     5.0   110.0    10.0     0.0     3.0     0.0   135.0    80.0    14.0     1.0
+     0.0     2.0     1.0    20.0     0.0     2.0     0.0     4.0     0.0    13.0
+     4.0     4.0     0.0    10.0     1.0     6.0     0.0     2.0     0.0     0.0
+    31.0     0.0     0.0     2.0     0.0     0.0     0.0     1.0     1.0     0.0
+     2.0     0.0     0.0     5.0     1.0    17.0    45.0     1.0     0.0     2.0
+    50.0
+260
+     0.0   171.0    38.0    16.0     1.0     1.0   150.0    50.0    10.0     0.0
+     1.0     1.0     1.0     4.0     0.0     0.0     0.0     5.0     1.0    11.0
+     2.0     3.0    48.0     4.0     0.0    46.0     0.0     2.0     0.0     1.0
+   182.0     1.0     2.0     0.0     2.0     2.0     2.0     3.0     1.0     0.0
+     2.0     2.0     2.0     2.0     0.0     3.0   113.0     7.0     2.0     3.0
+    34.0
+360, , 7230
+     0.0   268.0     1.0     2.0     1.0     0.0   102.0    37.0     3.0     0.0
+     0.0     0.0     0.0     3.0     2.0     0.0     2.0     4.0     0.0    10.0
+     0.0     0.0     0.0     4.0     1.0     4.0     2.0     0.0     0.0     1.0
+    22.0     1.0     0.0     0.0     0.0     0.0     3.0     1.0     0.0     0.0
+     0.0     0.0     0.0     7.0     0.0     2.0    23.0     0.0     1.0     0.0
+     9.0
+420
+     0.0    33.0     5.0     0.0     0.0     0.0    10.0    13.0    37.0     1.0
+     0.0     0.0     1.0    14.0     0.0     5.0     0.0     1.0     0.0     4.0
+     2.0     1.0     0.0     2.0     0.0    19.0     0.0     2.0     1.0     0.0
+    44.0     0.0     0.0     0.0     0.0     0.0     1.0     0.0     1.0     5.0
+     3.0     0.0     0.0     0.0     0.0    14.0    14.0     2.0     0.0    10.0
+     4.0

@@ -1,0 +1,128 @@
+# GPD ASCII Format
+# 24 Apr 00
+# Raw Counts - All Pollen Types
+#
+# *********************************************************
+# ** Please acknowledge the contributors and the African **
+# ** Pollen Database when using these data.              **
+# *********************************************************
+#
+# Site name:      Nile Delta S8
+# Place:          EGY:
+# Latitude:       31.13.00N      (  31.216667)
+# Longitude:      32.02.00E      (  32.033333)
+# Elevation(m):   0
+# Sigle:          NILEDS8
+# Entity name:    Core S8
+# Contact person: Leroy, S.A.G.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   550.0    20    4230     90     90  Beta-17249   L    bulk sediment
+#  1000.0    15    4695    115    115  SI-7107      L    bulk sediment
+#  1640.0          5110     90     90
+#  2130.0          6965    110    110
+# Dating notes:   Depths for dates 5110±90 and 6965±110 are estimated from
+#                 Fig. 2 in Stanley et al. (1988).
+#
+# Chron name:     GPD 1
+# Age model:      linear interpolation
+# Age bounds:     3970 - 7460
+# Chron notes:    Chron uses 4 radiocarbon dates (see Stanley et al. 1988).
+#                 Sample dates are approximate because of uneven sedimentation
+#                 rate.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#   550.0    20    4230   4410   4050   C14
+#  1000.0    15    4695   4925   4465   C14
+#  1640.0    20    5110   5290   4930   C14
+#  2130.0    20    6965   7185   6745   C14
+#
+# Publications:   Leroy, S.A.G. 1992. Palynological evidence of Azolla
+#                 nilotica Dec. in recent Holocene of the eastern Nile Delta
+#                 and palaeoenvironment. Vegetation History and Archaeobotany
+#                 1:43-52.
+#
+#                 Coutellier, V., and D.J. Stanley. 1987. Late Quaternary
+#                 stratigraphy and paleogeography of the eastern Nile Delta,
+#                 Egypt. Marine Geology 77:257-275.
+#
+#                 Stanley, D.J., H. Sheng, and Y. Pan. 1988. Heavy minerals
+#                 and provenance of late Quaternary sands, eastern Nile Delta.
+#                 Journal of African Earth Sciences 7:735-741.
+#
+#                 Foucault, A., and D.J. Stanley. 1989. Late Quaternary
+#                 palaeoclimatic oscillations in East Africa recorded by heavy
+#                 minerals in the Nile Delta. Nature 339:44-46.
+#
+45 4
+    1 Acc      A Acacia
+    2 Aln      A Alnus
+    3 Cbrae    A Combretaceae
+    4 Hag.cf.a A Hagenia cf. H. abyssinica
+    5 Pic      A Picea
+    6 Pinae.ud A Pinaceae undiff.
+    7 Pin      A Pinus
+    8 Pod      A Podocarpus
+    9 Que.dec  A Quercus (deciduous)
+   10 Sam      A Sambucus
+   11 Sptae    A Sapotaceae
+   12 Syz      A Syzygium
+   13 Abu      B Abutilon
+   14 Apiae    B Apiaceae
+   15 Art      B Artemisia
+   16 Astae.Au B Asteraceae subf. Asteroideae undiff.
+   17 Astae.Ci B Asteraceae subf. Cichorioideae
+   18 Cdm.cf.h B Cardiospermum cf. C. halicacabum
+   19 Cryae    B Caryophyllaceae
+   20 Ch/Am    B Chenopodiaceae/Amaranthaceae
+   21 Cypae    B Cyperaceae
+   22 Fabae    B Fabaceae
+   23 Lamae    B Lamiaceae
+   24 Ongae    B Onagraceae
+   25 Pph.cf.b B Peristrophe cf. P. bicalyculata
+   26 Plnae    B Plantaginaceae
+   27 Poaae    B Poaceae
+   28 Pol.pe-t B Polygonum persicaria-type
+   29 Ranae    B Ranunculaceae
+   30 Rum      B Rumex
+   31 Oph.cf.p F Ophioglossum cf. O. polyphyllum
+   32 Pts      F Pteris
+   33 Antes.1  M Anthocerotales type 1
+   34 Antes.2  M Anthocerotales type 2
+   35 Antes.3  M Anthocerotales type 3
+   36 Ric      M Riccia
+   37 Typ.cf.d Q Typha cf. T. domingensis
+   38 Typ.cf.e Q Typha cf. T. elephantina
+   39 sp.m.ps  S Spore (monolete psilate)
+   40 sp.m.ud  S Spore (monolete undiff.)
+   41 sp.t.ps  S Spore (trilete psilate)
+   42 sp.t.ud  S Spore (trilete undiff.)
+   43 ind      X Indeterminable
+   44 unk      X Unknown
+   45 Lab.no   - Laboratory number
+300, , 3972
+     0.0     0.0     0.0     0.0     0.0     0.0     1.0    27.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     7.0     0.0     0.0     1.0     3.0
+   249.0     0.0     0.0    21.0     0.0     0.0   139.0     0.0     0.0     0.0
+     0.0     3.0     0.0    13.0     0.0     1.0    25.0    24.0     3.0     3.0
+    13.0     7.0    15.0     5.0    41.0
+350, , 4023
+     0.0     0.0     0.0     0.0     1.0     2.0     2.0    11.0     2.0     0.0
+     0.0     0.0     0.0     0.0     0.0     4.0     1.0     1.0     0.0     7.0
+    64.0     1.0     0.0     0.0     1.0     1.0   266.0     0.0     3.0     0.0
+     2.0     6.0     0.0    22.0     0.0     1.0     2.0     0.0     9.0     6.0
+    14.0     4.0    10.0     8.0    42.0
+1480, , 5006
+     2.0     0.0     1.0     1.0     0.0     1.0     2.0    10.0     0.0     1.0
+     2.0     0.0     0.0     2.0     1.0    13.0     0.0     0.0     1.0     3.0
+    66.0     0.0     1.0     0.0     0.0     3.0   108.0     1.0     1.0     1.0
+     0.0     4.0     2.0     6.0     2.0     0.0     0.0     0.0     9.0     8.0
+    18.0    18.0    12.0     0.0    64.0
+2260, , 7457
+     1.0     1.0     0.0     0.0     0.0     3.0     5.0     5.0     0.0     0.0
+     0.0     1.0     1.0     0.0     0.0     4.0     2.0     0.0     0.0    12.0
+    64.0     1.0     0.0     0.0     0.0     0.0    74.0     0.0     0.0     0.0
+     0.0     2.0     1.0     6.0     3.0     5.0     0.0     0.0    13.0     4.0
+    17.0     5.0    15.0     7.0    75.0

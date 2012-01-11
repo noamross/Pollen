@@ -1,0 +1,158 @@
+# GPD ASCII Format
+# 24 Apr 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Shangri-La Bog
+# Place:          CAN:British Columbia
+# Latitude:       53.16.00N      (  53.266667)
+# Longitude:      132.24.30W     (-132.408333)
+# Elevation(m):   595
+# Sigle:          SHANGRI
+# Entity name:
+# Contact person: Pellatt, M.G.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#    81.5     3    7190    100    100  GSC-3357     G    coarse sand and plant
+#
+# Chron name:     NAPD 1
+# Age model:      linear interpolation
+# Age bounds:     220 - 7190
+# Chron notes:    Chron uses surface (0 BP) plus 1 radiocarbon date.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0     0       0     40    -40   TOP
+#    81.5     3    7190   7290   7090   C14
+#
+# Publications:   Pellatt, M.G., and R.W. Mathewes. 1997. Holocene tree line
+#                 and climate change on the Queen Charlotte Islands, Canada.
+#                 Quaternary Research 48:88-99.
+#
+43 13
+    1 Ace      A Acer
+    2 Aln.r-t  A Alnus rubra-type
+    3 Aln.v-t  A Alnus viridis-type
+    4 Cupae    A Cupressaceae
+    5 Ercae    A Ericaceae
+    6 Pic      A Picea
+    7 Pin.co-t A Pinus contorta-type
+    8 Slx      A Salix
+    9 Tsu.h    A Tsuga heterophylla
+   10 Tsu.m    A Tsuga mertensiana
+   11 Apiae.ud B Apiaceae undiff.
+   12 Astae.As B Asteraceae subf. Asteroideae
+   13 Astae.Ci B Asteraceae subf. Cichorioideae
+   14 Cal.l    B Caltha leptosepala
+   15 Cop.a    B Coptis aspleniifolia
+   16 Cypae    B Cyperaceae
+   17 Gen.do   B Gentiana douglasiana
+   18 Lgs      B Ligusticum
+   19 Poaae    B Poaceae
+   20 Ran-t    B Ranunculus-type
+   21 Rosae.ud B Rosaceae undiff.
+   22 San      B Sanguisorba
+   23 Bot      F Botrychium
+   24 Hup.s    F Huperzia selago
+   25 Lycae.ud F Lycopodiaceae undiff.
+   26 Polta.m  F Polypodiophyta (monolete)
+   27 Plp      F Polypodium
+   28 Ptr      F Pteridium
+   29 Sel.se   F Selaginella selaginoides
+   30 Thl.q    F Thelypteris quelpaertensis
+   31 Btr      L Botryococcus
+   32 Spy      L Spirogyra
+   33 Spg      M Sphagnum
+   34 Iso      Q Isoëtes
+   35 Mn/Ne    Q Menyanthes trifoliata/Nephrophyllidium crista-galli
+   36 Nup      Q Nuphar
+   37 Pot      Q Potamogeton
+   38 Typ.l    Q Typha latifolia
+   39 Ty/Sp.ud Q Typha/Sparganium undiff.
+   40 Euc.spik - Eucalyptus spike (number counted)
+   41 Euc.ta.n - Eucalyptus tablets (added, number)
+   42 EucCn/t  - Eucalyptus tablets (concentration, grains/tablet)
+   43 sa.vo.ml - Sample volume (ml)
+2.5, , 221
+     0.0     3.0    64.0   102.0     8.0    90.0    15.0     0.0   280.0    29.0
+     0.0     1.0     0.0     0.0     2.0     8.0     3.0     0.0    16.0     2.0
+     4.0     0.0     0.0     0.0    12.0   131.0     3.0     0.0     1.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0    53.0
+     1.0 16180.0     1.0
+7.5, , 662
+     0.0     3.0    30.0    18.0    18.0   113.0     8.0     0.0   265.0    56.0
+     1.0     3.0     4.0     1.0     1.0    13.0     2.0     0.0     0.0     0.0
+     1.0     3.0     0.0     1.0     9.0    24.0     3.0     0.0     1.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     2.0    34.0
+     1.0 16180.0     1.0
+12.5, , 1103
+     0.0     1.0    34.0   146.0    11.0    69.0    10.0     0.0   241.0    14.0
+     0.0     2.0     3.0     5.0     1.0    12.0     1.0     0.0     6.0     0.0
+    15.0     7.0     0.0     0.0     7.0    68.0     2.0     0.0     2.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0    35.0
+     1.0 16180.0     1.0
+17.5, , 1544
+     1.0     4.0    86.0    18.0     9.0   117.0     0.0     0.0   224.0    42.0
+     0.0     0.0     0.0     8.0     4.0    99.0    33.0     0.0     3.0     2.0
+     3.0     0.0     0.0     2.0    18.0   161.0     1.0     0.0     3.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0    19.0
+     1.0 16180.0     1.0
+21.5, , 1897
+     0.0     0.0   118.0    64.0    16.0   148.0    12.0     0.0   193.0    28.0
+     0.0     2.0     0.0    13.0     4.0    21.0     4.0     0.0     3.0     0.0
+    10.0     4.0     0.0     5.0    22.0   249.0     5.0     2.0     0.0     0.0
+     0.0     2.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0    42.0
+     1.0 16180.0     1.0
+26.5, , 2338
+     0.0    11.0   110.0    20.0    10.0    77.0    11.0     0.0   131.0    20.0
+     0.0     3.0     1.0    16.0     0.0     1.0     1.0     0.0     3.0     0.0
+     5.0     0.0     0.0     1.0    13.0   224.0     3.0     0.0     0.0     0.0
+     0.0     3.0     0.0     1.0     0.0     0.0     0.0     2.0     0.0    15.0
+     1.0 16180.0     1.0
+31.5, , 2779
+     0.0     3.0   106.0    25.0     6.0    80.0     8.0     1.0   146.0    16.0
+     0.0     3.0     1.0    16.0     0.0     8.0     4.0     2.0     5.0     0.0
+     8.0     0.0     1.0     2.0    14.0   226.0     2.0     1.0     1.0     0.0
+     5.0     1.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0    19.0
+     1.0 16180.0     1.0
+36.5, , 3220
+     0.0     7.0   115.0    22.0    14.0    83.0     9.0     2.0   144.0    30.0
+     0.0     1.0     1.0    14.0     0.0    11.0     3.0     8.0    12.0     3.0
+    10.0     1.0     2.0     2.0    14.0   283.0     4.0     5.0     0.0     4.0
+     8.0     2.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0    41.0
+     1.0 16180.0     1.0
+44, , 3882
+     0.0     5.0   170.0    15.0    14.0    69.0    13.0     1.0   115.0    18.0
+     0.0     2.0     2.0    22.0     0.0    18.0     8.0     5.0     8.0     0.0
+     8.0     0.0     0.0     2.0     5.0   188.0     4.0     2.0     2.0     8.0
+    23.0     2.0     0.0     0.0     2.0     0.0     0.0     0.0     0.0    17.0
+     1.0 16180.0     1.0
+56.5, , 4984
+     0.0     1.0   155.0    13.0     2.0    41.0     9.0     0.0   105.0    20.0
+     0.0     1.0     2.0     5.0     0.0    22.0     3.0     2.0     5.0     4.0
+     4.0     0.0     0.0     4.0     5.0   112.0     4.0     0.0     1.0     3.0
+     4.0     0.0     2.0     0.0     1.0     1.0     5.0     0.0     0.0    15.0
+     1.0 16180.0     1.0
+66.5, , 5867
+     0.0     7.0    84.0     0.0     1.0   101.0    12.0     0.0    96.0    16.0
+     0.0     0.0     0.0     3.0     0.0    11.0     3.0     0.0    13.0     1.0
+     6.0     1.0     0.0     0.0     0.0    62.0     3.0     2.0     0.0     4.0
+     3.0     1.0     0.0     0.0     1.0     4.0     0.0     1.0     0.0    20.0
+     1.0 16180.0     1.0
+74, , 6528
+     0.0     6.0   110.0     0.0     1.0    57.0     4.0     1.0    82.0    15.0
+     0.0     1.0     0.0     1.0     0.0     1.0     5.0     0.0     2.0     1.0
+     3.0     1.0     0.0     0.0     0.0   111.0     0.0     1.0     0.0     0.0
+     1.0     0.0     1.0     3.0     2.0     1.0     3.0     0.0     2.0    39.0
+     1.0 16180.0     1.0
+81.5, , 7190
+     0.0     2.0    31.0     0.0     3.0    23.0     2.0     0.0    23.0     9.0
+     0.0     0.0     0.0     3.0     0.0     2.0     1.0     0.0     5.0     1.0
+     3.0     0.0     0.0     0.0     1.0    48.0     2.0     2.0     0.0     0.0
+     2.0     0.0     0.0     0.0     0.0     0.0     1.0     0.0     0.0    23.0
+     1.0 16180.0     1.0

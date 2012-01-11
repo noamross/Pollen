@@ -1,0 +1,142 @@
+# GPD ASCII Format
+# 24 Mar 00
+# Raw Counts - All Pollen Types
+#
+# *********************************************************
+# ** Please acknowledge the contributors and the African **
+# ** Pollen Database when using these data.              **
+# *********************************************************
+#
+# Site name:      Nile Delta S7
+# Place:          EGY:
+# Latitude:       31.07.30N      (  31.125   )
+# Longitude:      31.52.00E      (  31.866667)
+# Elevation(m):   1
+# Sigle:          NILEDS7
+# Entity name:    Core S7
+# Contact person: Leroy, S.A.G.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   150.0    15    2340     90     90  SI-7041A     U    carbonate
+#   270.0    15    3805     40     40  SI-7042B     U    organic bulk date
+#
+# Chron name:     GPD 1
+# Age model:      linear interpolation
+# Age bounds:     2880 - 5280
+# Chron notes:    Chron uses 2 radiocarbon dates and one extrapolated date
+#                 (see Stanley et al. 1988). Sample dates are approximate
+#                 because of uneven sedimentation rate.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#   150.0    15    2340   2520   2160   C14
+#   270.0    15    3805   3885   3725   C14
+#   800.0     0    6500   7000   6000   EXT
+#
+# Publications:   Leroy, S.A.G. 1992. Palynological evidence of Azolla
+#                 nilotica Dec. in recent Holocene of the eastern Nile Delta
+#                 and palaeoenvironment. Vegetation History and Archaeobotany
+#                 1:43-52.
+#
+#                 Coutellier, V., and D.J. Stanley. 1987. Late Quaternary
+#                 stratigraphy and paleogeography of the eastern Nile Delta,
+#                 Egypt. Marine Geology 77:257-275.
+#
+#                 Stanley, D.J., H. Sheng, and Y. Pan. 1988. Heavy minerals
+#                 and provenance of late Quaternary sands, eastern Nile Delta.
+#                 Journal of African Earth Sciences 7:735-741.
+#
+#                 Foucault, A., and D.J. Stanley. 1989. Late Quaternary
+#                 palaeoclimatic oscillations in East Africa recorded by heavy
+#                 minerals in the Nile Delta. Nature 339:44-46.
+#
+53 5
+    1 Acc      A Acacia
+    2 Aln      A Alnus
+    3 Cae-t    A Caesalpinia-type
+    4 Cppae    A Capparaceae
+    5 Eph      A Ephedra
+    6 Hag.cf.a A Hagenia cf. H. abyssinica
+    7 Hph.cf.t A Hyphaene cf. H. thebaica
+    8 Lorae    A Loranthaceae
+    9 Oleae    A Oleaceae
+   10 Pinae.ud A Pinaceae undiff.
+   11 Pin      A Pinus
+   12 Pod      A Podocarpus
+   13 Que.dec  A Quercus (deciduous)
+   14 Rnd      A Randia
+   15 Tam      A Tamarix
+   16 Til      A Tilia
+   17 Abu      B Abutilon
+   18 Apiae    B Apiaceae
+   19 Art      B Artemisia
+   20 Astae.Au B Asteraceae subf. Asteroideae undiff.
+   21 Astae.Ci B Asteraceae subf. Cichorioideae
+   22 Borae    B Boraginaceae
+   23 Braae    B Brassicaceae
+   24 Cyg      B Calystegia
+   25 Canae    B Cannabaceae
+   26 Cryae    B Caryophyllaceae
+   27 Ch/Am    B Chenopodiaceae/Amaranthaceae
+   28 Cucae    B Cucurbitaceae
+   29 Cypae    B Cyperaceae
+   30 Fabae    B Fabaceae
+   31 Lilae    B Liliaceae
+   32 Malae.Cp B Malvaceae (periporate)
+   33 Ongae    B Onagraceae
+   34 Plnae    B Plantaginaceae
+   35 Poaae    B Poaceae
+   36 Pol.pe-t B Polygonum persicaria-type
+   37 Ranae    B Ranunculaceae
+   38 Rum      B Rumex
+   39 Azo.n    F Azolla nilotica
+   40 Pts      F Pteris
+   41 Antes.1  M Anthocerotales type 1
+   42 Antes.2  M Anthocerotales type 2
+   43 Antes.3  M Anthocerotales type 3
+   44 Ric      M Riccia
+   45 Typ.cf.d Q Typha cf. T. domingensis
+   46 Typ.cf.e Q Typha cf. T. elephantina
+   47 sp.m.ps  S Spore (monolete psilate)
+   48 sp.m.ud  S Spore (monolete undiff.)
+   49 sp.t.ps  S Spore (trilete psilate)
+   50 sp.t.ud  S Spore (trilete undiff.)
+   51 ind      X Indeterminable
+   52 unk      X Unknown
+   53 Lab.no   - Laboratory number
+195, , 2889
+     0.0     2.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     1.0     0.0     0.0     0.0     6.0
+     2.0     0.0     0.0     0.0     0.0     0.0    95.0     0.0    21.0     0.0
+     0.0     1.0     8.0     1.0   289.0     4.0     3.0     0.0     0.0     0.0
+     0.0     0.0     0.0     1.0     0.0     0.0     1.0     0.0     0.0     5.0
+    34.0     9.0    22.0
+300, , 3958
+     0.0     1.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0    10.0     0.0     2.0
+     0.0     0.0     0.0     0.0     0.0     0.0   137.0     0.0     2.0     0.0
+     0.0     0.0     1.0     4.0   229.0     1.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     1.0     0.0     0.0     0.0     3.0     2.0
+    41.0     3.0    19.0
+330, , 4110
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     1.0
+     0.0     1.0     0.0     0.0     1.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     9.0     0.0   164.0     0.0
+     0.0     0.0     1.0     0.0    75.0     0.0     0.0     0.0     4.0     1.0
+     1.0     2.0     0.0     0.0     1.0     1.0     0.0     0.0     0.0     0.0
+     6.0     1.0    20.0
+340, , 4161
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     1.0
+     1.0     0.0     1.0     0.0     0.0     0.0     0.0     6.0     0.0     1.0
+     0.0     0.0     0.0     1.0     0.0     0.0    21.0     0.0   115.0     0.0
+     0.0     0.0     0.0     0.0    88.0     1.0     0.0     1.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     1.0     8.0     0.0     1.0     1.0
+     3.0     1.0    21.0
+560, , 5280
+     2.0     0.0     1.0     1.0     1.0     1.0     1.0     1.0     1.0     2.0
+     1.0     3.0     1.0     1.0     1.0     0.0     1.0     3.0     1.0    20.0
+     2.0     1.0     1.0     0.0     1.0     1.0     4.0     1.0   176.0     1.0
+     1.0     1.0     0.0     4.0   234.0     1.0     0.0     1.0     0.0     6.0
+     0.0     2.0     3.0    10.0     4.0     0.0    31.0    14.0    22.0    39.0
+    61.0    18.0    14.0

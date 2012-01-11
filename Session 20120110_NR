@@ -1,0 +1,27 @@
+#Testing stratigraphy package in R
+
+require(stratigraph)
+require(gdata)
+require(xtable)
+billys = readGPDascii("Data/billys.txt") #load the GPD file into a variable
+
+Read 1323 items
+Number of taxa:  105 
+Number of levels:  77
+
+counts_to_pctAP = function(counts, tax.cat) {
+  #This function converts pollen count data loaded from a GPD file into a vector of %arboreal pollen, using the taxonomic cateogries provided
+  pctAP = rowSums(counts[,which(tax.cat == "A")])/rowSums(counts)
+}
+
+plot_pctAP = function(pctAP, ages) {
+	#Plot a stratigraph of the %AP by age
+	plot(pctAP, ages, type="l", ylim = rev(range(ages)))
+}
+
+sites = read.csv("Data/Williams2010sites.csv", header=TRUE)
+gpdindex = read.csv("Data/_index.txt", header=FALSE)
+sources = paste(trim(gpdindex[,4]),", ",trim(gpdindex[,5]), sep="")
+lat = left()
+colnames()
+trim

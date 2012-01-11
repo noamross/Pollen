@@ -1,0 +1,113 @@
+# GPD ASCII Format
+# 24 Mar 00
+# Raw Counts - All Pollen Types
+#
+# *********************************************************
+# ** Please acknowledge the contributors and the African **
+# ** Pollen Database when using these data.              **
+# *********************************************************
+#
+# Site name:      Nile Delta S2
+# Place:          EGY:
+# Latitude:       31.18.00N      (  31.3     )
+# Longitude:      31.36.00E      (  31.6     )
+# Elevation(m):   1
+# Sigle:          NILEDS2
+# Entity name:    Core S2
+# Contact person: Leroy, S.A.G.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   175.0    17    1830     70     70  Beta-18554   L    clay
+#   380.0    20    3800     90     90  Beta-18555   L    peat
+#
+# Chron name:     GPD 1
+# Age model:      linear interpolation
+# Age bounds:     1390 - 2940
+# Chron notes:    Chron uses 2 radiocarbon dates. Except for age at 175 cm,
+#                 interpolated and extrapolated dates are approximate because
+#                 of uneven sedimentation rate.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#   175.0    17    1830   1970   1690   C14
+#   380.0    20    3800   3980   3620   C14
+#
+# Publications:   Leroy, S.A.G. 1992. Palynological evidence of Azolla
+#                 nilotica Dec. in recent Holocene of the eastern Nile Delta
+#                 and palaeoenvironment. Vegetation History and Archaeobotany
+#                 1:43-52.
+#
+#                 Coutellier, V., and D.J. Stanley. 1987. Late Quaternary
+#                 stratigraphy and paleogeography of the eastern Nile Delta,
+#                 Egypt. Marine Geology 77:257-275.
+#
+44 4
+    1 Acc      A Acacia
+    2 Bet      A Betula
+    3 Cbrae    A Combretaceae
+    4 Eph      A Ephedra
+    5 Mms      A Mimusops
+    6 Ole      A Olea
+    7 Pin      A Pinus
+    8 Pod      A Podocarpus
+    9 Que.eve  A Quercus (evergreen)
+   10 Tam      A Tamarix
+   11 Ulm      A Ulmus
+   12 Abu      B Abutilon
+   13 Apiae    B Apiaceae
+   14 Astae.As B Asteraceae subf. Asteroideae
+   15 Astae.Ci B Asteraceae subf. Cichorioideae
+   16 Cryae    B Caryophyllaceae
+   17 Ch/Am    B Chenopodiaceae/Amaranthaceae
+   18 Cypae    B Cyperaceae
+   19 Lilda.C1 B Liliopsida (monocolpate)
+   20 Oci      B Ocimum
+   21 Ongae    B Onagraceae
+   22 Pph.cf.b B Peristrophe cf. P. bicalyculata
+   23 Poaae    B Poaceae
+   24 Pol.pe-t B Polygonum persicaria-type
+   25 Rum      B Rumex
+   26 Thyae    B Thymelaeaceae
+   27 Azo.n    F Azolla nilotica
+   28 Pts      F Pteris
+   29 Antes.1  M Anthocerotales type 1
+   30 Antes.2  M Anthocerotales type 2
+   31 Antes.3  M Anthocerotales type 3
+   32 Ric      M Riccia
+   33 Myp.s-t  Q Myriophyllum spicatum-type
+   34 Nym      Q Nymphaea
+   35 Pot      Q Potamogeton
+   36 Typ.cf.d Q Typha cf. T. domingensis
+   37 Typ.cf.e Q Typha cf. T. elephantina
+   38 sp.m.ps  S Spore (monolete psilate)
+   39 sp.m.ud  S Spore (monolete undiff.)
+   40 sp.t.ps  S Spore (trilete psilate)
+   41 sp.t.ud  S Spore (trilete undiff.)
+   42 ind      X Indeterminable
+   43 unk      X Unknown
+   44 Lab.no   - Laboratory number
+130, , 1398
+     1.0     0.0     0.0     1.0     1.0     2.0     0.0    21.0     0.0     1.0
+     0.0     0.0     0.0    14.0     1.0     1.0    83.0    67.0     2.0     1.0
+     1.0     2.0    83.0     0.0     0.0     1.0    12.0     2.0     2.0     5.0
+     4.0     1.0     1.0     2.0     4.0     4.0     0.0     3.0     1.0     6.0
+     5.0    25.0    14.0    96.0
+175, , 1830
+     0.0     0.0     0.0     0.0     0.0     0.0     4.0     0.0     0.0     0.0
+     0.0     1.0     4.0     4.0     0.0     0.0    18.0   173.0     0.0     0.0
+     4.0     0.0    53.0     1.0     0.0     0.0   183.0     0.0     0.0     0.0
+     0.0     0.0     0.0     1.0     0.0     9.0     4.0     0.0     0.0     1.0
+     1.0    23.0     2.0    95.0
+270, , 2743
+     0.0     1.0     0.0     0.0     0.0     1.0     4.0     0.0     0.0     0.0
+     1.0     0.0     0.0     0.0     2.0     0.0    38.0   132.0     0.0     0.0
+     0.0     0.0    54.0     1.0     1.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0    59.0     2.0     0.0    16.0     0.0     0.0     0.0     0.0
+     0.0    22.0     5.0    97.0
+290, , 2935
+     0.0     0.0     4.0     0.0     0.0     0.0     3.0     0.0     1.0     0.0
+     0.0     0.0     0.0     9.0     0.0     1.0    21.0   399.0     0.0     0.0
+     1.0     0.0   177.0     4.0     0.0     0.0     2.0     0.0     0.0     0.0
+     0.0     0.0     0.0     1.0     0.0    29.0     6.0     0.0     0.0     0.0
+     0.0    21.0     1.0    98.0

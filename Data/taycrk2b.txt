@@ -1,0 +1,182 @@
+# GPD ASCII Format
+# 23 Feb 05
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** North American Pollen Database.                                   **
+# ***********************************************************************
+#
+# Site name:      Taylor Creek Site 2
+# Place:          USA:Florida
+# Latitude:       25.12.20N      (  25.205556)
+# Longitude:      80.38.38W      ( -80.643889)
+# Elevation(m):   5
+# Sigle:          TAYCRK2B
+# Entity name:    TC2-B
+# Contact person: Willard, D.A.
+# Entity notes:   designated as Site 7, Everglades National Park, in Willard
+#                 et al. 2001
+#
+# Radiocarbon dates:
+#      Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#       75.5     1    1610     60     60  BETA-86785   L    bulk sediment
+#
+# Chron name:     NAPD1-C14
+# Age model:      linear interpolation
+# Age bounds:     -30 - 2090
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0     0     -45    -45    -45   TOP
+#     5.5     1     -10     -5    -15   LED
+#    17.5     1      50     55     45   LED
+#    22.0     4     230    270    190   C13
+#    75.5     1    1610   1670   1550   C13
+#
+# Publications:   Willard, D.A., and L.M. Weimer. 1997. Palynological census
+#                 data from surface samples in south Florida. U.S. Geological
+#                 Survey Open-File Report 97-867.
+#
+#                 Willard, D.A., C.W. Holmes, and L.M. Weimer. 2001. The
+#                 Florida Everglades ecosystem: climatic and anthropogenic
+#                 impacts over the last two millennia. Bulletins of American
+#                 Paleontology 361:41-55.
+#
+#                 Willard, D.A., and C.W. Holmes. 1997. Pollen and
+#                 geochronological data from south Florida: Taylor Creek Site
+#                 2. U.S. Geological Survey Open-File Report 97-35.
+#
+48 12
+    1 Aln      A Alnus
+    2 Avi      A Avicennia
+    3 Bet      A Betula
+    4 Bum      A Bumelia
+    5 Bur.s    A Bursera simaruba
+    6 Car      A Carya
+    7 Csr      A Casuarina
+    8 Cel      A Celtis
+    9 Cep      A Cephalanthus
+   10 Cno      A Conocarpus
+   11 Cyr.r    A Cyrilla racemiflora
+   12 Ercae    A Ericaceae
+   13 Hpc      A Hippocratea
+   14 Ilx      A Ilex
+   15 Jug      A Juglans
+   16 Liq      A Liquidambar
+   17 Myr      A Myrica
+   18 Pin      A Pinus
+   19 Que      A Quercus
+   20 Rhz      A Rhizophora
+   21 Slx      A Salix
+   22 Ulm      A Ulmus
+   23 Amb      B Ambrosia
+   24 Astae.ud B Asteraceae undiff.
+   25 cf.Acaae B cf. Acanthaceae
+   26 Ch/Am    B Chenopodiaceae/Amaranthaceae
+   27 Cypae    B Cyperaceae
+   28 Eupae    B Euphorbiaceae
+   29 Fabae    B Fabaceae
+   30 Poaae    B Poaceae
+   31 Plgae    B Polygalaceae
+   32 Polae    B Polygonaceae
+   33 Solae    B Solanaceae
+   34 Dec.v    Q Decodon verticillatus
+   35 Myp      Q Myriophyllum
+   36 Sag      Q Sagittaria
+   37 Typ      Q Typha
+   38 Utr      Q Utricularia
+   39 sp.m     S Spore (monolete)
+   40 sp.t     S Spore (trilete)
+   41 unk.C3P3 X Unknown (tricolporate)
+   42 unk.P3   X Unknown (triporate)
+   43 unk.ud   X Unknown undiff.
+   44 Lyc.spk  - Lycopodium spike (number counted)
+   45 Lyc.ta.n - Lycopodium tablets (added, number)
+   46 LycCn/t  - Lycopodium tablets (concentration, grains/tablet)
+   47 PCn/ml   - Pollen (concentration, grains/ml)
+   48 sa.ma.g  - Sample dry mass (g)
+3, , -26
+       3.0       1.0       1.0       1.0       3.0       0.0       7.0       3.0
+       0.0       0.0       0.0       2.0       0.0       0.0       0.0       0.0
+      88.0      13.0       5.0       3.0       0.0       0.0       0.0       6.0
+       2.0       2.0       1.0       0.0      10.0       1.0       0.0       0.0
+       0.0       0.0       0.0       0.0       0.0       0.0       0.0       2.0
+       0.0       6.0      20.0     142.0       1.0   12542.0   31443.3        .5
+11, , 18
+       0.0       0.0       0.0       0.0       0.0       0.0       3.0       0.0
+       0.0       0.0       0.0       0.0       0.0       0.0       0.0       1.0
+      91.0      32.0       0.0       0.0       0.0       0.0       1.0       3.0
+       3.0       0.0       7.0       1.0       6.0       0.0       0.0       0.0
+       0.0       0.0       0.0       0.0       0.0       0.0       1.0       2.0
+       0.0       9.0       5.0     188.0       1.0   12542.0   21614.9        .5
+15, , 38
+       2.0       1.0       0.0       0.0       0.0       0.0       0.0       0.0
+       0.0       0.0       1.0       0.0       0.0       0.0       0.0       0.0
+     166.0      47.0       4.0       3.0       0.0       0.0       1.0      34.0
+       0.0       3.0       2.0       1.0       3.0       0.0       2.0       0.0
+       8.0       0.0       0.0       1.0       2.0       1.0       2.0       2.0
+       2.0       2.0      15.0     279.0       1.0   12542.0   27061.9        .5
+19, , 110
+       2.0       0.0       0.0       0.0       0.0       0.0       0.0       0.0
+       0.0       1.0       0.0       0.0       1.0       4.0       0.0       0.0
+      98.0      49.0       6.0       5.0       0.0       0.0       1.0      68.0
+       1.0       5.0      17.0       1.0       7.0       0.0       7.0       0.0
+      23.0       3.0       1.0       0.0       8.0       0.0       5.0       2.0
+       2.0       0.0       8.0      75.0       1.0   12542.0  106356.2        .5
+32.5, , 501
+       0.0       0.0       0.0       0.0       0.0       1.0       0.0       0.0
+       0.0       0.0       0.0       0.0       0.0       0.0       0.0       1.0
+      33.0      44.0       0.0       0.0       0.0       0.0       0.0       2.0
+       0.0       1.0      25.0       0.0       2.0       0.0       0.0       8.0
+       0.0       0.0       0.0       0.0       1.0       0.0       4.0       2.0
+       0.0       0.0       1.0     173.0       1.0   12542.0   17254.3        .5
+37.5, , 630
+       0.0       0.0       0.0       0.0       0.0       0.0       0.0       0.0
+       0.0       0.0       0.0       0.0       0.0       1.0       1.0       0.0
+      51.0      31.0       6.0       0.0       0.0       0.0       1.0       2.0
+       1.0       0.0      26.0       2.0       3.0       1.0       0.0       3.0
+       0.0       0.0       0.0       3.0       1.0       0.0       7.0       1.0
+       0.0       0.0       1.0     134.0       1.0   12542.0   25084.0        .5
+45, , 823
+       1.0       0.0       1.0       0.0       0.0       0.0       0.0       0.0
+       0.0       0.0       0.0       0.0       0.0       0.0       0.0       2.0
+      34.0      28.0       5.0       3.0       0.0       0.0       0.0      41.0
+       0.0       3.0     130.0       1.0       3.0       0.0       0.0       9.0
+       2.0       0.0       0.0       0.0      19.0       0.0       5.0      10.0
+       0.0       1.0      17.0      74.0       1.0   12542.0   97285.2        .5
+55, , 1081
+       0.0       0.0       0.0       0.0       0.0       0.0       0.0       0.0
+       0.0       0.0       1.0       0.0       0.0       7.0       0.0       0.0
+      26.0      29.0       3.0       2.0       0.0       0.0       0.0       8.0
+       0.0       1.0      57.0       3.0       2.0       0.0       0.0       6.0
+       0.0       0.0       0.0       0.0      17.0       1.0       4.0       6.0
+       0.0       0.0       7.0      85.0       1.0   12542.0   49577.8        .5
+65, , 1339
+       1.0       0.0       0.0       0.0       0.0       0.0       0.0       0.0
+       0.0       0.0       0.0       0.0       0.0       0.0       0.0       0.0
+      53.0      38.0       5.0       7.0       1.0       1.0       0.0       1.0
+       2.0       2.0      24.0       1.0       5.0       0.0       0.0       0.0
+       0.0       0.0       0.0       0.0       0.0       2.0       1.0       1.0
+       0.0       0.0       7.0      81.0       1.0   12542.0   27871.1        .5
+75, , 1597
+       1.0       0.0       0.0       0.0       0.0       0.0       0.0       0.0
+       1.0       0.0       1.0       0.0       0.0       1.0       0.0       0.0
+      29.0      88.0       1.0       0.0       0.0       0.0       1.0       2.0
+       1.0       1.0      16.0       0.0       5.0       2.0       0.0       0.0
+       0.0       0.0       0.0       0.0       2.0       1.0       1.0       2.0
+       0.0       0.0       1.0     133.0       1.0   12542.0   15842.5        .5
+85, , 1855
+       0.0       0.0       0.0       0.0       0.0       0.0       0.0       0.0
+       0.0       0.0       0.0       0.0       0.0       0.0       0.0       0.0
+       5.0      93.0       1.0       0.0       0.0       0.0       0.0       0.0
+       0.0       3.0      17.0       0.0       1.0       0.0       0.0       0.0
+       0.0       0.0       0.0       0.0       0.0       0.0       0.0       1.0
+       0.0       0.0       0.0     208.0       1.0   12542.0   14471.5        .5
+94, , 2087
+       0.0       0.0       1.0       0.0       0.0       0.0       0.0       0.0
+       0.0       0.0       0.0       0.0       0.0       0.0       1.0       0.0
+       1.0     174.0       3.0       0.0       0.0       1.0       0.0       0.0
+       0.0       1.0       2.0       0.0       0.0       0.0       0.0       0.0
+       0.0       0.0       0.0       0.0       0.0       0.0       2.0       0.0
+       0.0       0.0       1.0     143.0       1.0   12542.0   21575.7        .5

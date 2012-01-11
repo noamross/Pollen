@@ -1,0 +1,154 @@
+# GPD ASCII Format
+# 24 Apr 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the Latin American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Laguna Milloc
+# Place:          PER:
+# Latitude:       11.34.00S      ( -11.566667)
+# Longitude:      76.21.00W      ( -76.35    )
+# Elevation(m):   4325
+# Sigle:          LMILLOC
+# Entity name:
+# Contact person: Graf, K.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   390.0     5    5530    150    150               U    peat
+#   740.0     5   10465    205    205  UZ-1034      U    peat
+#   870.0     5   10970    380    380               U    peat
+#
+# Chron name:     LAPD 1
+# Age model:      linear interpolation
+# Age bounds:     280 - 11050
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0     0       0      0      0   TOP
+#   390.0     5    5530   5680   5380   C14
+#   740.0     5   10465  10670  10260   C14
+#   870.0     5   10970  11350  10590   C14
+#
+# Publications:   Graf, K. 1992. Pollendiagramme aus den Anden: Eine Synthese
+#                 zur Klimageschichte und Vegetationsentwicklung seit der
+#                 letzten Eiszeit. Physische Geographie vol. 34. University of
+#                 Zurich, Switzerland.
+#
+33 16
+    1 Aln      A Alnus
+    2 Eph      A Ephedra
+    3 Ercae    A Ericaceae
+    4 Myr      A Myrica
+    5 Pod      A Podocarpus
+    6 Amaae    B Amaranthaceae
+    7 Apiae.ud B Apiaceae undiff.
+    8 Astae.Au B Asteraceae subf. Asteroideae undiff.
+    9 Astae.Ci B Asteraceae subf. Cichorioideae
+   10 Astae.Mu B Asteraceae tribe Mutisieae
+   11 Azr      B Azorella
+   12 Cryae    B Caryophyllaceae
+   13 Cheae    B Chenopodiaceae
+   14 Cypae    B Cyperaceae
+   15 Gen-t    B Gentiana-type
+   16 Gerae    B Geraniaceae
+   17 Malae    B Malvaceae
+   18 Pln      B Plantago
+   19 Poaae    B Poaceae
+   20 Po/Ac    B Polylepis/Acaena
+   21 Solae    B Solanaceae
+   22 Cyaae    F Cyatheaceae
+   23 Lycae.ud F Lycopodiaceae undiff.
+   24 Lyc.cl   F Lycopodium clavatum
+   25 Plp      F Polypodium
+   26 Sel      F Selaginella
+   27 Iso      Q Isoëtes
+   28 sp.m.ud  S Spore (monolete undiff.)
+   29 sp.t.ps  S Spore (trilete psilate)
+   30 sp.t.ud  S Spore (trilete undiff.)
+   31 Fu:      U Fungus
+   32 ot       X Other
+   33 ase.cm2  - Area slide examined (cm²)
+20, , 284
+     1.0     0.0     0.0     0.0     1.0     0.0     0.0    81.0     0.0     0.0
+     0.0     5.0     0.0    32.0    44.0     0.0     0.0    19.0    15.0     0.0
+     9.0     0.0     0.0     0.0     0.0     0.0     0.0     2.0     0.0     0.0
+    46.0     5.0     3.0
+70, , 993
+     4.0     0.0     0.0     0.0     1.0     0.0     2.0    35.0     5.0     0.0
+     0.0     7.0     0.0   160.0    14.0     0.0     0.0    13.0    21.0     0.0
+    18.0     0.0   420.0     3.0     1.0     0.0     1.0     5.0     0.0     0.0
+    10.0     7.0     3.8
+185, , 2623
+     1.0     0.0     0.0     0.0     3.0     0.0     0.0    22.0     6.0     0.0
+     0.0     1.0     0.0     4.0     3.0     1.0     0.0     6.0    63.0     0.0
+     5.0     0.0   180.0     0.0     1.0     0.0     0.0     1.0     1.0     1.0
+    16.0     2.0    10.0
+320, , 4537
+     2.0     0.0     0.0     0.0     1.0     0.0     2.0   189.0     9.0     0.0
+     1.0    20.0     1.0   280.0    52.0     5.0     0.0     9.0     8.0     0.0
+     1.0     0.0    80.0     0.0     0.0     0.0     1.0     3.0     2.0     0.0
+    16.0     5.0     1.3
+340, , 4821
+     4.0     0.0     0.0     1.0     2.0     0.0     0.0    97.0     0.0     1.0
+     1.0     4.0     0.0    17.0     2.0     0.0     0.0     0.0   140.0     0.0
+     3.0     1.0    52.0     1.0     0.0     0.0     0.0     2.0     1.0     0.0
+     1.0     9.0     3.8
+420, , 5953
+     2.0     0.0     0.0     1.0     2.0     0.0     0.0    48.0     0.0     0.0
+     0.0     4.0     3.0    10.0     5.0     1.0     0.0     2.0    38.0     1.0
+    10.0     0.0    68.0     0.0     0.0     0.0     0.0     3.0     1.0     2.0
+     2.0    13.0    15.5
+485, , 6870
+     2.0     0.0     0.0     1.0     0.0     1.0     0.0    37.0     2.0     0.0
+     0.0     2.0     0.0     4.0     1.0     0.0     1.0     2.0    66.0     0.0
+     0.0     0.0   114.0     0.0     2.0     0.0     3.0     1.0     1.0     1.0
+     2.0     0.0     7.7
+560, , 7927
+     3.0     0.0     0.0     2.0     4.0     0.0     2.0    52.0     1.0     0.0
+     0.0     2.0     0.0     2.0     3.0     0.0     0.0     2.0   103.0     1.0
+     0.0     0.0    84.0     0.0     0.0     0.0     0.0     0.0     3.0     2.0
+    82.0     3.0     7.7
+645, , 9126
+     3.0     1.0     1.0     2.0     0.0     0.0     0.0    45.0     0.0     0.0
+     0.0     1.0     1.0     5.0     1.0     0.0     0.0     1.0    71.0     0.0
+     0.0     0.0    27.0     0.0     0.0     0.0     1.0     0.0     0.0     0.0
+    19.0     1.0     3.8
+720, , 10183
+     0.0     1.0     0.0     0.0     3.0     0.0     2.0    30.0     0.0     0.0
+     0.0     0.0     0.0     7.0     2.0     0.0     0.0     0.0    50.0     0.0
+     3.0     0.0    11.0     0.0     0.0     0.0     1.0     3.0     1.0     1.0
+   280.0    11.0    23.0
+750, , 10504
+     0.0     0.0     1.0     3.0     0.0     0.0     0.0    50.0     1.0     0.0
+     0.0     3.0     0.0     6.0     0.0     0.0     0.0     0.0    76.0     0.0
+     1.0     0.0   118.0     0.0     0.0     1.0     0.0     0.0     3.0     1.0
+    44.0     7.0     7.7
+790, , 10659
+     1.0     1.0     0.0     0.0     0.0     0.0     0.0    15.0     0.0     0.0
+     0.0     0.0     0.0     5.0     0.0     0.0     0.0     0.0    82.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     1.0     0.0     0.0
+    47.0     7.0     9.0
+810, , 10737
+     2.0     0.0     0.0     4.0     2.0     0.0     0.0    65.0     0.0     0.0
+     1.0     0.0     0.0     3.0     0.0     0.0     1.0     1.0    70.0     3.0
+     0.0     0.0   209.0     0.0     0.0     1.0     0.0     3.0     1.0     0.0
+    46.0     3.0     7.7
+825, , 10795
+     0.0     0.0     0.0     1.0     0.0     0.0     0.0    46.0     0.0     0.0
+     2.0     3.0     0.0     0.0     0.0     0.0     0.0     1.0    48.0     0.0
+     2.0     0.0    17.0     0.0     0.0     0.0     0.0     1.0     1.0     0.0
+    52.0     8.0     8.5
+890, , 11048
+     0.0     0.0     0.0     2.0     1.0     0.0     0.0   192.0     0.0     0.0
+     0.0     6.0     0.0   110.0     1.0     0.0     0.0     0.0    38.0     1.0
+     0.0     0.0    17.0     0.0     0.0     0.0     0.0     1.0     1.0     1.0
+    75.0     6.0     2.2
+940, , 11242
+     1.0     1.0     0.0     1.0     0.0     0.0     0.0    15.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0    34.0     0.0
+     5.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     8.0     5.0    23.0

@@ -1,0 +1,130 @@
+# GPD ASCII Format
+# 22 May 04
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** Pollen Database for Siberia and the Russian Far East.             **
+# ***********************************************************************
+#
+# Site name:      Unaschi Exposure
+# Place:          RUS:Primorskiy Kray
+# Latitude:       42.57.00N      (  42.95    )
+# Longitude:      133.10.00E     ( 133.166667)
+# Elevation(m):   35
+# Sigle:          UNASCHI
+# Entity name:    P620-619
+# Contact person: Korotky, A.M.
+# Entity notes:   broadleaf taxa include Quercus mongolica, Ulmus spp., and
+#                 Fraxinus manshurica
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   235.0    10   11500    130    130  SOAN-288     L    wood
+#   335.0    10   17400    125    125  Ki-2917      L    wood
+#
+# Chron name:     GPD 1
+# Age model:      linear interpolation
+# Age bounds:     12380 - 17700
+# Chron notes:    reliable age range limited to radiocarbon sample depths
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#   235.0    10   11500  11630  11370   C14
+#   335.0    10   17400  17525  17275   C14
+#
+# Publications:   Korotky, A.M., L.P. Karaulova, and T.S. Troitskaya. 1980.
+#                 The Quaternary deposits of Primor'ye. Nauka, Novosibirsk. In
+#                 Russian.
+#
+#                 Golubeva, L.V., and L.P. Karaulova. 1983. The vegetation and
+#                 stratigraphy of the Pleistocene and Holocene of the southern
+#                 Far East. Nauka, Moscow. In Russian.
+#
+#                 Anderson, P.M., and A.V. Lozhkin, editors. 2002. Late
+#                 Quaternary Vegetation and Climate of Siberia and the Russian
+#                 Far East (Palynological and Radiocarbon Database). North
+#                 East Science Center, Far East Branch, Russian Academy of
+#                 Sciences, Magadan, Russia.
+#
+44 6
+    1 Abi      A Abies
+    2 Aln.ud   A Alnus undiff.
+    3 Aln.vi   A Alnus viridis
+    4 Bet.da   A Betula dahurica
+    5 Bet.di   A Betula divaricata
+    6 Bet.er   A Betula ermanii
+    7 Bet.na.e A Betula nana subsp. exilis
+    8 Bet.na.n A Betula nana subsp. nana
+    9 Bet.ov   A Betula ovalifolia
+   10 Bet.pl   A Betula platyphylla
+   11 Bet.Cs   A Betula sect. Costatae
+   12 Bet.Fr   A Betula sect. Fruticosae
+   13 Bet.ud   A Betula undiff.
+   14 Cor      A Corylus
+   15 Eph      A Ephedra
+   16 Erles    A Ericales
+   17 Jug      A Juglans
+   18 Lar      A Larix
+   19 Pic.Eu   A Picea sect. Eupicea
+   20 Pic.Om   A Picea sect. Omorica
+   21 Pin.ko   A Pinus koraiensis
+   22 Pin.P.ud A Pinus subg. Pinus undiff.
+   23 PinSt.ud A Pinus subg. Strobus undiff.
+   24 Pin.sy   A Pinus sylvestris
+   25 Que.mo   A Quercus mongolica
+   26 Que.ud   A Quercus undiff.
+   27 Syr      A Syringa
+   28 Til      A Tilia
+   29 Ulm      A Ulmus
+   30 Art      B Artemisia
+   31 Astae.ud B Asteraceae undiff.
+   32 Cheae    B Chenopodiaceae
+   33 Cypae    B Cyperaceae
+   34 Fabae    B Fabaceae
+   35 Poaae    B Poaceae
+   36 Ranae    B Ranunculaceae
+   37 Saxae    B Saxifragaceae
+   38 Lycae    F Lycopodiaceae
+   39 Osu      F Osmunda
+   40 Plpae.ud F Polypodiaceae undiff.
+   41 Plp.vu   F Polypodium vulgare
+   42 Br:Bryes M Bryales
+   43 Br:Spg   M Sphagnum
+   44 Aliae    Q Alismataceae
+150, , 6485
+     0.0     5.0     0.0     1.0     0.0     0.0     0.0     0.0     0.0    10.0
+     0.0     2.0    12.0     0.0     0.0     1.0     2.0     0.0    23.0    17.0
+    39.0     0.0     0.0     6.0    12.0     0.0     0.0     1.0     0.0    21.0
+     0.0     0.0     5.0     0.0     1.0     0.0     0.0     0.0     0.0    90.0
+     0.0     3.0     0.0     0.0
+200, , 9435
+     3.0    22.0     6.0    10.0     1.0     8.0     3.0     0.0     0.0    48.0
+     0.0    16.0    80.0     0.0     0.0     0.0     0.0     0.0    54.0    18.0
+     0.0     0.0     5.0     0.0     0.0     0.0     0.0     0.0     0.0    11.0
+     1.0     1.0     8.0     0.0     2.0     0.0     0.0     0.0     0.0    24.0
+     2.0    12.0    49.0     0.0
+215, , 10320
+     2.0     0.0     0.0     2.0     0.0     9.0     0.0     0.0     1.0    30.0
+     0.0    11.0   113.0     0.0     0.0     2.0     0.0     0.0    52.0    17.0
+     5.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     6.0
+     0.0     0.0    19.0     2.0     1.0     0.0     0.0     0.0     0.0    20.0
+     0.0    14.0    29.0     0.0
+250, , 12385
+     5.0    30.0    30.0     3.0    17.0     0.0    11.0     0.0     0.0    30.0
+     0.0     9.0   123.0     0.0     0.0     5.0     0.0     0.0    17.0     9.0
+     0.0     0.0     6.0     0.0     0.0     0.0     2.0     0.0     1.0     6.0
+     4.0     0.0   108.0     5.0     1.0     6.0     3.0     0.0     0.0    71.0
+     0.0   106.0    61.0     1.0
+275, , 13860
+     1.0     6.0     0.0     3.0     0.0     2.0     0.0     0.0     0.0    64.0
+     0.0     7.0    85.0     0.0     0.0    13.0     0.0     2.0    79.0    23.0
+     2.0     0.0     0.0     3.0     0.0     0.0     0.0     0.0     0.0     8.0
+     1.0     0.0    38.0     5.0     1.0     0.0     0.0     0.0     0.0     5.0
+     2.0    10.0    40.0     0.0
+340, , 17695
+     0.0    22.0    42.0     6.0    22.0     0.0    10.0    36.0     4.0    10.0
+    14.0     0.0    20.0     4.0     1.0     4.0     0.0     0.0    14.0     0.0
+     6.0     2.0     6.0     0.0     0.0     2.0     0.0     0.0     0.0    10.0
+     0.0     6.0    21.0     0.0     0.0     0.0    10.0     4.0    10.0   124.0
+     0.0    10.0    44.0     0.0

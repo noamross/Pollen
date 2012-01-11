@@ -1,0 +1,125 @@
+# GPD ASCII Format
+# 28 Feb 04
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** Pollen Database for Siberia and the Russian Far East.             **
+# ***********************************************************************
+#
+# Site name:      Kirgirlakh Stream, Berelyekh River Basin
+# Place:          RUS:Magadanskaya Oblast
+# Latitude:       62.40.00N      (  62.666667)
+# Longitude:      147.59.00E     ( 147.983333)
+# Elevation(m):   700
+# Sigle:          DIMA1
+# Entity name:    Second Alluvial Terrace 1
+# Contact person: Lozhkin, A.V.
+# Entity notes:   Stream is part of Berelekh River basin, upper Kolyma region
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   115.0    10    8400    100    100  MAG-507      L    wood fragments and pea
+#   490.0    20   29800    700    700  MAG-506      L    soil with wood
+#
+# Chron name:     GPD 1
+# Age model:      linear interpolation
+# Age bounds:     6970 - 24670
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#   115.0    10    8400   8500   8300   C14
+#   490.0    20   29800  30500  29100   C14
+#
+# Publications:   Shilo, N.A., A.V. Lozhkin, E.E. Titov, and Yu.V. Schumilov.
+#                 1983. Kirgirlakh mammoth: paleography aspect. Nauka, Moscow.
+#                 In Russian.
+#
+#                 Anderson, P.M., and A.V. Lozhkin, editors. 2002. Late
+#                 Quaternary Vegetation and Climate of Siberia and the Russian
+#                 Far East (Palynological and Radiocarbon Database). North
+#                 East Science Center, Far East Branch, Russian Academy of
+#                 Sciences, Magadan, Russia.
+#
+36 9
+    1 Aln      A Alnus
+    2 Bet      A Betula
+    3 Ercae    A Ericaceae
+    4 Lar      A Larix
+    5 Pin.St   A Pinus subg. Strobus
+    6 Slx      A Salix
+    7 Apiae    B Apiaceae
+    8 Art      B Artemisia
+    9 Astae.ud B Asteraceae undiff.
+   10 Braae    B Brassicaceae
+   11 Cryae    B Caryophyllaceae
+   12 Cheae    B Chenopodiaceae
+   13 Cypae    B Cyperaceae
+   14 Fabae    B Fabaceae
+   15 Ongae    B Onagraceae
+   16 Poaae    B Poaceae
+   17 Pomae    B Polemoniaceae
+   18 Pol.av   B Polygonum aviculare
+   19 Pol.Ac   B Polygonum sect. Aconogonon
+   20 Ranae    B Ranunculaceae
+   21 Rosae.ud B Rosaceae undiff.
+   22 San      B Sanguisorba
+   23 Saxae    B Saxifragaceae
+   24 Val      B Valeriana
+   25 Bot      F Botrychium
+   26 Crp      F Cryptogramma
+   27 Dph.co   F Diphasiastrum complanatum
+   28 Lyc.an.a F Lycopodium annotinum subsp. alpestre
+   29 Lyc.cl   F Lycopodium clavatum
+   30 Polta.ud F Polypodiophyta undiff.
+   31 Sel.ru   F Selaginella rupestris
+   32 Sel.sa   F Selaginella sanguinolenta
+   33 Sel.ud   F Selaginella undiff.
+   34 Br:Bryes M Bryales
+   35 Br:Spg   M Sphagnum
+   36 unk      X Unknown
+0, , 1837
+    51.0   207.0     8.0     1.0   107.0     7.0     0.0     0.0     0.0     0.0
+     1.0     0.0    14.0     0.0     1.0    10.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0    11.0
+     2.0     0.0     0.0     1.0     4.0     0.0
+15, , 2693
+    96.0   163.0    84.0     0.0    96.0     4.0     0.0     5.0     1.0     0.0
+     0.0     0.0     9.0     0.0     7.0    18.0     0.0     0.0     1.0     4.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     3.0     1.0    29.0
+     3.0     0.0     0.0    10.0   128.0     0.0
+35, , 3835
+    65.0    81.0    95.0     2.0   213.0     7.0     0.0     3.0     1.0     0.0
+     0.0     1.0     4.0     0.0     3.0     5.0     1.0     0.0     1.0     1.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     1.0     0.0    18.0
+     4.0     0.0     0.0     1.0   215.0     2.0
+60, , 5261
+   107.0   349.0    81.0     1.0   131.0    14.0     3.0     4.0     0.0     0.0
+     1.0     0.0    21.0     1.0     3.0    23.0     1.0     0.0     1.0     1.0
+     0.0     0.0     1.0     1.0     0.0     0.0     0.0     0.0     0.0    10.0
+     6.0     0.0     0.0     4.0   130.0     1.0
+90, , 6973
+    40.0   181.0    33.0     2.0    35.0     1.0     0.0     2.0     4.0     0.0
+     1.0     0.0    10.0     1.0     1.0    20.0     0.0     0.0     0.0     0.0
+     0.0     0.0     1.0     0.0     1.0     0.0     0.0     1.0     0.0    10.0
+     5.0     0.0     0.0    10.0    81.0     0.0
+280, , 17816
+    57.0   193.0    30.0     3.0    34.0     8.0     3.0     6.0     6.0     2.0
+    16.0     1.0    38.0     3.0     3.0     2.0     0.0     2.0     5.0     2.0
+     1.0     0.0     0.0     2.0     0.0     1.0     1.0     1.0     0.0    18.0
+    20.0     2.0     3.0    12.0    93.0     3.0
+320, , 20099
+    24.0   198.0    25.0     1.0     7.0     5.0     3.0    10.0    16.0     0.0
+    15.0     5.0    85.0     0.0     6.0    52.0     0.0     1.0    17.0     7.0
+     0.0     1.0     0.0     4.0     0.0     2.0     0.0     0.0     0.0    20.0
+    23.0     0.0     0.0    31.0    18.0    10.0
+370, , 22952
+    37.0   199.0     7.0     2.0     6.0    11.0     1.0     0.0     6.0     0.0
+     9.0     2.0   115.0     4.0     2.0    39.0     1.0     1.0     2.0     0.0
+     0.0     1.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0    12.0
+     7.0     0.0     1.0    15.0     7.0     6.0
+400, , 24664
+    12.0   117.0    15.0     0.0     5.0     2.0     3.0    12.0     6.0     1.0
+     7.0     3.0   108.0     3.0     3.0    56.0     1.0     3.0     6.0     7.0
+     0.0     2.0     0.0     5.0     0.0     0.0     0.0     0.0     0.0    21.0
+     1.0     0.0     1.0    48.0    14.0     4.0

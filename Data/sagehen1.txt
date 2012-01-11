@@ -1,0 +1,195 @@
+# GPD ASCII Format
+# 24 Apr 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Sagehen Marsh
+# Place:          USA:Colorado
+# Latitude:       37.28.26N      (  37.473889)
+# Longitude:      108.30.14W     (-108.503889)
+# Elevation(m):   2085
+# Sigle:          SAGEHEN1
+# Entity name:    core I
+# Contact person: Petersen, K.L.
+# Entity notes:   Core is discontinuous, cores II & III separate entities.
+#
+# Chron name:     NAPD 1
+# Age model:      linear interpolation
+# Age bounds:     0 - 250
+# Chron notes:    Chron uses top, four historical dates, and two pollen
+#                 stratigraphic dates (see Petersen 1985).
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0     0       0      0      0   TOP
+#    25.0     1      30     32     28   OTH
+#    35.0     1      54     56     52   OTH
+#    39.0     1      68     70     66   OTH
+#    44.0     1      93     95     91   OTH
+#    50.0     1     133    135    132   POL
+#    60.0     1     248    250    246   POL
+#
+# Publications:   Petersen, K.L. 1985. Palynology in Montezuma County,
+#                 southwestern Colorado: the local history of the Pinyon Pine
+#                 (Pinus edulis). AASP Contribution Series No. 16:47-62.
+#
+#                 Petersen, K.L. 1994. A warm and wet Little Climatic Optimum
+#                 and a cold and dry Little Ice Age in the southern Rocky
+#                 Mountains, U.S.A. Climatic Change 26:243-269.
+#
+#                 Petersen, K.L. 1984. Man and environment in the Dolores
+#                 River Valley, SE Colorado: some pollen evidence. American
+#                 Quaternary Association, Eighth Meeting, Program and
+#                 Abstracts, 13-15 August 1984, University of Colorado,
+#                 Boulder, p102.
+#
+#                 Petersen, K.L. 1985. The history of the marsh in Sagehen
+#                 Flats: the pollen record. Pages 229-238 in K.L. Petersen,
+#                 V.L. Clay, M.H. Matthews, and S.W. Neusius, compilers.
+#                 Chapter 22. Dolores Archeological Program: Studies in
+#                 Environmental Archaeology, U.S. Department of Interior,
+#                 Bureau of Reclamation, Science and Engineering Center,
+#                 Denver, Colorado, USA.
+#
+60 11
+    1 Abi      A Abies
+    2 Aln      A Alnus
+    3 Cea      A Ceanothus
+    4 Cel      A Celtis
+    5 Crc      A Cercocarpus
+    6 Eph.tr-t A Ephedra trifurca-type
+    7 Eph.vi-t A Ephedra viridis-type
+    8 Jug      A Juglans
+    9 Jun      A Juniperus
+   10 Pic      A Picea
+   11 Pin      A Pinus
+   12 Psu      A Pseudotsuga
+   13 Que      A Quercus
+   14 Slx      A Salix
+   15 Sam      A Sambucus
+   16 Sar.v    A Sarcobatus vermiculatus
+   17 trees.ud A Trees undiff.
+   18 Amb-t    B Ambrosia-type
+   19 Apiae    B Apiaceae
+   20 Art      B Artemisia
+   21 Astae.Ci B Asteraceae subf. Cichorioideae
+   22 Astae.ud B Asteraceae undiff.
+   23 Asg/Vic  B Astragalus/Vicia
+   24 Braae    B Brassicaceae
+   25 Cheae.ud B Chenopodiaceae undiff.
+   26 Crm      B Cirsium
+   27 Cypae    B Cyperaceae
+   28 Del-t    B Delphinium-type
+   29 Dod-t    B Dodecatheon-type
+   30 Erg      B Eriogonum
+   31 Hel      B Heliotropium
+   32 herbs.ud B Herbs undiff.
+   33 Pln      B Plantago
+   34 Pluae    B Plumbaginaceae
+   35 Poaae.ud B Poaceae undiff.
+   36 Polae.ud B Polygonaceae undiff.
+   37 Pol.bs   B Polygonum bistorta
+   38 Pol.sw   B Polygonum sawatchense
+   39 Pol.ud   B Polygonum undiff.
+   40 Ranae.ud B Ranunculaceae undiff.
+   41 Rosae.ud B Rosaceae undiff.
+   42 Rum.de   B Rumex densiflorus
+   43 Saxae    B Saxifragaceae
+   44 Solae    B Solanaceae
+   45 Sph-t    B Sphaeralcea-type
+   46 Tha      B Thalictrum
+   47 Trt      B Triticum
+   48 Val      B Valeriana
+   49 Zea      B Zea
+   50 Pot      Q Potamogeton
+   51 Rup.m    Q Ruppia maritima
+   52 Sag      Q Sagittaria
+   53 Typ.l    Q Typha latifolia
+   54 Ty/Sp.ud Q Typha/Sparganium undiff.
+   55 unk      X Unknown
+   56 APS      - Author's pollen sum
+   57 Cc25-50  - Charcoal fragments (25-50 µm)
+   58 Cc50-100 - Charcoal fragments (50-100 µm)
+   59 Cc>100   - Charcoal fragments (>100 µm)
+   60 Lyc.spik - Lycopodium spike (number counted)
+.5, , 0
+     0.0     0.0     0.0     0.0     6.0     0.0     2.0     0.0    92.0     1.0
+    37.0     0.0    12.0     3.0     0.0     1.0     1.0    13.0     0.0    73.0
+     1.0     8.0     2.0     0.0    28.0     0.0    44.0     0.0     0.0     0.0
+     0.0     0.0     4.0     0.0    18.0     0.0     0.0     0.0     5.0     1.0
+     0.0     0.0     1.0     0.0     0.0     1.0     0.0     0.0     0.0    20.0
+     0.0     3.0    86.0     1.0     0.0   473.0   190.0    30.0    10.0   547.0
+5, , 6
+     0.0     0.0     0.0     1.0     5.0     0.0     0.0     0.0    85.0     1.0
+    85.0     0.0    25.0     1.0     0.0     6.0     1.0    35.0     0.0    52.0
+     4.0    14.0     4.0     0.0    79.0     1.0    69.0     0.0     0.0     1.0
+     0.0     0.0     0.0     1.0    30.0     1.0     0.0     0.0     0.0     0.0
+     0.0     0.0     1.0     0.0     0.0     0.0     1.0     0.0     0.0    65.0
+     0.0     2.0   241.0     0.0    17.0   829.0   118.0    99.0    10.0  1262.0
+10, , 12
+     0.0     0.0     0.0     0.0     4.0     0.0     3.0     0.0    96.0     1.0
+    76.0     0.0    30.0     1.0     0.0     3.0     0.0    28.0     0.0    38.0
+     0.0    18.0     0.0     0.0    63.0     0.0    61.0     0.0     0.0     0.0
+     0.0     1.0     5.0     0.0    34.0     0.0     0.0     0.0     0.0     0.0
+     1.0     1.0     0.0     0.0     0.0     0.0     2.0     0.0     0.0    16.0
+     0.0     0.0   343.0     0.0     0.0   829.0   142.0    36.0     1.0  1066.0
+15, , 18
+     0.0     0.0     0.0     0.0     4.0     0.0     2.0     1.0    55.0     0.0
+    62.0     0.0    32.0     1.0     0.0     5.0     2.0    11.0     0.0    30.0
+     0.0    11.0     2.0     2.0    56.0     0.0    55.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0    29.0     0.0     1.0     0.0     0.0     1.0
+     0.0     0.0     0.0     0.0     0.0     0.0    14.0     0.0     1.0     7.0
+     0.0     0.0   498.0     0.0     1.0   881.0   160.0     5.0     1.0   842.0
+25, , 30
+     0.0     0.0     0.0     0.0     3.0     1.0     1.0     0.0   102.0     1.0
+    66.0     0.0    28.0     1.0     0.0     5.0     1.0    34.0     1.0    41.0
+     1.0     9.0     3.0     1.0    59.0     0.0    72.0     0.0     0.0     0.0
+     0.0     0.0     1.0     0.0    14.0     0.0     0.0     0.0     0.0     0.0
+     1.0     0.0     1.0     0.0     0.0     0.0     2.0     0.0     0.0    29.0
+     1.0     1.0   352.0     0.0     6.0   837.0  1210.0   237.0   210.0  1315.0
+30, , 42
+     0.0     0.0     1.0     0.0     3.0     0.0     0.0     0.0    71.0     0.0
+    41.0     0.0    18.0     0.0     0.0     6.0     1.0    26.0     0.0    48.0
+     0.0     8.0     5.0     1.0    49.0     0.0   606.0     0.0     0.0     0.0
+     0.0     1.0     3.0     0.0    27.0     0.0     3.0     0.0     0.0     0.0
+     1.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     5.0
+     2.0    41.0   174.0     0.0     5.0  1140.0   289.0    13.0     1.0   628.0
+35, , 54
+     0.0     1.0     1.0     0.0     7.0     0.0     0.0     0.0    63.0     1.0
+    42.0     0.0    21.0     1.0     1.0     2.0     1.0    42.0     0.0    70.0
+     0.0     8.0     1.0     2.0    39.0     0.0   904.0     0.0     0.0     0.0
+     1.0     0.0     0.0     0.0     9.0     0.0     0.0     2.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     2.0     0.0     0.0    38.0
+     2.0     2.0    51.0     0.0     3.0  1319.0   304.0    13.0     1.0   687.0
+39, , 68
+     1.0     0.0     0.0     0.0     1.0     0.0     2.0     0.0    44.0     0.0
+    39.0     0.0    10.0     1.0     0.0     0.0     2.0    16.0     1.0   110.0
+     1.0     5.0     1.0     2.0    39.0     0.0   391.0     0.0     1.0     1.0
+     1.0     0.0     0.0     0.0     9.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     1.0     1.0     0.0     0.0     1.0     3.0     0.0     5.0
+     0.0     2.0    13.0     1.0    13.0   725.0   452.0    10.0     7.0   271.0
+42, , 83
+     0.0     0.0     0.0     0.0     3.0     1.0     2.0     0.0    35.0     1.0
+    79.0     0.0    14.0     0.0     0.0     1.0     0.0    13.0     0.0   116.0
+     0.0     7.0     0.0     1.0    30.0     0.0    97.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     1.0     0.0     2.0     0.0     0.0     0.0
+     0.0     1.0     0.0     0.0     2.0     0.0     0.0     3.0     0.0     0.0
+     0.0     5.0    12.0     0.0     8.0   434.0  1057.0    22.0    10.0   281.0
+50, , 133
+     0.0     0.0     0.0     0.0     0.0     1.0     2.0     0.0    22.0     3.0
+   120.0     0.0    11.0     0.0     0.0     1.0     0.0    13.0     0.0    94.0
+     0.0     5.0     0.0     0.0    53.0     0.0     3.0     0.0     0.0     1.0
+     0.0     0.0     0.0     0.0    10.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     1.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     5.0     4.0    16.0   365.0   423.0    20.0     6.0   180.0
+60, , 248
+     0.0     0.0     0.0     0.0     1.0     0.0     3.0     0.0    28.0     1.0
+   156.0     3.0     5.0     2.0     0.0     0.0     5.0    21.0     0.0   217.0
+     0.0    10.0     0.0     0.0    46.0     0.0     6.0     1.0     0.0     3.0
+     0.0     0.0     0.0     0.0     6.0     0.0     1.0     2.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0    36.0   548.0   547.0    91.0    30.0   200.0

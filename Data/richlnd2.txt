@@ -1,0 +1,95 @@
+# GPD ASCII Format
+# 24 Apr 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Richland Creek
+# Place:          USA:Illinois
+# Latitude:       40.52.30N      (  40.875   )
+# Longitude:      89.21.12W      ( -89.353333)
+# Elevation(m):   197
+# Sigle:          RICHLND2
+# Entity name:    Profile 2
+# Contact person: Grüger, E.
+# Entity notes:   Section is from the Morton Loess, ca. 19.6-25 kyr BP).
+#
+# Chron name:     [no chron]
+#
+# Publications:   Grüger, E. 1972. Pollen and seed studies of Wisconsinan
+#                 vegetation in Illinois, U.S.A. Geological Society of America
+#                 Bulletin 83:2715-2734.
+#
+29 10
+    1 Abi      A Abies
+    2 Aln      A Alnus
+    3 Bet      A Betula
+    4 Car      A Carya
+    5 Cor      A Corylus
+    6 Jun-t    A Juniperus-type
+    7 Lar      A Larix
+    8 Pic      A Picea
+    9 Pin      A Pinus
+   10 Que      A Quercus
+   11 Slx      A Salix
+   12 Ulm      A Ulmus
+   13 Amb      B Ambrosia
+   14 Art      B Artemisia
+   15 Astae.ud B Asteraceae undiff.
+   16 Cryae    B Caryophyllaceae
+   17 Cheae    B Chenopodiaceae
+   18 Cypae    B Cyperaceae
+   19 Poaae    B Poaceae
+   20 Pol.pe-t B Polygonum persicaria-type
+   21 Rosae    B Rosaceae
+   22 Tha      B Thalictrum
+   23 Polta    F Polypodiophyta
+   24 Sel.se   F Selaginella selaginoides
+   25 Spg      M Sphagnum
+   26 Spa-t    Q Sparganium-type
+   27 ind      X Indeterminable
+   28 unk      X Unknown
+   29 Tert.t   Z Tertiary types
+0
+     0.0     0.0     1.1     0.0     0.0     0.0     0.0    65.0    79.0     0.0
+     0.0     0.0     0.0     0.0     1.1     0.0     0.0    71.9     4.0     0.0
+     0.0     0.0     0.0     6.0     0.0     0.0     6.9     0.0     4.0
+5
+     2.0     0.0    10.0     0.0     0.0     1.0     1.0   115.2   129.3     0.0
+     4.0     0.0     1.0     2.0     5.0     0.0     1.0   213.4    11.0     0.0
+     1.0     0.0     0.0     4.0     0.0     0.0     8.0     4.0     0.0
+15
+     1.0     2.0     2.0     1.0     0.0     4.0     0.0   114.0   159.0     0.0
+     2.0     0.0     0.0     4.0     2.0     0.0     2.0   202.0     3.0     1.0
+     0.0     0.0     0.0     0.0     0.0     0.0     5.0     0.0     7.0
+25
+     0.0     0.0     2.0     0.0     0.0     0.0     0.0   150.0   208.0     0.0
+     2.0     0.0     0.0     1.0     3.0     0.0     3.0   120.0     8.0     0.0
+     0.0     0.0     0.0     3.0     0.0     1.0    13.0     2.0     0.0
+35
+     0.0     0.0     1.0     0.0     0.0     1.0     0.0   111.0   146.0     1.0
+     3.0     1.0     0.0     3.0     6.0     0.0     0.0   216.0     9.0     0.0
+     2.0     0.0     0.0     0.0     0.0     0.0    12.0     0.0     0.0
+55
+     2.0     1.0     2.0     0.0     0.0     2.0     0.0   147.0   172.0     2.0
+     1.0     0.0     0.0     3.0     1.0     0.0     1.0   160.0     6.0     0.0
+     0.0     0.0     0.0     4.0     0.0     1.0    18.0     0.0     6.0
+75
+     1.0     0.0     4.0     2.0     1.0     0.0     0.0   106.0   181.5     1.0
+     1.0     0.0     0.0    15.0     9.0     0.0     0.0   168.0     9.0     0.0
+     1.0     0.0     3.0     3.0     1.0     0.0    39.0     1.0    12.0
+95
+     0.0     0.0     4.0     0.0     0.0     0.0     0.0   144.0   181.0     0.0
+     0.0     0.0     0.0     2.0     2.0     1.0     1.0   155.0     9.0     0.0
+     0.0     1.0     3.0     1.0     0.0     0.0    10.0     3.0     6.0
+110
+     2.0     0.0     7.0     0.0     0.0     1.0     0.0   102.0   161.0     0.0
+     1.0     0.0     1.0     6.0     1.0     0.0     2.0   191.0    20.0     0.0
+     0.0     1.0     1.0     0.0     0.0     0.0     6.0     4.0     0.0
+115
+     0.0     0.0     4.0     0.0     0.0     2.0     0.0   108.0   184.0     0.0
+     2.0     0.0     0.0     3.0     4.0     0.0     1.0   175.0     7.0     0.0
+     0.0     0.0     2.0     2.0     0.0     0.0    12.0     0.0     9.0

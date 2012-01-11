@@ -1,0 +1,164 @@
+# GPD ASCII Format
+# 28 Feb 04
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** Pollen Database for Siberia and the Russian Far East.             **
+# ***********************************************************************
+#
+# Site name:      Kirgirlakh Stream, Berelyekh River Basin
+# Place:          RUS:Magadanskaya Oblast
+# Latitude:       62.40.00N      (  62.666667)
+# Longitude:      147.59.00E     ( 147.983333)
+# Elevation(m):   700
+# Sigle:          DIMA
+# Entity name:    Mammoth Site
+# Contact person: Lozhkin, A.V.
+# Entity notes:   palynological spectra and dates from baby mammoth (dima)
+#                 stomach, intestines, and surronding silt.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   200.0         38590    850    850  LU-718A      U    muscle
+#   200.0         39570    870    870  LU-718B      U    muscle
+#   200.0         41000   1100   1100  MAG-366B     L    skin, intestines
+#   200.0         41000    900    900  MAG-576      L    skin, large intestines
+#   200.0         40600    700    700  MAG-366A     L    skin, muscles, intesti
+#
+# Chron name:     PALE 1
+# Age model:      single point data; no model used
+# Age bounds:     40850 - 40870
+# Chron notes:    Pollen spectra from digestive track of baby Mammoth "Dima"
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     1.0         40860  41760  39966   CAV
+#
+# Publications:   Arslanov, Kh.A., V.V. Lyadov, and T.V. Tertychnaya. 1981.
+#                 The absolute age of the baby mammoth. Pages 50-51 in N.K.
+#                 Vereschagin and V.M. Mikhelson, editors. The Magadan baby
+#                 mammoth. Nauka, Leningrad. In Russian.
+#
+#                 Shilo, N.A., A.V. Lozhkin, E.E. Titov, and Yu.V. Schumilov.
+#                 1983. Kirgirlakh mammoth: paleography aspect. Nauka, Moscow.
+#                 In Russian.
+#
+#                 Anderson, P.M., and A.V. Lozhkin, editors. 2002. Late
+#                 Quaternary Vegetation and Climate of Siberia and the Russian
+#                 Far East (Palynological and Radiocarbon Database). North
+#                 East Science Center, Far East Branch, Russian Academy of
+#                 Sciences, Magadan, Russia.
+#
+63 6
+    1 Aln      A Alnus
+    2 Bet      A Betula
+    3 Ercae.ud A Ericaceae undiff.
+    4 Lar      A Larix
+    5 Pin.Pi   A Pinus subg. Pinus
+    6 Pin.St   A Pinus subg. Strobus
+    7 Pop      A Populus
+    8 Rho      A Rhododendron
+    9 Rbs.ch   A Rubus chamaemorus
+   10 Slx      A Salix
+   11 Apiae    B Apiaceae
+   12 Art      B Artemisia
+   13 Astae.Ci B Asteraceae subf. Cichorioideae
+   14 Astae.ud B Asteraceae undiff.
+   15 Braae.ud B Brassicaceae undiff.
+   16 Crd      B Cardamine
+   17 Cryae    B Caryophyllaceae
+   18 Cheae    B Chenopodiaceae
+   19 Cly      B Claytonia
+   20 Cypae    B Cyperaceae
+   21 Drb      B Draba
+   22 Epi      B Epilobium
+   23 Fabae    B Fabaceae
+   24 Gen      B Gentiana
+   25 Lamae    B Lamiaceae
+   26 Lilae    B Liliaceae
+   27 Ongae.ud B Onagraceae undiff.
+   28 Papae    B Papaveraceae
+   29 Ped      B Pedicularis
+   30 Pln      B Plantago
+   31 Poaae    B Poaceae
+   32 Pomae    B Polemoniaceae
+   33 Pol.av   B Polygonum aviculare
+   34 Pol.Ac   B Polygonum sect. Aconogonon
+   35 Pol.Bi   B Polygonum sect. Bistorta
+   36 Ranae.ud B Ranunculaceae undiff.
+   37 Rosae.ud B Rosaceae undiff.
+   38 Rubae    B Rubiaceae
+   39 Rum      B Rumex
+   40 San      B Sanguisorba
+   41 Saxae    B Saxifragaceae
+   42 Scrae.ud B Scrophulariaceae undiff.
+   43 Tha      B Thalictrum
+   44 Urt      B Urtica
+   45 Val      B Valeriana
+   46 Crp      F Cryptogramma
+   47 Dph.co   F Diphasiastrum complanatum
+   48 Equ      F Equisetum
+   49 Hup.sa-t F Huperzia selago subsp. arctica-type
+   50 Hup.se.s F Huperzia selago subsp. selago
+   51 Lyc.an.a F Lycopodium annotinum subsp. alpestre
+   52 Lyc.an.n F Lycopodium annotinum subsp. annotinum
+   53 Lyc.cl   F Lycopodium clavatum
+   54 Polta.ud F Polypodiophyta undiff.
+   55 Sel.ru   F Selaginella rupestris
+   56 Br:Bryes M Bryales
+   57 Br:Hae.u M Hepaticae undiff.
+   58 Br:Ric   M Riccia
+   59 Br:Spg   M Sphagnum
+   60 Br:Tra   M Trachyphyllum
+   61 Myp      Q Myriophyllum
+   62 Pot      Q Potamogeton
+   63 unk      X Unknown
+, , 40860
+     9.0   143.0     0.0     1.0     0.0     2.0     1.0     0.0     0.0   145.0
+     3.0    29.0     8.0    26.0    70.0     6.0    29.0     3.0     1.0   743.0
+     6.0     3.0     0.0     2.0     2.0     3.0     1.0     0.0     0.0     0.0
+   545.0     2.0     2.0    13.0     3.0    29.0     2.0     0.0     0.0     9.0
+    11.0     2.0    23.0     0.0     5.0     0.0     0.0     0.0     0.0     1.0
+     0.0     0.0     1.0    11.0    44.0    80.0    10.0     3.0    14.0     0.0
+     0.0     0.0    57.0
+, , 40860
+    31.0   214.0    15.0     1.0     0.0     9.0     0.0     1.0     0.0    65.0
+     1.0    21.0     4.0     5.0    61.0     5.0    11.0     1.0     0.0   202.0
+     6.0     2.0     1.0     1.0     0.0     2.0     0.0     0.0     1.0     0.0
+   357.0     1.0     1.0     1.0     1.0    26.0     4.0     0.0     0.0     5.0
+     7.0     1.0     8.0     0.0     5.0     0.0     0.0     0.0     0.0     0.0
+     0.0     1.0     0.0     4.0    13.0    50.0     1.0     3.0    22.0     3.0
+     0.0     0.0    30.0
+, , 40860
+    37.0   188.0    11.0     1.0     0.0    18.0     0.0     0.0     0.0    89.0
+     2.0    33.0     4.0     5.0    59.0    17.0    19.0     1.0     1.0   335.0
+    10.0     2.0     1.0     3.0     1.0     1.0     1.0     1.0     0.0     1.0
+   254.0     1.0     2.0    13.0     4.0    28.0     3.0     1.0     1.0    19.0
+     5.0     3.0    11.0     0.0     9.0     1.0     1.0     3.0     1.0     0.0
+     1.0     2.0     0.0    17.0    35.0   159.0    15.0     2.0    36.0     0.0
+     1.0     1.0    27.0
+, , 40860
+    30.0   332.0    11.0     3.0     0.0    28.0     0.0     1.0     2.0    96.0
+     5.0    34.0     6.0    13.0   106.0     5.0    15.0     1.0     1.0   373.0
+     3.0     1.0     0.0     3.0     1.0     2.0     1.0     0.0     0.0     0.0
+   365.0     2.0     1.0     9.0     4.0    41.0     2.0     0.0     0.0    11.0
+     9.0     2.0    17.0     1.0     4.0     0.0     0.0     1.0     0.0     0.0
+     1.0     0.0     0.0    12.0    53.0   112.0     5.0     7.0    37.0     1.0
+     0.0     0.0    40.0
+, , 40860
+    10.0   184.0     8.0     1.0     1.0    12.0     0.0     0.0     0.0    66.0
+     5.0    12.0    10.0     3.0    57.0     4.0     6.0     1.0     0.0   365.0
+     2.0     2.0     1.0     2.0     1.0     1.0     0.0     0.0     1.0     0.0
+   253.0     1.0     1.0     4.0     5.0    29.0     1.0     1.0     0.0     9.0
+     5.0     1.0    15.0     0.0     3.0     0.0     0.0     1.0     0.0     1.0
+     0.0     0.0     0.0     9.0    24.0    66.0     2.0     4.0    11.0     1.0
+     0.0     0.0    32.0
+, , 40860
+    21.0   218.0    17.0     1.0     0.0    21.0     0.0     0.0     0.0    84.0
+     8.0     6.0    10.0    10.0    81.0     1.0    15.0     2.0     1.0   583.0
+     2.0     1.0     0.0     1.0     0.0     0.0     1.0     0.0     0.0     0.0
+   391.0     1.0     4.0     2.0     2.0    44.0     0.0     0.0     0.0    25.0
+    11.0     0.0     2.0     1.0    12.0     0.0     0.0     2.0     0.0     0.0
+     0.0     0.0     1.0     9.0    38.0    62.0    11.0     6.0    16.0     1.0
+     0.0     0.0    25.0

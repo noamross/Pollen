@@ -1,0 +1,211 @@
+# GPD ASCII Format
+# 12 Mar 04
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** Pollen Database for Siberia and the Russian Far East.             **
+# ***********************************************************************
+#
+# Site name:      Ledovyi Obryu Exposure, Southern Section
+# Place:          RUS:Chukotskiy Avtonomnyy Okrug
+# Latitude:       64.06.00N      (  64.1     )
+# Longitude:      171.11.00E     ( 171.183333)
+# Elevation(m):   44
+# Sigle:          LEDOBOZ
+# Entity name:
+# Contact person: Lozhkin, A.V.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#    90.0    20    9300    200    200  MAG-936      L    peat
+#   800.0     1   15000     70     70  GIN-5370     L    mammoth tusk
+#   825.0    50   14045     80     80  MAG-1026     L    wood fragments
+#  2525.0    50   34100   1000   1000  MAG-935      L    wood fragments
+#  3425.0    50   39500   1000   1000  MAG-882      L    wood fragments
+#  3510.0    20   35000                MAG-932      L    peat
+#  3510.0    20   42000                MAG-934      L    peat
+# Dating notes:   peat within lake sediments of Yedoma
+#
+# Chron name:     GPD 1
+# Age model:      linear interpolation
+# Age bounds:     9380 - 15000
+# Chron notes:    Interpolated dates between dated levels 100 cm and 800 cm
+#                 should be viewed with caution.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#    90.0    20    9300   9700   8900   C14
+#   800.0     1   15000  15140  14860   C14
+#
+# Publications:   Kotov, A.N., and V.K. Ryabchun. 1986. Cryogenic complex of
+#                 late Pleistocene deposits of the Main River Valley. In A.V.
+#                 Lozhkin, editor. Volume 2. Ust'-Algan mammoth exposures.
+#                 Preprint. North East Interdisciplinary Research Institute,
+#                 Far East Branch, USSR Academy of Sciences, Magadan. In
+#                 Russian.
+#
+#                 Dort-Gol'ts, Yu.E. 1982. Characteristic form of late
+#                 Pleistocene yedoma complex in southeastern Chukotka. Pages
+#                 75-81 in Frozen geological processes and paleography of the
+#                 lowlands of northeast Asia. Magadan Publishing House,
+#                 Magadan. In Russian.
+#
+#                 Kaplin, P.A., editor. 1980. Recent deposits and Pleistocene
+#                 paleogeography of Chukotka. Nauka, Moscow. In Russian.
+#
+#                 Kotov, A.N., A.V. Lozhkin, and V.K. Ryabchun. 1989. Glacial
+#                 facies and conditions of sediment forms for upper Quaternary
+#                 sediments of the Main River valley, Chukotka. Pages 117-131
+#                 in V.F. Ivanov and B.F. Palymskii, editors. Form relief and
+#                 sediment correlation and precious metals of north east USSR.
+#                 North East Interdisciplinary Research Institute, Far East
+#                 Branch, USSR Academy of Sciences, Magadan. In Russian.
+#
+#                 Lozhkin, A.V., A.N. Kotov, and V.K. Ryabchun. 2000.
+#                 Palynological and radiocarbon data of the Ledovyi Obryv
+#                 exposure (the south east of Chukotka). Pages 118-131 in K.V.
+#                 Simakov, editor. The Quaternary Period of Beringia. North
+#                 East Interdisciplinary Research Institute, Far East Branch,
+#                 Russian Academy of Sciences, Magadan. In Russian.
+#
+#                 Anderson, P.M., and A.V. Lozhkin, editors. 2002. Late
+#                 Quaternary Vegetation and Climate of Siberia and the Russian
+#                 Far East (Palynological and Radiocarbon Database). North
+#                 East Science Center, Far East Branch, Russian Academy of
+#                 Sciences, Magadan, Russia.
+#
+61 9
+    1 Aln      A Alnus
+    2 Bet      A Betula
+    3 Emp      A Empetrum
+    4 Ercae.ud A Ericaceae undiff.
+    5 Jun      A Juniperus
+    6 Led      A Ledum
+    7 Pin.St   A Pinus subg. Strobus
+    8 Pop      A Populus
+    9 Rho      A Rhododendron
+   10 Rbs      A Rubus
+   11 Slx      A Salix
+   12 Vac      A Vaccinium
+   13 All      B Allium
+   14 Apiae    B Apiaceae
+   15 Arm      B Armeria
+   16 Art      B Artemisia
+   17 Astae.Cu B Asteraceae subf. Cichorioideae undiff.
+   18 Astae.ud B Asteraceae undiff.
+   19 Braae    B Brassicaceae
+   20 Cryae.ud B Caryophyllaceae undiff.
+   21 Ch/Am    B Chenopodiaceae/Amaranthaceae
+   22 Cypae    B Cyperaceae
+   23 Fabae    B Fabaceae
+   24 Genae    B Gentianaceae
+   25 Iriae    B Iridaceae
+   26 Lamae    B Lamiaceae
+   27 Ongae    B Onagraceae
+   28 Ped      B Pedicularis
+   29 Pln      B Plantago
+   30 Poaae    B Poaceae
+   31 Pomae    B Polemoniaceae
+   32 Polae.ud B Polygonaceae undiff.
+   33 Pol.Bi   B Polygonum sect. Bistorta
+   34 Ptl      B Potentilla
+   35 Ranae.ud B Ranunculaceae undiff.
+   36 Rosae.ud B Rosaceae undiff.
+   37 Rubae    B Rubiaceae
+   38 Rum      B Rumex
+   39 San      B Sanguisorba
+   40 Saxae    B Saxifragaceae
+   41 Sil      B Silene
+   42 Tar      B Taraxacum
+   43 Tha      B Thalictrum
+   44 Val      B Valeriana
+   45 Dph.al   F Diphasiastrum alpinum
+   46 Dph.co   F Diphasiastrum complanatum
+   47 Drp      F Dryopteris
+   48 Hup.se   F Huperzia selago
+   49 Lycae.ud F Lycopodiaceae undiff.
+   50 Lyc.an.a F Lycopodium annotinum subsp. alpestre
+   51 Lyc.an.n F Lycopodium annotinum subsp. annotinum
+   52 Lyc.cl   F Lycopodium clavatum
+   53 Ophae    F Ophioglossaceae
+   54 Polta.ud F Polypodiophyta undiff.
+   55 Sel.ru   F Selaginella rupestris
+   56 Br:Bes.u M Bryales undiff.
+   57 Br:Hae.u M Hepaticae undiff.
+   58 Br:Mee   M Meesia
+   59 Br:Ric   M Riccia
+   60 Br:Spg   M Sphagnum
+   61 Spa      Q Sparganium
+30, , 8818
+    16.0    20.0     0.0     1.0     0.0     1.0     1.0     0.0     0.0     0.0
+     1.0     0.0     0.0     0.0     0.0    10.0     5.0     6.0     0.0    22.0
+     0.0   140.0     0.0     1.0     0.0     1.0     0.0     0.0     0.0    21.0
+     2.0     0.0     0.0     0.0     1.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     1.0     1.0     0.0     0.0     1.0     0.0     0.0     0.0
+     1.0     0.0     0.0     3.0    70.0     1.0     5.0     1.0     9.0     6.0
+     0.0
+100, , 9380
+   185.0   110.0     1.0    42.0     0.0     1.0     4.0     0.0     1.0     1.0
+     1.0     6.0     0.0     0.0     0.0     0.0     0.0     1.0     0.0     1.0
+     0.0     2.0     0.0     1.0     0.0     0.0     1.0     0.0     0.0    10.0
+     0.0     1.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     1.0    15.0     0.0     0.0     0.0     3.0
+   100.0     2.0     0.0     1.0     1.0     0.0     0.0     1.0     0.0     0.0
+     0.0
+150, , 9782
+    20.0    10.0     0.0     1.0     0.0     0.0     1.0     0.0     0.0     0.0
+     1.0     0.0     0.0     3.0     1.0     7.0     3.0     7.0     0.0    40.0
+     0.0   110.0     0.0     2.0     0.0     4.0     1.0     0.0     0.0    50.0
+     1.0     0.0     0.0     0.0     1.0     7.0     0.0     0.0     0.0     0.0
+     0.0     0.0     1.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     1.0     0.0     0.0     5.0    65.0     0.0     3.0     0.0     5.0     6.0
+     0.0
+300, , 10986
+    49.0    31.0     0.0     3.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     1.0     0.0     7.0    18.0     2.0     0.0    15.0
+     0.0   102.0     0.0     0.0     0.0     1.0     0.0     0.0     0.0    14.0
+     0.0     1.0     0.0     2.0     2.0     5.0     0.0     0.0     0.0     0.0
+     1.0     0.0     0.0     1.0     0.0     0.0     0.0     0.0     1.0     0.0
+     1.0     1.0     0.0     6.0    61.0     6.0     2.0     0.0     3.0     8.0
+     0.0
+450, , 12190
+    72.0    30.0     0.0     7.0     0.0     0.0     3.0     0.0     0.0     0.0
+     1.0     1.0     0.0     1.0     0.0     4.0    15.0     0.0     0.0    13.0
+     0.0    30.0     0.0     1.0     0.0     0.0     0.0     0.0     0.0     6.0
+     1.0     0.0     0.0     2.0     0.0     3.0     0.0     0.0     0.0     1.0
+     0.0     0.0     2.0     0.0     0.0     0.0     0.0     0.0     1.0     0.0
+     0.0     0.0     0.0     3.0    90.0     0.0     1.0     1.0     3.0    16.0
+     0.0
+600, , 13394
+    30.0    30.0     0.0     1.0     0.0     0.0     3.0     0.0     0.0     0.0
+     5.0     0.0     0.0     0.0     0.0     5.0    40.0    17.0     0.0    51.0
+     0.0    70.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0    24.0
+     2.0     0.0     0.0     1.0     0.0     6.0     1.0     0.0     0.0     0.0
+     0.0     0.0     1.0     3.0     0.0     0.0     0.0     0.0     3.0     1.0
+     2.0     0.0     0.0     4.0    40.0     2.0     2.0     0.0    11.0    11.0
+     0.0
+800, , 15000
+    11.0    21.0     0.0     1.0     0.0     0.0     1.0     0.0     0.0     0.0
+    10.0     0.0     0.0     4.0     1.0    44.0     5.0     4.0     1.0    22.0
+     1.0    30.0     1.0     1.0     0.0     1.0     0.0     1.0     1.0   140.0
+     1.0     2.0     2.0     8.0    12.0    15.0     1.0     1.0     4.0     0.0
+     2.0     2.0     6.0     3.0     0.0     1.0     0.0     0.0     0.0     1.0
+     1.0     1.0     0.0     2.0    12.0    10.0     0.0     0.0     3.0     6.0
+     0.0
+940, , 16124
+    51.0    37.0     0.0     3.0     1.0     0.0     0.0     0.0     0.0     0.0
+     2.0     1.0     1.0     0.0     1.0     4.0    28.0     3.0     5.0     5.0
+     1.0    24.0     0.0     0.0     1.0     0.0     0.0     0.0     0.0    27.0
+     0.0     0.0     0.0     0.0     1.0     5.0     0.0     0.0     1.0     0.0
+     0.0     5.0     1.0     0.0     0.0     0.0     0.0     1.0     1.0     0.0
+     0.0     1.0     1.0     4.0   100.0     4.0     6.0     0.0     4.0    11.0
+     0.0
+1050, , 17007
+    40.0    24.0     0.0     2.0     0.0     0.0     6.0     1.0     0.0     1.0
+     7.0     0.0     0.0     4.0     0.0    15.0    36.0     5.0     0.0    24.0
+     0.0    33.0     0.0     0.0     0.0     0.0     1.0     0.0     1.0    80.0
+     1.0     0.0     0.0     3.0     0.0     2.0     0.0     0.0     6.0     0.0
+     1.0     1.0     1.0     0.0     0.0     0.0     0.0     0.0     1.0     0.0
+     2.0     0.0     0.0     6.0    35.0     0.0     1.0     0.0     2.0     4.0
+     1.0

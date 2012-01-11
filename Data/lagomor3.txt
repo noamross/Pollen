@@ -1,0 +1,98 @@
+# GPD ASCII Format
+# 24 Apr 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the Latin American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Lago Moreno
+# Place:          ARG:Rio Negro
+# Latitude:       41.03.30S      ( -41.058333)
+# Longitude:      71.31.00W      ( -71.516667)
+# Elevation(m):   800
+# Sigle:          LAGOMOR3
+# Entity name:    M3
+# Contact person: Markgraf, V.
+# Entity notes:   Site also called Lago Moreno. Undated 1.5 m drive of
+#                 sediment-water interphase. Long core see Morenito.
+#
+# Chron name:     Valencio et al. 1985
+# Age model:      linear interpolation
+# Age bounds:     680 - 3370
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0     0       0     30    -30   TOP
+#    83.0     1    2345   2345   2345   POL
+#
+# Publications:   Valencio, A.A., K.M. Creer, A.M. Sinito, M.M. Mazzoni, M.S.
+#                 Alonso, and V. Markgraf. 1985. Palaeomagnetism,
+#                 sedimentology, radiocarbon age determinations and palynology
+#                 of the Llao Llao area, southwestern Argentina (lat. 41°S,
+#                 long. 71°30'W): palaeolimnological aspects. Quaternary of
+#                 South America and Antarctic Peninsula 3:109-148.
+#
+36 5
+    1 Aus.c-t  A Austrocedrus chilensis-type
+    2 Aza      A Azara
+    3 Bud      A Buddleja
+    4 Ercae    A Ericaceae
+    5 May      A Maytenus
+    6 Mis      A Misodendrum
+    7 Mytae    A Myrtaceae
+    8 Not.d-t  A Nothofagus dombeyi-type
+    9 Pod.n    A Podocarpus nubigena
+   10 Praae    A Proteaceae
+   11 Rhaae    A Rhamnaceae
+   12 Sxg.c    A Saxegothaea conspicua
+   13 Sch      A Schinus
+   14 Trx      A Tristerix
+   15 Wei      A Weinmannia
+   16 Apiae    B Apiaceae
+   17 Astae.Au B Asteraceae subf. Asteroideae undiff.
+   18 Astae.Ci B Asteraceae subf. Cichorioideae
+   19 Astae.Mu B Asteraceae tribe Mutisieae
+   20 Braae    B Brassicaceae
+   21 Cryae    B Caryophyllaceae
+   22 Ch/Am    B Chenopodiaceae/Amaranthaceae
+   23 Cypae    B Cyperaceae
+   24 Gun      B Gunnera
+   25 Poaae    B Poaceae
+   26 Rum      B Rumex
+   27 Polta.m  F Polypodiophyta (monolete)
+   28 Polta.t  F Polypodiophyta (trilete)
+   29 Btr      L Botryococcus
+   30 Pdi      L Pediastrum
+   31 Iso      Q Isoëtes
+   32 ind      X Indeterminable
+   33 Euc.spik - Eucalyptus spike (number counted)
+   34 Euc.ta.n - Eucalyptus tablets (added, number)
+   35 EucCn/t  - Eucalyptus tablets (concentration, grains/tablet)
+   36 sa.vo.ml - Sample volume (ml)
+24.4, , 689
+   256.0     0.0     0.0     0.0     0.0     2.0    19.0   171.0     1.0     0.0
+     0.0     7.0     0.0     0.0     0.0     1.0     7.0     1.0     0.0     1.0
+     1.0     2.0    17.0     0.0    36.0    16.0     0.0     0.0     9.0     2.0
+   129.0     0.0   129.0     6.0 13550.0     4.8
+28.8, , 814
+   229.0     1.0     1.0     0.0     1.0     4.0     4.0   118.0     0.0     0.0
+     0.0     2.0     1.0     1.0     0.0     1.0     1.0     0.0     0.0     2.0
+     0.0     0.0     6.0     0.0     9.0     0.0     0.0     0.0    28.0    59.0
+    19.0     1.0    34.0     6.0 13550.0     4.8
+39.8, , 1124
+   297.0     0.0     0.0     0.0     2.0     4.0     1.0   114.0     3.0     1.0
+     2.0     6.0     1.0     0.0     1.0     0.0     1.0     0.0     1.0     2.0
+     0.0     1.0    33.0     0.0    17.0     0.0     0.0     1.0    24.0    14.0
+    79.0     1.0    72.0     6.0 13550.0     4.8
+83.8, , 2368
+   248.0     4.0     0.0     0.0    16.0     1.0    11.0   115.0     1.0     2.0
+    14.0     3.0    11.0     0.0     0.0     3.0     4.0     0.0     0.0     0.0
+     0.0     2.0    22.0     2.0    36.0     0.0     2.0     2.0   109.0    17.0
+   117.0     0.0    86.0     6.0 13550.0     4.8
+119, , 3362
+   162.0     0.0     0.0     1.0    23.0     3.0     2.0   116.0     3.0     2.0
+     4.0     6.0     4.0     0.0     0.0     2.0     4.0     0.0     0.0     0.0
+     0.0     8.0    16.0     0.0    33.0     0.0     1.0     1.0     2.0    20.0
+   101.0     0.0    35.0     6.0 13550.0     4.8

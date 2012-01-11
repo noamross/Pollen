@@ -1,0 +1,129 @@
+# GPD ASCII Format
+# 25 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the Latin American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      San Pedro
+# Place:          CHL:
+# Latitude:       42.15.00S      ( -42.25    )
+# Longitude:      73.57.00W      ( -73.95    )
+# Elevation(m):   650
+# Sigle:          SANPEDRO
+# Entity name:
+# Contact person: Moar, N.T.
+#
+# Chron name:     [no chron]
+#
+# Publications:   Godley, E.J., and N.T. Moar. 1973. Vegetation and pollen
+#                 analysis of two bogs on Chiloe. New Zealand Journal of
+#                 Botany 11:255-268.
+#
+39 13
+    1 Aus.c-t  A Austrocedrus chilensis-type
+    2 Dri      A Drimys
+    3 Eph      A Ephedra
+    4 Ercae    A Ericaceae
+    5 Ecr      A Eucryphia
+    6 May      A Maytenus
+    7 Mis      A Misodendrum
+    8 Mytae    A Myrtaceae
+    9 Not.d-t  A Nothofagus dombeyi-type
+   10 Pod.n    A Podocarpus nubigena
+   11 Praae    A Proteaceae
+   12 Psx      A Pseudopanax
+   13 Wei      A Weinmannia
+   14 Apiae    B Apiaceae
+   15 Asl      B Astelia
+   16 Astae    B Asteraceae
+   17 Braae    B Brassicaceae
+   18 Cryae    B Caryophyllaceae
+   19 Cheae    B Chenopodiaceae
+   20 Cypae    B Cyperaceae
+   21 Gen      B Gentiana
+   22 Gerae    B Geraniaceae
+   23 Gun      B Gunnera
+   24 Malae    B Malvaceae
+   25 Pln      B Plantago
+   26 Poaae    B Poaceae
+   27 Ranae    B Ranunculaceae
+   28 Saxae    B Saxifragaceae
+   29 Vioae    B Violaceae
+   30 Hym      F Hymenophyllum
+   31 Lyc.cl-t F Lycopodium clavatum-type
+   32 Polta.m  F Polypodiophyta (monolete)
+   33 Polta.t  F Polypodiophyta (trilete)
+   34 Spg      M Sphagnum
+   35 Dro      Q Drosera
+   36 Hip.v    Q Hippuris vulgaris
+   37 Pot      Q Potamogeton
+   38 Rstae    Q Restionaceae
+   39 APS      - Author's pollen sum
+10
+     0.0     1.4     0.0     0.0     0.0     0.0    12.4    16.6    86.9    13.8
+     0.0     0.0     5.5     0.0     0.0     0.0     0.0     0.0     0.0    17.9
+     0.0     0.0     6.9     0.0     0.0     5.5     0.0     0.0     1.4     0.0
+     0.0     1.4     0.0     0.0     0.0     0.0     4.1    64.9   138.0
+40
+     1.1     1.1     0.0    29.8     0.0     0.0     8.5    25.6   121.4    21.3
+     0.0     0.0     1.1     0.0     0.0     0.0     0.0     0.0     1.1     6.4
+     0.0     1.1     1.1     1.1     0.0     6.4     2.1     0.0    10.7     1.1
+     0.0     2.1     0.0     0.0     1.1     0.0     1.1     8.5   213.0
+60
+     2.6     2.6     0.0     7.9     0.0     0.0    15.8    34.3   163.7    21.1
+     1.3     5.3     1.3     0.0     1.3     5.3     0.0     0.0     0.0    37.0
+     0.0     0.0     5.3     0.0     0.0     7.9     2.6     0.0    39.6     1.3
+     1.3     2.6     1.3     0.0     0.0     0.0     0.0     7.9   264.0
+80
+     1.0     0.0     0.0     3.9     0.0     0.0     1.0     8.7    57.2    17.5
+     0.0     2.9     3.9     0.0      .5     2.9     0.0     0.0     0.0     4.9
+     0.0     0.0     0.0     0.0     0.0     4.9     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0      .5     0.0     0.0    15.5     0.0    97.0
+100
+     0.0     6.3     0.0     0.0     0.0     0.0     6.3    15.9   202.9    69.7
+     0.0     0.0     6.3     0.0   126.8     0.0     0.0     0.0     0.0    12.7
+     0.0     0.0     0.0     0.0     0.0     6.3     0.0     0.0    47.6     3.2
+     0.0     6.3     0.0     0.0     0.0     0.0     0.0     1.6   317.0
+120
+     0.0     0.0     0.0     3.2     1.6     0.0     1.6    13.0   220.3    68.0
+     3.2     3.2     9.7     0.0   126.4     3.2     1.6     0.0     0.0    16.2
+     0.0     0.0     0.0     0.0     0.0    19.4    32.4     0.0     0.0     1.6
+     0.0     6.5     0.0     0.0     0.0     3.2     0.0     0.0   324.0
+140
+     0.0     0.0     0.0     0.0     0.0     0.0    13.1     8.8   376.7     4.4
+     0.0    13.1    17.5     0.0     0.0    13.1     0.0     0.0     4.4    17.5
+     0.0     0.0     0.0     0.0     0.0    30.7     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0    17.5   919.8     0.0   438.0
+160
+     0.0     0.0     0.0     6.2     0.0     0.0     1.5    21.6   265.7     3.1
+     0.0     1.5     6.2     0.0     1.5     0.0     0.0     0.0     0.0    12.4
+     0.0     0.0     0.0     0.0     0.0    15.5     1.5     3.1    12.4     0.0
+     0.0    40.2     0.0     0.0     0.0     0.0     0.0     9.3   309.0
+180
+     0.0     0.0     0.0     2.1     0.0     0.0     4.3    10.7   176.8    17.0
+     0.0     0.0     2.1     0.0    12.8     0.0     2.1     0.0     0.0     4.3
+     0.0     0.0     0.0     0.0     2.1     4.3     2.1     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     2.1     1.1    27.7     6.4   213.0
+190
+     0.0     2.5     0.0     5.1     0.0     0.0     1.3    17.7   144.2    75.9
+     0.0     1.3     1.3     0.0    10.1     1.3     0.0     0.0     0.0     5.1
+     1.3     0.0     0.0     0.0     0.0     1.3    10.1     0.0     2.5     1.3
+     0.0     0.0     0.0     0.0     0.0     0.0     2.5    22.8   253.0
+200
+     0.0     1.3     0.0     2.7     0.0     0.0     2.7    10.7   213.6    34.7
+     0.0     0.0     1.3     0.0    66.8     0.0     1.3     0.0     0.0     2.7
+     0.0     0.0     5.3     0.0     0.0     8.0    61.4     0.0     0.0     0.0
+     0.0    10.7     0.0     0.0     0.0     1.3    10.7    32.0   267.0
+210
+     0.0     0.0     0.0     2.1     2.1     0.0     2.1    12.3   149.7    30.8
+     0.0     0.0     6.2     0.0    22.6     0.0     0.0     0.0     0.0    18.5
+     0.0     0.0     2.1     0.0     0.0    14.4     8.2     6.2    16.4     2.1
+     0.0    10.3     0.0     0.0     0.0     4.1    45.1    12.3   205.0
+225
+     0.0     0.0     5.3     2.6     0.0     5.3     5.3    36.9   442.7    21.1
+     2.6     0.0     2.6     2.6    79.1     2.6     2.6     2.6     5.3    21.1
+     0.0     2.6   110.7     0.0     0.0    26.4    73.8     5.3     2.6     0.0
+     5.3    10.5     0.0     0.0     0.0     0.0    26.4    10.5   527.0

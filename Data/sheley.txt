@@ -1,0 +1,161 @@
+# GPD ASCII Format
+# 24 Apr 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Sheley Pond
+# Place:          USA:Georgia
+# Latitude:       31.04.51N      (  31.080833)
+# Longitude:      81.38.13W      ( -81.636944)
+# Elevation(m):
+# Sigle:          SHELEY
+# Entity name:
+# Contact person: Watts, W.A.
+# Entity notes:   Recorded values were derived by applying percentages to a
+#                 known pollen sum of 500. Lat-Long values are estimates.
+#
+# Chron name:     NAPD 1
+# Age model:      linear interpolation
+# Age bounds:     20 - 820
+# Chron notes:    Chron uses top and Ambrosia rise.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#    10.0     0     -20      0    -20   TOP
+#    47.5    25     150    200    100   AMR
+#
+53 11
+    1 Ace.ru   A Acer rubrum
+    2 Aln      A Alnus
+    3 Bet      A Betula
+    4 Car      A Carya
+    5 Cas      A Castanea
+    6 Cel      A Celtis
+    7 Cle      A Clethra
+    8 Fag      A Fagus
+    9 Fra      A Fraxinus
+   10 Jug      A Juglans
+   11 Liq      A Liquidambar
+   12 Myr      A Myrica
+   13 Nys      A Nyssa
+   14 Os/Ca    A Ostrya/Carpinus
+   15 Pin      A Pinus
+   16 Plr.a    A Planera aquatica
+   17 Pla      A Platanus
+   18 Que      A Quercus
+   19 Slx      A Salix
+   20 Txm      A Taxodium
+   21 Ulm      A Ulmus
+   22 Vib      A Viburnum
+   23 Vit      A Vitis
+   24 Amb      B Ambrosia
+   25 Apiae    B Apiaceae
+   26 Astae.Au B Asteraceae subf. Asteroideae undiff.
+   27 Bid      B Bidens
+   28 cf.Asi   B cf. Asimina
+   29 Che-t    B Chenopodium-type
+   30 Cypae    B Cyperaceae
+   31 Iva      B Iva
+   32 Lec      B Lechea
+   33 Ongae    B Onagraceae
+   34 Poaae    B Poaceae
+   35 Pol      B Polygonum
+   36 Ptd      B Pterodon
+   37 Rum.al-t B Rumex acetosella-type
+   38 Drp-t    F Dryopteris-type
+   39 cf.Psl.c F Lycopodiaceae cf. Pseudolycopodiella carolinianum
+   40 Osu.c    F Osmunda cinnamomea
+   41 Plp      F Polypodium
+   42 Spg      M Sphagnum
+   43 Brs.s    Q Brasenia schreberi
+   44 cf.Nym   Q cf. Nymphaea
+   45 Iso      Q Isoëtes
+   46 Myp      Q Myriophyllum
+   47 Nup      Q Nuphar
+   48 Nym      Q Nymphaea
+   49 Pro      Q Proserpinaca
+   50 Sag      Q Sagittaria
+   51 Spa-t    Q Sparganium-type
+   52 Utr      Q Utricularia
+   53 unk      X Unknown
+20, , 25
+     4.0     1.0     0.0     1.0     0.0     0.0     1.0     0.0     3.0     0.0
+    11.0     7.0    12.0     0.0   257.0     1.0     0.0   104.0     0.0    56.0
+     6.0     0.0     0.0    16.0     0.0     4.0     0.0     0.0     4.0     5.0
+     1.0     0.0     0.0     3.0     0.0     0.0     5.0     1.0     3.0     0.0
+     0.0     0.0     0.0     0.0     0.0    86.0     2.0    11.0     0.0     0.0
+     0.0     1.0     2.0
+35, , 93
+     0.0     2.0     0.0    10.0     0.0     0.0     0.0     3.0     3.0     0.0
+     4.0     4.0     4.0     3.0   301.0     1.0     2.0    72.0     0.0    72.0
+     2.0     0.0     0.0     7.0     0.0     2.0     1.0     0.0     1.0     5.0
+     0.0     0.0     1.0     3.0     0.0     1.0     0.0     3.0     0.0     0.0
+     0.0     1.0     3.0     1.0     0.0    43.0     0.0     8.0     0.0     0.0
+     0.0     0.0     1.0
+60, , 207
+     0.0     0.0     0.0     9.0     0.0     0.0     0.0     1.0     2.0     0.0
+     8.0     8.0     7.0     1.0   365.0     0.0     2.0    40.0     0.0    22.0
+     3.0     0.0     0.0     2.0     0.0    11.0     4.0     1.0     0.0    23.0
+     0.0     0.0     0.0    10.0     0.0     2.0     0.0     2.0     0.0     0.0
+     0.0     0.0    18.0     1.0     0.0     5.0     0.0     2.0     0.0     2.0
+     0.0     4.0    14.0
+75, , 275
+     1.0     0.0     0.0    10.0     1.0     0.0     0.0     0.0     1.0     0.0
+     6.0     1.0     3.0     5.0   379.0     0.0     2.0    57.0     0.0    23.0
+     1.0     1.0     0.0     0.0     0.0     3.0     1.0     0.0     0.0    13.0
+     0.0     0.0     0.0    12.0     0.0     3.0     0.0     1.0     0.0     1.0
+     0.0     0.0     3.0     0.0     0.0    45.0     0.0     4.0     0.0     0.0
+     0.0     0.0     1.0
+100, , 388
+     0.0     1.0     1.0    12.0     0.0     0.0     0.0     1.0     4.0     0.0
+     5.0     6.0     6.0     5.0   357.0     0.0     0.0    73.0     1.0    20.0
+     1.0     0.0     1.0     0.0     0.0     1.0     3.0     0.0     0.0    28.0
+     0.0     0.0     1.0     9.0     0.0     0.0     0.0     2.0     1.0     1.0
+     0.0     1.0     6.0     2.0     2.0    59.0     0.0     6.0     1.0     1.0
+     1.0     0.0     1.0
+120, , 479
+     0.0     1.0     1.0     6.0     0.0     0.0     1.0     2.0     3.0     0.0
+    11.0     4.0     3.0     6.0   360.0     0.0     0.0    69.0     0.0    20.0
+     5.0     0.0     0.0     0.0     0.0     0.0     6.0     0.0     0.0    12.0
+     0.0     0.0     0.0    12.0     0.0     3.0     0.0     4.0     0.0     0.0
+     0.0     0.0     2.0     1.0     1.0    41.0     0.0     4.0     0.0     1.0
+     0.0     0.0     1.0
+140, , 569
+     0.0     3.0     0.0     7.0     0.0     0.0     0.0     1.0     3.0     1.0
+     4.0     3.0     4.0     4.0   346.0     0.0     3.0    84.0     0.0    24.0
+     2.0     0.0     0.0     0.0     0.0     3.0     1.0     0.0     1.0    18.0
+     2.0     0.0     0.0    19.0     1.0     0.0     0.0     1.0     0.0     0.0
+     0.0     0.0     3.0     2.0     1.0    33.0     0.0    21.0     0.0     1.0
+     0.0     2.0     1.0
+160, , 660
+     1.0     1.0     0.0     7.0     0.0     1.0     0.0     0.0     0.0     0.0
+     7.0     6.0     4.0     3.0   360.0     0.0     2.0    72.0     0.0    22.0
+     3.0     0.0     0.0     0.0     0.0     2.0     0.0     0.0     0.0    14.0
+     0.0     0.0     0.0     4.0     0.0     1.0     0.0     2.0     1.0     0.0
+     1.0     0.0     3.0     0.0     1.0    46.0     0.0     3.0     0.0     1.0
+     0.0     1.0     4.0
+180, , 751
+     1.0     0.0     0.0     9.0     0.0     0.0     0.0     1.0     0.0     1.0
+     6.0     3.0     2.0     1.0   398.0     0.0     0.0    66.0     0.0     5.0
+     3.0     0.0     0.0     0.0     0.0     1.0     0.0     0.0     0.0    13.0
+     0.0     0.0     0.0    18.0     0.0     0.0     0.0     0.0     1.0     0.0
+     0.0     0.0     2.0     1.0     0.0    64.0     0.0     3.0     0.0     0.0
+     0.0     1.0     2.0
+190, , 796
+     0.0     1.0     0.0     6.0     0.0     0.0     0.0     0.0     1.0     0.0
+    10.0     1.0     1.0     3.0   342.0     0.0     1.0   111.0     0.0     4.0
+     2.0     0.0     0.0     0.0     2.0     7.0     0.0     0.0     0.0    15.0
+     1.0     0.0     0.0    24.0     1.0     2.0     0.0     2.0     1.0     0.0
+     0.0     0.0     4.0     0.0     0.0    31.0     0.0     0.0     0.0     0.0
+     0.0     4.0     2.0
+195, , 819
+     0.0     0.0     0.0    10.0     1.0     0.0     1.0     0.0     1.0     1.0
+     4.0     1.0     2.0     4.0   348.0     0.0     2.0   112.0     0.0     2.0
+     2.0     1.0     0.0     0.0     0.0     0.0     1.0     0.0     0.0    16.0
+     0.0     1.0     0.0    15.0     0.0     0.0     0.0     0.0     3.0     0.0
+     0.0     0.0     4.0     2.0     0.0    86.0     0.0     0.0     0.0     1.0
+     0.0     4.0     2.0

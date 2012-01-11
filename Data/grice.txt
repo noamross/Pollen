@@ -1,0 +1,125 @@
+# GPD ASCII Format
+# 23 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Grice Pond
+# Place:          USA:Minnesota
+# Latitude:       47.12.00N      (  47.2     )
+# Longitude:      95.45.00W      ( -95.75    )
+# Elevation(m):
+# Sigle:          GRICE
+# Entity name:
+# Contact person: McAndrews, J.H.
+#
+# Chron name:     NAPD 1
+# Age model:      linear interpolation
+# Age bounds:     -10 - 650
+# Chron notes:    Chron uses surface date (-15 BP) and the Ambrosia-rise (80
+#                 BP).
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0     0     -15      0    -15   TOP
+#    10.0    10      80    130     30   AMR
+#
+47 8
+    1 Abi      A Abies
+    2 Ace.ne   A Acer negundo
+    3 Ace.sa   A Acer saccharum
+    4 Aln      A Alnus
+    5 Bet      A Betula
+    6 Cor      A Corylus
+    7 Cupae    A Cupressaceae
+    8 Fra.am-t A Fraxinus americana-type
+    9 Fra.ni   A Fraxinus nigra
+   10 Jug.c    A Juglans cinerea
+   11 Jug.n    A Juglans nigra
+   12 Lar      A Larix
+   13 Os/Ca    A Ostrya/Carpinus
+   14 Pic      A Picea
+   15 Pin      A Pinus
+   16 Pla      A Platanus
+   17 Pop      A Populus
+   18 Que      A Quercus
+   19 Slx      A Salix
+   20 Sar.v    A Sarcobatus vermiculatus
+   21 Til      A Tilia
+   22 Tsu      A Tsuga
+   23 Ulm      A Ulmus
+   24 Amb      B Ambrosia
+   25 Art      B Artemisia
+   26 Astae.Au B Asteraceae subf. Asteroideae undiff.
+   27 Cryae    B Caryophyllaceae
+   28 Ch/Am.ud B Chenopodiaceae/Amaranthaceae undiff.
+   29 Cypae    B Cyperaceae
+   30 Dal.c-t  B Dalea candida-type
+   31 Dal.p    B Dalea purpurea
+   32 Hum      B Humulus
+   33 Iva.a    B Iva annua
+   34 Iva.x    B Iva xanthifolia
+   35 Lamae    B Lamiaceae
+   36 Pln      B Plantago
+   37 Poaae    B Poaceae
+   38 Drp-t    F Dryopteris-type
+   39 Equ      F Equisetum
+   40 Sel.ru   F Selaginella rupestris
+   41 Myp      Q Myriophyllum
+   42 Nup      Q Nuphar
+   43 Pot      Q Potamogeton
+   44 Sag      Q Sagittaria
+   45 Typ.l    Q Typha latifolia
+   46 ind      X Indeterminable
+   47 unk      X Unknown
+1, , -6
+     1.0     0.0     1.0    11.0    97.0    10.0     0.0     0.0     8.0     0.0
+     0.0     0.0    19.0     4.0    63.0     0.0     3.0    71.0     3.0     0.0
+     3.0     0.0    16.0    40.0    15.0     3.0     0.0     6.0     5.0     0.0
+     0.0     1.0     0.0     3.0     0.0     1.0    14.0     5.0     0.0     6.0
+     4.0     1.0     0.0     0.0     7.0     7.0     2.0
+10, , 80
+     2.0     0.0     3.0     9.0    78.0    10.0     1.0     1.0     6.0     0.0
+     0.0     1.0    32.0     4.0    77.0     0.0     1.0    77.0     1.0     0.0
+     5.0     0.0    18.0    15.0    11.0     5.0     0.0     2.0    14.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0    17.0     3.0     0.0     0.0
+     4.0     0.0     0.0     0.0     3.0    10.0     3.0
+20, , 175
+     1.0     0.0     0.0    13.0    92.0     9.0     0.0     0.0     3.0     0.0
+     0.0     1.0    29.0     4.0    82.0     1.0     0.0    82.0     0.0     0.0
+     3.0     0.0    20.0    16.0    13.0     2.0     0.0     5.0     5.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0    23.0     2.0     0.0     0.0
+     3.0     1.0     1.0     1.0     1.0     7.0     1.0
+30, , 270
+     3.0     0.0     2.0    13.0    69.0     7.0     2.0     0.0     4.0     0.0
+     0.0     2.0    14.0     7.0   119.0     0.0     0.0    58.0     3.0     3.0
+     1.0     1.0     9.0     3.0    10.0     4.0     0.0     2.0    20.0     0.0
+     0.0     0.0     1.0     0.0     0.0     0.0    19.0     0.0     0.0     1.0
+     2.0     0.0     0.0     0.0     1.0     5.0     1.0
+40, , 365
+     1.0     0.0     3.0     5.0    69.0     7.0     2.0     0.0     4.0     0.0
+     1.0     0.0    37.0     5.0   115.0     0.0     1.0    47.0     0.0     1.0
+     5.0     0.0    15.0    13.0    25.0     4.0     0.0     3.0    21.0     0.0
+     1.0     0.0     0.0     0.0     0.0     0.0    15.0     2.0     2.0     2.0
+     5.0     0.0     0.0     0.0     2.0     4.0     3.0
+50, , 460
+     2.0     1.0     1.0     7.0    73.0     6.0     0.0     0.0     4.0     2.0
+     0.0     0.0    48.0     5.0    68.0     0.0     2.0    65.0     2.0     1.0
+     7.0     0.0    15.0    11.0     7.0     0.0     1.0     3.0    16.0     0.0
+     0.0     0.0     0.0     0.0     1.0     0.0     9.0     1.0     0.0     1.0
+     6.0     0.0     0.0     0.0     1.0     6.0     1.0
+60, , 555
+     3.0     0.0     1.0     8.0    96.0     6.0     0.0     4.0     2.0     0.0
+     0.0     1.0    39.0     6.0    69.0     0.0     0.0    61.0     1.0     0.0
+     6.0     1.0    15.0    11.0    12.0     7.0     0.0     2.0     7.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0    18.0     4.0     0.0     2.0
+     8.0     0.0     0.0     0.0     3.0    12.0     0.0
+70, , 650
+     1.0     0.0     4.0    12.0   104.0     8.0     0.0     0.0     0.0     0.0
+     0.0     0.0    58.0     3.0    94.0     0.0     2.0    44.0     0.0     0.0
+     2.0     0.0    13.0     8.0     7.0     1.0     0.0     1.0    14.0     1.0
+     0.0     0.0     0.0     0.0     0.0     1.0    13.0     1.0     0.0     0.0
+     3.0     0.0     0.0     0.0     1.0    11.0     1.0

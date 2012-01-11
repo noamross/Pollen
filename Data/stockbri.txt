@@ -1,0 +1,129 @@
+# GPD ASCII Format
+# 25 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Stockbridge Bowl
+# Place:          USA:Massachusetts
+# Latitude:       42.20.00N      (  42.333333)
+# Longitude:      73.09.00W      ( -73.15    )
+# Elevation(m):   274
+# Sigle:          STOCKBRI
+# Entity name:
+# Contact person: Patterson, W.A. III
+#
+# Chron name:     NAPD 1
+# Age model:      linear interpolation
+# Age bounds:     0 - 240
+# Chron notes:    Chron uses top and Rumex rise.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0     0       0     20    -20   TOP
+#    70.0     0     200    300    100   ESH
+#
+58 6
+    1 Ace.ru   A Acer rubrum
+    2 Ace.sa   A Acer saccharum
+    3 Aln.i    A Alnus incana
+    4 Bet      A Betula
+    5 Car      A Carya
+    6 Cas      A Castanea
+    7 Cel      A Celtis
+    8 Cor      A Corylus
+    9 Cupae    A Cupressaceae
+   10 Fag      A Fagus
+   11 Fra.ni   A Fraxinus nigra
+   12 Fra.pe   A Fraxinus pennsylvanica
+   13 Ilx      A Ilex
+   14 Jug.c    A Juglans cinerea
+   15 Jug.n    A Juglans nigra
+   16 Liq      A Liquidambar
+   17 Myr      A Myrica
+   18 Os/Ca    A Ostrya/Carpinus
+   19 Pic      A Picea
+   20 Pin.st   A Pinus strobus
+   21 Pin.Pi   A Pinus subg. Pinus
+   22 Pin.ud   A Pinus undiff.
+   23 Pla      A Platanus
+   24 Pop      A Populus
+   25 Que      A Quercus
+   26 Slx      A Salix
+   27 Sam      A Sambucus
+   28 Tsu      A Tsuga
+   29 Ulm      A Ulmus
+   30 Vib      A Viburnum
+   31 Amb      B Ambrosia
+   32 Apiae    B Apiaceae
+   33 Art      B Artemisia
+   34 Astae.Au B Asteraceae subf. Asteroideae undiff.
+   35 Ch/Am    B Chenopodiaceae/Amaranthaceae
+   36 Cypae    B Cyperaceae
+   37 Fabae    B Fabaceae
+   38 Hu/Ca.s  B Humulus/Cannabis sativa
+   39 Imp      B Impatiens
+   40 Lamae    B Lamiaceae
+   41 Pln.la   B Plantago lanceolata
+   42 Pln.ma   B Plantago major
+   43 Poaae    B Poaceae
+   44 Porae    B Portulacaceae
+   45 Rosae    B Rosaceae
+   46 Rum      B Rumex
+   47 Tha      B Thalictrum
+   48 Hup.l    F Huperzia lucidula
+   49 Lyc.cl   F Lycopodium clavatum
+   50 Osu      F Osmunda
+   51 Ptr      F Pteridium
+   52 Spg      M Sphagnum
+   53 Pot      Q Potamogeton
+   54 Ty/Sp    Q Typha/Sparganium
+   55 sp.ud    S Spore undiff.
+   56 ind      X Indeterminable
+   57 unk      X Unknown
+   58 Euc.spik - Eucalyptus spike (number counted)
+0, , 0
+     7.0     6.0     3.0    55.0     3.0     1.0     1.0     0.0     5.0     4.0
+     0.0    12.0     0.0     1.0     0.0     0.0     2.0     8.0     3.5    17.5
+     1.0    11.0     2.0     6.0    56.0     3.0     1.0     6.0     8.0     0.0
+     7.0     0.0     0.0     1.0     1.0     2.0     0.0     0.0     0.0     0.0
+     3.0     0.0     5.0     0.0     2.0     1.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     8.0     0.0  1483.0
+18.2, , 52
+     2.0     4.0     0.0    55.0     2.0     2.0     0.0     0.0     4.0     3.0
+     2.0    18.0     1.0     0.0     1.0     0.0     0.0     1.0     1.0    10.0
+     3.0     7.0     2.0     1.0    30.0     5.0     0.0     2.0    13.0     1.0
+    17.0     0.0     1.0     0.0     0.0     2.0     0.0     1.0     0.0     0.0
+     3.0     0.0    20.0     0.0     4.0     2.0     1.0     0.0     1.0     1.0
+     0.0     1.0     1.0     0.0     2.0    13.0     2.0  1712.0
+22.8, , 65
+     1.0     2.0     6.0    92.0     5.0     3.0     0.0     1.0     2.0     9.0
+     7.0    14.0     0.0     2.0     1.0     1.0     1.0     6.0     1.0     7.5
+     2.0     5.0     1.0     6.0    30.0     6.0     0.0    12.0    14.0     0.0
+    24.0     0.0     2.0     2.0     3.0     2.0     0.0     0.0     0.0     0.0
+     1.0     1.0    21.0     1.0     1.0     7.0     0.0     0.0     2.0     1.0
+     0.0     0.0     5.0     0.0     1.0    17.0     2.0  1585.0
+27.3, , 78
+     0.0     5.0     8.0    43.0     5.0    11.0     0.0     1.0     4.0    11.0
+     1.0     4.0     1.0     0.0     0.0     0.0     2.0     5.0     2.5    16.5
+     1.0     9.5     2.0     1.0    34.0     8.0     0.0     3.0     7.0     0.0
+    22.0     0.0     1.0     5.0     1.0     1.0     1.0     0.0     1.0     1.0
+     4.0     0.0    37.0     0.0     1.0    14.0     0.0     1.0     1.0     1.0
+     2.0     0.0     3.0     1.0     1.0    17.0     2.0   652.0
+61, , 174
+     0.0     9.0     4.0    59.0     5.0    19.0     0.0     0.0     3.0    20.0
+     5.0     6.0     0.0     4.0     0.0     0.0     1.0     9.0     5.5    33.5
+     0.0    14.5     2.0     1.0    41.0     0.0     1.0    17.0     1.0     0.0
+    17.0     1.0     0.0     0.0     0.0     1.0     0.0     0.0     0.0     0.0
+     0.0     1.0    32.0     0.0     1.0     9.0     0.0     0.0     0.0     0.0
+     4.0     0.0     1.0     0.0     1.0    13.0     1.0   206.0
+81, , 231
+     3.0     8.0     2.0    47.0    12.0    31.0     0.0     0.0     3.0    23.0
+     4.0     4.0     0.0     1.0     0.0     0.0     1.0     3.0     2.0    31.0
+     1.0    24.5     1.0     0.0    58.0     0.0     0.0    15.0     3.0     0.0
+     0.0     0.0     0.0     0.0     0.0     1.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     1.0     0.0     0.0     0.0     1.0    12.0     1.0    87.0

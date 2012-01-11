@@ -1,0 +1,162 @@
+# GPD ASCII Format
+# 25 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Yesterday Lake
+# Place:          CAN:Alberta
+# Latitude:       56.46.00N      (  56.766667)
+# Longitude:      119.29.00W     (-119.483333)
+# Elevation(m):   1050
+# Sigle:          YESTERDY
+# Entity name:
+# Contact person: MacDonald, G.M.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#    62.5     5    6370     90     90  GSC-3676     G    organic lake sediment
+#   107.0     6    9260    130    130  GSC-3505     G    lacustrine silt
+#   153.5     7   10000    150    150  GSC-3544     G    lacustrine silt
+#
+# Chron name:     NAPD 1
+# Age model:      linear interpolation
+# Age bounds:     -30 - 10270
+# Chron notes:    Chron uses 3 radiocarbon dates plus sediment-surface date
+#                 (-32 BP). Ages extrapolated below bottommost radiocarbon
+#                 date.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0     0     -32      0    -32   TOP
+#    62.5     5    6370   6550   6190   C13
+#   107.0     6    9260   9620   9100   C13
+#   153.5     7   10000  10300   9700   C13
+#
+# Publications:   MacDonald, G.M. 1987. Postglacial development of the
+#                 subalpine-boreal transition forest of western Canada.
+#                 Journal of Ecology 75:303-320.
+#
+#                 MacDonald, G.M., and L.C. Cwynar. 1985. A fossil pollen
+#                 based reconstruction of the late Quaternary history of
+#                 lodgepole pine (Pinus contorta ssp. latifolia) in the
+#                 western interior of Canada. Canadian Journal of Forest
+#                 Research 15:1039-1044.
+#
+#                 MacDonald, G.M. 1984. Postglacial plant migration and
+#                 vegetation development in the western Canadian boreal
+#                 forest. Dissertation. University of Toronto, Toronto,
+#                 Ontario, Canada.
+#
+48 10
+    1 Abi      A Abies
+    2 Aln.i    A Alnus incana
+    3 Aln.v    A Alnus viridis
+    4 Bet      A Betula
+    5 Cupae    A Cupressaceae
+    6 Ercae    A Ericaceae
+    7 Lar      A Larix
+    8 Myr      A Myrica
+    9 Pic      A Picea
+   10 Pin      A Pinus
+   11 Pop      A Populus
+   12 Slx      A Salix
+   13 She.c    A Shepherdia canadensis
+   14 Apiae    B Apiaceae
+   15 Art      B Artemisia
+   16 Astae.Au B Asteraceae subf. Asteroideae undiff.
+   17 Astae.ud B Asteraceae undiff.
+   18 Braae    B Brassicaceae
+   19 Cryae    B Caryophyllaceae
+   20 Ch/Am    B Chenopodiaceae/Amaranthaceae
+   21 Cypae    B Cyperaceae
+   22 Fabae    B Fabaceae
+   23 Pln      B Plantago
+   24 Poaae    B Poaceae
+   25 Pol.vi   B Polygonum viviparum
+   26 Ptl      B Potentilla
+   27 Ranae.ud B Ranunculaceae undiff.
+   28 Rosae.ud B Rosaceae undiff.
+   29 Rbs      B Rubus
+   30 Saxae    B Saxifragaceae
+   31 Equ      F Equisetum
+   32 Lyc-t    F Lycopodium-type
+   33 Plp      F Polypodium
+   34 Sel.se   F Selaginella selaginoides
+   35 Spg      M Sphagnum
+   36 Cal      Q Caltha
+   37 Myp      Q Myriophyllum
+   38 Nup      Q Nuphar
+   39 Pot      Q Potamogeton
+   40 Spa      Q Sparganium
+   41 Typ.l    Q Typha latifolia
+   42 ind      X Indeterminable
+   43 unk      X Unknown
+   44 pQ       Z pre-Quaternary
+   45 Lyc.spik - Lycopodium spike (number counted)
+   46 Lyc.ta.n - Lycopodium tablets (added, number)
+   47 LycCn/t  - Lycopodium tablets (concentration, grains/tablet)
+   48 sa.vo.ml - Sample volume (ml)
+0, , -32
+     1.0     6.0    52.0    61.0     0.0     1.0     0.0     3.0   110.0   245.0
+     1.0    15.0     1.0     0.0     3.0     0.0     0.0     0.0     0.0     0.0
+     8.0     0.0     0.0     4.0     0.0     0.0     0.0     0.0     0.0     0.0
+     1.0     0.0     0.0     1.0     5.0     1.0     8.0     0.0     3.0     1.0
+     0.0     0.0     1.0     0.0    90.0     2.0 11300.0     1.0
+10, , 992
+     1.0     4.0    54.0    50.0     0.0     2.0     0.0     5.0   155.0   320.0
+     0.0    12.0     0.0     0.0     4.0     0.0     0.0     0.0     0.0     0.0
+     4.0     0.0     0.0    10.0     0.0     0.0     1.0     0.0     0.0     0.0
+     2.0     1.0     0.0     1.0     5.0     1.0     0.0     0.0     1.0     2.0
+     2.0     2.0     1.0     0.0    70.0     2.0 11300.0     1.0
+30, , 3041
+     3.0     3.0    65.0    60.0     0.0     1.0     0.0     2.0   130.0   219.0
+     1.0     0.0     0.0     0.0     5.0     0.0     0.0     0.0     0.0     0.0
+     3.0     0.0     0.0     3.0     1.0     0.0     0.0     0.0     0.0     0.0
+     3.0     0.0     0.0     0.0     5.0     1.0     6.0     0.0     2.0     2.0
+     1.0     0.0     0.0     0.0    53.0     2.0 11300.0     1.0
+50, , 5090
+     1.0     5.0    50.0    30.0     0.0     0.0     1.0     2.0   150.0   280.0
+     1.0     0.0     0.0     0.0     2.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     5.0     0.0     0.0     1.0     0.0     1.0     0.0
+     0.0     0.0     0.0     0.0     4.0     0.0     5.0     0.0     1.0     0.0
+     2.0     0.0     2.0     0.0    40.0     2.0 11300.0     1.0
+70, , 6857
+     2.0     2.0    70.0    30.0     0.0     0.0     0.0     5.0   202.0   220.0
+     0.0     6.0     1.0     0.0     2.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     1.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     5.0     0.0     5.0     0.0     1.0     1.0
+     0.0     1.0     1.0     0.0    35.0     2.0 11300.0     1.0
+90, , 8156
+     0.0     7.0    60.0    41.0     0.0     0.0     1.0     5.0   220.0   240.0
+     0.0    10.0     0.0     1.0     1.0     0.0     1.0     0.0     0.0     0.0
+     8.0     0.0     0.0     6.0     0.0     0.0     0.0     2.0     1.0     1.0
+     5.0     0.0     1.0     0.0     5.0     0.0     8.0     0.0     0.0     0.0
+     0.0     2.0     4.0     0.0    60.0     2.0 11300.0     1.0
+110, , 9308
+     0.0    10.0    50.0    60.0     1.0     0.0     0.0     1.0   200.0   140.0
+     1.0    30.0     0.0     0.0     6.0     0.0     0.0     0.0     0.0     0.0
+     6.0     0.0     0.0    10.0     0.0     0.0     0.0     0.0     2.0     0.0
+     0.0     0.0     0.0     0.0     3.0     0.0    10.0     3.0     0.0     1.0
+     5.0     0.0     0.0     0.0    60.0     2.0 11300.0     1.0
+130, , 9626
+     0.0     0.0     7.0    67.0     0.0     0.0     0.0     0.0   380.0    19.0
+     7.0    30.0     1.0     0.0    11.0     0.0     5.0     0.0     0.0     4.0
+    15.0     0.0     0.0     9.0     0.0     0.0     0.0     2.0     0.0     0.0
+     0.0     0.0     1.0     0.0     4.0     1.0     2.0     0.0     0.0     0.0
+    15.0     5.0     3.0     0.0   221.0     2.0 11300.0     1.0
+150, , 9944
+     0.0     1.0     2.0    21.0     0.0     0.0     0.0     0.0     7.0     0.0
+    54.0    86.0     0.0     1.0    34.0     2.0     1.0     0.0     1.0     2.0
+    84.0     1.0     1.0    31.0     0.0     0.0     0.0     0.0     0.0     0.0
+     1.0     2.0     0.0     0.0     0.0     0.0     1.0     0.0     0.0    34.0
+    30.0    33.0     4.0     5.0   291.0     2.0 11300.0     1.0
+170, , 10263
+     0.0     0.0     5.0    99.0     2.0     2.0     0.0     0.0     2.0     1.0
+    17.0   181.0     0.0     0.0    65.0     0.0     3.0     9.0     0.0     8.0
+    53.0     0.0     0.0    24.0     0.0     0.0     1.0     3.0     0.0     1.0
+     8.0     3.0     0.0     0.0     2.0     0.0    10.0     0.0     2.0    17.0
+    73.0     5.0     4.0     8.0   622.0     2.0 11300.0     1.0

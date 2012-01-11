@@ -1,0 +1,93 @@
+# GPD ASCII Format
+# 23 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Bad Medicine Lake
+# Place:          USA:Minnesota
+# Latitude:       47.08.00N      (  47.133333)
+# Longitude:      95.23.00W      ( -95.383333)
+# Elevation(m):
+# Sigle:          BADMED
+# Entity name:
+# Contact person: McAndrews, J.H.
+#
+# Chron name:     NAPD 1
+# Age model:      linear interpolation
+# Age bounds:     -10 - 220
+# Chron notes:    Chron uses surface date (-15 BP) and the Ambrosia-rise (70
+#                 BP).
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0     0     -15      0    -15   TOP
+#    15.0    10      70    100     40   AMR
+#
+# Publications:   McAndrews, J.H. 1966. Postglacial history of prairie,
+#                 savanna, and forest in northwestern Minnesota. Torrey
+#                 Botanical Club Memoir 22(2):1-72.
+#
+34 5
+    1 Abi      A Abies
+    2 Ace.ne   A Acer negundo
+    3 Ace.sa   A Acer saccharum
+    4 Aln      A Alnus
+    5 Bet      A Betula
+    6 Cor      A Corylus
+    7 Cupae    A Cupressaceae
+    8 Fra.am-t A Fraxinus americana-type
+    9 Fra.ni   A Fraxinus nigra
+   10 Jug.c    A Juglans cinerea
+   11 Lar      A Larix
+   12 Os/Ca    A Ostrya/Carpinus
+   13 Pic      A Picea
+   14 Pin      A Pinus
+   15 Pop      A Populus
+   16 Que      A Quercus
+   17 Slx      A Salix
+   18 Sar.v    A Sarcobatus vermiculatus
+   19 Ulm      A Ulmus
+   20 Amb      B Ambrosia
+   21 Art      B Artemisia
+   22 Astae.Au B Asteraceae subf. Asteroideae undiff.
+   23 Ch/Am.ud B Chenopodiaceae/Amaranthaceae undiff.
+   24 Cypae    B Cyperaceae
+   25 Hum      B Humulus
+   26 Iva.a    B Iva annua
+   27 Iva.x    B Iva xanthifolia
+   28 Poaae    B Poaceae
+   29 Tha      B Thalictrum
+   30 Xan      B Xanthium
+   31 Ptr      F Pteridium
+   32 Nup      Q Nuphar
+   33 Spa-t    Q Sparganium-type
+   34 unk      X Unknown
+1, , -9
+     5.0     1.0     3.0    30.0    53.0     8.0     1.0     1.0     2.0     1.0
+     0.0     5.0     1.0   136.0     4.0    35.0     7.0     1.0     3.0    31.0
+     9.0     2.0     9.0     6.0     1.0     1.0     1.0     9.0     1.0     0.0
+     0.0     0.0     0.0     5.0
+10, , 42
+     1.0     0.0     0.0    38.0    27.0     2.0     0.0     0.0     1.0     0.0
+     0.0     2.0     1.0   174.0     0.0    21.0     6.0     0.0     2.0    28.0
+     7.0     1.0    12.0     3.0     0.0     0.0     0.0    10.0     0.0     0.0
+     0.0     0.0     0.0     0.0
+20, , 98
+     1.0     1.0     1.0    20.0    41.0     5.0     0.0     1.0     0.0     0.0
+     0.0     8.0     1.0   204.0     3.0    18.0     3.0     0.0     5.0     5.0
+     8.0     3.0     2.0     2.0     0.0     0.0     0.0     9.0     0.0     1.0
+     1.0     2.0     0.0     2.0
+30, , 155
+     0.0     0.0     1.0    18.0    47.0     8.0     1.0     0.0     3.0     0.0
+     5.0    10.0     3.0   161.0     2.0    27.0     3.0     0.0     6.0    11.0
+    14.0     4.0     2.0     2.0     1.0     1.0     0.0     9.0     0.0     0.0
+     1.0     2.0     0.0     1.0
+42, , 223
+     1.0     0.0     1.0    37.0    72.0     7.0     1.0     1.0     0.0     1.0
+     1.0     9.0     3.0   140.0     1.0    23.0     6.0     0.0     2.0     8.0
+    15.0     2.0     3.0     6.0     0.0     0.0     1.0    10.0     2.0     0.0
+     0.0     0.0     1.0     5.0

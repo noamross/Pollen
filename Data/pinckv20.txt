@@ -1,0 +1,64 @@
+# GPD ASCII Format
+# 25 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Pinckneyville Creek Site 20
+# Place:          USA:Mississippi
+# Latitude:       31.02.54N      (  31.048333)
+# Longitude:      91.28.55W      ( -91.481944)
+# Elevation(m):   79
+# Sigle:          PINCKV20
+# Entity name:
+# Contact person: Jackson, S.T.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#     0.0         18790    570    535  A-6874       U    Picea wood
+#
+# Chron name:     Jackson 1994
+# Age model:      snapshot assemblage
+# Age bounds:     18790 - 18790
+# Chron notes:    age estimate based on wood date. Entity is a "snapshot"
+#                 exposure.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0         18790  19930  17720   C14
+#
+# Publications:   Jackson, S.T., and C.R. Givens. 1994. Late Wisconsinan
+#                 vegetation and environment of the Tunica Hills Region,
+#                 Louisiana/Mississippi. Quaternary Research 41:316-325.
+#
+23 1
+    1 Arc      A Arceuthobium
+    2 Car      A Carya
+    3 Cupae    A Cupressaceae
+    4 Fag      A Fagus
+    5 Fra      A Fraxinus
+    6 Liq      A Liquidambar
+    7 Os/Ca    A Ostrya/Carpinus
+    8 Pic      A Picea
+    9 Pin.Pi   A Pinus subg. Pinus
+   10 Pin.ud   A Pinus undiff.
+   11 Que      A Quercus
+   12 Til      A Tilia
+   13 Ulm      A Ulmus
+   14 Vib      A Viburnum
+   15 Amb      B Ambrosia
+   16 Art      B Artemisia
+   17 Astae.Au B Asteraceae subf. Asteroideae undiff.
+   18 Crm      B Cirsium
+   19 Poaae    B Poaceae
+   20 Pol      B Polygonum
+   21 sp.t     S Spore (trilete)
+   22 ind.deP3 X Indeterminable (degraded triporate)
+   23 Un/In.ud X Unknown/Indeterminable undiff.
+3, , 18790
+     4.0     1.0    20.0     1.0     1.0     1.0     1.0   132.0     2.0    11.0
+    15.0     2.0     1.0     2.0     3.0     2.0     9.0     3.0    10.0     1.0
+     8.0     4.0    16.0

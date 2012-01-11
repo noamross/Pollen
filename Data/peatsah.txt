@@ -1,0 +1,116 @@
+# GPD ASCII Format
+# 24 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Peatsah Section
+# Place:          CAN:Ontario
+# Latitude:       43.19.48N      (  43.33    )
+# Longitude:      79.49.12W      ( -79.82    )
+# Elevation(m):   92
+# Sigle:          PEATSAH
+# Entity name:
+# Contact person: McAndrews, J.H.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#    80.0    15   10740    150    150  WAT-692      L    Spruce wood
+#    80.0    15   10760    150    150  WAT-694      L    Spruce wood
+#   104.5    11   12140    380    380  WAT-7422     L    organic detritus
+#
+# Chron name:     NAPD 1
+# Age model:      linear interpolation
+# Age bounds:     9040 - 12460
+# Chron notes:    Chron uses three C14 dates, the top two (WAT-692 and
+#                 WAT-694) were averaged (using CALIB3).
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#    80.0    15   10750  10981  10719   CAV
+#   104.5    11   12140  12900  11380   C14
+#
+# Publications:   Roberts, A.C.B. 1985. Preceramic occupations along the north
+#                 shore of Lake Ontario. Archeological Survey of Canada, Paper
+#                 No. 132. 277 pp.
+#
+36 8
+    1 Ace.sa   A Acer saccharum
+    2 Aln      A Alnus
+    3 Bet      A Betula
+    4 Car      A Carya
+    5 Cupae    A Cupressaceae
+    6 Fag      A Fagus
+    7 Fra.ni   A Fraxinus nigra
+    8 Lar      A Larix
+    9 Pic      A Picea
+   10 Pin      A Pinus
+   11 Que      A Quercus
+   12 Slx      A Salix
+   13 She.c    A Shepherdia canadensis
+   14 Til      A Tilia
+   15 Tsu      A Tsuga
+   16 Ulm      A Ulmus
+   17 Amb      B Ambrosia
+   18 Art      B Artemisia
+   19 Astae.Au B Asteraceae subf. Asteroideae undiff.
+   20 Astae.Ci B Asteraceae subf. Cichorioideae
+   21 Cryae    B Caryophyllaceae
+   22 Cheae    B Chenopodiaceae
+   23 Cypae    B Cyperaceae
+   24 Poaae    B Poaceae
+   25 Tha      B Thalictrum
+   26 Bot      F Botrychium
+   27 Drp-t    F Dryopteris-type
+   28 Lyc-t    F Lycopodium-type
+   29 Ptr      F Pteridium
+   30 Sel.ru   F Selaginella rupestris
+   31 Sel.se   F Selaginella selaginoides
+   32 Spg      M Sphagnum
+   33 ind      X Indeterminable
+   34 unk      X Unknown
+   35 pQ       Z pre-Quaternary
+   36 sve.ml   - Sample volume examined (ml)
+3, , 6381
+     3.0     0.0     0.0     0.0     0.0     0.0     0.0     1.0     3.0    46.0
+     2.0     0.0     0.0     0.0     0.0     0.0     3.0     0.0     1.0     4.0
+     0.0     3.0     1.0    33.0     0.0     0.0     1.0     3.0     2.0     0.0
+     0.0     3.0     5.0     1.0     0.0     0.0
+50, , 9048
+     5.0     1.0     0.0     0.0     0.0     0.0     0.0     0.0     2.0    53.0
+     3.0     0.0     0.0     7.0     0.0     0.0     1.0     0.0     0.0     2.0
+     0.0     2.0     1.0    23.0     0.0     5.0   111.0     5.0    73.0     0.0
+     1.0     1.0     6.0     0.0     0.0      .2
+65, , 9899
+    24.0     0.0     0.0     1.0     0.0     0.0     0.0     0.0     1.0    38.0
+     5.0     0.0     0.0    21.0     2.0     6.0     1.0     1.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0   330.0    15.0   206.0     3.0
+     0.0     2.0     9.0     2.0     0.0     0.0
+69, , 10126
+    17.0     0.0     0.0     0.0     0.0     1.0     0.0     0.0     3.0    38.0
+     6.0     0.0     0.0    22.0     1.0     6.0     0.0     0.0     0.0     0.0
+     0.0     0.0     3.0     3.0     0.0     1.0   733.0     9.0    70.0     0.0
+     3.0     0.0    18.0     0.0     0.0     0.0
+75, , 10466
+     0.0     2.0     0.0     0.0     1.0     0.0     0.0     9.0   165.0    34.0
+     2.0     0.0     0.0     0.0     0.0     2.0     1.0     0.0     1.0     0.0
+     0.0     0.0    64.0    11.0     8.0     0.0     2.0     1.0     0.0     0.0
+    34.0     1.0    18.0     0.0     0.0     0.0
+90, , 11317
+     0.0     1.0     2.0     1.0     0.0     0.0     0.0     2.0    74.0    45.0
+     3.0     0.0     3.0     0.0     0.0     2.0     2.0     3.0     7.0     1.0
+     1.0     0.0   120.0    24.0    10.0    13.0    19.0     9.0     0.0     0.0
+    81.0     5.0     5.0     0.0     1.0      .1
+99, , 11828
+     0.0     1.0     3.0     0.0     0.0     0.0     1.0     6.0   182.0    19.0
+     1.0     1.0     0.0     0.0     0.0     1.0     2.0     5.0     2.0     0.0
+     0.0     1.0    73.0     0.0     0.0     0.0     4.0     0.0     0.0     0.0
+     2.0     0.0     7.0     0.0     0.0     0.0
+110, , 12452
+     0.0     0.0     1.0     1.0     0.0     0.0     0.0     0.0    55.0    20.0
+     0.0     0.0     2.0     0.0     0.0     1.0     1.0     0.0     0.0     0.0
+     0.0     0.0    15.0     4.0     0.0     1.0    38.0    10.0     0.0     0.0
+   270.0     4.0     7.0     1.0     2.0      .1

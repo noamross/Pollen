@@ -1,0 +1,127 @@
+# GPD ASCII Format
+# 28 Feb 04
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** Pollen Database for Siberia and the Russian Far East.             **
+# ***********************************************************************
+#
+# Site name:      Amguema River Valley (Exposure 3)
+# Place:          RUS:Chukotskiy Avtonomnyy Okrug
+# Latitude:       67.18.00N      (  67.3     )
+# Longitude:      178.48.00E     ( 178.8     )
+# Elevation(m):   83
+# Sigle:          AMGUEMA3
+# Entity name:    Site 3
+# Contact person: Kotov, A.N.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   300.0     1    3530     30     30  MAG-1310     L    shrub branch
+#
+# Chron name:     PALE 1
+# Age model:      single dated level
+# Age bounds:     3520 - 3540
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#   300.0     1    3530   3560   3500   C14
+#
+# Publications:   Kotov, A.N. 1997. Cryolithogenesis in the ablation zone of
+#                 late Pleistocene glaciers. Pages 249-259 in Results of
+#                 fundamental investigations of the cryosphere of earth in the
+#                 Arctic and Subarctic. 1996. Nauka, Novosibirsk. In Russian.
+#
+#                 Lozhkin, A.V., M.A. Trumpe, A.I. Polujan, L.N. Kotova, and
+#                 E.D. Takmazyan. 1995. Radiocarbon dates for upper Quaternary
+#                 sequences in northeastern Asia and Alaska. Pages 169-184 in
+#                 Yu.M. Bychkov and A.V. Lozhkin, editors. History of climate
+#                 and vegetation in Beringia during the late Cenozoic. North
+#                 East Interdisciplinary Research Institute, Far East Branch,
+#                 Russian Academy of Sciences, Magadan. In Russian.
+#
+#                 Anderson, P.M., and A.V. Lozhkin, editors. 2002. Late
+#                 Quaternary Vegetation and Climate of Siberia and the Russian
+#                 Far East (Palynological and Radiocarbon Database). North
+#                 East Science Center, Far East Branch, Russian Academy of
+#                 Sciences, Magadan, Russia.
+#
+47 5
+    1 Aln.ud   A Alnus undiff.
+    2 Aln.vi   A Alnus viridis
+    3 Bet.di   A Betula divaricata
+    4 Bet.na.e A Betula nana subsp. exilis
+    5 Bet.Cs   A Betula sect. Costatae
+    6 Bet.ud   A Betula undiff.
+    7 Erles    A Ericales
+    8 Lar      A Larix
+    9 Pic.Eu   A Picea sect. Eupicea
+   10 Pin.P.ud A Pinus subg. Pinus undiff.
+   11 Pin.St   A Pinus subg. Strobus
+   12 Pin.sy   A Pinus sylvestris
+   13 Pin.ud   A Pinus undiff.
+   14 Rbs.ch   A Rubus chamaemorus
+   15 Slx      A Salix
+   16 Art      B Artemisia
+   17 Astae.ud B Asteraceae undiff.
+   18 Cryae    B Caryophyllaceae
+   19 Cly      B Claytonia
+   20 Cypae    B Cyperaceae
+   21 Ongae    B Onagraceae
+   22 Poaae    B Poaceae
+   23 Polae.ud B Polygonaceae undiff.
+   24 Pol.el   B Polygonum ellipticum
+   25 Pol.lx   B Polygonum laxmannii
+   26 Pol.Bi.u B Polygonum sect. Bistorta undiff.
+   27 Pol.tr   B Polygonum tripterocarpum
+   28 Ranae    B Ranunculaceae
+   29 Rosae.ud B Rosaceae undiff.
+   30 Sau      B Saussurea
+   31 Val.ca   B Valeriana capitata
+   32 Val.of   B Valeriana officinalis
+   33 Valae.ud B Valerianaceae undiff.
+   34 Dph.al   F Diphasiastrum alpinum
+   35 Dph.co   F Diphasiastrum complanatum
+   36 Hup.se-t F Huperzia selago-type
+   37 Lycae.ud F Lycopodiaceae undiff.
+   38 Lyc.an   F Lycopodium annotinum
+   39 Lyc.cl   F Lycopodium clavatum
+   40 Lyc.cl-t F Lycopodium clavatum-type
+   41 Plpae    F Polypodiaceae
+   42 Sel.si   F Selaginella sibirica
+   43 Br:Bes.u M Bryales undiff.
+   44 Br:Hae.u M Hepaticae undiff.
+   45 Br:Mee   M Meesia
+   46 Br:Ric   M Riccia
+   47 Br:Spg   M Sphagnum
+20
+     1.0     9.0    39.0     6.0     0.0    59.0    11.0     0.0     0.0     1.0
+     3.0     1.0     1.0     1.0     1.0     9.0    17.0     5.0     1.0    80.0
+     2.0    13.0     1.0     1.0     0.0     0.0     0.0     2.0     0.0     7.0
+     1.0     1.0     1.0     1.0     0.0     1.0     0.0     0.0     1.0     0.0
+     3.0     0.0    19.0     2.0     9.0     0.0     0.0
+100
+     1.0    33.0     1.0     2.0    11.0    40.0    31.0     1.0     0.0     0.0
+     7.0     1.0     1.0     0.0     0.0    16.0     0.0     1.0     0.0    10.0
+     0.0    68.0     0.0     1.0     0.0     1.0     0.0     0.0     1.0     0.0
+     0.0     0.0     0.0     0.0     0.0     2.0     0.0     0.0     0.0    14.0
+     3.0    72.0    15.0     0.0     0.0     1.0     2.0
+200
+     1.0    10.0     0.0     0.0     0.0     5.0    18.0     0.0     1.0     0.0
+     0.0     0.0     0.0     0.0     0.0     3.0     0.0     1.0     0.0     0.0
+     0.0     5.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     1.0     0.0     2.0     9.0     0.0     0.0
+     0.0    81.0     1.0     1.0     0.0     0.0     1.0
+300, , 3530
+     0.0    23.0    14.0     4.0     0.0    37.0    58.0     0.0     0.0     2.0
+     3.0     0.0     0.0     0.0     1.0     9.0     0.0     0.0     1.0    10.0
+     1.0    11.0     1.0     0.0     1.0     0.0     1.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     1.0     0.0     1.0
+     5.0     8.0     0.0     0.0     0.0     1.0     0.0
+700
+     0.0     7.0     0.0     0.0     0.0     9.0     7.0     0.0     0.0     1.0
+     0.0     0.0     0.0     0.0     1.0     5.0     0.0     7.0     0.0     0.0
+     0.0     3.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     4.0     0.0     1.0     0.0    11.0     0.0    21.0
+     7.0    32.0    24.0     1.0     1.0     0.0    10.0

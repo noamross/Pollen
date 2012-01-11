@@ -1,0 +1,72 @@
+# GPD ASCII Format
+# 08 Mar 04
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** Pollen Database for Siberia and the Russian Far East.             **
+# ***********************************************************************
+#
+# Site name:      East Siberian Sea Coast 10730
+# Place:          RUS:Sakha
+# Latitude:       71.04.00N      (  71.066667)
+# Longitude:      156.30.00E     ( 156.5     )
+# Elevation(m):   33
+# Sigle:          KUR10730
+# Entity name:
+# Contact person: Lozhkin, A.V.
+# Entity notes:   site located to the west of B. Kuropatoch'ya River, Kolyma
+#                 lowland.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   120.3     0   10730    230    230  MAG-244      L    Salix branches
+#
+# Chron name:     PALE 1
+# Age model:      single sample - single date
+# Age bounds:     10720 - 10740
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#   120.3     0   10730  10960  10500   C14
+#
+# Publications:   Anderson, P.M., and A.V. Lozhkin, editors. 2002. Late
+#                 Quaternary Vegetation and Climate of Siberia and the Russian
+#                 Far East (Palynological and Radiocarbon Database). North
+#                 East Science Center, Far East Branch, Russian Academy of
+#                 Sciences, Magadan, Russia.
+#
+29 1
+    1 Aln      A Alnus
+    2 Bet      A Betula
+    3 Ercae    A Ericaceae
+    4 Pin.St   A Pinus subg. Strobus
+    5 Slx      A Salix
+    6 Apiae    B Apiaceae
+    7 Art      B Artemisia
+    8 Astae.ud B Asteraceae undiff.
+    9 Braae    B Brassicaceae
+   10 Cryae    B Caryophyllaceae
+   11 Cheae    B Chenopodiaceae
+   12 Cypae    B Cyperaceae
+   13 Genae    B Gentianaceae
+   14 Lamae    B Lamiaceae
+   15 Ongae    B Onagraceae
+   16 Poaae    B Poaceae
+   17 Polae    B Polygonaceae
+   18 Ranae    B Ranunculaceae
+   19 Rosae.ud B Rosaceae undiff.
+   20 San      B Sanguisorba
+   21 Val      B Valeriana
+   22 Equ      F Equisetum
+   23 Lyc.an.a F Lycopodium annotinum subsp. alpestre
+   24 Sel.ru   F Selaginella rupestris
+   25 Br:Bes.u M Bryales undiff.
+   26 Br:Hepae M Hepaticae
+   27 Br:Mee   M Meesia
+   28 Br:Spg   M Sphagnum
+   29 unk      X Unknown
+120, , 10730
+     4.0    33.0     2.0     2.0    12.0     6.0    18.0     9.0     7.0     8.0
+     6.0     8.0     6.0     3.0    10.0    52.0     4.0    14.0     2.0     1.0
+     4.0     5.0     1.0     1.0    75.0     5.0     4.0     4.0    14.0

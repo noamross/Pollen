@@ -1,0 +1,117 @@
+# GPD ASCII Format
+# 25 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Rosebud
+# Place:          USA:South Dakota
+# Latitude:       43.13.45N      (  43.229167)
+# Longitude:      100.50.55W     (-100.848611)
+# Elevation(m):
+# Sigle:          ROSEBUDB
+# Entity name:    Core B
+# Contact person: Watts, W.A.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   555.0    10   12580    160    160  Y-1359       G    organic fine sand
+#   602.5     5   12630    160    160  Y-1360       G    fine sand
+#
+# Chron name:     NAPD 1
+# Age model:      linear interpolation
+# Age bounds:     12570 - 12630
+# Chron notes:    Linear interpolation between 2 C14 dates. Ages extrapolated
+#                 above and below dates.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#   555.0    10   12580  12900  12260   C14
+#   602.5     5   12630  12950  12310   C14
+#
+# Publications:   Watts, W.A., and H.E. Wright, Jr. 1966. Late-Wisconsin
+#                 pollen and seed analysis from the Nebraska Sandhills.
+#                 Ecology 47:202-210.
+#
+38 8
+    1 Bet      A Betula
+    2 Cor      A Corylus
+    3 Ela.c    A Elaeagnus commutata
+    4 Ercae    A Ericaceae
+    5 Fra.ni   A Fraxinus nigra
+    6 Jun      A Juniperus
+    7 Os/Ca    A Ostrya/Carpinus
+    8 Pic      A Picea
+    9 Pin.Pi   A Pinus subg. Pinus
+   10 Pop      A Populus
+   11 Que      A Quercus
+   12 Slx      A Salix
+   13 Sar.v    A Sarcobatus vermiculatus
+   14 She.c    A Shepherdia canadensis
+   15 Amb      B Ambrosia
+   16 Art      B Artemisia
+   17 Astae.Au B Asteraceae subf. Asteroideae undiff.
+   18 Ch/Am.ud B Chenopodiaceae/Amaranthaceae undiff.
+   19 Cypae    B Cyperaceae
+   20 Iva.x-t  B Iva xanthifolia-type
+   21 Lamae    B Lamiaceae
+   22 Poaae    B Poaceae
+   23 Pol.am   B Polygonum amphibium
+   24 Ran      B Ranunculus
+   25 Rosae    B Rosaceae
+   26 Tha      B Thalictrum
+   27 Bot      F Botrychium
+   28 Drp      F Dryopteris
+   29 Equ      F Equisetum
+   30 Lyc.cl-t F Lycopodium clavatum-type
+   31 Myp      Q Myriophyllum
+   32 Pot      Q Potamogeton
+   33 Spa      Q Sparganium
+   34 Typ      Q Typha
+   35 Utr      Q Utricularia
+   36 ind      X Indeterminable
+   37 unk      X Unknown
+   38 K.t.sp   Z Cretaceous (trilete spore)
+545, , 12570
+     3.0     1.0     0.0     0.0     0.0     1.0     0.0   136.0    16.0     3.0
+     2.0    18.0     0.0     1.0     2.0    10.0     4.0     3.0    92.0     0.0
+     0.0    14.0     0.0     0.0     0.0     0.0     1.0     3.0     0.0     0.0
+     9.0     0.0    10.0    41.0     0.0     2.0     0.0     0.0
+555, , 12580
+     1.0     0.0     1.0     0.0     1.0     0.0     1.0   129.0    20.0     0.0
+     0.0    10.0     1.0     0.0     1.0    17.0     2.0     0.0   144.0     0.0
+     0.0    15.0     1.0     0.0     0.0     1.0     0.0     1.0     2.0     0.0
+    19.0     4.0     7.0    27.0     0.0     3.0     0.0     0.0
+565, , 12590
+     3.0     0.0     0.0     1.0     0.0     2.0     0.0   128.0    18.0     0.0
+     1.0    17.0     0.0     1.0     0.0    16.0     3.0     1.0   166.0     0.0
+     0.0     9.0     0.0     4.0     0.0     0.0     0.0     2.0     0.0     0.0
+   186.0     0.0     6.0     0.0     3.0     6.0     0.0     1.0
+570, , 12596
+     1.0     0.0     1.0     0.0     0.0     0.0     0.0   132.0    10.0     0.0
+     0.0    11.0     0.0     0.0     0.0    29.0     3.0     2.0   262.0     0.0
+     0.0    10.0     0.0     0.0     0.0     1.0     0.0     0.0     0.0     1.0
+   295.0     0.0     2.0     0.0     0.0     8.0     4.0     5.0
+575, , 12601
+     1.0     0.0     0.0     0.0     1.0     0.0     0.0   142.0    13.0     0.0
+     0.0     4.0     0.0     0.0     0.0    20.0     2.0     1.0   322.0     1.0
+     0.0    15.0     0.0     0.0     0.0     0.0     0.0     0.0     1.0     0.0
+   208.0     1.0     5.0     0.0     0.0     6.0     0.0     2.0
+585, , 12612
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0   123.0    17.0     1.0
+     0.0    13.0     1.0     1.0     1.0    31.0     2.0     0.0   232.0     0.0
+     0.0     9.0     0.0     2.0     1.0     0.0     0.0     0.0     0.0     0.0
+   112.0     1.0     1.0     0.0     0.0    12.0     0.0     2.0
+595, , 12622
+     1.0     0.0     0.0     0.0     1.0     0.0     0.0   129.0    16.0     1.0
+     0.0    20.0     1.0     1.0     2.0    18.0     1.0     0.0   195.0     0.0
+     1.0     9.0     0.0     0.0     0.0     0.0     0.0     1.0     0.0     0.0
+   118.0     0.0     0.0     1.0     3.0     8.0     1.0     3.0
+605, , 12633
+     0.0     3.0     0.0     0.0     0.0     0.0     1.0   137.0    16.0     2.0
+     0.0     8.0     2.0     2.0     0.0    15.0     2.0     0.0   336.0     0.0
+     0.0    12.0     0.0     4.0     0.0     0.0     0.0     0.0     0.0     0.0
+     8.0     0.0     0.0     0.0     2.0     4.0     4.0     5.0

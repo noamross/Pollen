@@ -1,0 +1,99 @@
+# GPD ASCII Format
+# 12 Mar 04
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** Pollen Database for Siberia and the Russian Far East.             **
+# ***********************************************************************
+#
+# Site name:      Kyurbe-Yuryakh-2
+# Place:          RUS:Sakha
+# Latitude:       68.35.55N      (  68.598611)
+# Longitude:      138.37.00E     ( 138.616667)
+# Elevation(m):   650
+# Sigle:          KYURBE2
+# Entity name:
+# Contact person: Grinenko, O.V.
+# Entity notes:   located in Indigirka basin
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#    65.0    10    2660     80     80  MAG-1363     L    peat
+#   235.0    10    4230     90     90  MAG-1364     L    peat
+#   435.0    10    7320    200    200  MAG-1318     L    peat
+#   570.0    10    8250    130    130  MAG-1317     L    peat
+#
+# Chron name:     GPD 1
+# Age model:      linear interpolation
+# Age bounds:     2610 - 8290
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#    65.0    10    2660   2740   2580   C14
+#   235.0    10    4230   4320   4140   C14
+#   435.0    10    7320   7520   7120   C14
+#   570.0    10    8250   8380   8120   C14
+#
+# Publications:   Anderson, P.M., and A.V. Lozhkin, editors. 2002. Late
+#                 Quaternary Vegetation and Climate of Siberia and the Russian
+#                 Far East (Palynological and Radiocarbon Database). North
+#                 East Science Center, Far East Branch, Russian Academy of
+#                 Sciences, Magadan, Russia.
+#
+35 4
+    1 Aln.ud   A Alnus undiff.
+    2 Aln.vi.f A Alnus viridis subsp. fruticosa
+    3 Bet.na   A Betula nana
+    4 Bet.ud   A Betula undiff.
+    5 Erles    A Ericales
+    6 Lar      A Larix
+    7 Pic      A Picea
+    8 Pin      A Pinus
+    9 Rib      A Ribes
+   10 Slx      A Salix
+   11 Art      B Artemisia
+   12 Astae.Ci B Asteraceae subf. Cichorioideae
+   13 Astae.ud B Asteraceae undiff.
+   14 Braae    B Brassicaceae
+   15 Cryae    B Caryophyllaceae
+   16 Cly      B Claytonia
+   17 Cypae    B Cyperaceae
+   18 Lnn.bo   B Linnaea borealis
+   19 Ongae    B Onagraceae
+   20 Poaae    B Poaceae
+   21 Pog      B Polygonatum
+   22 Ranae.ud B Ranunculaceae undiff.
+   23 Rosae    B Rosaceae
+   24 Sau      B Saussurea
+   25 Tha      B Thalictrum
+   26 Valae    B Valerianaceae
+   27 Drp      F Dryopteris
+   28 Equ      F Equisetum
+   29 Lycae    F Lycopodiaceae
+   30 Plpae    F Polypodiaceae
+   31 Sel.si   F Selaginella sibirica
+   32 Br:Bes.u M Bryales undiff.
+   33 Br:Mee   M Meesia
+   34 Br:Ric   M Riccia
+   35 Br:Spg   M Sphagnum
+60, , 2614
+     8.2   147.8    85.4    28.0    19.6     3.1     1.2    14.0     0.0     5.8
+     5.1     0.0     1.2     1.2     0.0     0.0    21.8     0.0     0.0    12.8
+     2.4     3.1     2.3     0.0     0.0     0.0     0.0     0.0     5.1     1.9
+     0.0     1.2     0.0     0.0    15.2
+223, , 4119
+     3.0    88.0     5.0     0.0     1.0     1.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     1.0     0.0     0.0     1.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0
+425, , 7166
+     7.0   190.4    27.9    35.2    20.1     3.1     1.2     4.3     1.2     3.1
+     7.0     1.2     0.0     0.0     1.9     1.2    17.0     1.9     3.1    21.3
+     8.9     0.0     0.0     1.9     3.1     1.9     0.0     1.2     5.5     3.1
+     3.1     1.2     1.9     2.3     5.0
+575, , 8284
+     0.0   222.5    75.4   106.8    14.2     9.1     0.0     4.6     0.0     5.1
+     9.1     0.0     0.0     0.0     2.3     0.0    29.5     0.0     1.1    39.8
+     3.9     0.0     0.0     2.3     2.3     0.0      .6     0.0     1.1     6.2
+     2.3    23.9     0.0     0.0     6.2

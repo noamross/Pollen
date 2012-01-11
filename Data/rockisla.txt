@@ -1,0 +1,150 @@
+# GPD ASCII Format
+# 25 Mar 00
+# Raw Counts - All Pollen Types
+#
+# *****************************************************
+# ** Please acknowledge the contributors and the ??? **
+# ** Pollen Database when using these data.          **
+# *****************************************************
+#
+# Site name:      Rock Island Lake
+# Place:          RUS:Magadan Oblast
+# Latitude:       62.10.00N      (  62.166667)
+# Longitude:      149.30.00E     ( 149.5     )
+# Elevation(m):   870
+# Sigle:          ROCKISLA
+# Entity name:
+# Contact person: Anderson, P.M.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#    45.0    10    1890     80     80  Beta-39569   L    organic silt
+#    93.0    12    6070     80     80  Beta-39570   L    organic silt
+#
+# Chron name:     Anderson 1993
+# Age model:      linear interpolation
+# Age bounds:     0 - 5810
+# Chron notes:    Chron uses 2 radiocarbon dates plus sediment-surface date (0
+#                 BP).
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0     1       0    500    -39   TOP
+#    45.0    10    1890   1970   1810   C14
+#    93.0    12    6070   6150   5900   C14
+#
+# Publications:   Lozhkin, A.V., P.M. Anderson, W.R. Eisner, L.G. Ravako, D.M.
+#                 Hopkins, L.B. Brubaker, P.A. Colinvaux, and M.C. Miller.
+#                 1993. Late Quaternary lacustrine pollen records from
+#                 southwestern Beringia. Quaternary Research 39:314-324.
+#
+39 14
+    1 Aln      A Alnus
+    2 Bet      A Betula
+    3 Csp      A Cassiope
+    4 Erles.ud A Ericales undiff.
+    5 Jun      A Juniperus
+    6 Lar      A Larix
+    7 Pic      A Picea
+    8 Pin      A Pinus
+    9 Rho      A Rhododendron
+   10 Slx      A Salix
+   11 Apiae    B Apiaceae
+   12 Art      B Artemisia
+   13 Cheae    B Chenopodiaceae
+   14 Cly      B Claytonia
+   15 Cypae    B Cyperaceae
+   16 Gen      B Gentiana
+   17 Pln      B Plantago
+   18 Poaae    B Poaceae
+   19 Ptl-t    B Potentilla-type
+   20 Rosae.ud B Rosaceae undiff.
+   21 Rbs.c    B Rubus chamaemorus
+   22 Ru/Ox    B Rumex/Oxyria digyna
+   23 Sau      B Saussurea
+   24 Sax.ce   B Saxifraga cernua
+   25 Sax.hi   B Saxifraga hieracifolia
+   26 Sax.tr   B Saxifraga tricuspidata
+   27 Saxae.ud B Saxifragaceae undiff.
+   28 Drp      F Dryopteris
+   29 Equ      F Equisetum
+   30 Lyc.a    F Lycopodium annotinum
+   31 Spg      M Sphagnum
+   32 sp.m.ud  S Spore (monolete undiff.)
+   33 sp.t.ud  S Spore (trilete undiff.)
+   34 ind      X Indeterminable
+   35 unk      X Unknown
+   36 Lyc.spik - Lycopodium spike (number counted)
+   37 Lyc.ta.n - Lycopodium tablets (added, number)
+   38 LycCn/t  - Lycopodium tablets (concentration, grains/tablet)
+   39 sa.vo.ml - Sample volume (ml)
+0, , 0
+   176.0   172.0     5.0     4.0     1.0     7.0     0.0   285.0     5.0     6.0
+     0.0     3.0     0.0     0.0    11.0     0.0     1.0     1.0     0.0     0.0
+    12.0     0.0     0.0     0.0     0.0     1.0     0.0     0.0     0.0     1.0
+    73.0     2.0     0.0     0.0     1.0   138.0     2.0 12077.0     1.0
+5, , 210
+   110.0    82.0     0.0    15.0     0.0     0.0     0.0   153.0     0.0     3.0
+     0.0     0.0     0.0     0.0    12.0     0.0     0.0     3.0     0.0     0.0
+     7.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+    42.0     0.0    26.0     0.0     2.0    67.0     2.0 12077.0     1.0
+10, , 420
+    86.0    71.0     0.0     4.0     0.0    12.0     0.0   181.0     0.0     2.0
+     0.0     0.0     0.0     0.0     4.0     0.0     0.0     1.0     0.0     1.0
+     1.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+   126.0     0.0     0.0     4.0     0.0    95.0     2.0 12077.0     1.0
+20, , 840
+   126.0   102.0     1.0    11.0     0.0     9.0     0.0   168.0     0.0     5.0
+     0.0     0.0     1.0     0.0     9.0     0.0     0.0     5.0     0.0     2.0
+     1.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+    26.0     0.0    12.0     2.0     0.0   114.0     2.0 12077.0     1.0
+30, , 1260
+   103.0   100.0     3.0    11.0     0.0     3.0     0.0   171.0     0.0     2.0
+     0.0     2.0     0.0     1.0    16.0     0.0     0.0     1.0     0.0     0.0
+     8.0     0.0     0.0     0.0     0.0     0.0     1.0     0.0     0.0     0.0
+    49.0     0.0    28.0     1.0     0.0   105.0     2.0 12077.0     1.0
+40, , 1680
+   112.0   103.0     3.0     4.0     0.0    15.0     1.0    96.0     0.0     2.0
+     1.0     4.0     0.0     0.0     9.0     0.0     0.0     5.0     0.0     0.0
+     0.0     0.0     1.0     1.0     1.0     0.0     0.0     0.0     0.0     0.0
+    24.0     0.0     0.0     0.0     0.0    92.0     2.0 12077.0     1.0
+45, , 1890
+   115.0    90.0     0.0     4.0     0.0     9.0     0.0   122.0     0.0     9.0
+     0.0     3.0     0.0     0.0    14.0     0.0     0.0    11.0     1.0     1.0
+     0.0     1.0     0.0     0.0     0.0     0.0     1.0     0.0     1.0     0.0
+    24.0     3.0    12.0     0.0     0.0   120.0     2.0 12077.0     1.0
+50, , 2325
+    87.0    67.0     3.0     2.0     2.0     7.0     0.0   143.0     0.0     2.0
+     1.0     2.0     0.0     0.0    17.0     0.0     0.0    10.0     0.0     1.0
+     1.0     0.0     0.0     0.0     0.0     1.0     1.0     0.0     2.0     1.0
+    10.0     1.0     6.0     1.0     0.0   146.0     2.0 12077.0     1.0
+56, , 2848
+   121.0   110.0     3.0    19.0     0.0     0.0     0.0    79.0     0.0     2.0
+     0.0     1.0     0.0     0.0     3.0     1.0     0.0     2.0     0.0     0.0
+    19.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     2.0
+   105.0     2.0     3.0     0.0     0.0   159.0     2.0 12077.0     1.0
+60, , 3196
+   124.0   129.0     0.0    29.0     0.0     1.0     0.0    84.0     0.0     0.0
+     0.0     0.0     0.0     0.0     2.0     0.0     0.0     1.0     0.0     0.0
+    33.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     6.0
+   125.0     0.0     0.0     0.0     0.0    61.0     2.0 12077.0     1.0
+65, , 3632
+   150.0   110.0     3.0    25.0     0.0     6.0     0.0   106.0     1.0     2.0
+     0.0     1.0     0.0     0.0     2.0     0.0     0.0     1.0     0.0     0.0
+    17.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     2.0
+   131.0     1.0     0.0     0.0     1.0    90.0     2.0 12077.0     1.0
+75, , 4502
+   135.0   119.0     2.0    16.0     0.0     7.0     0.0    96.0     0.0     0.0
+     0.0     1.0     0.0     0.0     1.0     0.0     0.0     1.0     0.0     0.0
+    15.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     1.0
+   122.0     1.0     0.0     0.0     2.0    86.0     2.0 12077.0     1.0
+85, , 5373
+   179.0   131.0     0.0    20.0     0.0     0.0     0.0   107.0     0.0     0.0
+     0.0     0.0     0.0     0.0     5.0     0.0     0.0     0.0     0.0     0.0
+    21.0     0.0     0.0     0.0     0.0     0.0     0.0     1.0     0.0     2.0
+   178.0     2.0     0.0     0.0     0.0    62.0     2.0 12077.0     1.0
+90, , 5809
+   190.0   174.0     0.0    20.0     0.0     8.0     0.0   155.0     0.0     0.0
+     0.0     0.0     0.0     0.0     4.0     0.0     0.0     5.0     0.0     0.0
+    12.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     4.0
+   223.0     2.0     0.0     0.0     1.0   123.0     2.0 12077.0     1.0

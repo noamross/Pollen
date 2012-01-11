@@ -1,0 +1,88 @@
+# GPD ASCII Format
+# 24 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Last Lake
+# Place:          CAN:Ontario
+# Latitude:       47.53.00N      (  47.883333)
+# Longitude:      84.52.00W      ( -84.866667)
+# Elevation(m):   265
+# Sigle:          LASTLAKE
+# Entity name:
+# Contact person: Saarnisto, M.
+# Entity notes:   All counts increased by x10 for onesum purposes 7/11/82
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#  1288.0          9000    190    190  BGS-116      U
+#  1300.0          9220    180    180  GSC-1719     G
+#
+# Chron name:     COHMAP chron# 1
+# Age model:      linear interpolation
+# Age bounds:     8500 - 9500
+# Chron notes:    2 C-14 dates, all counts in zone w2, so top at 1190 cm less
+#                 than 7k. Age bounds for application of the model: top =
+#                 8500; bottom = 9500.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#  1288.0          9000   9190   8810   C14
+#  1300.0          9220   9400   9040   C14
+#
+# Publications:   Saarnisto, M. 1975. Stratigraphical studies on the shoreline
+#                 displacement of Lake Superior. Canadian Journal of Earth
+#                 Sciences 12:300-319.
+#
+17 10
+    1 Abi      A Abies
+    2 Aln      A Alnus
+    3 Bet      A Betula
+    4 Cupae    A Cupressaceae
+    5 Fra      A Fraxinus
+    6 Lar      A Larix
+    7 Myr      A Myrica
+    8 Os/Ca    A Ostrya/Carpinus
+    9 Pic      A Picea
+   10 Pin.Pi   A Pinus subg. Pinus
+   11 Pin.St   A Pinus subg. Strobus
+   12 Que      A Quercus
+   13 Slx      A Salix
+   14 Ulm      A Ulmus
+   15 Amb-t    B Ambrosia-type
+   16 Art      B Artemisia
+   17 Cypae    B Cyperaceae
+1240, , 8120
+    80.0    20.0   390.0    30.0     0.0    20.0    20.0    20.0    50.0   240.0
+    30.0    10.0    10.0     0.0    10.0    20.0    20.0
+1250, , 8303
+   150.0     0.0   300.0    20.0    10.0    10.0    10.0    10.0   100.0   170.0
+    60.0    40.0    20.0     0.0    20.0    20.0    10.0
+1260, , 8486
+    70.0    10.0   390.0    20.0    20.0    20.0    10.0    30.0   120.0   220.0
+    20.0    10.0    10.0    10.0    10.0     0.0    10.0
+1270, , 8670
+   100.0    10.0   370.0    20.0     0.0    30.0    20.0     0.0    60.0   240.0
+    30.0    40.0     0.0    40.0    30.0     0.0     0.0
+1280, , 8853
+    60.0     0.0   450.0    40.0    10.0    30.0    10.0    20.0    80.0   190.0
+    20.0    10.0     0.0    10.0    20.0    10.0     0.0
+1290, , 9036
+    40.0     0.0   340.0    10.0    10.0    10.0    20.0    20.0    80.0   130.0
+    30.0    20.0    10.0    40.0     0.0    10.0    20.0
+1300, , 9220
+    30.0     0.0   410.0    20.0     0.0    10.0     0.0    30.0   120.0   200.0
+    10.0    30.0     0.0    60.0    20.0    10.0    10.0
+1305, , 9311
+    30.0    10.0   260.0    60.0    10.0    30.0    10.0     0.0   220.0   200.0
+    20.0    40.0     0.0    30.0    10.0    10.0    10.0
+1310, , 9403
+    10.0    20.0   390.0    70.0    20.0    10.0     0.0     0.0   140.0   130.0
+    10.0    30.0    10.0    20.0    40.0    30.0    30.0
+1320, , 9586
+     0.0    20.0   450.0    40.0     0.0     0.0     0.0    10.0   180.0   140.0
+     0.0    40.0    20.0    20.0     0.0    20.0    40.0

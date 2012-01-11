@@ -1,0 +1,135 @@
+# GPD ASCII Format
+# 24 Apr 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the Latin American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Valle Laguna Negra
+# Place:          VEN:Mérida
+# Latitude:       8.47.30N       (   8.791667)
+# Longitude:      70.46.00W      ( -70.766667)
+# Elevation(m):   3450
+# Sigle:          VALAGNEG
+# Entity name:
+# Contact person: Graf, K.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   260.0     5    3345     80     80  UZ-1628      U    clay
+#
+# Chron name:     LAPD 1
+# Age model:      linear interpolation
+# Age bounds:     0 - 3350
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0     0       0      0      0   TOP
+#   260.0     5    3345   3425   3265   C14
+#
+33 14
+    1 Aln      A Alnus
+    2 Ercae    A Ericaceae
+    3 Hdm      A Hedyosmum
+    4 Jug      A Juglans
+    5 Pod      A Podocarpus
+    6 Apiae.ud B Apiaceae undiff.
+    7 Astae.As B Asteraceae subf. Asteroideae
+    8 Astae.Ci B Asteraceae subf. Cichorioideae
+    9 Azr      B Azorella
+   10 Cryae    B Caryophyllaceae
+   11 Cypae    B Cyperaceae
+   12 Gen-t    B Gentiana-type
+   13 Gerae    B Geraniaceae
+   14 Mti      B Montia
+   15 Ongae    B Onagraceae
+   16 Pln      B Plantago
+   17 Poaae    B Poaceae
+   18 Po/Ac    B Polylepis/Acaena
+   19 Solae    B Solanaceae
+   20 Cya      F Cyathea
+   21 Glc      F Gleichenia
+   22 Jam      F Jamesonia
+   23 Lycae.ud F Lycopodiaceae undiff.
+   24 Lyc.cl   F Lycopodium clavatum
+   25 Pty      F Pityrogramma
+   26 Plp      F Polypodium
+   27 Pts      F Pteris
+   28 Iso      Q Isoëtes
+   29 sp.m.ud  S Spore (monolete undiff.)
+   30 sp.t.ps  S Spore (trilete psilate)
+   31 sp.t.ud  S Spore (trilete undiff.)
+   32 Fu:      U Fungus
+   33 ot       X Other
+0, , 0
+     5.0     2.0     0.0     0.0     2.0     5.0    35.0     0.0     4.0     1.0
+   112.0     0.0     4.0     1.0     2.0     0.0    31.0     6.0    10.0     1.0
+     1.0     3.0    65.0     1.0     0.0    11.0     3.0    20.0    11.0     4.0
+     0.0    22.0     9.0
+10, , 129
+     1.0     0.0     5.0     0.0     4.0    19.0    29.0     0.0     7.0     2.0
+   115.0     0.0     2.0     0.0     4.0     2.0    15.0     2.0     8.0     4.0
+     0.0     1.0   198.0     6.0     2.0     4.0     4.0     5.0     6.0     9.0
+     0.0     2.0     2.0
+30, , 386
+     0.0     0.0     2.0     0.0     3.0    23.0    18.0     0.0     2.0     1.0
+    73.0     0.0     6.0     0.0     4.0     3.0    37.0     3.0     3.0     1.0
+     0.0     2.0    39.0     3.0     0.0     2.0     0.0     1.0     5.0     8.0
+     0.0    15.0     2.0
+50, , 643
+     0.0     2.0     3.0     0.0     1.0    27.0    40.0     0.0     1.0     1.0
+   104.0     0.0     2.0     0.0     7.0     5.0    38.0     5.0     4.0     1.0
+     0.0     0.0    10.0     0.0     0.0     0.0     0.0     1.0     1.0     1.0
+     1.0   104.0     3.0
+75, , 965
+     0.0     0.0     4.0     1.0     6.0     9.0    37.0     0.0     2.0     2.0
+   170.0     1.0     2.0     0.0     3.0     4.0    43.0     3.0     2.0     0.0
+     0.0     1.0    26.0     3.0     0.0     2.0     0.0     0.0     6.0    10.0
+     0.0     7.0     5.0
+100, , 1287
+     1.0     0.0     3.0     0.0     5.0    19.0    32.0     0.0     1.0     1.0
+    59.0     0.0     1.0     0.0     1.0    10.0    29.0     5.0     3.0     3.0
+     0.0     0.0    11.0     0.0     0.0     3.0     1.0     0.0     2.0     2.0
+     0.0    46.0     2.0
+120, , 1544
+     0.0     0.0     3.0     0.0     3.0    27.0    31.0     1.0     1.0     0.0
+    34.0     0.0     2.0     0.0     6.0    11.0    26.0     3.0     4.0     3.0
+     0.0     3.0    27.0     4.0     0.0     4.0     0.0     9.0     3.0     5.0
+     0.0    26.0     3.0
+140, , 1801
+     2.0     0.0     0.0     0.0     5.0    24.0    37.0     0.0     2.0     0.0
+    64.0     0.0     1.0     0.0     3.0    10.0    35.0     5.0     3.0     0.0
+     0.0     0.0    41.0     0.0     0.0     2.0     0.0    16.0     3.0     5.0
+     0.0     9.0     2.0
+160, , 2058
+     0.0     0.0     6.0     0.0     3.0    14.0    29.0     1.0     2.0     0.0
+   118.0     0.0     5.0     0.0     0.0     5.0    41.0     1.0     1.0     3.0
+     0.0     0.0    26.0     0.0     0.0     2.0     0.0     3.0     4.0     2.0
+     0.0    14.0     0.0
+180, , 2316
+     6.0     0.0     5.0     0.0     8.0    14.0    22.0     0.0     0.0     1.0
+    62.0     1.0     3.0     0.0     2.0    12.0    18.0     3.0     7.0     5.0
+     0.0     1.0    58.0     1.0     0.0     7.0     0.0     3.0     8.0     5.0
+     0.0     9.0     2.0
+200, , 2573
+     4.0     0.0     4.0     0.0     9.0    16.0    17.0     0.0     0.0     0.0
+    44.0     0.0     1.0     0.0     5.0    12.0    15.0     8.0     2.0     3.0
+     0.0     0.0    59.0     1.0     0.0     7.0     0.0     4.0     5.0     7.0
+     0.0    15.0     3.0
+220, , 2830
+     2.0     0.0     0.0     0.0     3.0    21.0    25.0     1.0     0.0     0.0
+    27.0     2.0     4.0     0.0     4.0     6.0    17.0     3.0     1.0     3.0
+     0.0     0.0    98.0     3.0     0.0     6.0     2.0    31.0     3.0    13.0
+     2.0     8.0     2.0
+240, , 3088
+     4.0     0.0     4.0     0.0     4.0    11.0    25.0     0.0     2.0     0.0
+   158.0     0.0     1.0     0.0     0.0    12.0    42.0     0.0     4.0     0.0
+     0.0     2.0    46.0     1.0     0.0     3.0     1.0     5.0     4.0     1.0
+     1.0     8.0     5.0
+260, , 3345
+     1.0     0.0     1.0     0.0     2.0    17.0    20.0     2.0     2.0     0.0
+    83.0     1.0     3.0     1.0     7.0     7.0    35.0     2.0     0.0     2.0
+     0.0     0.0    50.0     1.0     0.0     4.0     0.0     1.0     7.0     5.0
+     1.0     4.0     6.0

@@ -1,0 +1,99 @@
+# GPD ASCII Format
+# 24 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Nicol Lake
+# Place:          CAN:Northwest Territories
+# Latitude:       61.35.00N      (  61.583333)
+# Longitude:      103.29.00W     (-103.483333)
+# Elevation(m):   348
+# Sigle:          NICOL
+# Entity name:
+# Contact person: Kay, P.A.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#    39.5          2220     60     60  WIS-823      G
+#
+# Chron name:     COHMAP chron# 1
+# Age model:      linear interpolation
+# Age bounds:     0 - 2220
+# Chron notes:    39.5 cm core from a sedge meadow at the forest limit. One
+#                 C-14 date, no evidence of cultural disturbance at the top of
+#                 the core. Age bounds for application of the model: top = 0;
+#                 bottom = 2220.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0             0     20    -20   TOP
+#    39.5          2220   2280   2160   C14
+#
+# Publications:   Kay, P.A. 1979. Multivariate statistical estimates of
+#                 Holocene vegetation and climate change, forest-tundra
+#                 transition zone, NWT, Canada. Quaternary Research 11:125-140
+#
+23 9
+    1 Abi      A Abies
+    2 Aln      A Alnus
+    3 Bet      A Betula
+    4 Cor      A Corylus
+    5 Ercae    A Ericaceae
+    6 Myr      A Myrica
+    7 Pic      A Picea
+    8 Pin      A Pinus
+    9 Slx      A Salix
+   10 Astae    B Asteraceae
+   11 Ch/Am    B Chenopodiaceae/Amaranthaceae
+   12 Cypae    B Cyperaceae
+   13 Dry-t    B Dryas-type
+   14 Poaae    B Poaceae
+   15 Ranae    B Ranunculaceae
+   16 Rbs      B Rubus
+   17 Scrae    B Scrophulariaceae
+   18 Lyc-t    F Lycopodium-type
+   19 Plpae    F Polypodiaceae
+   20 Spg      M Sphagnum
+   21 Nup      Q Nuphar
+   22 unk      X Unknown
+   23 Euc.spik - Eucalyptus spike (number counted)
+1.5, , 56
+     1.0    37.0    49.0     1.0    57.0     1.0    94.0    70.0     2.0     3.0
+     0.0    26.0     0.0     0.0     1.0     1.0     0.0     1.0     0.0    18.0
+     0.0     0.0   729.0
+5.5, , 284
+     0.0    49.0    44.0     0.0    21.0     0.0    96.0    83.0     4.0     6.0
+     0.0    18.0     6.0     0.0     0.0    15.0     0.0     0.0     1.0    47.0
+     0.0     0.0   617.0
+10.5, , 569
+     1.0    22.0    51.0     0.0    12.0     0.0    82.0    51.0     1.0     3.0
+     0.0    11.0     0.0     0.0     0.0     2.0     0.0     1.0     0.0   110.0
+     0.0     0.0   770.0
+15.5, , 853
+     0.0    30.0    59.0     1.0     3.0     0.0   144.0    74.0     1.0     2.0
+     0.0     3.0     0.0     0.0     1.0     3.0     0.0     1.0     0.0  1099.0
+     0.0     0.0  1102.0
+20.5, , 1138
+     2.0    49.0    34.0     0.0    45.0     0.0    90.0    47.0     1.0     2.0
+     1.0     8.0     0.0     0.0     0.0     1.0     0.0    47.0     0.0    16.0
+     0.0     1.0   327.0
+25.5, , 1423
+     0.0    20.0    16.0     1.0     5.0     0.0   188.0    74.0     1.0     0.0
+     0.0     2.0     0.0     0.0     0.0     3.0     0.0     1.0     0.0     7.0
+     1.0     0.0   299.0
+30.5, , 1707
+     0.0    21.0    16.0     1.0     3.0     0.0   141.0    85.0     0.0     2.0
+     0.0     1.0     1.0     0.0     0.0     7.0     0.0     0.0     0.0    14.0
+     0.0     0.0   434.0
+35.5, , 1992
+     0.0    48.0    23.0     0.0     8.0     0.0   150.0    55.0     2.0     0.0
+     0.0     4.0     0.0     1.0     1.0    44.0     1.0     0.0     0.0    16.0
+     0.0     0.0   758.0
+39.5, , 2220
+     0.0    48.0    24.0     0.0    22.0     0.0   129.0    83.0     4.0     1.0
+     0.0     9.0     2.0     0.0     0.0     3.0     0.0     0.0     0.0    45.0
+     0.0     0.0   206.0

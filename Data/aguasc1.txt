@@ -1,0 +1,92 @@
+# GPD ASCII Format
+# 24 Apr 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the Latin American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Aguas Calientes
+# Place:          CHL:
+# Latitude:       23.05.00S      ( -23.083333)
+# Longitude:      67.24.00W      ( -67.4     )
+# Elevation(m):   4210
+# Sigle:          AGUASC1
+# Entity name:    1
+# Contact person: Graf, K.
+# Entity notes:   Dates not submitted
+#
+# Chron name:     [no chron]
+#
+# Publications:   Graf, K. 1992. Pollendiagramme aus den Anden: Eine Synthese
+#                 zur Klimageschichte und Vegetationsentwicklung seit der
+#                 letzten Eiszeit. Physische Geographie vol. 34. University of
+#                 Zurich, Switzerland.
+#
+20 15
+    1 Aln      A Alnus
+    2 Eph      A Ephedra
+    3 Ercae    A Ericaceae
+    4 Amaae    B Amaranthaceae
+    5 Apiae.ud B Apiaceae undiff.
+    6 Astae.As B Asteraceae subf. Asteroideae
+    7 Azr      B Azorella
+    8 Braae    B Brassicaceae
+    9 Cacae    B Cactaceae
+   10 Cryae    B Caryophyllaceae
+   11 Cheae    B Chenopodiaceae
+   12 Cypae    B Cyperaceae
+   13 Malae    B Malvaceae
+   14 Poaae    B Poaceae
+   15 Solae    B Solanaceae
+   16 Iso      Q Isoëtes
+   17 sp.t.ps  S Spore (trilete psilate)
+   18 Fu:      U Fungus
+   19 ot       X Other
+   20 ase.cm2  - Area slide examined (cm²)
+2
+     1.0     0.0     0.0     1.0     0.0    13.0    17.0     1.0     3.0     1.0
+     2.0     0.0     0.0    68.0     0.0     0.0     0.0    53.0     1.0     3.7
+14
+     0.0     2.0     0.0     0.0     0.0    44.0     1.0    12.0     1.0     1.0
+    12.0     4.0     0.0    38.0     2.0     0.0     0.0     6.0     2.0     1.0
+26
+     1.0     2.0     0.0     1.0     0.0    27.0     2.0    12.0     3.0     2.0
+    13.0    39.0     1.0    58.0     1.0     1.0     0.0     3.0     3.0     1.9
+38
+     0.0     0.0     0.0     0.0     0.0    22.0    10.0    28.0     4.0     6.0
+    23.0     8.0     2.0    49.0     1.0     0.0     0.0    13.0     0.0      .7
+57
+     1.0     3.0     1.0     0.0     1.0    14.0     1.0    19.0     6.0     1.0
+    26.0     1.0     2.0    86.0     0.0     0.0     0.0     3.0     4.0      .9
+65
+     0.0     2.0     0.0     0.0     1.0    14.0     5.0    10.0     3.0     0.0
+     5.0     2.0     0.0   117.0     0.0     0.0     0.0     5.0     4.0      .9
+77
+     0.0     0.0     0.0     0.0     0.0    21.0     3.0    15.0     1.0     2.0
+     4.0     0.0     4.0    99.0     0.0     0.0     0.0    42.0     4.0      .7
+90
+     0.0     0.0     0.0     0.0     1.0    35.0     2.0     4.0     1.0     0.0
+     2.0     3.0     1.0    67.0     1.0     0.0     0.0    53.0     1.0      .9
+110
+     0.0     0.0     0.0     0.0     1.0     9.0     2.0    16.0     2.0     0.0
+     4.0     1.0     3.0    74.0     2.0     0.0     0.0    36.0     0.0      .9
+132
+     0.0     0.0     0.0     0.0     0.0    20.0     2.0     9.0     0.0     1.0
+     4.0     9.0     0.0    76.0     0.0     0.0     0.0    97.0     1.0     7.7
+150
+     0.0     0.0     0.0     0.0     1.0    25.0     2.0    15.0     0.0     0.0
+     6.0     7.0     1.0    88.0     0.0     0.0     0.0    29.0     0.0     2.8
+155
+     0.0     1.0     0.0     0.0     0.0    29.0     3.0    31.0     0.0     0.0
+     8.0    19.0     0.0    72.0     1.0     0.0     0.0    24.0     0.0     1.6
+170
+     0.0     0.0     0.0     0.0     0.0    23.0     0.0    14.0     3.0     1.0
+     4.0    47.0     0.0    74.0     0.0     0.0     0.0    20.0     0.0     1.9
+190
+     0.0     1.0     0.0     0.0     0.0    21.0     4.0     7.0     1.0     1.0
+     3.0    51.0     0.0    69.0     2.0     0.0     0.0    45.0     1.0     3.2
+210
+     0.0     1.0     0.0     0.0     0.0    18.0     2.0    21.0     2.0     2.0
+     5.0    41.0     2.0    56.0     0.0     0.0     1.0    63.0     0.0      .9

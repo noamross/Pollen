@@ -1,0 +1,170 @@
+# GPD ASCII Format
+# 28 Feb 04
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** Pollen Database for Siberia and the Russian Far East.             **
+# ***********************************************************************
+#
+# Site name:      Kirgirlakh Stream, Berelyekh River Basin
+# Place:          RUS:Magadanskaya Oblast
+# Latitude:       62.40.00N      (  62.666667)
+# Longitude:      147.59.00E     ( 147.983333)
+# Elevation(m):   700
+# Sigle:          DIMA3
+# Entity name:    Third Alluvial Terrace
+# Contact person: Lozhkin, A.V.
+# Entity notes:   stream is part of Berelekh River basin, upper Kolyma region
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   330.0     2   36000    650    650  MAG-497      L    wood (from alluvium)
+#   340.0     2   36200    600    600  MAG-494      L    wood (from alluvium)
+#   370.0     2   38300    800    800  MAG-499      L    wood (from alluvium)
+#   720.0     2   43500   1500   1500  MAG-495      L    wood (from alluvium)
+#   750.0     2   44600   2000   2000  MAG-378      L    wood (from alluvium)
+#
+# Chron name:     PALE 1
+# Age model:      linear interpolation
+# Age bounds:     34000 - 44970
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#   330.0     2   36000  36650  35350   C14
+#   340.0     2   36200  36800  35600   C14
+#   370.0     2   38300  39100  37500   C14
+#   720.0     2   43500  45000  42000   C14
+#   750.0     2   44600  46600  42600   C14
+#
+# Publications:   Shilo, N.A., A.V. Lozhkin, E.E. Titov, and Yu.V. Schumilov.
+#                 1983. Kirgirlakh mammoth: paleography aspect. Nauka, Moscow.
+#                 In Russian.
+#
+#                 Lozhkin, A.V. 1991. The questions of geochronology and the
+#                 paleogeography of the Quaternary period, northeast USSR. In
+#                 pages 47-59 A.A. Sidorov and A.P. Milov, editors. The
+#                 geology of the zone between the continent and the ocean of
+#                 northeast Asia. North East Interdisciplinary Research
+#                 Institute, Far East Branch, USSR Academy of Sciences,
+#                 Magadan. In Russian.
+#
+#                 Anderson, P.M., and A.V. Lozhkin, editors. 2002. Late
+#                 Quaternary Vegetation and Climate of Siberia and the Russian
+#                 Far East (Palynological and Radiocarbon Database). North
+#                 East Science Center, Far East Branch, Russian Academy of
+#                 Sciences, Magadan, Russia.
+#
+46 11
+    1 Aln      A Alnus
+    2 Bet      A Betula
+    3 Ercae    A Ericaceae
+    4 Lar      A Larix
+    5 Pin.St   A Pinus subg. Strobus
+    6 Rib      A Ribes
+    7 Slx      A Salix
+    8 Apiae    B Apiaceae
+    9 Art      B Artemisia
+   10 Astae.ud B Asteraceae undiff.
+   11 Braae    B Brassicaceae
+   12 Cryae    B Caryophyllaceae
+   13 Cheae    B Chenopodiaceae
+   14 Cly.ac   B Claytonia acutifolia
+   15 Cypae    B Cyperaceae
+   16 Fabae    B Fabaceae
+   17 Ongae    B Onagraceae
+   18 Poaae    B Poaceae
+   19 Pomae    B Polemoniaceae
+   20 Pol.av   B Polygonum aviculare
+   21 Pol.Ac   B Polygonum sect. Aconogonon
+   22 Pol.Pe   B Polygonum sect. Persicaria
+   23 Priae    B Primulaceae
+   24 Ranae.ud B Ranunculaceae undiff.
+   25 Rosae.ud B Rosaceae undiff.
+   26 San      B Sanguisorba
+   27 Tha      B Thalictrum
+   28 Val      B Valeriana
+   29 Bot.ud   F Botrychium undiff.
+   30 Bot.vi   F Botrychium virginianum
+   31 Crp      F Cryptogramma
+   32 Dph.co   F Diphasiastrum complanatum
+   33 Equ      F Equisetum
+   34 Hup.sa-t F Huperzia selago subsp. arctica-type
+   35 Lycae.ud F Lycopodiaceae undiff.
+   36 Lyc.an.a F Lycopodium annotinum subsp. alpestre
+   37 Lyc.cl   F Lycopodium clavatum
+   38 Polta.ud F Polypodiophyta undiff.
+   39 Plp.si   F Polypodium sibiricum
+   40 Plp.vu   F Polypodium vulgare
+   41 Sel.ru   F Selaginella rupestris
+   42 Sel.sa   F Selaginella sanguinolenta
+   43 Sel.ud   F Selaginella undiff.
+   44 Br:Bryes M Bryales
+   45 Br:Spg   M Sphagnum
+   46 unk      X Unknown
+0, , 29400
+    73.0   372.0   462.0    10.0   170.0     0.0     4.0     0.0     2.0     0.0
+     0.0     5.0     0.0     0.0     0.0     0.0     5.0    27.0     0.0     5.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0    14.0     0.0     4.0
+     0.0     0.0     0.0     1.0     2.0     0.0
+40, , 30200
+     6.0    72.0     8.0     0.0     8.0     0.0     6.0     1.0    25.0    25.0
+     7.0    54.0     4.0     0.0    71.0     1.0     0.0    87.0    24.0     0.0
+     1.0     0.0     0.0    10.0     0.0     0.0     0.0     2.0     1.0     0.0
+     1.0     0.0     0.0     0.0     0.0     0.0     0.0     3.0     1.0     1.0
+    38.0     0.0     8.0    75.0     0.0     7.0
+95, , 31300
+    92.0   224.0    44.0    10.0   121.0     0.0     4.0     0.0     1.0     0.0
+     0.0     4.0     0.0     0.0     3.0     0.0     8.0     9.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     1.0     0.0     1.0     1.0    11.0     1.0    18.0     0.0     0.0
+     8.0     1.0     0.0     6.0    52.0     0.0
+150, , 32400
+   141.0   182.0    51.0     6.0   152.0     0.0    59.0     0.0     1.0     3.0
+     0.0     3.0     1.0     0.0    17.0     0.0    26.0    14.0     0.0     0.0
+     1.0     0.0     0.0     1.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     4.0     1.0    23.0     0.0     0.0
+     4.0     0.0     1.0     7.0    59.0     0.0
+225, , 33900
+   184.0   199.0    36.0    30.0   280.0     0.0    96.0     0.0     1.0     2.0
+     0.0     8.0     0.0     0.0     8.0     1.0     6.0     4.0     0.0     0.0
+     1.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     1.0
+     0.0     0.0     0.0     0.0     3.0     7.0     0.0    34.0     0.0     1.0
+    25.0     0.0     0.0     2.0    29.0     0.0
+230, , 34000
+    97.0   180.0    40.0     9.0   139.0     0.0    10.0     0.0     1.0     3.0
+     1.0     6.0     1.0     0.0    10.0     0.0     4.0    14.0     1.0     0.0
+     0.0     0.0     0.0     0.0     1.0     0.0     0.0     1.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     6.0     0.0    18.0     0.0     0.0
+    16.0     1.0     2.0     3.0    28.0     1.0
+360, , 37600
+    69.0   107.0    59.0     4.0   137.0     0.0     2.0     0.0     5.0     1.0
+     0.0    13.0     0.0     0.0    11.0     0.0     7.0     4.0     1.0     1.0
+     1.0     0.0     0.0     0.0     0.0     2.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0    14.0     0.0    35.0     0.0     1.0
+    20.0     0.0     1.0     3.0    27.0     1.0
+385, , 38523
+    59.0   143.0    84.0     3.0   182.0     0.0     9.0     0.0     7.0     6.0
+     0.0    26.0     0.0     0.0    24.0     1.0     7.0    15.0     0.0     0.0
+     1.0     0.0     1.0     0.0     0.0     2.0     0.0     3.0     0.0     0.0
+     0.0     0.0     1.0     0.0     0.0    19.0     0.0    44.0     0.0     0.0
+    29.0     0.0     1.0     6.0    38.0     0.0
+650, , 42460
+     8.0    12.0    11.0     3.0     8.0     0.0    26.0     1.0     5.0     7.0
+     6.0    14.0     1.0     0.0   132.0     2.0     0.0     4.0     1.0     1.0
+     1.0     1.0     0.0     2.0     0.0     0.0     0.0     2.0     0.0     0.0
+     2.0     0.0     0.0     0.0     0.0     1.0     0.0     6.0     0.0     0.0
+     7.0     4.0     0.0     6.0    24.0     0.0
+720, , 43500
+    11.0    59.0    18.0     3.0     5.0     1.0    16.0     0.0     8.0    25.0
+     8.0    25.0     0.0     3.0   144.0     0.0     3.0    23.0     0.0     5.0
+     1.0     0.0     0.0     5.0     3.0     0.0     1.0    10.0     0.0     0.0
+     1.0     0.0     0.0     1.0     0.0     1.0     0.0     9.0     0.0     0.0
+    16.0     9.0     0.0    27.0    59.0     0.0
+760, , 44967
+    19.0    49.0    38.0     0.0     7.0     0.0     6.0     0.0     1.0     7.0
+     1.0     7.0     0.0     0.0     4.0     0.0     0.0    17.0     4.0     0.0
+     0.0     0.0     0.0     2.0     0.0     0.0     0.0     2.0     0.0     2.0
+     0.0     0.0     0.0     0.0     0.0     1.0     0.0     6.0     0.0     0.0
+    57.0    10.0     3.0     8.0     0.0     1.0

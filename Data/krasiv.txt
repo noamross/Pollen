@@ -1,0 +1,82 @@
+# GPD ASCII Format
+# 08 Mar 04
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** Pollen Database for Siberia and the Russian Far East.             **
+# ***********************************************************************
+#
+# Site name:      Krasivoye Exposure
+# Place:          RUS:Sakha
+# Latitude:       68.15.00N      (  68.25    )
+# Longitude:      161.50.00E     ( 161.833333)
+# Elevation(m):   50
+# Sigle:          KRASIV
+# Entity name:    First Terrace
+# Contact person: Lozhkin, A.V.
+# Entity notes:   site consists of alluvial deposits that include wood; Kolyma
+#                 lowland.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   499.5     3    4500     40     40  MAG-163      L    wood fragment
+#
+# Chron name:     PALE 1
+# Age model:      single sample - single date
+# Age bounds:     44904510 -
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#   499.5     3    4500   4540   4460   C14
+#
+# Publications:   Kaplina, T.N., and A.V. Lozhkin. 1982. The history of
+#                 vegetation of the Primorskikh lowland of Yakutia in the
+#                 Holocene. Pages 207-220 in A.A. Velichko, I.I. Spasskaya,
+#                 and N.A. Khotinskiy, editors. Evolution of the environment
+#                 of the territory of the USSR during the late Pleistocene and
+#                 Holocene. Nauka, Moscow. In Russian.
+#
+#                 Anderson, P.M., and A.V. Lozhkin, editors. 2002. Late
+#                 Quaternary Vegetation and Climate of Siberia and the Russian
+#                 Far East (Palynological and Radiocarbon Database). North
+#                 East Science Center, Far East Branch, Russian Academy of
+#                 Sciences, Magadan, Russia.
+#
+31 1
+    1 Aln      A Alnus
+    2 Bet      A Betula
+    3 Ercae    A Ericaceae
+    4 Pic      A Picea
+    5 Pin.St   A Pinus subg. Strobus
+    6 Slx      A Salix
+    7 Apiae    B Apiaceae
+    8 Art      B Artemisia
+    9 Astae.ud B Asteraceae undiff.
+   10 Cryae    B Caryophyllaceae
+   11 Cheae    B Chenopodiaceae
+   12 Cypae    B Cyperaceae
+   13 Fabae    B Fabaceae
+   14 Ongae    B Onagraceae
+   15 Poaae    B Poaceae
+   16 Pom.bo   B Polemonium boreale
+   17 Polae    B Polygonaceae
+   18 Ranae    B Ranunculaceae
+   19 Rosae.ud B Rosaceae undiff.
+   20 San      B Sanguisorba
+   21 Val      B Valeriana
+   22 Bot      F Botrychium
+   23 Equ      F Equisetum
+   24 Lyc.an.a F Lycopodium annotinum subsp. alpestre
+   25 Polta.ud F Polypodiophyta undiff.
+   26 Sel.ru   F Selaginella rupestris
+   27 Sel.ud   F Selaginella undiff.
+   28 Br:Bryes M Bryales
+   29 Br:Hepae M Hepaticae
+   30 Br:Spg   M Sphagnum
+   31 unk      X Unknown
+500, , 4500
+    28.0   161.0     7.0     1.0    19.0    10.0     3.0    33.0    17.0    27.0
+     9.0    23.0     2.0     4.0    23.0     1.0     1.0     8.0     1.0     1.0
+     5.0     2.0     5.0     2.0    11.0    19.0     2.0    32.0    11.0    24.0
+     9.0

@@ -1,0 +1,80 @@
+# GPD ASCII Format
+# 30 Jan 04
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** Pollen Database for Siberia and the Russian Far East.             **
+# ***********************************************************************
+#
+# Site name:      Bol'shaya Kuobakh-Baga River, Channel Site
+# Place:          RUS:Sakha
+# Latitude:       65.00.00N      (  65.0     )
+# Longitude:      142.00.00E     ( 142.0     )
+# Elevation(m):   450
+# Sigle:          CHANNEL
+# Entity name:
+# Contact person: Lozhkin, A.V.
+# Entity notes:   upper Indigirka region, Kuobakh-Baga River
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#    80.5     1    2470    290    290  MAG-8        L    wood
+# Dating notes:   wood fragment from alluvium
+#
+# Chron name:     Author Preferred
+# Age model:      single sample - single date
+# Age bounds:     2140 - 2150
+# Chron notes:    material from excavation of alluvial deposits in current
+#                 floodplain; pollen data from other non-dated levels not
+#                 assigned ages because of sediment changes in the section
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0     0       0    100    -30   TOP
+#    80.5     1    2470   2760   2180   C14
+#
+# Publications:   Anderson, P.M., and A.V. Lozhkin, editors. 2002. Late
+#                 Quaternary Vegetation and Climate of Siberia and the Russian
+#                 Far East (Palynological and Radiocarbon Database). North
+#                 East Science Center, Far East Branch, Russian Academy of
+#                 Sciences, Magadan, Russia.
+#
+19 6
+    1 Aln      A Alnus
+    2 Bet      A Betula
+    3 Ercae    A Ericaceae
+    4 Lar      A Larix
+    5 Pin.St   A Pinus subg. Strobus
+    6 Slx      A Salix
+    7 Art      B Artemisia
+    8 Braae    B Brassicaceae
+    9 Cryae    B Caryophyllaceae
+   10 Cypae    B Cyperaceae
+   11 Poaae    B Poaceae
+   12 Ranae    B Ranunculaceae
+   13 Rosae    B Rosaceae
+   14 Equ      F Equisetum
+   15 Lycae    F Lycopodiaceae
+   16 Polta    F Polypodiophyta
+   17 Sel      F Selaginella
+   18 Br:Bryes M Bryales
+   19 Br:Spg   M Sphagnum
+0
+    51.0    43.0    19.0     1.0    11.0     7.0     1.0     0.0     1.0     8.0
+     1.0     1.0     1.0     0.0     0.0    29.0     1.0    11.0    15.0
+70, , 2147
+    95.0    51.0    12.0     1.0    33.0     4.0     0.0     1.0     0.0     1.0
+     1.0     0.0     0.0     0.0     1.0    23.0     1.0    11.0    13.0
+130
+    62.0    54.0    21.0    11.0    51.0     4.0     1.0     0.0     0.0     1.0
+     1.0     1.0     0.0     4.0     1.0    35.0     0.0     1.0     1.0
+250
+    43.0    22.0    17.0     1.0    10.0     2.0     1.0     1.0     1.0     0.0
+     0.0     0.0     1.0     1.0     1.0    83.0     8.0     6.0     8.0
+300
+    57.0    46.0    24.0     2.0    22.0     4.0     1.0     6.0     1.0     0.0
+    13.0     0.0     0.0     1.0     1.0    55.0     3.0     5.0     7.0
+350
+    47.0    40.0    20.0     2.0    23.0     3.0     1.0     1.0     0.0     1.0
+    14.0     0.0     0.0     0.0     2.0    49.0     1.0    15.0    11.0

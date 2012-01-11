@@ -1,0 +1,211 @@
+# GPD ASCII Format
+# 08 Mar 04
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** Pollen Database for Siberia and the Russian Far East.             **
+# ***********************************************************************
+#
+# Site name:      Komaritsa Peat Exposure
+# Place:          RUS:Tyumenskaya Oblast
+# Latitude:       57.30.00N      (  57.5     )
+# Longitude:      69.00.00E      (  69.0     )
+# Elevation(m):   42
+# Sigle:          KOMARIT
+# Entity name:
+# Contact person: Volkova, V.S.
+# Entity notes:   site located on Irtysh River near Komaritsa village
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#    50.0     3     900     50     50  SOAN-386     L    peat
+#    80.0     3    2390     50     50  SOAN-387     L    peat
+#   200.0     3    3830    100    100  SOAN-388     L    peat
+#   250.0     3    4470     35     35  SOAN-389     L    peat
+#   280.0     3    5040     70     70  SOAN-390     L    peat
+#   350.0     3    5950     35     35  SOAN-391     L    peat
+#   400.0     3    6480     55     55  SOAN-392     L    peat
+#   450.0     3    7460     95     95  SOAN-393     L    peat
+#   500.0     3    8825     60     60  SOAN-394     L    peat
+#   530.0     3    9000    100    100  SOAN-395     L    peat
+#
+# Chron name:     PALE 1
+# Age model:      linear interpolation
+# Age bounds:     1140 - 9120
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0     0       0    500    -40   TOP
+#    50.0     3     900    950    850   C14
+#    80.0     3    2390   2440   2340   C14
+#   200.0     3    3830   3930   3730   C14
+#   250.0     3    4470   4505   4435   C14
+#   280.0     3    5040   5110   4970   C14
+#   350.0     3    5950   5985   5915   C14
+#   400.0     3    6480   6535   6425   C14
+#   450.0     3    7460   7555   7365   C14
+#   500.0     3    8825   8885   8765   C14
+#   530.0     3    9000   9100   8900   C14
+#
+# Publications:   Volkov, I.A., E.E. Gurtovaya, and L.V. Firsov. 1973. The
+#                 structure, age and history of Holocene peat near
+#                 Gorno-Slinkino village on the Irtysh River. Pages 55-68 in
+#                 V.N. Saks, editor. The Pleistocene of Siberia and
+#                 neighboring regions. Nauka, Moscow. In Russian.
+#
+#                 Volkova, V.S. 1966. The Quaternary deposits of the lower
+#                 Irtysh River and their biostratigraphic characteristics.
+#                 Nauka, Novosibirsk. In Russian.
+#
+#                 Khotinskiy, N.A. 1977. Holocene of northern Eurasia. Nauka,
+#                 Moscow. In Russian.
+#
+#                 Neishtadt, M.I. 1967. About the absolute age of bogs of
+#                 western Siberia. Revue Roumaine de Biologic Ser Botanique
+#                 12:1981-1986.
+#
+#                 Anderson, P.M., and A.V. Lozhkin, editors. 2002. Late
+#                 Quaternary Vegetation and Climate of Siberia and the Russian
+#                 Far East (Palynological and Radiocarbon Database). North
+#                 East Science Center, Far East Branch, Russian Academy of
+#                 Sciences, Magadan, Russia.
+#
+25 28
+    1 Abi      A Abies
+    2 Aln.ud   A Alnus undiff.
+    3 Aln.vi.f A Alnus viridis subsp. fruticosa
+    4 Bet.Be   A Betula sect. Betula
+    5 Bet.Na   A Betula sect. Nanae
+    6 Erles    A Ericales
+    7 Pic      A Picea
+    8 Pin.si   A Pinus sibirica
+    9 Pin.sy   A Pinus sylvestris
+   10 Que      A Quercus
+   11 Slx      A Salix
+   12 Til      A Tilia
+   13 Ulm      A Ulmus
+   14 Art      B Artemisia
+   15 Cheae    B Chenopodiaceae
+   16 Cypae    B Cyperaceae
+   17 Poaae    B Poaceae
+   18 Bot      F Botrychium
+   19 Dph.al   F Diphasiastrum alpinum
+   20 Lyc.an   F Lycopodium annotinum
+   21 Lyc.cl   F Lycopodium clavatum
+   22 Plpae    F Polypodiaceae
+   23 Br:Bryes M Bryales
+   24 Br:Spg   M Sphagnum
+   25 Aliae    Q Alismataceae
+10, , 180
+    84.0     0.0     0.0   189.0    13.0     4.0    42.0    42.0   168.0     2.0
+     0.0     2.0     4.0    10.0   100.0    14.0     7.0     0.0     0.0     0.0
+    17.0     5.0     0.0    98.0     0.0
+20, , 360
+    84.0    28.0     0.0   224.0     0.0     0.0    56.0   123.0   280.0     3.0
+     0.0     6.0     6.0    20.0     9.0     5.0    10.0     0.0     0.0     0.0
+     0.0    10.0     0.0    30.0     0.0
+55, , 1148
+    97.0     0.0     0.0   229.0     0.0     0.0    27.0   115.0   218.0     7.0
+     2.0     6.0     5.0    15.0    20.0    35.0    20.0     0.0     1.0     0.0
+     0.0    15.0     0.0    10.0     5.0
+100, , 2630
+    94.0     0.0     0.0   252.0     0.0     0.0    31.0   120.0     0.0    12.0
+     2.0    13.0    12.0    10.0     8.0    12.0    10.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0    10.0
+125, , 2930
+   126.0     0.0     0.0   315.0     0.0     0.0    82.0   132.0   252.0     0.0
+     0.0     9.0     0.0    10.0    15.0    10.0     9.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0
+150, , 3230
+   100.0     0.0     0.0   300.0     0.0     0.0    92.0   105.0   220.0     0.0
+     0.0     5.0     0.0     8.0     7.0     6.0     5.0     0.0     2.0     0.0
+     0.0    65.0     0.0    10.0     3.0
+170, , 3470
+   105.0     0.0     0.0   288.0     0.0     5.0    90.0   100.0   225.0     0.0
+     0.0     0.0     3.0     8.0    20.0    15.0    10.0     0.0     0.0     0.0
+     0.0    15.0     2.0    10.0     0.0
+200, , 3830
+    60.0     0.0     0.0   297.0     0.0     1.0    62.0    48.0   124.0     0.0
+     0.0    12.0     0.0     3.0    15.0    10.0     0.0     0.0    20.0     0.0
+     0.0    13.0    10.0    10.0     2.0
+225, , 4150
+    30.0    30.0     0.0   297.0     0.0     2.0    60.0    30.0    89.0     1.0
+     6.0     5.0     3.0     8.0     7.0     6.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0
+250, , 4470
+    29.0     0.0     0.0   258.0     0.0    20.0    30.0    29.0   172.0     0.0
+     0.0     5.0     0.0    10.0    25.0    20.0    10.0     3.0     2.0     0.0
+     0.0     1.0     1.0     2.0     0.0
+260, , 4660
+    63.0    30.0     0.0   378.0     0.0     0.0    63.0    60.0   252.0     0.0
+     0.0    15.0     2.0     0.0     0.0    20.0    12.0     0.0     0.0     0.0
+     0.0     8.0    10.0    12.0     0.0
+270, , 4850
+    60.0    10.0     0.0   200.0     0.0     0.0    50.0    75.0   200.0     1.0
+     1.0     3.0     1.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0
+280, , 5040
+    50.0    20.0     0.0     0.0     0.0     0.0    40.0    60.0   175.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0
+300, , 5300
+    45.0     0.0     0.0    91.0     0.0     0.0    90.0    68.0   273.0     0.0
+    10.0     0.0    23.0     0.0     3.0     2.0     1.0     0.0     2.0     0.0
+     3.0    32.0     0.0   168.0     4.0
+310, , 5430
+    23.0     9.0     0.0   225.0     0.0     0.0    20.0    40.0   180.0     1.0
+     0.0     3.0     2.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0
+320, , 5560
+    15.0     0.0     0.0   200.0     0.0     0.0    20.0    40.0   120.0     2.0
+     9.0     4.0     3.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0
+330, , 5690
+    30.0     9.0     0.0   250.0     0.0     0.0    10.0    35.0   130.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0
+350, , 5950
+    56.0    56.0     0.0   224.0     0.0     0.0    56.0    50.0   196.0     2.0
+     0.0     1.0     1.0     0.0     0.0     0.0     0.0    25.0     0.0     0.0
+     0.0    30.0     0.0    25.0     0.0
+400, , 6480
+    45.0     0.0     2.0   225.0     0.0     0.0    90.0    68.0   273.0     0.0
+     1.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0
+410, , 6676
+    17.0     1.0     0.0   175.0     0.0     0.0    17.0    18.0   210.0     0.0
+     2.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0
+430, , 7068
+    15.0     0.0     0.0   102.0     0.0     0.0    13.0    10.0   200.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0
+440, , 7264
+     0.0     0.0     0.0    30.0     0.0     0.0    15.0    10.0   150.0     0.0
+     0.0     0.0     0.0    50.0    14.0    13.0    10.0    11.0     0.0     0.0
+     0.0    10.0     0.0     2.0     0.0
+450, , 7460
+     2.0     0.0     0.0    72.0     0.0     0.0     2.0    20.0    20.0     0.0
+     9.0     0.0     0.0   102.0    17.0    16.0    32.0     0.0     0.0     0.0
+     0.0    32.0     0.0    28.0     0.0
+470, , 8006
+     1.0     1.0    10.0    75.0    15.0    25.0     2.0     3.0    75.0     0.0
+     1.0     0.0     0.0   175.0    20.0    10.0    15.0     0.0     2.0     0.0
+     3.0    20.0    20.0    50.0     0.0
+510, , 8883
+     1.0     0.0    15.0    60.0    10.0     0.0     3.0     1.0    80.0     0.0
+     1.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0
+520, , 8942
+     1.0    20.0    30.0    80.0     0.0     0.0     1.0     5.0    60.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     3.0
+     0.0    10.0    10.0    20.0     0.0
+530, , 9000
+     3.0    10.0     0.0    80.0    20.0     0.0     5.0     6.0    75.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0
+550, , 9117
+    45.0    10.0    45.0    60.0    45.0    10.0    20.0    10.0     0.0     0.0
+     3.0     0.0     2.0    30.0    20.0     5.0    10.0     6.0     7.0     2.0
+     0.0     5.0    10.0     2.0     0.0

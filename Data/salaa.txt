@@ -1,0 +1,99 @@
+# GPD ASCII Format
+# 19 Mar 04
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** Pollen Database for Siberia and the Russian Far East.             **
+# ***********************************************************************
+#
+# Site name:      Salaa Exposure
+# Place:          RUS:Sakha
+# Latitude:       69.06.10N      (  69.102778)
+# Longitude:      139.01.00E     ( 139.016667)
+# Elevation(m):   470
+# Sigle:          SALAA
+# Entity name:    4196
+# Contact person: Grinenko, O.V.
+# Entity notes:   exposure found on bank of Salaa Stream, Indigirka basin
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   100.0    10    1345     80     80  MAG-1044     L    wood
+#
+# Chron name:     PALE 1
+# Age model:      single dated level, no extrapolation possible
+# Age bounds:     1340 - 1350
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#   100.0    10    1345   1425   1265   C14
+#
+# Publications:   Anderson, P.M., and A.V. Lozhkin, editors. 2002. Late
+#                 Quaternary Vegetation and Climate of Siberia and the Russian
+#                 Far East (Palynological and Radiocarbon Database). North
+#                 East Science Center, Far East Branch, Russian Academy of
+#                 Sciences, Magadan, Russia.
+#
+36 5
+    1 Aln.ud   A Alnus undiff.
+    2 Aln.vi.f A Alnus viridis subsp. fruticosa
+    3 Bet.di   A Betula divaricata
+    4 Bet.fr   A Betula fruticosa
+    5 Bet.na.e A Betula nana subsp. exilis
+    6 Bet.pl   A Betula platyphylla
+    7 Erles.ud A Ericales undiff.
+    8 Lar      A Larix
+    9 Led.pa   A Ledum palustre
+   10 Pic.Eu   A Picea sect. Eupicea
+   11 Pin.pu   A Pinus pumila
+   12 Pin.sy   A Pinus sylvestris
+   13 Rho      A Rhododendron
+   14 Slx      A Salix
+   15 Apiae    B Apiaceae
+   16 Art      B Artemisia
+   17 Cryae    B Caryophyllaceae
+   18 Cly.ac   B Claytonia acutifolia
+   19 Cypae    B Cyperaceae
+   20 Epi.la   B Epilobium latifolium
+   21 Papae    B Papaveraceae
+   22 Poaae    B Poaceae
+   23 Pol.bs   B Polygonum bistorta
+   24 Pul.da   B Pulsatilla dahurica
+   25 Valae    B Valerianaceae
+   26 Bot      F Botrychium
+   27 Dph.al   F Diphasiastrum alpinum
+   28 Dph.co   F Diphasiastrum complanatum
+   29 Equ      F Equisetum
+   30 Hup.sa-t F Huperzia selago subsp. arctica-type
+   31 Lyc.cl   F Lycopodium clavatum
+   32 Plpae    F Polypodiaceae
+   33 Sel.si   F Selaginella sibirica
+   34 Br:Bryes M Bryales
+   35 Br:Hepae M Hepaticae
+   36 Br:Spg   M Sphagnum
+50
+     8.9    41.9    24.0    15.1    69.9     4.9    57.3     1.2     1.8     0.0
+    12.0     1.2     0.0     1.8     1.2     1.8     1.8     0.0     4.9     3.1
+     1.2     1.8     0.0     4.0     1.8     0.0     4.9     0.0      .4     0.0
+     0.0     1.8     1.6     1.8     0.0    28.0
+70
+     2.7    43.0    28.0    24.2   104.9    11.8   145.3     0.0    11.3     1.1
+    30.1     1.1     1.1     2.2     0.0     3.8     0.0     4.8     7.0     4.8
+     0.0    11.8     4.8    14.0     1.1     2.2    10.8     4.8      .6     2.2
+     0.0     2.2      .4     3.8     0.0    47.9
+80
+      .8    31.2    25.9     4.9   106.9     6.2    87.1     2.9     2.9      .8
+    31.2     6.2      .8      .8     0.0     9.0     2.1     4.1    12.3     2.9
+     0.0      .8     1.6     2.9     2.1     0.0     7.0     2.1     1.0      .8
+      .8     2.9     1.0     2.9     0.0    38.2
+100, , 1345
+     9.3    51.3    28.9     9.3   104.8     5.1    88.5     0.0     0.0     0.0
+    19.1     1.9     0.0     1.9     0.0     4.7      .9     0.0    15.8     1.9
+     0.0     7.9     0.0     6.1     0.0     0.0     4.2     7.9      .2      .9
+     0.0     4.2      .2     9.3      .9    78.3
+200
+    12.0    68.8    31.0    23.9    80.0     4.1    38.1     3.0     1.9     1.1
+    12.0     0.0     0.0     1.9     0.0     0.0     0.0     0.0    15.0     1.9
+     0.0     6.0     0.0     3.0     0.0     0.0     4.9     3.0     0.0     0.0
+     0.0     0.0      .5     7.5     0.0    53.1

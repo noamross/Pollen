@@ -1,0 +1,131 @@
+# GPD ASCII Format
+# 08 Mar 04
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** Pollen Database for Siberia and the Russian Far East.             **
+# ***********************************************************************
+#
+# Site name:      East Siberian Sea Coast 11
+# Place:          RUS:Sakha
+# Latitude:       71.04.00N      (  71.066667)
+# Longitude:      156.15.00E     ( 156.25    )
+# Elevation(m):   8
+# Sigle:          KURO11
+# Entity name:
+# Contact person: Lozhkin, A.V.
+# Entity notes:   site is located 13 km to the west of B. Kuropatoch'ya River,
+#                 Kolyma lowland.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#    79.5     5    4270    150    150  MAG-140      L    bulk peat
+#   179.5     5    4700    110    110  MAG-131      L    bulk peat
+#   639.5     5    8150    100    100  MAG-136      L    wood (shrub)
+#   759.5     5    8450    160    160  MAG-138      L    wood (shrub)
+#
+# Chron name:     PALE 1
+# Age model:      linear interpolation
+# Age bounds:     4270 - 8460
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#    79.5     5    4270   4420   4120   C14
+#   179.5     5    4700   4810   4590   C14
+#   639.5     5    8150   8250   8050   C14
+#   759.5     5    8450   8610   8290   C14
+#
+# Publications:   Lozhkin, A.V., T.P. Prokhorova, and V.P. Parii. 1975.
+#                 Radiocarbon dates and palynological characteristics of
+#                 sediments of the alas complex of the Kolyma Lowland. Doklady
+#                 Akademii Nauk 224(6):1395-1398. In Russian.
+#
+#                 Anderson, P.M., and A.V. Lozhkin, editors. 2002. Late
+#                 Quaternary Vegetation and Climate of Siberia and the Russian
+#                 Far East (Palynological and Radiocarbon Database). North
+#                 East Science Center, Far East Branch, Russian Academy of
+#                 Sciences, Magadan, Russia.
+#
+36 9
+    1 Aln      A Alnus
+    2 Bet      A Betula
+    3 Ercae    A Ericaceae
+    4 Pic.Eu   A Picea sect. Eupicea
+    5 Pin.St   A Pinus subg. Strobus
+    6 Rbs.ch   A Rubus chamaemorus
+    7 Slx      A Salix
+    8 Apiae    B Apiaceae
+    9 Art      B Artemisia
+   10 Astae.ud B Asteraceae undiff.
+   11 Braae    B Brassicaceae
+   12 Cryae    B Caryophyllaceae
+   13 Ch/Am    B Chenopodiaceae/Amaranthaceae
+   14 Cypae    B Cyperaceae
+   15 Fabae    B Fabaceae
+   16 Lamae    B Lamiaceae
+   17 Ongae    B Onagraceae
+   18 Poaae    B Poaceae
+   19 Pomae    B Polemoniaceae
+   20 Polae.ud B Polygonaceae undiff.
+   21 Ranae.ud B Ranunculaceae undiff.
+   22 Rosae.ud B Rosaceae undiff.
+   23 Rum      B Rumex
+   24 San      B Sanguisorba
+   25 Saxae    B Saxifragaceae
+   26 Tha      B Thalictrum
+   27 Val      B Valeriana
+   28 Equ      F Equisetum
+   29 Lycae    F Lycopodiaceae
+   30 Polta    F Polypodiophyta
+   31 Sel.ru   F Selaginella rupestris
+   32 Sel.ud   F Selaginella undiff.
+   33 Br:Bryes M Bryales
+   34 Br:Hepae M Hepaticae
+   35 Br:Spg   M Sphagnum
+   36 unk      X Unknown
+0, , 3928
+    48.0   101.0     3.0     0.0    29.0     0.0    20.0     0.0     8.0    17.0
+     0.0     0.0     0.0    76.0     0.0     0.0     0.0   103.0     0.0     0.0
+     3.0     0.0     0.0     0.0     0.0     0.0     0.0     1.0     0.0     1.0
+     0.0     0.0    55.0     0.0     3.0     0.0
+80, , 4272
+    36.0    60.0     7.0     2.0    17.0     2.0     5.0     1.0    11.0     9.0
+     0.0     5.0     0.0    20.0     0.0     0.0     1.0    25.0     2.0     0.0
+     8.0     0.0     0.0     0.0     0.0     1.0     1.0    18.0     0.0     2.0
+     0.0     0.0    44.0     0.0    13.0     0.0
+100, , 4358
+    30.0    26.0     2.0     0.0    18.0     0.0     5.0     0.0    16.0     3.0
+     0.0     3.0     2.0    80.0     1.0     0.0     2.0   102.0     0.0     8.0
+     8.0     1.0     1.0     2.0     0.0     0.0     2.0    58.0     1.0     1.0
+    11.0     1.0   100.0     0.0     7.0     2.0
+180, , 4704
+    20.0    12.0     2.0     1.0    16.0     0.0     2.0     0.0     0.0     0.0
+     0.0     0.0     0.0    33.0     0.0     0.0     0.0    96.0     0.0     1.0
+     8.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     2.0
+     0.0     0.0     8.0     0.0     4.0     2.0
+200, , 4854
+     6.0     4.0     0.0     0.0    10.0     0.0     3.0     0.0     4.0     0.0
+     0.0     2.0     0.0    54.0     0.0     1.0     0.0   170.0     1.0     4.0
+    13.0     0.0     1.0     0.0     0.0     0.0     1.0     0.0     0.0     0.0
+     1.0     0.0    16.0     1.0     2.0     4.0
+420, , 6504
+   160.0    12.0     4.0     0.0     0.0     0.0    26.0     0.0    12.0     6.0
+     1.0     1.0     1.0     8.0     0.0     1.0     1.0    34.0     0.0     1.0
+    12.0     0.0     1.0     0.0     2.0     0.0     0.0     1.0     0.0     0.0
+     3.0     0.0    34.0     1.0     6.0     6.0
+600, , 7854
+   131.0    19.0    24.0     0.0     1.0     0.0     2.0     0.0    16.0     0.0
+     1.0     5.0     2.0     0.0     0.0     2.0     2.0    36.0     0.0     1.0
+     5.0     0.0     0.0     0.0     4.0     0.0     0.0     0.0     0.0     4.0
+     1.0     0.0    40.0     4.0     8.0     7.0
+640, , 8151
+   126.0    25.0     8.0     2.0     7.0     0.0     9.0     0.0     4.0     5.0
+     0.0     6.0     0.0     1.0     0.0     0.0     2.0    23.0     0.0     0.0
+     2.0     0.0     0.0     0.0     0.0     0.0     1.0     3.0     1.0     3.0
+     2.0     1.0    30.0     1.0     2.0     0.0
+760, , 8451
+   202.0    21.0     7.0     0.0     1.0     0.0    34.0     0.0    10.0    12.0
+     0.0     7.0     1.0     1.0     3.0     0.0     2.0    40.0     1.0     0.0
+    12.0     2.0     0.0     0.0     3.0     0.0     1.0     1.0     0.0     1.0
+     2.0     0.0    30.0     4.0     4.0     2.0

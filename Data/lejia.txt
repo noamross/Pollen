@@ -1,0 +1,93 @@
+# GPD ASCII Format
+# 24 Apr 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the Latin American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Lejía
+# Place:          CHL:Atacama
+# Latitude:       23.29.00S      ( -23.483333)
+# Longitude:      67.41.00W      ( -67.683333)
+# Elevation(m):   4340
+# Sigle:          LEJIA
+# Entity name:
+# Contact person: Graf, K.
+#
+# Chron name:     [no chron]
+#
+# Publications:   Graf, K. 1992. Pollendiagramme aus den Anden: Eine Synthese
+#                 zur Klimageschichte und Vegetationsentwicklung seit der
+#                 letzten Eiszeit. Physische Geographie vol. 34. University of
+#                 Zurich, Switzerland.
+#
+23 11
+    1 Aln      A Alnus
+    2 Eph      A Ephedra
+    3 Ercae    A Ericaceae
+    4 Myr      A Myrica
+    5 Pod      A Podocarpus
+    6 Apiae.ud B Apiaceae undiff.
+    7 Astae.As B Asteraceae subf. Asteroideae
+    8 Azr      B Azorella
+    9 Braae    B Brassicaceae
+   10 Cryae    B Caryophyllaceae
+   11 Cheae    B Chenopodiaceae
+   12 Cypae    B Cyperaceae
+   13 Gerae    B Geraniaceae
+   14 Malae    B Malvaceae
+   15 Poaae    B Poaceae
+   16 Po/Ac    B Polylepis/Acaena
+   17 Solae    B Solanaceae
+   18 Verae    B Verbenaceae
+   19 Iso      Q Isoëtes
+   20 sp.m.ud  S Spore (monolete undiff.)
+   21 Fu:      U Fungus
+   22 ot       X Other
+   23 ase.cm2  - Area slide examined (cm²)
+0
+     2.0     6.0     0.0     0.0     0.0     1.6    70.0     0.0     0.0     0.0
+    30.0     2.0     0.0     0.0     5.0     0.0     0.0     0.0     0.0     0.0
+     0.0    11.0     1.6
+20
+     0.0     6.0     0.0     0.0     0.0     7.7    20.0     0.0     0.0     0.0
+    50.0     0.0     0.0     0.0     5.0     1.0     1.0     4.0     0.0     0.0
+     1.0     1.0     7.7
+50
+     0.0     5.0     0.0     0.0     2.0    11.0    38.0     0.0     3.0     1.0
+    46.0     0.0     0.0     0.0    18.0     1.0     0.0     0.0     0.0     0.0
+     0.0     5.0     1.9
+80
+     0.0     1.0     0.0     0.0     1.0     0.0    16.0     0.0     1.0     0.0
+    31.0     0.0     0.0     0.0     6.0     0.0     1.0     1.0     0.0     0.0
+     0.0     1.0    15.5
+140
+     0.0     7.0     0.0     1.0     0.0     0.0    43.0     0.0     2.0     0.0
+    29.0     0.0     0.0     0.0    30.0     0.0     0.0     0.0     0.0     0.0
+     0.0     6.0     2.6
+160
+     0.0     2.0     0.0     0.0     1.0     0.0    16.0     0.0     0.0     0.0
+    27.0     0.0     0.0     0.0     2.0     1.0     3.0     0.0     0.0     0.0
+     0.0     0.0     7.7
+180
+     0.0     5.0     1.0     1.0     0.0     0.0    11.0     0.0     0.0     0.0
+    21.0     0.0     0.0     0.0    13.0     0.0     0.0     0.0     0.0     0.0
+     1.0     0.0     7.7
+200
+     0.0    23.0     0.0     0.0     2.0     0.0    26.0     0.0     0.0     0.0
+    41.0     5.0     0.0     0.0    20.0     0.0     0.0     0.0     0.0     0.0
+     1.0     6.0      .7
+210
+     0.0     4.0     0.0     1.0     2.0     0.0    29.0     0.0     0.0     0.0
+    20.0     0.0     2.0     2.0     8.0     0.0     0.0     0.0     1.0     0.0
+     0.0     2.0     7.7
+235
+     1.0     2.0     0.0     1.0     1.0     0.0    48.0     1.0     0.0     0.0
+    22.0     0.0     0.0     0.0    13.0     1.0     0.0     0.0     0.0     0.0
+     0.0     7.0     3.8
+270
+     0.0     4.0     0.0     1.0     0.0     0.0    26.0     2.0     0.0     0.0
+     6.0     1.0     0.0     1.0    17.0     0.0     0.0     0.0     0.0     1.0
+     0.0     1.0     3.8

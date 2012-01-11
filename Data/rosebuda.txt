@@ -1,0 +1,141 @@
+# GPD ASCII Format
+# 24 Apr 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Rosebud
+# Place:          USA:South Dakota
+# Latitude:       43.13.45N      (  43.229167)
+# Longitude:      100.50.55W     (-100.848611)
+# Elevation(m):
+# Sigle:          ROSEBUDA
+# Entity name:    Core A
+# Contact person: Watts, W.A.
+#
+# Chron name:     NAPD 1
+# Age model:      linear interpolation
+# Age bounds:     11790 - 12420
+# Chron notes:    Chron uses 2 C14 dates from Core B (ROSEBUDB) and an
+#                 estimated date of 12,000±500 for the top of the spruce zone.
+#                 This estimate is consistent with Cottonwood Lake (Grimm
+#                 unpub.).
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#   500.0    10   12000  12500  11500   GUE
+#   555.0    10   12580  12900  12260   C14
+#   602.5     5   12630  12950  12310   C14
+#
+# Publications:   Watts, W.A., and H.E. Wright, Jr. 1966. Late-Wisconsin
+#                 pollen and seed analysis from the Nebraska Sandhills.
+#                 Ecology 47:202-210.
+#
+44 10
+    1 Abi      A Abies
+    2 Ace.ne   A Acer negundo
+    3 Aln      A Alnus
+    4 Bet      A Betula
+    5 Cor      A Corylus
+    6 Eph      A Ephedra
+    7 Fra.ni   A Fraxinus nigra
+    8 Jun      A Juniperus
+    9 Os/Ca    A Ostrya/Carpinus
+   10 Pic      A Picea
+   11 Pin.Pi   A Pinus subg. Pinus
+   12 Pin.St   A Pinus subg. Strobus
+   13 Que      A Quercus
+   14 Slx      A Salix
+   15 Sar.v    A Sarcobatus vermiculatus
+   16 Amb      B Ambrosia
+   17 Apiae    B Apiaceae
+   18 Art      B Artemisia
+   19 Astae.Au B Asteraceae subf. Asteroideae undiff.
+   20 Astae.Ci B Asteraceae subf. Cichorioideae
+   21 Cryae    B Caryophyllaceae
+   22 Ch/Am.ud B Chenopodiaceae/Amaranthaceae undiff.
+   23 Cypae    B Cyperaceae
+   24 Dal.c-t  B Dalea candida-type
+   25 Dal.p    B Dalea purpurea
+   26 Iva.a    B Iva annua
+   27 Iva.x-t  B Iva xanthifolia-type
+   28 Lamae    B Lamiaceae
+   29 Poaae    B Poaceae
+   30 Ran      B Ranunculus
+   31 Sph.c    B Sphaeralcea coccinea
+   32 Tha      B Thalictrum
+   33 Xan      B Xanthium
+   34 Drp      F Dryopteris
+   35 Equ      F Equisetum
+   36 Oph      F Ophioglossum
+   37 Myp      Q Myriophyllum
+   38 Pot      Q Potamogeton
+   39 Sag      Q Sagittaria
+   40 Spa      Q Sparganium
+   41 Typ      Q Typha
+   42 ind      X Indeterminable
+   43 unk      X Unknown
+   44 K.t.sp   Z Cretaceous (trilete spore)
+480, , 11789
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     4.0
+    31.0     0.0     5.0     0.0     2.0    17.0     0.0    33.0     8.0     0.0
+     0.0    61.0   109.0     0.0     3.0     2.0     8.0     0.0    26.0     0.0
+     0.0     0.0     0.0     3.0     0.0     0.0     1.0     3.0    21.0     8.0
+     2.0     3.0     1.0     0.0
+485, , 11842
+     1.0     1.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     4.0
+    35.0     0.0     2.0     0.0     0.0    23.0     0.0    25.0    10.0     0.0
+     1.0    60.0   116.0     0.0     0.0     1.0    10.0     1.0    27.0     0.0
+     0.0     0.0     0.0     2.0     0.0     0.0     0.0     1.0    18.0    11.0
+     5.0     5.0     3.0     0.0
+490, , 11894
+     0.0     0.0     0.0     0.0     0.0     1.0     0.0     0.0     1.0     3.0
+    32.0     0.0     1.0     0.0     2.0    35.0     0.0    35.0    16.0     0.0
+     0.0    46.0   143.0     0.0     1.0     0.0     1.0     0.0    26.0     0.0
+     0.0     0.0     0.0     5.0     0.0     0.0     0.0     7.0    33.0    10.0
+     0.0     3.0     2.0     0.0
+495, , 11947
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     2.0     0.0     2.0
+    61.0     1.0     5.0     0.0     0.0    16.0     0.0    17.0    10.0     0.0
+     0.0    58.0   100.0     0.0     2.0     0.0     7.0     0.0    18.0     1.0
+     0.0     0.0     1.0     7.0     0.0     0.0     0.0     0.0    16.0    10.0
+     4.0     1.0     2.0     0.0
+500, , 12000
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     2.0     0.0     2.0
+    54.0     0.0     0.0     0.0     2.0    15.0     6.0    26.0    12.0     0.0
+     0.0    49.0   147.0     1.0     1.0     1.0     7.0     0.0    21.0     0.0
+     0.0     0.0     1.0    87.0     0.0     0.0     0.0     0.0    17.0    21.0
+    11.0     5.0     1.0     0.0
+505, , 12053
+     0.0     0.0     1.0     1.0     0.0     0.0     0.0     2.0     1.0   130.0
+     7.0     0.0     2.0     4.0     0.0     7.0     0.0    23.0     2.0     0.0
+     2.0     2.0   129.0     0.0     0.0     0.0     3.0     0.0     9.0     0.0
+     0.0     4.0     0.0     6.0     0.0     0.0     0.0     0.0     0.0     0.0
+    10.0     0.0     3.0     0.0
+510, , 12106
+     0.0     1.0     0.0     1.0     0.0     0.0     1.0     0.0     0.0   127.0
+    10.0     0.0     3.0     2.0     0.0     7.0     0.0    26.0     2.0     1.0
+     0.0     3.0   313.0     0.0     0.0     0.0     0.0     0.0    16.0     0.0
+     0.0     0.0     0.0     7.0     0.0     0.0     0.0     1.0     0.0     0.0
+    12.0     7.0     2.0     0.0
+520, , 12211
+     0.0     0.0     0.0     0.0     2.0     0.0     0.0     0.0     0.0   144.0
+    10.0     0.0     1.0     0.0     0.0     3.0     0.0    21.0     2.0     0.0
+     0.0     0.0    70.0     0.0     0.0     0.0     0.0     0.0    15.0     0.0
+     1.0     2.0     0.0     3.0     0.0     0.0     2.0     2.0     0.0     1.0
+    18.0     0.0     3.0     0.0
+530, , 12316
+     0.0     1.0     1.0     1.0     1.0     0.0     1.0     2.0     0.0   107.0
+     8.0     0.0     1.0     0.0     0.0     3.0     0.0    42.0     5.0     1.0
+     3.0     2.0    69.0     0.0     0.0     0.0     2.0     0.0    19.0     0.0
+     0.0     0.0     0.0     5.0     1.0     0.0     0.0     0.0     0.0     1.0
+     7.0     0.0     0.0     2.0
+540, , 12422
+     0.0     0.0     0.0     1.0     4.0     0.0     1.0     2.0     1.0    97.0
+     9.0     0.0     1.0     1.0     0.0     3.0     0.0    51.0     7.0     0.0
+     0.0     2.0    52.0     0.0     0.0     0.0     2.0     0.0    17.0     0.0
+     0.0     1.0     0.0     4.0     0.0     1.0     2.0     0.0     0.0     1.0
+    22.0     1.0     0.0     1.0

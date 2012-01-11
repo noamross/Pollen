@@ -1,0 +1,47 @@
+# GPD ASCII Format
+# 26 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the Latin American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Sierra Bacha
+# Place:          MEX:Sonora
+# Latitude:       29.50.00N      (  29.833333)
+# Longitude:      112.29.00W     (-112.483333)
+# Elevation(m):   220
+# Sigle:          SBACHA2F
+# Entity name:    SB2F
+# Contact person: Anderson, R.S.
+#
+# Chron name:     [no chron]
+#
+# Publications:   Anderson, R.S., and T.R. Van Devender. 1995. Vegetation
+#                 history of the coastal lowlands of Sonora, Mexico - pollen
+#                 records from packrat middens. Journal of Arid Environments
+#                 30:295-306.
+#
+18 1
+    1 Bur.m    A Bursera microphylla
+    2 Cci      A Cercidium
+    3 Ece-t    A Encelia-type
+    4 Fou.s    A Fouquieria splendens
+    5 Lrr      A Larrea
+    6 Amb-t    B Ambrosia-type
+    7 Art      B Artemisia
+    8 Ast.As.c B Asteraceae subf. Asteroideae (coarse-spine)
+    9 Brh      B Boerhavia
+   10 Braae    B Brassicaceae
+   11 Cacae.ud B Cactaceae undiff.
+   12 Cng-t    B Carnegiea-type
+   13 Eup      B Euphorbia
+   14 Hydae    B Hydrophyllaceae
+   15 Sol      B Solanum
+   16 Sph      B Sphaeralcea
+   17 ind.de   X Indeterminable (degraded)
+   18 unk      X Unknown
+0
+    54.0    22.0    80.0     2.0     9.0    51.0     6.0    16.0     2.0     1.0
+     1.0     3.0    10.0     1.0    25.0     4.0    15.0    10.0

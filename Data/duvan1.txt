@@ -1,0 +1,81 @@
+# GPD ASCII Format
+# 28 Feb 04
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** Pollen Database for Siberia and the Russian Far East.             **
+# ***********************************************************************
+#
+# Site name:      Duvanny Yar, Alas Exposure, Kolyma Lowland
+# Place:          RUS:Sakha
+# Latitude:       68.40.00N      (  68.666667)
+# Longitude:      159.05.00E     ( 159.083333)
+# Elevation(m):   35
+# Sigle:          DUVAN1
+# Entity name:    Section 1, ice-wedge pseudomor
+# Contact person: Lozhkin, A.V.
+# Entity notes:   Duvanny Yar is a ca. 9 km long exposure along the Kolyma
+#                 River, Kolyma lowland.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   400.0    10    6300     60     60  MAG-156      L    bulk peat
+#
+# Chron name:     PALE 1
+# Age model:      single sample - single date
+# Age bounds:     6290 - 6310
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#   400.0    10    6300   6360   6240   C14
+#
+# Publications:   Sher, A.V., T.N. Kaplina, R.E. Giterman, A.V. Lozhkin, A.A.
+#                 Arkhangelov, S.V. Kiselyov, Yu.V. Kouznetsov, E.I. Virina,
+#                 and V.S. Zazhigin. 1979. Scientific excursions on problem
+#                 "late Cenozoic of the Kolyma lowland," Tour 11, the guide.
+#                 XIV Pacific Science Congress, USSR Academy of Sciences,
+#                 Moscow. In Russian.
+#
+#                 Giterman, R.E., A.V. Sher, and J.V. Mathews, Jr. 1982.
+#                 Comparison of the development of tundra-steppe environments
+#                 in west and east Beringia: Pollen and macrofossil evidence
+#                 for key sections. Pages 43-73 in D.M. Hopkins, J.V. Mathews,
+#                 Jr., C.E. Schweger, and S.B. Young, editors. Paleoecology of
+#                 Beringia. Academic Press, New York.
+#
+#                 Anderson, P.M., and A.V. Lozhkin, editors. 2002. Late
+#                 Quaternary Vegetation and Climate of Siberia and the Russian
+#                 Far East (Palynological and Radiocarbon Database). North
+#                 East Science Center, Far East Branch, Russian Academy of
+#                 Sciences, Magadan, Russia.
+#
+24 1
+    1 Aln      A Alnus
+    2 Bet      A Betula
+    3 Ercae    A Ericaceae
+    4 Pin.St   A Pinus subg. Strobus
+    5 Slx      A Salix
+    6 Art      B Artemisia
+    7 Astae.ud B Asteraceae undiff.
+    8 Braae    B Brassicaceae
+    9 Cryae    B Caryophyllaceae
+   10 Cypae    B Cyperaceae
+   11 Ongae    B Onagraceae
+   12 Poaae    B Poaceae
+   13 Rosae    B Rosaceae
+   14 Rum      B Rumex
+   15 Tha      B Thalictrum
+   16 Val      B Valeriana
+   17 Crp      F Cryptogramma
+   18 Lycae.ud F Lycopodiaceae undiff.
+   19 Lyc.an.a F Lycopodium annotinum subsp. alpestre
+   20 Sel.ru   F Selaginella rupestris
+   21 Br:Bryes M Bryales
+   22 Br:Spg   M Sphagnum
+   23 Pot      Q Potamogeton
+   24 unk      X Unknown
+400, , 6300
+    96.0   132.0    77.0    51.0    24.0     8.0    21.0     9.0    14.0    16.0
+    34.0    47.0     2.0     4.0     2.0    17.0     1.0     2.0     8.0     2.0
+    95.0    10.0    11.0     2.0

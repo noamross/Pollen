@@ -1,0 +1,126 @@
+# GPD ASCII Format
+# 24 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      January Cave
+# Place:          CAN:Alberta
+# Latitude:       50.10.48N      (  50.18    )
+# Longitude:      114.31.12W     (-114.52    )
+# Elevation(m):   2040
+# Sigle:          JANUARY
+# Entity name:
+# Contact person: McAndrews, J.H.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#    65.0    10   31900   1400   1400  QL-1738      U    bone collagen
+#    95.0    10   33500   1100   1100  QL-1737      U    fossil tooth
+#   135.0    10   23100    860    860  GaK-5438     G    fossil tooth
+#   140.0    20   33500   1100   1100  QL-1737      U    bone collagen
+#   140.0    40   23100    860    860  GaK-5438     G    bone collagen
+#   185.0    10   31900   1400   1400  QL-1738      U    fossil tooth
+#
+# Chron name:     NAPD 1
+# Age model:      linear interpolation
+# Age bounds:      -
+# Chron notes:    Four TL rejected at this site (see Burns,1991). Chron
+#                 developed on assumption of top date of 23000 and basal date
+#                 of 33000 years BP (see Burns, 1991).
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#    30.0    10   23000  23500  22500   GUE
+#   180.0    10   33000  33500  32500   GUE
+#
+# Publications:   Burns, J.A. 1991. Mid-Wisconsinan vertebrates and their
+#                 environment from January Cave, Alberta, Canada. Quaternary
+#                 Research 35:130-143.
+#
+#                 McAndrews, J.H. 1984. January cave: palynology. Pages 46-49
+#                 in Quaternary Palynology, extant flora and quaternary
+#                 geology south and west of Calgary. L.E. Jackson, Jr. ed.,
+#                 Sixth International Palynological Conference, Field Trip No.
+#                 1 guidebook, Calgary, September, 1984.
+#
+28 12
+    1 Bet      A Betula
+    2 Pic      A Picea
+    3 Pin      A Pinus
+    4 Que      A Quercus
+    5 Slx      A Salix
+    6 Amb      B Ambrosia
+    7 Art      B Artemisia
+    8 Astae.Au B Asteraceae subf. Asteroideae undiff.
+    9 Astae.Ci B Asteraceae subf. Cichorioideae
+   10 Cryae    B Caryophyllaceae
+   11 Cheae    B Chenopodiaceae
+   12 Cly      B Claytonia
+   13 Cypae    B Cyperaceae
+   14 Fabae    B Fabaceae
+   15 Lilae    B Liliaceae
+   16 Ongae    B Onagraceae
+   17 Phl      B Phlox
+   18 Poaae    B Poaceae
+   19 Pom      B Polemonium
+   20 Pol.vi   B Polygonum viviparum
+   21 Sau      B Saussurea
+   22 Tha      B Thalictrum
+   23 Drp-t    F Dryopteris-type
+   24 Lyc-t    F Lycopodium-type
+   25 Sel.de   F Selaginella densa
+   26 ind      X Indeterminable
+   27 unk      X Unknown
+   28 pQ       Z pre-Quaternary
+30, , 23000
+     0.0     1.0     1.0     0.0     0.0     0.0     0.0    10.0     2.0    32.0
+     1.0    25.0     0.0     0.0     1.0     1.0     6.0    18.0     3.0     0.0
+     0.0     0.0     0.0     0.0     1.0    36.0     2.0     0.0
+40, , 23667
+     0.0     2.0     0.0     1.0     3.0     0.0     2.0    13.0     3.0    11.0
+     0.0    17.0     0.0     0.0     0.0     0.0     2.0    42.0     3.0     0.0
+     0.0     0.0     0.0     0.0     0.0   107.0     1.0     0.0
+50, , 24333
+     0.0     0.0     2.0     0.0     0.0     0.0     2.0     7.0     3.0    32.0
+     0.0    28.0     0.0     0.0     0.0     0.0     4.0    12.0     3.0     3.0
+     6.0     0.0     1.0     0.0     0.0    45.0     1.0     0.0
+60, , 25000
+     0.0     1.0     1.0     0.0     0.0     0.0     3.0    10.0     3.0    27.0
+     0.0    27.0     0.0     0.0     0.0     1.0     4.0    18.0     2.0     1.0
+     0.0     2.0     1.0     0.0     0.0    96.0     4.0     0.0
+70, , 25667
+     0.0     2.0     2.0     0.0     0.0     0.0     1.0     0.0     5.0    28.0
+     0.0    22.0     0.0     0.0     0.0     0.0     7.0    19.0     3.0     2.0
+     6.0     0.0     1.0     0.0     0.0    60.0     9.0     0.0
+80, , 26333
+     0.0     1.0     0.0     0.0     0.0     0.0     2.0     7.0     1.0    31.0
+     1.0    29.0     0.0     0.0     0.0     0.0     0.0    16.0     1.0     0.0
+     2.0     0.0     0.0     0.0     1.0    51.0     3.0     0.0
+90, , 27000
+     0.0     1.0     2.0     0.0     2.0     0.0     2.0     7.0     3.0    18.0
+     0.0    27.0     3.0     0.0     0.0     1.0     9.0    19.0     4.0     0.0
+     1.0     0.0     0.0     0.0     0.0   103.0     6.0     0.0
+100, , 27667
+     0.0     0.0     3.0     0.0     0.0     0.0     2.0     5.0     3.0    26.0
+     0.0    16.0     0.0     0.0     0.0     1.0     4.0    36.0     3.0     0.0
+     0.0     1.0     0.0     1.0     0.0    72.0     1.0     0.0
+110, , 28333
+     0.0     0.0     2.0     0.0     0.0     0.0     1.0     9.0     4.0    34.0
+     0.0    14.0     0.0     1.0     0.0     0.0     2.0    27.0     2.0     0.0
+     4.0     1.0     0.0     0.0     0.0    77.0     0.0     0.0
+120, , 29000
+     0.0     2.0     4.0     0.0     0.0     0.0     2.0     6.0     2.0    25.0
+     1.0    33.0     0.0     0.0     1.0     0.0     0.0    19.0     1.0     0.0
+     2.0     0.0     0.0     0.0     0.0    83.0     1.0     2.0
+130, , 29667
+     0.0     1.0     1.0     0.0     0.0     0.0     0.0     8.0     2.0    32.0
+     0.0    29.0     0.0     0.0     0.0     1.0     6.0    17.0     2.0     0.0
+     0.0     1.0     0.0     0.0     1.0    49.0     0.0     0.0
+180, , 33000
+     1.0     0.0     4.0     0.0     0.0     1.0     0.0    10.0     3.0    21.0
+     1.0    23.0     0.0     0.0     0.0     0.0     4.0    28.0     3.0     1.0
+     0.0     0.0     0.0     0.0     0.0    26.0     1.0     0.0

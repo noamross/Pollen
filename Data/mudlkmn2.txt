@@ -1,0 +1,258 @@
+# GPD ASCII Format
+# 24 Apr 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Mud Lake
+# Place:          USA:Minnesota
+# Latitude:       46.52.00N      (  46.866667)
+# Longitude:      94.45.00W      ( -94.75    )
+# Elevation(m):   424
+# Sigle:          MUDLKMN2
+# Entity name:
+# Contact person: Almendinger, J.C.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#    43.5    13     900     70     70  WIS-1656     G    gyttja
+#   335.0    10    3060     80     80  WIS-1305     G    gyttja
+#   445.0    10    3680     80     80  WIS-1657     G    calcareous gyttja
+# Dating notes:   Date WIS-1656 (900±70) is just below the Ambrosia-rise,
+#                 which dates to about AD 1880 (70 BP). Almendinger (1992)
+#                 corrects by 810 years to 90 BP.
+#
+# Chron name:     Almendinger 1992
+# Age model:      linear interpolation
+# Age bounds:     -30 - 3640
+# Chron notes:    Chron uses surface (-30 BP) and 3 radiocarbon dates adjusted
+#                 by 810 years to account for old carbon (based on date of
+#                 900±70 just below the Ambrosia-rise) (see Almendinger 1992).
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0     0     -30      0    -30   TOP
+#    43.5    13      90    160     20   CAJ
+#   335.0    10    2250   2410   2090   CAJ
+#   445.0    10    2870   3030   2710   CAJ
+#
+# Publications:   Almendinger, J.C. 1992. The late Holocene history of
+#                 prairie, brush-prairie, and jack pine (Pinus banksiana)
+#                 forest on outwash plains, north-central Minnesota, USA. The
+#                 Holocene 2:37-50.
+#
+#                 Almendinger, J.C. 1985. The late-Holocene development of
+#                 jack pine forests on outwash plains, north-central
+#                 Minnesota. Dissertation. University of Minnesota,
+#                 Minneapolis, Minnesota, USA.
+#
+71 15
+    1 Abi      A Abies
+    2 Ace.ne-t A Acer negundo-type
+    3 Ace.ru   A Acer rubrum
+    4 Ace.sc-t A Acer saccharinum-type
+    5 Ace.sa   A Acer saccharum
+    6 Aln.cf.i A Alnus cf. A. incana
+    7 Aln.cf.v A Alnus cf. A. viridis
+    8 Bet      A Betula
+    9 Car      A Carya
+   10 Cel      A Celtis
+   11 Cor      A Corylus
+   12 Fra.ni-t A Fraxinus nigra-type
+   13 Fra.pe-t A Fraxinus pennsylvanica-type
+   14 Jug.c-t  A Juglans cinerea-type
+   15 Jug.n-t  A Juglans nigra-type
+   16 Lar      A Larix
+   17 Mor      A Morus
+   18 Ost-t    A Ostrya-type
+   19 Pic      A Picea
+   20 Pin.b/r  A Pinus banksiana/P. resinosa
+   21 Pin.st   A Pinus strobus
+   22 Pin.ud   A Pinus undiff.
+   23 Pla      A Platanus
+   24 Pop.ba-t A Populus balsamifera-type
+   25 Pop.tr-t A Populus tremuloides-type
+   26 Que      A Quercus
+   27 Slx      A Salix
+   28 Sar.v    A Sarcobatus vermiculatus
+   29 Txs      A Taxus
+   30 Thu-t    A Thuja-type
+   31 Til      A Tilia
+   32 Tsu      A Tsuga
+   33 Ulm      A Ulmus
+   34 Vit      A Vitis
+   35 Amb      B Ambrosia
+   36 Amo      B Amorpha
+   37 Ane-t    B Anemone-type
+   38 Apiae    B Apiaceae
+   39 Art      B Artemisia
+   40 Astae.Au B Asteraceae subf. Asteroideae undiff.
+   41 Astae.Ci B Asteraceae subf. Cichorioideae
+   42 Cryae    B Caryophyllaceae
+   43 Che-t    B Chenopodium-type
+   44 Cypae    B Cyperaceae
+   45 Dal.c-t  B Dalea candida-type
+   46 Dal.p    B Dalea purpurea
+   47 Gal      B Galium
+   48 Hum-t    B Humulus-type
+   49 Iva.a-t  B Iva annua-type
+   50 Iva.x-t  B Iva xanthifolia-type
+   51 Poaae    B Poaceae
+   52 Rosae    B Rosaceae
+   53 Rum      B Rumex
+   54 Tha      B Thalictrum
+   55 Urt-t    B Urtica-type
+   56 Xan      B Xanthium
+   57 Ath      F Athyrium
+   58 Drp-t    F Dryopteris-type
+   59 Equ      F Equisetum
+   60 Ptr-t    F Pteridium-type
+   61 Thl.p-t  F Thelypteris palustris-type
+   62 Spg      M Sphagnum
+   63 Nup      Q Nuphar
+   64 Nym      Q Nymphaea
+   65 Pot.Po   Q Potamogeton subg. Potamogeton
+   66 Sag      Q Sagittaria
+   67 Spa-t    Q Sparganium-type
+   68 Typ.l    Q Typha latifolia
+   69 ind      X Indeterminable
+   70 unk      X Unknown
+   71 mic      - Microspheres (number counted)
+0, , -30
+     0.0     1.0     0.0     1.0     0.0     8.0     1.0    52.0     0.0     1.0
+     4.0     3.0     2.0     0.0     0.0     2.0     2.0     0.0     4.0    56.5
+     7.0    46.5     0.0     4.0    20.0    55.0     3.0     0.0     0.0     4.0
+     0.0     0.0     4.0     0.0    18.0     1.0     0.0     0.0     6.5     3.0
+     0.0     3.0     3.0     7.0     0.0     0.0     0.0     0.0     0.0     1.0
+    19.0     1.0     2.0     0.0     1.0     1.0     0.0     0.0     0.0     0.0
+     0.0     0.0     1.0     1.0     0.0     0.0     1.0     0.0     2.0     1.0
+   510.0
+50, , 138
+     4.0     0.0     0.0     0.0     1.0    22.0     2.0    31.5     0.0     0.0
+     6.0     1.0     0.0     0.0     0.0     2.0     0.0     5.0    10.5   153.0
+    41.5   165.0     1.0     0.0     6.0    23.0     5.0     0.0     0.0     1.0
+     0.0     0.0    10.0     0.0     7.0     1.0     0.0     0.0    10.0     0.0
+     0.0     0.0     0.0    24.5     0.0     0.0     0.0     1.0     0.0     1.0
+    13.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     1.0     2.0     0.0     0.0     3.0     0.0     0.0     0.0     3.5     2.0
+   162.0
+100, , 509
+     1.0     0.0     0.0     0.0     0.0    23.0     2.0    39.0     0.0     0.0
+     6.0     7.0     0.0     0.0     0.0     1.0     2.0     3.0     9.5   114.0
+    27.0    96.0     0.0     1.0     6.0    25.0     1.0     1.0     0.0     7.0
+     0.0     0.0     4.0     0.0     9.0     0.0     0.0     0.0    13.0     5.0
+     0.0     0.0     2.5    12.0     0.0     0.0     0.0     0.0     1.0     1.0
+     8.0     1.0     0.0     1.0     1.0     0.0     0.0     1.0     0.0     0.0
+     0.0     0.0     0.0     0.0     2.0     0.0     0.0     0.0     2.5     2.0
+   185.0
+200, , 1250
+     1.0     0.0     0.0     0.0     1.0     9.0     1.0    12.0     0.0     0.0
+     2.0     0.0     1.0     0.0     0.0     2.0     2.0     7.0     3.5    71.5
+    28.0    72.0     1.0     0.0     1.0    13.0     0.0     0.0     1.0     1.0
+     0.0     1.0     1.0     0.0     2.0     0.0     0.0     0.0     4.0     0.0
+     0.0     0.0     2.0     9.0     0.0     0.0     0.0     0.0     0.0     0.0
+     7.0     1.0     0.0     1.0     0.0     1.0     2.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     2.0     0.0     0.0     0.0     0.0     1.0
+    74.0
+300, , 1991
+      .5     0.0     0.0     0.0     3.0    29.0     4.0    29.0     0.0     0.0
+     4.0     1.0     0.0     0.0     0.0     0.0     0.0     8.0     1.5   106.0
+    50.0    96.0     0.0     1.0     6.0    40.0     0.0     0.0     0.0     3.0
+     0.0     0.0     8.0     0.0     1.0     1.0     0.0     0.0    10.0     2.0
+     0.0     0.0     5.0     7.0     0.0     0.0     0.0     0.0     0.0     0.0
+    12.0     0.0     0.0     0.0     1.0     2.0     0.0     1.0     0.0     0.0
+     0.0     0.0     0.0     0.0     3.0     0.0     0.0     0.0     2.5     4.0
+    87.0
+335, , 2250
+     0.0     0.0     0.0     0.0     1.0    27.0     3.0    35.0     0.0     0.0
+     5.0     4.0     0.0     0.0     0.0     0.0     0.0     9.0     2.5    31.5
+    71.0    98.0     0.0     0.0     7.0    35.0     2.0     0.0     0.0     4.0
+     0.0     0.0     4.0     0.0     4.0     1.0     1.0     0.0    14.5    10.0
+     0.0     0.0     1.0    16.0     0.0     1.0     1.0     0.0     0.0     1.0
+    17.0     0.0     0.0     0.0     0.0     0.0     0.0     1.0     0.0     1.0
+     0.0     0.0     0.0     0.0     2.0     0.0     0.0     1.0    10.0     1.0
+   351.0
+350, , 2335
+     0.0     0.0     0.0     0.0     0.0    30.0     0.0    37.0     0.0     0.0
+     1.0     3.0     0.0     0.0     0.0     3.0     0.0    13.0     2.0    39.5
+    42.5    62.0     1.0     5.0     6.0    26.0     3.0     1.0     0.0     1.0
+     0.0     0.0     6.0     1.0     1.0     3.0     0.0     0.0     9.0     3.0
+     0.0     0.0     3.0    14.0     0.0     0.0     0.0     0.0     0.0     0.0
+    12.0     0.0     0.0     1.0     0.0     0.0     2.0     0.0     0.0     2.0
+     0.0     0.0     1.0     0.0     0.0     0.0     0.0     0.0     2.0     1.0
+    72.0
+360, , 2391
+     0.0     0.0     1.0     0.0     1.0    31.0     0.0    40.0     0.0     0.0
+    15.0     4.0     1.0     0.0     0.0     1.0     0.0    11.0     5.0    28.0
+    32.5    45.5     2.0     0.0     9.0    47.0     2.0     2.0     0.0     5.0
+     1.0     0.0     4.0     0.0     6.0     0.0     0.0     0.0    18.0     7.0
+     0.0     0.0     4.0    15.0     0.0     0.0     0.0     0.0     0.0     0.0
+    21.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     2.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0    13.0     1.0
+   339.0
+385, , 2532
+     4.5     0.0     0.0     0.0     1.0    44.0     2.0    37.5     0.0     2.0
+     2.0     3.0     1.0     0.0     0.0     5.0     0.0    17.0      .5    10.0
+    36.0    28.5     1.0     0.0     9.0    51.0     6.0     0.0     0.0     1.0
+     0.0     0.0    11.0     0.0     5.0     0.0     0.0     0.0    16.0     8.5
+     0.0     0.0     3.0    24.0     0.0     0.0     0.0     0.0     1.0     0.0
+    23.0     0.0     0.0     2.0     0.0     0.0     0.0     3.0     2.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0    10.5     2.0
+   363.0
+400, , 2616
+     2.0     1.0     0.0     0.0     0.0    26.0     0.0    31.0     0.0     0.0
+    11.0     8.0     1.0     0.0     1.0     1.0     0.0     6.0     3.5    13.0
+    22.0    21.5     0.0     1.0    10.0    35.5     4.0     1.0     0.0     0.0
+     0.0     0.0     4.0     0.0     6.0     1.0     0.0     0.0    10.0     6.5
+     0.0     0.0     3.0    14.0     0.0     0.0     0.0     0.0     0.0     0.0
+    15.0     0.0     0.0     0.0     1.0     0.0     1.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     3.0     1.0
+    62.0
+424, , 2752
+     0.0     0.0     0.0     0.0     0.0    23.0     2.0    28.0     0.0     0.0
+     9.0     4.0     4.0     0.0     0.0     1.0     1.0     6.0     4.0    12.4
+    12.1    16.0     0.0     0.0    10.0    39.0     1.0     0.0     0.0     1.0
+     2.0     0.0     5.0     0.0     4.0     0.0     0.0     0.0    13.0     4.0
+     0.0     0.0     2.0    15.0     0.0     1.0     0.0     0.0     0.0     1.0
+    34.0     0.0     0.0     0.0     0.0     1.0     1.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     3.0     1.0
+   115.0
+460, , 2955
+     0.0     1.0     0.0     0.0     2.0    26.0     1.0    15.0     0.0     0.0
+     3.0     4.0     1.0     0.0     0.0     1.0     0.0    13.0     2.5     7.0
+     9.0    15.5     1.0     3.0     3.0    41.0    10.0     0.0     0.0     1.0
+     0.0     0.0     5.0     0.0    11.0     3.0     0.0     0.0    31.0    10.0
+     1.0     0.0     2.0    15.0     1.0     0.0     1.0     0.0     0.0     0.0
+    35.0     2.0     0.0     0.0     0.0     0.0     0.0     1.0     0.0     1.0
+     1.0     0.0     1.0     0.0     1.0     0.0     0.0     0.0     4.0     0.0
+   132.0
+502, , 3191
+     1.0     0.0     0.0     1.0     0.0    18.0     0.0    18.0     1.0     0.0
+     3.0     3.0     0.0     0.0     0.0     0.0     0.0     1.0     0.0    15.0
+     3.5    16.0     1.0     0.0     2.0    28.0     5.0     1.0     0.0     1.0
+     0.0     0.0     1.0     1.0    12.0     2.0     0.0     0.0    33.0     6.0
+     2.0     0.0     2.0     9.5     0.0     0.0     0.0     0.0     0.0     1.0
+    34.0     0.0     0.0     0.0     0.0     1.0     0.0     0.0     0.0     2.0
+     0.0     1.0     1.0     0.0     2.0     0.0     1.0     1.0     3.0     0.0
+    80.0
+524, , 3315
+     1.0     1.0     0.0     0.0     2.0    34.0     4.0    16.0     0.0     0.0
+     2.0     3.0     1.0     0.0     0.0     0.0     0.0     2.0     0.0    23.5
+    10.0    22.0     1.0     2.0     2.0    32.0     5.0     0.0     0.0     3.0
+     0.0     0.0    10.0     0.0    15.0     3.0     0.0     0.0    58.5     8.0
+     0.0     0.0     2.5    20.0     0.0     0.0     0.0     0.0     0.0     0.0
+    64.0     0.0     0.0     1.0     0.0     0.0     0.0     1.0     0.0     0.0
+     0.0     0.0     0.0     0.0     3.0     1.0     0.0     1.0     4.0     2.0
+   138.0
+580, , 3631
+     0.0     0.0     0.0     0.0     0.0    22.0     2.0     9.0     0.0     0.0
+     5.0     2.0     0.0     1.0     0.0     2.0     1.0     2.0     4.5     1.5
+     3.5    13.0     0.0     1.0     2.0    23.0     5.0     0.0     0.0     1.0
+     0.0     0.0     3.0     0.0    10.0     0.0     0.0     1.0    41.0     3.0
+     0.0     0.0     6.0    19.0     0.0     0.0     1.0     0.0     0.0     0.0
+    48.0     0.0     0.0     2.0     0.0     0.0     0.0     2.0     2.0     0.0
+     0.0     0.0     0.0     0.0     4.0     0.0     0.0     1.0     4.5     0.0
+   155.0

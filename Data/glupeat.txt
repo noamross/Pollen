@@ -1,0 +1,119 @@
+# GPD ASCII Format
+# 04 Mar 04
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** Pollen Database for Siberia and the Russian Far East.             **
+# ***********************************************************************
+#
+# Site name:      Peat Exposure, Glukhoye Lake
+# Place:          RUS:Magadanskaya Oblast
+# Latitude:       59.45.00N      (  59.75    )
+# Longitude:      149.55.00E     ( 149.916667)
+# Elevation(m):   10
+# Sigle:          GLUPEAT
+# Entity name:
+# Contact person: Lozhkin, A.V.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#    25.5     3    2630    100    100  MAG-1076     U    peat
+#    44.5     3    3940    120    120  MAG-1074     U    peat
+#    76.5     3    4780    130    130  MAG-1075     U    peat
+#    93.5     3    5440    125    125  MAG-1077     U    peat
+#   113.5     3    5530    200    200  MAG-1078     U    peat
+#
+# Chron name:     PALE 1
+# Age model:      linear interpolation
+# Age bounds:     3210 - 6010
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#    25.5     3    2630   2730   2530   C14
+#    44.5     3    3940   4060   3820   C14
+#    76.5     3    4780   4910   4650   C14
+#    93.5     3    5440   5565   5315   C14
+#   113.5     3    5530   5730   5330   C14
+#
+# Publications:   Lozhkin, A.V., I.N. Skorodumov, A.P. Meshkov, and L.G.
+#                 Rovako. 1990. Changed paleogeographic environments in the
+#                 region of Glukhoye Lake (north coast of the Okhotsk Sea)
+#                 during the Pleistocene-Holocene transition. Doklady Akademii
+#                 Nauk 316(1):184-188. In Russian.
+#
+#                 Anderson, P.M., and A.V. Lozhkin, editors. 2002. Late
+#                 Quaternary Vegetation and Climate of Siberia and the Russian
+#                 Far East (Palynological and Radiocarbon Database). North
+#                 East Science Center, Far East Branch, Russian Academy of
+#                 Sciences, Magadan, Russia.
+#
+38 6
+    1 Aln      A Alnus
+    2 Bet      A Betula
+    3 Erles    A Ericales
+    4 Lar      A Larix
+    5 Pin.St   A Pinus subg. Strobus
+    6 Rbs.ch   A Rubus chamaemorus
+    7 Slx      A Salix
+    8 Apiae    B Apiaceae
+    9 Art      B Artemisia
+   10 Astae.ud B Asteraceae undiff.
+   11 Braae    B Brassicaceae
+   12 Cryae    B Caryophyllaceae
+   13 Cheae    B Chenopodiaceae
+   14 Cly      B Claytonia
+   15 Cypae    B Cyperaceae
+   16 Gen      B Gentiana
+   17 Lamae    B Lamiaceae
+   18 Lilae    B Liliaceae
+   19 Ongae    B Onagraceae
+   20 Poaae    B Poaceae
+   21 Polae    B Polygonaceae
+   22 Ranae.ud B Ranunculaceae undiff.
+   23 Rosae.ud B Rosaceae undiff.
+   24 Saxae    B Saxifragaceae
+   25 Scrae    B Scrophulariaceae
+   26 Tha      B Thalictrum
+   27 Val      B Valeriana
+   28 Bot      F Botrychium
+   29 Lyc.cl   F Lycopodium clavatum
+   30 Plpae    F Polypodiaceae
+   31 Sel.ru   F Selaginella rupestris
+   32 Btr      L Botryococcus
+   33 Pdi      L Pediastrum
+   34 Br:Bryes M Bryales
+   35 Br:Spg   M Sphagnum
+   36 Aliae    Q Alismataceae
+   37 Pot      Q Potamogeton
+   38 Spa      Q Sparganium
+34, , 3216
+   210.0   108.0    37.0     0.0    12.0    10.0     6.0     0.0     6.0     0.0
+     0.0     0.0     0.0     0.0    46.0     0.0     1.0     0.0     0.0     8.0
+     0.0     0.0     1.0     1.0     1.0     1.0     0.0     0.0     4.0     9.0
+     0.0     0.0     1.0    83.0    54.0     0.0     0.0     0.0
+72, , 4662
+    76.0   102.0    36.0     0.0    78.0     2.0     6.0     0.0     9.0     0.0
+     0.0     2.0     0.0     0.0    20.0     0.0     0.0     0.0     0.0     3.0
+     0.0     0.0     0.0     1.0     0.0     0.0     0.0     0.0     9.0     0.0
+     0.0     0.0     0.0    40.0   297.0     0.0     0.0     0.0
+110, , 5514
+   148.0   102.0    63.0     2.0    41.0     2.0     4.0     0.0     4.0     1.0
+     1.0     0.0     1.0     0.0    18.0     0.0     0.0     1.0     2.0    18.0
+     1.0     0.0     2.0     1.0     1.0     1.0     1.0     0.0     8.0     6.0
+     0.0     0.0     0.0     7.0   249.0     1.0     1.0     0.0
+130, , 5604
+   134.0   132.0    64.0     0.0    92.0     3.0     5.0     0.0     1.0     4.0
+     0.0     1.0     0.0     1.0    17.0     0.0     0.0     0.0     0.0    12.0
+     0.0     1.0     0.0     3.0     3.0     1.0     0.0     0.0    18.0    16.0
+     1.0     0.0     1.0    26.0   220.0     0.0     0.0     0.0
+150, , 5694
+   196.0   141.0    87.0     1.0    21.0     1.0     3.0     1.0     4.0     1.0
+     0.0     1.0     1.0     0.0     4.0     1.0     0.0     0.0     2.0     3.0
+     1.0     0.0     3.0     1.0     0.0     1.0     0.0     0.0     6.0    18.0
+     0.0     1.0     1.0    21.0   614.0     0.0     0.0     0.0
+220, , 6009
+   163.0    51.0    31.0     0.0     7.0     3.0     1.0     0.0     1.0     0.0
+     0.0     1.0     0.0     0.0     3.0     1.0     0.0     1.0     1.0     1.0
+     0.0     1.0     0.0     1.0     0.0     0.0     0.0     1.0    11.0    11.0
+     1.0     1.0     1.0     0.0   283.0     0.0     0.0     1.0

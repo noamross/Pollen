@@ -1,0 +1,95 @@
+# GPD ASCII Format
+# 28 Feb 04
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** Pollen Database for Siberia and the Russian Far East.             **
+# ***********************************************************************
+#
+# Site name:      Chubukulakhskoye Exposure
+# Place:          RUS:Sakha
+# Latitude:       69.16.00N      (  69.266667)
+# Longitude:      138.37.25E     ( 138.623611)
+# Elevation(m):   430
+# Sigle:          CHUBUKU
+# Entity name:    4086
+# Contact person: Grinenko, O.V.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   152.5     5    4065    135    135  MAG-1052     L    wood fragments
+#
+# Chron name:     PALE 1
+# Age model:      single dated level
+# Age bounds:     4060 - 4070
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#   152.5     5    4065   4200  33930   C14
+#
+# Publications:   Anderson, P.M., and A.V. Lozhkin, editors. 2002. Late
+#                 Quaternary Vegetation and Climate of Siberia and the Russian
+#                 Far East (Palynological and Radiocarbon Database). North
+#                 East Science Center, Far East Branch, Russian Academy of
+#                 Sciences, Magadan, Russia.
+#
+33 5
+    1 Aln.ud   A Alnus undiff.
+    2 Aln.vi   A Alnus viridis
+    3 Bet.di   A Betula divaricata
+    4 Bet.fr   A Betula fruticosa
+    5 Bet.na.e A Betula nana subsp. exilis
+    6 Bet.pl   A Betula platyphylla
+    7 Erles.ud A Ericales undiff.
+    8 Lar      A Larix
+    9 Pic.Eu   A Picea sect. Eupicea
+   10 Pin.pu   A Pinus pumila
+   11 Pin.sy   A Pinus sylvestris
+   12 Rho      A Rhododendron
+   13 Slx      A Salix
+   14 Art      B Artemisia
+   15 Astae.Ci B Asteraceae subf. Cichorioideae
+   16 Cryae    B Caryophyllaceae
+   17 Cly.ac   B Claytonia acutifolia
+   18 Cypae    B Cyperaceae
+   19 Epi.la   B Epilobium latifolium
+   20 Lilae    B Liliaceae
+   21 Poaae    B Poaceae
+   22 Pul.da   B Pulsatilla dahurica
+   23 Ranae.ud B Ranunculaceae undiff.
+   24 Valae    B Valerianaceae
+   25 Bot      F Botrychium
+   26 Dph.al   F Diphasiastrum alpinum
+   27 Dph.co   F Diphasiastrum complanatum
+   28 Equ      F Equisetum
+   29 Hup.sa-t F Huperzia selago subsp. arctica-type
+   30 Plpae    F Polypodiaceae
+   31 Sel.si   F Selaginella sibirica
+   32 Br:Bryes M Bryales
+   33 Br:Spg   M Sphagnum
+50
+     0.0    17.1    41.0     3.8   104.1     0.0    33.0     0.0     0.0    13.0
+     0.0     0.0     0.0     0.0     0.0      .9     0.0      .9     0.0     0.0
+     2.1     2.1     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0    10.0    67.0
+110
+     5.1    20.9    41.0    25.0   136.1    12.0    51.0     0.0     0.0     7.9
+     2.1     2.1     1.0     0.0     0.0     0.0     0.0     1.0     0.0     0.0
+     5.1    12.0     2.7     0.0     1.0     0.0     0.0     0.0     1.0     1.0
+     0.0     2.1     9.9
+120
+      .9    19.0    27.2    10.8   115.1     0.0     9.9     2.2      .9     9.9
+     2.2     0.0     3.9     3.0     0.0     0.0     0.0    43.1     2.2    12.1
+    69.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0    15.9    84.0
+150, , 4065
+     6.7    60.0    53.9    33.1   120.1    15.1    49.9     3.9     1.1    39.3
+     2.2     0.0     2.8     6.2     1.1     1.1     1.1    12.9    12.9     0.0
+     6.7     6.2     0.0     1.7     0.0     1.1     2.2     1.1     0.0     7.9
+     7.8     7.9    94.8
+170
+     1.2    66.9    31.2    17.9   111.9     2.9     6.3     1.2     1.2    16.7
+     5.2     0.0     2.9     0.0     0.0     1.2     1.2     5.8     0.0     0.0
+     5.8     1.7     0.0     0.0     0.0     0.0     0.0     0.0     1.2     1.7
+     1.2     4.0   281.6

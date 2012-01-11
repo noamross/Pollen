@@ -1,0 +1,68 @@
+# GPD ASCII Format
+# 26 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the Latin American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Sierra Bacha
+# Place:          MEX:Sonora
+# Latitude:       29.50.00N      (  29.833333)
+# Longitude:      112.29.00W     (-112.483333)
+# Elevation(m):   220
+# Sigle:          SBACHA1J
+# Entity name:    SB1J
+# Contact person: Anderson, R.S.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#                  5340    220    220  A-5441       G    Neotoma pellets
+# Dating notes:   Midden Sample SB1J
+#
+# Chron name:     R.S. Anderson 1995
+# Age model:      sample directly dated
+# Age bounds:     5330 - 5350
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#  5340.0          5340   5780   4900   C14
+#
+# Publications:   Anderson, R.S., and T.R. Van Devender. 1995. Vegetation
+#                 history of the coastal lowlands of Sonora, Mexico - pollen
+#                 records from packrat middens. Journal of Arid Environments
+#                 30:295-306.
+#
+27 1
+    1 Acc      A Acacia
+    2 Bur.m    A Bursera microphylla
+    3 Cci      A Cercidium
+    4 Ece-t    A Encelia-type
+    5 Eph.vi-t A Ephedra viridis-type
+    6 Fou.s    A Fouquieria splendens
+    7 Hpt      A Hyptis
+    8 Jat      A Jatropha
+    9 Kra      A Krameria
+   10 Pin      A Pinus
+   11 Alo      B Allionia
+   12 Amb-t    B Ambrosia-type
+   13 Ast.As.c B Asteraceae subf. Asteroideae (coarse-spine)
+   14 Brh      B Boerhavia
+   15 Braae    B Brassicaceae
+   16 Cacae.ud B Cactaceae undiff.
+   17 Cng-t    B Carnegiea-type
+   18 Ch/Am    B Chenopodiaceae/Amaranthaceae
+   19 Eup      B Euphorbia
+   20 Lts-t    B Lithospermum-type
+   21 Lup      B Lupinus
+   22 Phs      B Physalis
+   23 Poaae    B Poaceae
+   24 Sol      B Solanum
+   25 Sph      B Sphaeralcea
+   26 Trs      B Trixis
+   27 ind.de   X Indeterminable (degraded)
+5340, , 5340
+     1.0    11.0    48.0    20.0     2.0    19.0     2.0     5.0     1.0     3.0
+     2.0    34.0    14.0     1.0     1.0    20.0     1.0     2.0    12.0    15.0
+     3.0     2.0     1.0     4.0     8.0     7.0    37.0

@@ -1,0 +1,83 @@
+# GPD ASCII Format
+# 28 Feb 04
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** Pollen Database for Siberia and the Russian Far East.             **
+# ***********************************************************************
+#
+# Site name:      Bludlivaya River
+# Place:          RUS:Sakha
+# Latitude:       69.04.00N      (  69.066667)
+# Longitude:      148.24.00E     ( 148.4     )
+# Elevation(m):   100
+# Sigle:          BLUD
+# Entity name:
+# Contact person: Lozhkin, A.V.
+# Entity notes:   site is located on Khatystakh River, part of Indigirka basin
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   470.0     1   22100   1300   1300  MAG-853      L    peat
+#  1100.0     1   29800    800    800  MAG-854      L    wood
+#  1800.0     1   38600   1100   1100  MAG-855      L    peat
+#
+# Chron name:     GPD 1
+# Age model:      each sample is individually dated.
+# Age bounds:     22100 - 38600
+# Chron notes:    Chron uses 3 radiocarbon dates.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#   470.0     2   22100  23400  20800   C14
+#  1100.0     2   29800  30600  29000   C14
+#  1800.0     2   38600  39700  37500   C14
+#
+31 3
+    1 Aln      A Alnus
+    2 Bet      A Betula
+    3 Erles    A Ericales
+    4 Lar      A Larix
+    5 Pin.St   A Pinus subg. Strobus
+    6 Slx      A Salix
+    7 Art      B Artemisia
+    8 Astae.Ci B Asteraceae subf. Cichorioideae
+    9 Astae.ud B Asteraceae undiff.
+   10 Cryae    B Caryophyllaceae
+   11 Cheae    B Chenopodiaceae
+   12 Cypae    B Cyperaceae
+   13 Fabae    B Fabaceae
+   14 Ped      B Pedicularis
+   15 Phl      B Phlox
+   16 Poaae    B Poaceae
+   17 Pomae.ud B Polemoniaceae undiff.
+   18 Polae    B Polygonaceae
+   19 Ranae    B Ranunculaceae
+   20 Rosae    B Rosaceae
+   21 Saxae    B Saxifragaceae
+   22 Scrae.ud B Scrophulariaceae undiff.
+   23 Valae    B Valerianaceae
+   24 Plpae    F Polypodiaceae
+   25 Sel.ru   F Selaginella rupestris
+   26 Br:Bryes M Bryales
+   27 Br:Hepae M Hepaticae
+   28 Br:Spg   M Sphagnum
+   29 Myp      Q Myriophyllum
+   30 Potae    Q Potamogetonaceae
+   31 unk      X Unknown
+470, , 22100
+     5.0    18.0     4.0     2.0     2.0    12.0    45.0     0.0     2.0     6.0
+     0.0     1.0     0.0    95.0     1.0    23.0     1.0     3.0    18.0     3.0
+     0.0     1.0     2.0     0.0    22.0  1780.0    22.0    11.0     9.0     0.0
+     5.0
+1100, , 29800
+   133.0   113.0     4.0   311.0     5.0    42.0     8.0     6.0     2.0     3.0
+    16.0    10.0     0.0     0.0     0.0    19.0     0.0     0.0     4.0     0.0
+     2.0    23.0     0.0     1.0     2.0    19.0     0.0     8.0     6.0     3.0
+    15.0
+1800, , 38600
+    54.0   123.0    50.0    14.0    23.0    10.0    13.0     2.0     1.0     7.0
+     0.0     0.0     1.0     0.0     0.0    89.0     0.0     1.0     0.0     1.0
+     0.0     0.0     0.0     1.0     0.0    52.0     5.0    42.0     4.0     0.0
+     3.0

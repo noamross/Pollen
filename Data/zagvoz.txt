@@ -1,0 +1,103 @@
+# GPD ASCII Format
+# 22 May 04
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** Pollen Database for Siberia and the Russian Far East.             **
+# ***********************************************************************
+#
+# Site name:      Zagvozdino Exposure
+# Place:          RUS:Tyumenskaya Oblast
+# Latitude:       57.45.00N      (  57.75    )
+# Longitude:      71.25.00E      (  71.416667)
+# Elevation(m):   65
+# Sigle:          ZAGVOZ
+# Entity name:
+# Contact person: Volkova, V.S.
+# Entity notes:   trees include Pinus sylvestris, Betula sect. Albae, Picea,
+#                 Abies, Tilia cordata, Pinus sibirica
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#  1050.0     3   44620   1110   1110  SOAN-1894    L    wood
+#
+# Chron name:     PALE 1
+# Age model:      single dated level
+# Age bounds:     44610 - 44630
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#  1050.0     3   44620  45730  43510   C14
+#
+# Publications:   Bakhareva, V.A. 1983. Palynological characteristics of
+#                 sediments of the second floodplain terrace of the lower
+#                 Irtysh River. Pages 79-82 in S.A. Arkhipov, V.S. Volkova,
+#                 and N.A. Skabichevskaya, editors. Glaciation and
+#                 paleoclimates of Siberia during the Pleistocene. Institute
+#                 of Geology and Geophysics, Siberian Branch, USSR Academy of
+#                 Sciences, Novosibirsk. In Russian.
+#
+#                 Anderson, P.M., and A.V. Lozhkin, editors. 2002. Late
+#                 Quaternary Vegetation and Climate of Siberia and the Russian
+#                 Far East (Palynological and Radiocarbon Database). North
+#                 East Science Center, Far East Branch, Russian Academy of
+#                 Sciences, Magadan, Russia.
+#
+20 12
+    1 Abi      A Abies
+    2 Aln      A Alnus
+    3 Betae.ud A Betulaceae undiff.
+    4 Pic      A Picea
+    5 Pin.si   A Pinus sibirica
+    6 Pin.sy   A Pinus sylvestris
+    7 Apiae    B Apiaceae
+    8 Astae.Ci B Asteraceae subf. Cichorioideae
+    9 Cheae    B Chenopodiaceae
+   10 Cypae    B Cyperaceae
+   11 Fabae    B Fabaceae
+   12 herbs.ud B Herbs undiff.
+   13 Lilae    B Liliaceae
+   14 Poaae    B Poaceae
+   15 Pomae    B Polemoniaceae
+   16 Ranae    B Ranunculaceae
+   17 Lycae    F Lycopodiaceae
+   18 Plpae    F Polypodiaceae
+   19 Br:Bryes M Bryales
+   20 Br:Spg   M Sphagnum
+400
+     1.0     0.0   138.0     0.0    87.0    87.0     0.0     0.0     0.0    82.0
+     0.0    55.0    16.0   247.0     0.0   110.0    10.0    40.0    80.0    70.0
+500
+     0.0    20.0    50.0     0.0    40.0    70.0     0.0     0.0   100.0     0.0
+     0.0    60.0     0.0    10.0    20.0   140.0    20.0   160.0   220.0    80.0
+550
+     0.0   120.0   120.0    40.0    60.0    80.0     0.0    40.0    30.0     0.0
+     0.0    40.0     0.0    20.0    40.0    40.0     0.0   160.0   160.0    35.0
+600
+     0.0     0.0    53.0     0.0    70.0    70.0     0.0    12.0     0.0     5.0
+     8.0    10.0     0.0    10.0     0.0     5.0     0.0   380.0     0.0     5.0
+650
+     0.0    60.0    30.0     0.0    50.0    40.0     0.0    70.0     0.0     0.0
+     0.0    40.0     0.0     0.0     0.0    80.0     0.0   480.0     0.0    60.0
+700
+     0.0   100.0   100.0     0.0    80.0   120.0     0.0     0.0     0.0     0.0
+     0.0    40.0     0.0     0.0     0.0    80.0     0.0   320.0    30.0     0.0
+800
+     0.0    60.0    40.0     0.0   100.0   200.0     0.0     0.0    25.0     0.0
+     0.0    50.0     0.0   150.0     0.0    25.0     0.0   310.0    70.0    70.0
+850
+     0.0   150.0   165.0     0.0   137.0    38.0    10.0    45.0    75.0    25.0
+    20.0    40.0     0.0    50.0    10.0    30.0     0.0     0.0     0.0     0.0
+900
+     0.0   130.0    40.0     0.0     0.0    30.0    25.0    50.0   180.0    20.0
+    40.0    20.0    10.0   120.0    10.0    10.0     0.0    10.0   150.0    40.0
+950
+     0.0     0.0    50.0     0.0    20.0    30.0    10.0    40.0    45.0   205.0
+    30.0    50.0     0.0   135.0    10.0     0.0     0.0   350.0    10.0    30.0
+1000
+     0.0     0.0    75.0     0.0    60.0   140.0     0.0    35.0    88.0     0.0
+   105.0    17.0    67.0   182.0     0.0     0.0     0.0   280.0     0.0    70.0
+1050, , 44620
+     0.0    90.0    60.0    10.0    90.0   360.0     0.0     0.0    43.0    10.0
+     0.0     0.0     0.0    40.0     0.0    15.0     0.0   250.0     0.0     0.0

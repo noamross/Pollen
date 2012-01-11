@@ -1,0 +1,92 @@
+# GPD ASCII Format
+# 24 Apr 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the Latin American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Aguas Calientes 2
+# Place:          CHL:
+# Latitude:       23.30.00S      ( -23.5     )
+# Longitude:      67.35.00W      ( -67.583333)
+# Elevation(m):   4210
+# Sigle:          AGUASC2
+# Entity name:
+# Contact person: Graf, K.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#    85.0    10     810    115    115  UZ-1462      U    peat
+#
+# Chron name:     [no chron]
+#
+# Publications:   Graf, K. 1992. Pollendiagramme aus den Anden: Eine Synthese
+#                 zur Klimageschichte und Vegetationsentwicklung seit der
+#                 letzten Eiszeit. Physische Geographie vol. 34. University of
+#                 Zurich, Switzerland.
+#
+17 15
+    1 Eph      A Ephedra
+    2 Amaae    B Amaranthaceae
+    3 Apiae.ud B Apiaceae undiff.
+    4 Astae.As B Asteraceae subf. Asteroideae
+    5 Astae.Ci B Asteraceae subf. Cichorioideae
+    6 Azr      B Azorella
+    7 Braae    B Brassicaceae
+    8 Cacae    B Cactaceae
+    9 Cryae    B Caryophyllaceae
+   10 Cheae    B Chenopodiaceae
+   11 Cypae    B Cyperaceae
+   12 Malae    B Malvaceae
+   13 Poaae    B Poaceae
+   14 Solae    B Solanaceae
+   15 Fu:      U Fungus
+   16 ot       X Other
+   17 ase.cm2  - Area slide examined (cm²)
+0
+     1.0     0.0     0.0     7.0     0.0     3.0     0.0     0.0     0.0     4.0
+    92.0     0.0   108.0     1.0     3.0     0.0     1.0
+20
+     2.0     0.0     0.0    25.0     0.0     1.0     0.0     0.0     2.0    11.0
+  1400.0     0.0    69.0     2.0     0.0     6.0     7.7
+40
+     2.0     0.0     0.0    10.0     0.0     1.0     0.0     0.0    68.0     5.0
+   280.0     0.0    31.0     2.0     1.0     0.0     4.5
+60
+     1.0     0.0     0.0    15.0     0.0     0.0     0.0     5.0     6.0     7.0
+    66.0     0.0    18.0     3.0     2.0     1.0     7.7
+90
+     1.0     3.0     0.0    16.0     0.0     0.0     0.0     1.0     2.0    23.0
+   360.0     1.0    68.0     2.0     8.0     3.0     7.7
+100
+     2.0     0.0     0.0    15.0     1.0     0.0    27.0     0.0     0.0     7.0
+    34.0     1.0    96.0     0.0     5.0     0.0     3.9
+120
+     2.0     0.0     0.0     8.0     0.0     0.0     3.0     0.0     0.0     9.0
+    24.0     0.0   146.0     0.0     3.0     0.0     7.7
+160
+     1.0     0.0     1.0    11.0     0.0     0.0    19.0     0.0     1.0     3.0
+    22.0     0.0    82.0     1.0     0.0     2.0     5.2
+200
+     0.0     0.0     0.0    26.0     0.0     0.0     5.0     0.0     0.0     6.0
+    14.0     0.0    68.0     0.0    11.0     2.0     7.7
+220
+     0.0     0.0     0.0     4.0     0.0     0.0     0.0     0.0     0.0     6.0
+     5.0     1.0   106.0     0.0     1.0     0.0     1.3
+240
+     2.0     0.0     0.0     2.0     0.0     0.0     0.0     0.0     0.0     7.0
+     3.0     0.0   136.0     0.0     1.0     0.0     1.3
+260
+     0.0     0.0     0.0     3.0     0.0     0.0     0.0     0.0     0.0     0.0
+     1.0     0.0   140.0     0.0     0.0     0.0     1.0
+300
+     0.0     0.0     0.0    22.0     0.0     0.0     1.0     0.0     0.0     1.0
+     2.0     0.0    74.0     1.0     6.0     1.0     2.9
+325
+     0.0     0.0     0.0    12.0     0.0     0.0     0.0     1.0     0.0     8.0
+    19.0     0.0    91.0     1.0     0.0     2.0     7.7
+350
+     2.0     0.0     0.0    21.0     0.0     0.0     1.0     1.0     1.0     5.0
+    80.0     0.0    77.0     6.0     4.0     1.0     2.6

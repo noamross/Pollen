@@ -1,0 +1,184 @@
+# GPD ASCII Format
+# 30 Jan 04
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** Pollen Database for Siberia and the Russian Far East.             **
+# ***********************************************************************
+#
+# Site name:      Amguema River Valley (Exposure 2)
+# Place:          RUS:Chukotskiy Avtonomnyy Okrug
+# Latitude:       67.40.00N      (  67.666667)
+# Longitude:      178.36.00E     ( 178.6     )
+# Elevation(m):   87
+# Sigle:          AMGUEMA2
+# Entity name:    Site 2
+# Contact person: Kotov, A.N.
+# Entity notes:   site located on left bank of Amguema River
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   205.0    30    2170     20     20  MAG-1313     L    shrub branch
+#   455.0    30    2575     90     90  MAG-1312     L    shrub branch
+#
+# Chron name:     GPD 1
+# Age model:      linear interpolation
+# Age bounds:     2160 - 2650
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#   205.0    30    2170   2190   2150   C14
+#   455.0    30    2575   2665   2485   C14
+#
+# Publications:   Kotov, A.N. 1997. Cryolithogenesis in the ablation zone of
+#                 late Pleistocene glaciers. Pages 249-259 in Results of
+#                 fundamental investigations of the cryosphere of earth in the
+#                 Arctic and Subarctic. 1996. Nauka, Novosibirsk. In Russian.
+#
+#                 Lozhkin, A.V., M.A. Trumpe, A.I. Polujan, L.N. Kotova, and
+#                 E.D. Takmazyan. 1995. Radiocarbon dates for upper Quaternary
+#                 sequences in northeastern Asia and Alaska. Pages 169-184 in
+#                 Yu.M. Bychkov and A.V. Lozhkin, editors. History of climate
+#                 and vegetation in Beringia during the late Cenozoic. North
+#                 East Interdisciplinary Research Institute, Far East Branch,
+#                 Russian Academy of Sciences, Magadan. In Russian.
+#
+#                 Anderson, P.M., and A.V. Lozhkin, editors. 2002. Late
+#                 Quaternary Vegetation and Climate of Siberia and the Russian
+#                 Far East (Palynological and Radiocarbon Database). North
+#                 East Science Center, Far East Branch, Russian Academy of
+#                 Sciences, Magadan, Russia.
+#
+67 8
+    1 Abi      A Abies
+    2 Aln.ud   A Alnus undiff.
+    3 Aln.vi   A Alnus viridis
+    4 Bet.di   A Betula divaricata
+    5 Bet.pl   A Betula platyphylla
+    6 Bet.Be   A Betula sect. Betula
+    7 Bet.ud   A Betula undiff.
+    8 Ced      A Cedrus
+    9 Erles    A Ericales
+   10 Lar      A Larix
+   11 Pic.Eu   A Picea sect. Eupicea
+   12 Pic.Om   A Picea sect. Omorica
+   13 Pic.ud   A Picea undiff.
+   14 Pinae.ud A Pinaceae undiff.
+   15 Pin.pu   A Pinus pumila
+   16 Pin.Pi   A Pinus subg. Pinus
+   17 PinSt.ud A Pinus subg. Strobus undiff.
+   18 Pin.Ce.u A Pinus subsect. Cembrae undiff.
+   19 Pin.ud   A Pinus undiff.
+   20 Rbs.ch   A Rubus chamaemorus
+   21 Slx      A Salix
+   22 Tsu      A Tsuga
+   23 Art      B Artemisia
+   24 Astae.ud B Asteraceae undiff.
+   25 Braae    B Brassicaceae
+   26 Cryae    B Caryophyllaceae
+   27 Cheae    B Chenopodiaceae
+   28 Cly.ac   B Claytonia acutifolia
+   29 Cypae    B Cyperaceae
+   30 Fabae    B Fabaceae
+   31 Lilae    B Liliaceae
+   32 Ongae    B Onagraceae
+   33 Oxy.di   B Oxyria digyna
+   34 Papae    B Papaveraceae
+   35 Poaae    B Poaceae
+   36 Pom      B Polemonium
+   37 Polae.ud B Polygonaceae undiff.
+   38 Pol.el   B Polygonum ellipticum
+   39 Pol.tr   B Polygonum tripterocarpum
+   40 Pol.ud   B Polygonum undiff.
+   41 Pol.vi   B Polygonum viviparum
+   42 Ranae    B Ranunculaceae
+   43 Rosae.ud B Rosaceae undiff.
+   44 Rum      B Rumex
+   45 Sau      B Saussurea
+   46 Saxae    B Saxifragaceae
+   47 Urtae    B Urticaceae
+   48 Val.of   B Valeriana officinalis
+   49 Val.ud   B Valeriana undiff.
+   50 Valae.ud B Valerianaceae undiff.
+   51 Dph.al   F Diphasiastrum alpinum
+   52 Dph.co   F Diphasiastrum complanatum
+   53 Equ      F Equisetum
+   54 Hup.se-t F Huperzia selago-type
+   55 Lycae.ud F Lycopodiaceae undiff.
+   56 Lyc.an.a F Lycopodium annotinum subsp. alpestre
+   57 Lyc.an.n F Lycopodium annotinum subsp. annotinum
+   58 Lyc.cl-t F Lycopodium clavatum-type
+   59 Osu      F Osmunda
+   60 Plpae    F Polypodiaceae
+   61 Sel.ru   F Selaginella rupestris
+   62 Br:Bes.u M Bryales undiff.
+   63 Br:Hae.u M Hepaticae undiff.
+   64 Br:Mee   M Meesia
+   65 Br:Ric   M Riccia
+   66 Br:Spg   M Sphagnum
+   67 Men.tr   Q Menyanthes trifoliata
+20, , 1870
+     0.0     1.0     5.0     0.0     0.0     0.0     9.0     0.0     8.0     3.0
+     2.0     0.0     0.0     0.0     2.0     0.0     2.0     0.0     0.0     1.0
+    26.0     0.0     4.0     2.0     2.0     3.0     0.0     0.0     5.0     0.0
+     0.0     2.0     1.0     0.0    21.0     0.0     0.0     0.0     0.0     1.0
+     0.0     0.0     1.0     0.0     0.0     0.0     1.0     0.0     0.0     1.0
+     1.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     1.0
+     3.0     0.0     1.0     0.0     1.0     1.0     0.0
+100, , 1999
+     0.0     1.0    77.0     0.0     0.0     0.0    43.0     1.0    21.0     0.0
+     2.0     0.0     0.0     0.0     0.0     2.0    28.0     0.0     0.0     0.0
+    57.0     2.0    14.0     2.0     0.0     3.0     0.0     0.0    39.0     1.0
+     0.0     2.0     0.0     0.0    15.0     1.0     0.0     1.0     0.0     0.0
+     0.0     0.0     1.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     1.0     1.0     0.0     0.0     0.0     0.0     0.0     2.0
+     7.0     6.0     1.0     1.0     0.0     1.0     0.0
+200, , 2161
+     2.0     3.0    28.0     2.0     0.0     1.0     8.0     0.0    28.0     2.0
+     4.0     0.0     1.0     0.0     2.0     3.0    21.0     0.0     2.0     0.0
+    19.0     2.0    18.0     1.0     0.0     4.0     0.0     1.0    73.0     1.0
+     1.0     5.0     0.0     1.0    43.0     2.0     1.0     0.0     0.0     0.0
+     0.0     1.0     3.0     3.0     3.0     2.0     0.0     0.0     0.0     0.0
+     1.0     0.0     2.0     0.0     0.0     1.0     0.0     1.0     0.0     4.0
+     4.0    11.0     1.0     3.0     3.0     1.0     1.0
+300, , 2323
+     0.0     0.0    17.0     0.0     0.0     0.0    15.0     0.0     3.0     0.0
+     0.0     0.0     1.0     0.0     5.0     1.0     1.0     0.0     0.0     0.0
+     9.0     0.0     3.0     2.0     0.0     2.0     1.0     0.0    20.0     3.0
+     0.0    10.0     0.0     0.0     8.0     0.0     0.0     1.0     0.0     0.0
+     1.0     3.0     0.0     0.0     1.0     0.0     0.0     2.0     0.0     0.0
+     0.0     0.0     0.0     1.0     0.0     1.0     0.0     1.0     0.0     4.0
+    36.0     0.0     0.0     3.0     0.0     0.0     0.0
+400, , 2485
+     1.0     8.0    25.0     0.0     0.0     0.0    30.0     0.0    19.0     0.0
+     3.0     0.0     0.0     1.0     1.0     2.0    13.0     0.0     1.0     0.0
+    14.0     3.0     5.0     0.0     0.0     0.0     0.0     0.0    30.0     0.0
+     0.0     1.0     0.0     0.0   145.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     2.0     0.0     0.0     0.0     0.0     0.0     0.0     1.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     7.0     1.0     8.0
+    22.0     9.0     0.0     3.0     0.0     4.0     0.0
+500, , 2647
+     5.0     3.0    29.0     0.0     5.0     3.0    31.0     0.0    24.0     6.0
+     6.0     3.0     2.0     0.0    12.0     7.0     8.0     5.0     6.0     0.0
+    11.0     4.0    12.0     0.0     1.0     5.0     0.0     0.0    24.0     0.0
+     0.0     6.0     0.0     0.0    39.0     0.0     0.0     0.0     1.0     0.0
+     0.0     1.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     5.0     0.0     0.0     2.0     0.0     1.0     0.0     1.0    10.0
+    16.0     0.0     0.0     0.0     0.0     4.0     0.0
+600, , 2809
+     0.0     4.0    30.0     3.0     0.0     0.0    32.0     0.0     9.0     0.0
+     5.0     4.0     0.0     0.0     0.0     0.0    11.0     0.0     0.0     0.0
+     5.0     0.0     6.0     0.0     0.0     0.0     0.0     0.0     5.0     0.0
+     0.0     1.0     0.0     0.0     7.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     3.0
+     1.0     1.0     0.0     0.0     0.0     1.0     0.0
+700, , 2971
+     0.0     2.0    13.0     0.0     0.0     0.0    11.0     0.0    28.0     0.0
+     2.0     0.0     1.0     0.0     1.0     1.0     7.0     0.0     1.0     0.0
+     2.0     2.0     4.0     1.0     0.0     0.0     0.0     0.0    11.0     0.0
+     0.0     0.0     0.0     0.0    17.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     1.0     0.0     0.0     0.0     0.0     0.0     1.0     0.0
+     2.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     1.0
+     3.0     4.0     0.0     0.0     0.0     0.0     0.0

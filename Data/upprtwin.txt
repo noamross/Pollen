@@ -1,0 +1,159 @@
+# GPD ASCII Format
+# 25 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Upper Twin Lake
+# Place:          CAN:Ontario
+# Latitude:       46.33.00N      (  46.55    )
+# Longitude:      84.35.00W      ( -84.583333)
+# Elevation(m):   302
+# Sigle:          UPPRTWIN
+# Entity name:
+# Contact person: Saarnisto, M.
+# Entity notes:   All count increase by a factor of 10 for the purposes of
+#                 onesum 7/10/82.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#  1012.0          8760    270    270  Hel-476      U
+#  1035.0          9940    210    210  Hel-477      U
+#  1065.0         10650    265    265  Hel-400      U
+#
+# Chron name:     COHMAP chron# 1
+# Age model:      linear interpolation
+# Age bounds:     8500 - 10500
+# Chron notes:    3 C-14 dates from Saarnisto, 1974, Q.R. Top just into pine
+#                 zone (W3), so about 6.5k. Age bounds for application of the
+#                 model: top = 8500; bottom = 10500.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#  1012.0          8760   9030   8490   C14
+#  1035.0          9940  10150   9730   C14
+#  1065.0         10650  10915  10385   C14
+#
+# Publications:   Saarnisto, M. 1975. Stratigraphical studies on the shoreline
+#                 displacement of Lake Superior. Canadian Journal of Earth
+#                 Sciences 12:300-319.
+#
+#                 Saarnisto, M. 1974. The deglaciation history of the Lake
+#                 Superior region and its climatic implications. Quaternary
+#                 Research 4:316-339.
+#
+31 16
+    1 Abi      A Abies
+    2 Ace      A Acer
+    3 Aln      A Alnus
+    4 Bet      A Betula
+    5 Car      A Carya
+    6 Cor      A Corylus
+    7 Cupae    A Cupressaceae
+    8 Ercae    A Ericaceae
+    9 Fag      A Fagus
+   10 Fra      A Fraxinus
+   11 Jug      A Juglans
+   12 Lar      A Larix
+   13 Myr      A Myrica
+   14 Os/Ca    A Ostrya/Carpinus
+   15 Pic      A Picea
+   16 Pin.Pi   A Pinus subg. Pinus
+   17 Pin.St   A Pinus subg. Strobus
+   18 Pop      A Populus
+   19 Que      A Quercus
+   20 Slx      A Salix
+   21 Ulm      A Ulmus
+   22 Amb-t    B Ambrosia-type
+   23 Art      B Artemisia
+   24 Astae.ud B Asteraceae undiff.
+   25 Ch/Am    B Chenopodiaceae/Amaranthaceae
+   26 Cypae    B Cyperaceae
+   27 herbs.ud B Herbs undiff.
+   28 Poaae    B Poaceae
+   29 Rosae    B Rosaceae
+   30 Rum      B Rumex
+   31 ind      X Indeterminable
+930, , 4553
+    20.0    10.0     0.0   330.0     0.0     0.0    20.0     0.0     0.0    10.0
+     0.0     0.0     0.0    30.0    30.0   330.0   150.0     0.0    20.0     0.0
+    40.0     0.0    10.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0
+940, , 5066
+    20.0     0.0     0.0   320.0     0.0     0.0    20.0     0.0     0.0    10.0
+     0.0     0.0     0.0     0.0    40.0   320.0   180.0     0.0    40.0     0.0
+    20.0    10.0    10.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0
+950, , 5579
+    20.0     0.0    10.0   450.0     0.0    10.0    40.0     0.0     0.0    10.0
+     0.0     0.0     0.0    10.0    30.0   220.0    60.0     0.0    50.0     0.0
+    20.0    10.0     0.0     0.0    10.0     0.0     0.0     0.0     0.0     0.0
+     0.0
+960, , 6092
+    40.0     0.0    10.0   400.0     0.0     0.0    50.0     0.0     0.0    10.0
+     0.0    10.0     0.0    10.0    30.0   290.0    30.0     0.0    30.0    10.0
+    10.0    20.0    10.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0
+970, , 6605
+    70.0     0.0     0.0   400.0     0.0     0.0    50.0     0.0     0.0     0.0
+     0.0     0.0     0.0    20.0    60.0   250.0    40.0     0.0    40.0    10.0
+    10.0    10.0    10.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0
+980, , 7118
+    60.0     0.0    20.0   290.0    10.0    10.0    60.0     0.0     0.0    20.0
+     0.0    10.0     0.0    20.0    80.0   300.0    20.0     0.0    50.0     0.0
+    20.0    10.0    20.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0
+990, , 7631
+    50.0     0.0    10.0   410.0     0.0     0.0    30.0     0.0     0.0    10.0
+     0.0     0.0     0.0    20.0   140.0   210.0    10.0     0.0    60.0     0.0
+    20.0     0.0    10.0     0.0     0.0     0.0     0.0    10.0     0.0     0.0
+     0.0
+1000, , 8144
+    60.0     0.0     0.0   360.0     0.0     0.0    40.0     0.0    10.0    20.0
+     0.0     0.0    20.0    10.0   130.0   230.0    10.0     0.0    20.0    10.0
+    30.0     0.0     0.0     0.0     0.0     0.0     0.0    20.0     0.0     0.0
+     0.0
+1010, , 8657
+    10.0     0.0     0.0   230.0     0.0     0.0    20.0     0.0    10.0    20.0
+     0.0    10.0    10.0    20.0   260.0   250.0    20.0     0.0    40.0     0.0
+    30.0    10.0     0.0     0.0     0.0    10.0     0.0    10.0     0.0     0.0
+     0.0
+1020, , 9170
+    30.0    10.0     0.0    30.0    20.0     0.0    20.0     0.0    10.0    20.0
+     0.0    20.0     0.0    20.0   400.0   260.0    30.0     0.0    40.0    10.0
+    20.0    10.0    20.0    10.0     0.0    10.0     0.0    10.0     0.0     0.0
+     0.0
+1030, , 9683
+    10.0     0.0     0.0    40.0    10.0     0.0    40.0     0.0     0.0     0.0
+     0.0    30.0     0.0    30.0   490.0   210.0    10.0    10.0     0.0     0.0
+    10.0     0.0    10.0    10.0     0.0     0.0     0.0    10.0    10.0     0.0
+     0.0
+1040, , 10058
+     0.0     0.0     0.0   110.0    10.0     0.0    40.0     0.0     0.0     0.0
+    10.0     0.0     0.0    10.0   430.0   240.0    10.0    20.0    20.0     0.0
+     0.0     0.0    10.0    10.0     0.0    10.0     0.0    10.0     0.0     0.0
+     0.0
+1050, , 10295
+    20.0     0.0    30.0   150.0    10.0     0.0    10.0    10.0    10.0    30.0
+     0.0     0.0     0.0    30.0   160.0   160.0     0.0     0.0    60.0    80.0
+    30.0    10.0    40.0    10.0     0.0    50.0    10.0    20.0    20.0    60.0
+     0.0
+1060, , 10531
+    10.0     0.0   100.0    70.0     0.0    10.0    50.0    20.0     0.0    10.0
+     0.0     0.0     0.0    10.0   110.0   170.0    10.0     0.0    20.0    30.0
+    50.0     0.0    80.0    20.0    10.0    90.0     0.0    20.0    30.0    30.0
+     0.0
+1070, , 10768
+     0.0     0.0    30.0    30.0     0.0    10.0   110.0     0.0     0.0    10.0
+     0.0     0.0     0.0    20.0   190.0    40.0     0.0     0.0    50.0    90.0
+    40.0    40.0   120.0    20.0    10.0   110.0    10.0    10.0     0.0    60.0
+    10.0
+1075, , 10886
+     0.0     0.0    10.0    40.0     0.0    10.0   110.0     0.0     0.0    50.0
+     0.0     0.0     0.0    30.0   130.0    30.0     0.0     0.0    50.0    50.0
+    50.0    50.0   100.0    40.0    10.0   140.0    10.0    10.0    20.0    30.0
+    70.0

@@ -1,0 +1,124 @@
+# GPD ASCII Format
+# 24 Apr 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the Latin American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Sajama
+# Place:          BOL:
+# Latitude:       18.10.00S      ( -18.166667)
+# Longitude:      68.53.00W      ( -68.883333)
+# Elevation(m):   4250
+# Sigle:          SAJAMA1
+# Entity name:
+# Contact person: Graf, K.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#    70.0     5    2530     85     85  UZ-1190      U    peat
+#   130.0     5    4130    160    160  UZ-1191      U    gyttja
+#
+# Chron name:     LAPD 1
+# Age model:      linear interpolation
+# Age bounds:     0 - 4400
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0     0       0      0      0   TOP
+#    70.0     5    2530   2615   2445   C14
+#   130.0     5    4130   4290   3970   C14
+#
+# Publications:   Ybert, J.P., and Y. Miranda. 1984. Analisis palinologico de
+#                 un corte del Sajama. Actas II Congreso Geologico Bolivia,
+#                 691-694.
+#
+26 15
+    1 Aln      A Alnus
+    2 Eph      A Ephedra
+    3 Ercae    A Ericaceae
+    4 Myr      A Myrica
+    5 Pod      A Podocarpus
+    6 Amaae    B Amaranthaceae
+    7 Astae.As B Asteraceae subf. Asteroideae
+    8 Astae.Ci B Asteraceae subf. Cichorioideae
+    9 Azr      B Azorella
+   10 Braae    B Brassicaceae
+   11 Cryae    B Caryophyllaceae
+   12 Cheae    B Chenopodiaceae
+   13 Cypae    B Cyperaceae
+   14 Gen-t    B Gentiana-type
+   15 Malae    B Malvaceae
+   16 Poaae    B Poaceae
+   17 Po/Ac    B Polylepis/Acaena
+   18 Solae    B Solanaceae
+   19 Cyaae    F Cyatheaceae
+   20 Glc      F Gleichenia
+   21 Lycae    F Lycopodiaceae
+   22 Iso      Q Isoëtes
+   23 sp.m.ud  S Spore (monolete undiff.)
+   24 sp.t.ps  S Spore (trilete psilate)
+   25 Fu:      U Fungus
+   26 ot       X Other
+0, , 0
+     0.0     0.0     0.0     0.0     0.0     0.0     5.0     0.0     1.0     1.0
+     0.0     1.0     0.0     0.0     0.0    99.0     1.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0   110.0     2.0
+5, , 181
+     0.0     0.0     0.0     0.0     1.0     0.0     3.0     0.0     0.0     0.0
+     0.0     2.0     1.0     1.0     0.0   180.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     2.0     0.0
+15, , 542
+     0.0     0.0     0.0     0.0     0.0     0.0     4.0     0.0     0.0     0.0
+     0.0     1.0     0.0     0.0     0.0   143.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0
+25, , 904
+     1.0     0.0     0.0     1.0     1.0     0.0    13.0     0.0     0.0     0.0
+     0.0     4.0     0.0     0.0     0.0   119.0     1.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0    12.0     0.0
+35, , 1265
+     0.0     0.0     0.0     0.0     1.0     0.0     5.0     0.0     0.0     0.0
+     2.0     1.0     1.0     0.0     0.0    97.0     1.0     0.0     0.0     0.0
+     1.0     0.0     0.0     0.0    56.0     0.0
+50, , 1807
+     0.0     0.0     0.0     2.0     4.0     0.0    43.0     0.0     1.0     0.0
+     0.0     1.0     0.0     0.0     0.0   258.0     3.0     0.0     0.0     0.0
+     0.0     1.0     0.0     0.0     1.0     0.0
+65, , 2349
+     0.0     0.0     0.0     0.0     0.0     0.0    15.0     0.0     0.0     0.0
+     0.0     1.0     0.0     0.0     0.0    93.0     2.0     0.0     0.0     0.0
+     0.0     2.0     0.0     0.0    20.0     0.0
+75, , 2663
+     0.0     0.0     0.0     0.0     0.0     0.0    10.0     0.0     0.0     0.0
+     2.0     1.0     0.0     0.0     0.0   123.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     6.0     0.0
+85, , 2930
+     0.0     0.0     0.0     0.0     1.0     0.0    26.0     1.0     1.0     0.0
+     1.0     1.0     0.0     0.0     1.0    81.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     1.0     0.0
+95, , 3197
+     1.0     0.0     1.0     0.0     4.0     1.0    15.0     0.0     0.0     0.0
+     3.0     2.0     0.0     0.0     0.0    96.0     0.0     0.0     0.0     0.0
+     1.0     1.0     0.0     0.0    15.0     0.0
+100, , 3330
+     0.0     0.0     0.0     0.0     2.0     0.0    15.0     2.0     2.0     0.0
+     2.0     1.0     0.0     0.0     0.0   107.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     6.0     0.0
+105, , 3463
+     1.0     0.0     0.0     0.0     0.0     0.0     3.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0   100.0     0.0     0.0     0.0     0.0
+     0.0     0.0     1.0     0.0    14.0     0.0
+115, , 3730
+     1.0     1.0     0.0     0.0     1.0     0.0     5.0     0.0     0.0     0.0
+     1.0     3.0     0.0     0.0     0.0    94.0     1.0     0.0     0.0     0.0
+     0.0     2.0     2.0     0.0     4.0     1.0
+125, , 3997
+     0.0     0.0     0.0     0.0     1.0     0.0     5.0     1.0     0.0     0.0
+     0.0     2.0     0.0     1.0     0.0    93.0     1.0     1.0     0.0     0.0
+     0.0     0.0     0.0     0.0     3.0     0.0
+140, , 4397
+     5.0     0.0     0.0     5.0     3.0     0.0     5.0     0.0     1.0     0.0
+     0.0     0.0     0.0     0.0     0.0    85.0     0.0     0.0     1.0     1.0
+     3.0     3.0     0.0     1.0     3.0     3.0

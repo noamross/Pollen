@@ -1,0 +1,160 @@
+# GPD ASCII Format
+# 28 Feb 04
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** Pollen Database for Siberia and the Russian Far East.             **
+# ***********************************************************************
+#
+# Site name:      Kirgirlakh Stream, Berelyekh River Basin
+# Place:          RUS:Magadanskaya Oblast
+# Latitude:       62.40.00N      (  62.666667)
+# Longitude:      147.59.00E     ( 147.983333)
+# Elevation(m):   700
+# Sigle:          DIMA4
+# Entity name:    First Alluvial Terrace
+# Contact person: Lozhkin, A.V.
+# Entity notes:   2m alluvial terrace, Kirgirlakh R.; baby mammoth dima site
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   450.5     1    1170     30     30  MAG-435      L    wood
+#   515.0     2    5360     50     50  MAG-502      L    wood
+#   685.0     2    6120     70     70  MAG-441      L    wood
+#   690.0     2    6200     60     60  MAG-446      L    wood
+# Dating notes:   WOOD FROM PALEOSOL IN FIRST TERRACE, KIRGILYAKH R., MAMMOTH
+#                 DIMA SITE
+#                 WOOD FROM ALLUVIUM IN FIRST TERRACE
+#                 WOOD FROM PALEOSOL IN FIRST TERRACE
+#                 WOOD FROM ALLUVIUM IN FIRST TERRACE
+#
+# Chron name:     PALE 1
+# Age model:      linear interpolation
+# Age bounds:     1360 - 6200
+# Chron notes:    model should only be applied between 450-690 cm
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#   450.5     1    1170   1200   1140   C14
+#   515.0     2    5360   5410   5310   C14
+#   685.0     2    6120   6190   6050   C14
+#   690.0     2    6200   6260   6140   C14
+#
+# Publications:   Shilo, N.A., A.V. Lozhkin, E.E. Titov, and Yu.V. Schumilov.
+#                 1983. Kirgirlakh mammoth: paleography aspect. Nauka, Moscow.
+#                 In Russian.
+#
+#                 Anderson, P.M., and A.V. Lozhkin, editors. 2002. Late
+#                 Quaternary Vegetation and Climate of Siberia and the Russian
+#                 Far East (Palynological and Radiocarbon Database). North
+#                 East Science Center, Far East Branch, Russian Academy of
+#                 Sciences, Magadan, Russia.
+#
+46 10
+    1 Aln      A Alnus
+    2 Bet      A Betula
+    3 Ercae    A Ericaceae
+    4 Lar      A Larix
+    5 Pin.St   A Pinus subg. Strobus
+    6 Slx      A Salix
+    7 Apiae    B Apiaceae
+    8 Art      B Artemisia
+    9 Astae.ud B Asteraceae undiff.
+   10 Braae    B Brassicaceae
+   11 Cryae    B Caryophyllaceae
+   12 Cheae    B Chenopodiaceae
+   13 Cly.ac   B Claytonia acutifolia
+   14 Cly.si   B Claytonia sibirica
+   15 Conae    B Convolvulaceae
+   16 Cypae    B Cyperaceae
+   17 Fabae    B Fabaceae
+   18 Ongae    B Onagraceae
+   19 Poaae    B Poaceae
+   20 Pomae    B Polemoniaceae
+   21 Pol.Ac   B Polygonum sect. Aconogonon
+   22 Pol.Pe   B Polygonum sect. Persicaria
+   23 Ranae.ud B Ranunculaceae undiff.
+   24 Rosae.ud B Rosaceae undiff.
+   25 San      B Sanguisorba
+   26 Saxae    B Saxifragaceae
+   27 Tha      B Thalictrum
+   28 Val      B Valeriana
+   29 Bot.ud   F Botrychium undiff.
+   30 Bot.vi   F Botrychium virginianum
+   31 Crp      F Cryptogramma
+   32 Equ      F Equisetum
+   33 Hup.sa-t F Huperzia selago subsp. arctica-type
+   34 Lycae.ud F Lycopodiaceae undiff.
+   35 Lyc.an   F Lycopodium annotinum
+   36 Lyc.cl   F Lycopodium clavatum
+   37 Ophae    F Ophioglossaceae
+   38 Polta.ud F Polypodiophyta undiff.
+   39 Plp.si   F Polypodium sibiricum
+   40 Plp.vu   F Polypodium vulgare
+   41 Sel.ru   F Selaginella rupestris
+   42 Sel.sa   F Selaginella sanguinolenta
+   43 Sel.ud   F Selaginella undiff.
+   44 Br:Bryes M Bryales
+   45 Br:Spg   M Sphagnum
+   46 unk      X Unknown
+453, , 1363
+   141.0   289.0    21.0     3.0   127.0     8.0     0.0     1.0     6.0     0.0
+    13.0     0.0     0.0     0.0     0.0    14.0     0.0     3.0    77.0     0.0
+     2.0     1.0     0.0     1.0     0.0     0.0     1.0     1.0     0.0     0.0
+     1.0     0.0     0.0     0.0    12.0     0.0     0.0    18.0     0.0     0.0
+    28.0     0.0     9.0     5.0    97.0     3.0
+485, , 3426
+   159.0   228.0    44.0     3.0    74.0     4.0     1.0     2.0     5.0     0.0
+     1.0     0.0     0.0     1.0     0.0     7.0     1.0     9.0    15.0     1.0
+     1.0     0.0     3.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     1.0    10.0     1.0     0.0     6.0     0.0     0.0
+    13.0     0.0     1.0     4.0    95.0     1.0
+503, , 4586
+    80.0   141.0    29.0     1.0    38.0     6.0     0.0     7.0     3.0     0.0
+     4.0     0.0     1.0     0.0     0.0    14.0     0.0     2.0    22.0     1.0
+     1.0     0.0     1.0     0.0     1.0     0.0     0.0     2.0     0.0     0.0
+     0.0     0.0     0.0     1.0     3.0     0.0     0.0     8.0     0.0     0.0
+     5.0     0.0     0.0     4.0    64.0     0.0
+515, , 5360
+   105.0   167.0    31.0     1.0    89.0     7.0     1.0     6.0     4.0     1.0
+    18.0     0.0     0.0     0.0     0.0    14.0     0.0     6.0    27.0     1.0
+     1.0     0.0     1.0     0.0     0.0     0.0     0.0     1.0     0.0     1.0
+     0.0     0.0     0.0     0.0     5.0     0.0     0.0    18.0     0.0     1.0
+    24.0     2.0    10.0     1.0    57.0     2.0
+540, , 5472
+   138.0   262.0    50.0     3.0    80.0     8.0     2.0     3.0     5.0     0.0
+     5.0     1.0     0.0     0.0     0.0    12.0     0.0    10.0    25.0     0.0
+     0.0     0.0     1.0     0.0     1.0     0.0     0.0     2.0     0.0     1.0
+     1.0     1.0     0.0     1.0     7.0     0.0     1.0     8.0     0.0     0.0
+     9.0     1.0     0.0     4.0   139.0     1.0
+560, , 5561
+    63.0   154.0    34.0     3.0    76.0     5.0     0.0     2.0     3.0     0.0
+     6.0     0.0     1.0     0.0     0.0    10.0     0.0     3.0     9.0     1.0
+     1.0     0.0     1.0     0.0     0.0     0.0     0.0     1.0     0.0     1.0
+     0.0     0.0     0.0     1.0     5.0     0.0     0.0    10.0     0.0     0.0
+     8.0     6.0     0.0     0.0    86.0     1.0
+595, , 5718
+    47.0   194.0    28.0     1.0    46.0     6.0     0.0     0.0     6.0     0.0
+     4.0     1.0     1.0     0.0     0.0    15.0     0.0     3.0    19.0     0.0
+     0.0     0.0     1.0     0.0     0.0     1.0     0.0     0.0     0.0     0.0
+     0.0     1.0     1.0     0.0     3.0     1.0     0.0     4.0     0.0     0.0
+     5.0     2.0     0.0    10.0    65.0     2.0
+620, , 5829
+    39.0   156.0    20.0     3.0    45.0     4.0     0.0     0.0     4.0     0.0
+     6.0     0.0     0.0     0.0     0.0    11.0     0.0     4.0    14.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     1.0     4.0     0.0
+     2.0     1.0     0.0     1.0     1.0     0.0     0.0    14.0     0.0     0.0
+     8.0     1.0     0.0     1.0   117.0     0.0
+660, , 6008
+    46.0   128.0    32.0     5.0   109.0     0.0     0.0     4.0     1.0     0.0
+     8.0     0.0     0.0     0.0     0.0     0.0     0.0     6.0     4.0     0.0
+     1.0     0.0     0.0     0.0     1.0     0.0     0.0     0.0     4.0     1.0
+     3.0     0.0     0.0     1.0     3.0     0.0     0.0    11.0     1.0     1.0
+    19.0     4.0     0.0     5.0   277.0     2.0
+690, , 6200
+    64.0   146.0    54.0     2.0    59.0    11.0     0.0     2.0     6.0     1.0
+     3.0     0.0     0.0     0.0     1.0    12.0     0.0     3.0    33.0     0.0
+     4.0     0.0     0.0     0.0     0.0     0.0     0.0     4.0     1.0     0.0
+     0.0     0.0     0.0     1.0     4.0     0.0     0.0     2.0     0.0     0.0
+    11.0     2.0     1.0     1.0   176.0     1.0

@@ -1,0 +1,113 @@
+# GPD ASCII Format
+# 24 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      North Bay Bog
+# Place:          CAN:Ontario
+# Latitude:       46.27.00N      (  46.45    )
+# Longitude:      79.28.00W      ( -79.466667)
+# Elevation(m):   369
+# Sigle:          NORTHBAY
+# Entity name:
+# Contact person: Terasmae, J.
+# Entity notes:   Count increased X10 for the purposes of onesums 7/11/82
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   280.0          9575    150    150
+#
+# Chron name:     COHMAP chron# 1
+# Age model:      linear interpolation
+# Age bounds:     0 - 9500
+# Chron notes:    Top and sett. horiz. set by TW, C14 date Terasmae, 1969 Age
+#                 bounds for application of the model: top = 0; bottom = 9500.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     1.0             0     30    -30   TOP
+#    10.0            70    100     40   ESH
+#   280.0          9575   9725   9425   C14
+#
+# Publications:   Terasmae, J. 1969. A discussion of deglaciation and the
+#                 boreal forest in the northern Great Lakes region.
+#                 Proceedings of the Entomological Society of Ontario 99:31-43
+#
+19 18
+    1 Abi      A Abies
+    2 Ace      A Acer
+    3 Aln      A Alnus
+    4 Bet      A Betula
+    5 Car      A Carya
+    6 Cor      A Corylus
+    7 Fag      A Fagus
+    8 Fra      A Fraxinus
+    9 Jug      A Juglans
+   10 Lar      A Larix
+   11 Os/Ca    A Ostrya/Carpinus
+   12 Pic      A Picea
+   13 Pin      A Pinus
+   14 Que      A Quercus
+   15 Slx      A Salix
+   16 Til      A Tilia
+   17 Tsu      A Tsuga
+   18 Ulm      A Ulmus
+   19 herbs.ud B Herbs undiff.
+1, , 0
+    40.0    20.0     0.0   380.0     0.0    10.0    10.0     0.0     0.0     0.0
+     0.0    80.0   340.0    50.0    10.0     0.0    20.0    10.0   400.0
+10, , 70
+    60.0    10.0    10.0   350.0     0.0    10.0    10.0     0.0    10.0    10.0
+    10.0    80.0   390.0    20.0    10.0     0.0    20.0    10.0    50.0
+20, , 422
+    30.0    10.0    20.0   410.0    10.0     0.0    10.0     0.0    10.0     0.0
+    10.0    60.0   370.0    30.0    10.0    10.0    20.0    20.0    30.0
+40, , 1126
+    30.0    20.0    30.0   320.0     0.0     0.0    10.0    10.0     0.0     0.0
+     0.0    80.0   420.0    20.0     0.0    10.0    40.0     0.0    30.0
+65, , 2006
+    30.0    20.0    10.0   340.0     0.0     0.0    10.0     0.0     0.0    10.0
+    10.0    70.0   400.0    10.0    10.0     0.0    50.0    20.0    40.0
+85, , 2710
+    30.0    10.0    20.0   410.0     0.0     0.0    10.0     0.0     0.0     0.0
+    10.0    90.0   390.0    30.0    10.0     0.0    30.0    10.0    20.0
+120, , 3942
+    30.0    10.0    10.0   280.0    10.0     0.0    10.0    10.0     0.0    10.0
+    10.0    40.0   560.0    40.0     0.0     0.0    20.0    10.0    30.0
+140, , 4646
+    30.0    10.0    30.0   380.0    10.0     0.0    10.0     0.0     0.0    20.0
+    10.0    30.0   450.0    40.0     0.0     0.0    10.0    10.0    30.0
+160, , 5350
+    20.0     0.0    20.0   170.0     0.0     0.0    10.0    10.0     0.0    10.0
+    10.0    60.0   550.0    60.0    10.0    10.0    10.0    20.0    40.0
+180, , 6054
+    20.0    10.0    10.0    90.0    10.0    10.0     0.0    10.0     0.0    10.0
+    10.0   100.0   680.0    30.0    10.0     0.0     0.0    20.0    10.0
+200, , 6758
+    30.0     0.0    20.0   140.0     0.0     0.0     0.0     0.0    10.0     0.0
+    20.0   100.0   620.0    30.0    10.0     0.0    20.0    20.0   200.0
+220, , 7462
+    50.0     0.0    10.0    70.0    10.0     0.0    10.0     0.0     0.0    20.0
+    10.0   160.0   700.0    30.0     0.0     0.0    10.0    10.0    30.0
+240, , 8166
+    30.0     0.0    10.0    90.0     0.0     0.0     0.0     0.0     0.0    20.0
+    10.0    80.0   760.0    30.0     0.0     0.0     0.0     0.0    40.0
+260, , 8870
+    20.0    10.0     0.0    30.0    10.0     0.0     0.0     0.0     0.0    20.0
+    10.0   300.0   420.0    30.0    20.0     0.0     0.0    10.0    50.0
+270, , 9222
+    30.0     0.0     0.0    30.0     0.0    10.0     0.0     0.0     0.0    50.0
+     0.0   400.0   370.0    20.0    10.0     0.0     0.0    20.0   280.0
+280, , 9575
+     0.0     0.0     0.0    30.0    10.0     0.0    10.0     0.0     0.0    10.0
+     0.0   590.0   220.0    50.0    10.0    10.0    10.0     0.0   130.0
+285, , 9751
+    10.0     0.0     0.0    70.0     0.0    10.0     0.0    10.0     0.0     0.0
+    10.0   420.0   340.0    70.0     0.0     0.0     0.0    20.0   280.0
+290, , 9927
+    30.0     0.0     0.0   110.0     0.0    10.0     0.0     0.0     0.0     0.0
+     0.0   270.0   410.0    80.0    10.0     0.0     0.0    20.0   450.0

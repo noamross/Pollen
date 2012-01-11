@@ -1,0 +1,68 @@
+# GPD ASCII Format
+# 25 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Tunica Bayou Site 22
+# Place:          USA:Louisiana
+# Latitude:       30.57.46N      (  30.962778)
+# Longitude:      91.31.10W      ( -91.519444)
+# Elevation(m):   31
+# Sigle:          TUNICA22
+# Entity name:
+# Contact person: Jackson, S.T.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#     0.0         20615    375    375  GX-18898     U    Picea wood
+#
+# Chron name:     Jackson 1994
+# Age model:      snapshot assemblage
+# Age bounds:     20610 - 20620
+# Chron notes:    age estimate based on wood date. Entity is a "snapshot"
+#                 exposure.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0         20615  21365  19865   C14
+#
+# Publications:   Jackson, S.T., and C.R. Givens. 1994. Late Wisconsinan
+#                 vegetation and environment of the Tunica Hills Region,
+#                 Louisiana/Mississippi. Quaternary Research 41:316-325.
+#
+27 1
+    1 Ace.sa   A Acer saccharum
+    2 Ace.ud   A Acer undiff.
+    3 Arc      A Arceuthobium
+    4 Car      A Carya
+    5 Cor      A Corylus
+    6 Cupae    A Cupressaceae
+    7 Fag      A Fagus
+    8 Fra.am-t A Fraxinus americana-type
+    9 Nys      A Nyssa
+   10 Os/Ca    A Ostrya/Carpinus
+   11 Pic      A Picea
+   12 Pin.Pi   A Pinus subg. Pinus
+   13 Pin.St   A Pinus subg. Strobus
+   14 Pin.ud   A Pinus undiff.
+   15 Que      A Quercus
+   16 Ulm      A Ulmus
+   17 Vib      A Viburnum
+   18 Amb      B Ambrosia
+   19 Apiae    B Apiaceae
+   20 Astae.Au B Asteraceae subf. Asteroideae undiff.
+   21 Poaae    B Poaceae
+   22 Bot      F Botrychium
+   23 Osu      F Osmunda
+   24 Pot      Q Potamogeton
+   25 sp.t     S Spore (trilete)
+   26 ind.deP3 X Indeterminable (degraded triporate)
+   27 Un/In.ud X Unknown/Indeterminable undiff.
+0, , 20615
+     1.0     2.0     5.0     4.0     1.0     4.0    18.0     1.0     2.0    15.0
+   198.0     3.0     1.0    27.0    19.0    10.0     1.0     5.0     2.0     6.0
+     2.0     1.0     1.0     1.0    12.0     3.0    12.0

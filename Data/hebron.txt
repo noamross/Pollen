@@ -1,0 +1,121 @@
+# GPD ASCII Format
+# 24 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Hebron Lake
+# Place:          CAN:Newfoundland
+# Latitude:       58.12.00N      (  58.2     )
+# Longitude:      63.02.00W      ( -63.033333)
+# Elevation(m):   170
+# Sigle:          HEBRON
+# Entity name:
+# Contact person: Lamb, H.F.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   335.0    10    5600    100    100  Beta-2236    L    brown gyttja
+#   360.0    10    7290    100    100  Beta-2237    L    brown gyttja
+#   387.5    25    8350     85     85  Q-2076       G    brown gyttja
+#
+# Chron name:     COHMAP chron# 1
+# Age model:      linear interpolation
+# Age bounds:     0 - 8860
+# Chron notes:    Chron uses 3 C-14 dates, top of core at 250cm. 8950 date
+#                 estimate for 400 cm. by H.F. Lamb (1982, Ph.D thesis). S.K.
+#                 Short (1981) got a 169 cm core from Hebron with a basal date
+#                 of 10,075 +/- 255 yr. b.p. fits by extrapolation says Lamb.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#   250.0     0       0    100   -100   TOP
+#   335.0    10    5600   5708   5506   C14
+#   360.0    10    7290   7394   7190   C14
+#   387.5    25    8350   8520   8180   C14
+#
+# Publications:   Lamb, H.F. 1982. Late Quaternary vegetational history of the
+#                 forest-tundra ecotone in North-Central Labrador.
+#                 Dissertation. University of Cambridge, Cambridge, England.
+#
+#                 Lamb, H.F. 1984. Modern pollen spectra from Labrador and
+#                 their use in reconstructing Holocene vegetational history.
+#                 Journal of Ecology 72:37-59.
+#
+19 18
+    1 Aln.v-t  A Alnus viridis-type
+    2 Bet      A Betula
+    3 Ercae    A Ericaceae
+    4 Pic      A Picea
+    5 Pin      A Pinus
+    6 Slx      A Salix
+    7 Art      B Artemisia
+    8 Cryae    B Caryophyllaceae
+    9 Cypae    B Cyperaceae
+   10 Oxy.d    B Oxyria digyna
+   11 Poaae    B Poaceae
+   12 Ranae    B Ranunculaceae
+   13 Rosae    B Rosaceae
+   14 Drp-t    F Dryopteris-type
+   15 Lyc.a    F Lycopodium annotinum
+   16 Pdi      L Pediastrum
+   17 Spg      M Sphagnum
+   18 ind      X Indeterminable
+   19 unk      X Unknown
+250, , 0
+    63.0   108.0     7.0    52.0     7.0     2.0     4.0     1.0    88.0     0.0
+     3.0     0.0    19.0     1.0    12.0    30.0     6.0     3.0     5.0
+260, , 658
+    15.0    34.0     0.0    22.0     1.0     1.0     1.0     0.0    14.0     0.0
+     0.0     2.0     8.0     0.0     7.0     7.0     1.0     0.0     1.0
+270, , 1317
+    91.0   165.0    11.0   105.0     9.0    10.0     3.0     0.0    66.0     1.0
+     5.0     2.0    20.0     1.0    17.0    51.0     2.0     1.0     0.0
+280, , 1976
+    75.0   114.0     7.0    60.0     5.0     1.0     3.0     0.0    42.0     0.0
+     6.0     4.0    18.0     0.0    14.0    44.0     4.0     4.0     3.0
+290, , 2635
+    95.0   146.0     6.0    75.0     5.0     4.0     0.0     0.0    47.0     0.0
+     7.0     3.0    21.0     1.0    16.0    73.0     4.0     3.0     4.0
+300, , 3294
+   142.0   166.0     7.0    59.0     8.0     1.0     1.0     0.0    34.0     0.0
+     5.0     4.0    17.0     1.0    12.0    47.0     4.0     1.0     4.0
+310, , 3952
+   160.0   156.0     5.0    44.0     1.0     4.0     2.0     0.0    31.0     0.0
+     7.0     9.0    21.0     0.0    16.0    37.0     5.0     0.0     1.0
+320, , 4611
+   169.0   156.0    10.0    24.0     2.0     2.0     3.0     0.0    26.0     1.0
+     3.0     6.0    32.0     1.0    28.0    38.0     3.0     1.0     0.0
+330, , 5270
+   194.0   161.0     2.0    10.0     5.0     5.0     2.0     0.0    28.0     0.0
+     8.0    10.0    12.0     0.0    11.0    64.0     1.0     1.0     0.0
+335, , 5600
+   146.0   158.0     1.0     2.0     8.0    10.0     0.0     0.0    17.0     0.0
+     5.0     6.0     6.0     0.0     6.0    24.0     0.0     3.0     0.0
+340, , 5937
+    55.0   205.0     2.0     7.0     6.0    24.0     1.0     1.0    41.0     0.0
+    25.0     7.0     5.0     1.0     4.0   344.0     0.0     1.0     2.0
+345, , 6275
+    21.0   180.0     1.0     0.0     1.0    38.0     0.0     2.0    20.0     0.0
+    15.0     1.0    13.0     0.0    10.0   117.0     3.0     4.0     1.0
+350, , 6613
+    45.0   190.0     3.0     2.0     3.0    15.0     2.0     0.0    20.0     0.0
+    26.0     3.0    14.0     1.0    11.0   255.0     2.0     9.0     2.0
+355, , 6951
+    28.0   191.0     4.0     1.0     3.0    36.0     2.0     0.0    29.0     3.0
+     5.0     7.0    14.0     4.0     9.0   126.0     1.0     0.0     1.0
+360, , 7290
+    13.0    15.0     3.0     1.0     1.0    10.0     5.0     0.0    28.0     1.0
+     6.0     6.0     4.0     0.0     3.0   216.0     1.0     3.0     0.0
+365, , 7486
+     0.0     2.0     0.0     0.0     0.0    12.0     4.0     0.0    31.0     3.0
+     3.0     1.0     0.0     0.0     0.0    12.0     0.0     0.0     2.0
+380, , 8075
+     0.0     2.0     0.0     0.0     0.0     0.0     3.0     2.0    10.0     0.0
+     6.0    47.0     5.0     5.0     0.0   111.0     0.0     1.0     4.0
+400, , 8860
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     1.0    11.0     1.0
+     8.0     9.0     0.0     0.0     0.0    68.0     0.0     3.0     4.0

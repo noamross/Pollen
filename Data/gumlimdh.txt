@@ -1,0 +1,105 @@
+# GPD ASCII Format
+# 23 Feb 05
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** North American Pollen Database.                                   **
+# ***********************************************************************
+#
+# Site name:      Water Conservation Area 3B, Gumbo Limbo Dry Head
+# Place:          USA:Florida
+# Latitude:       25.46.26N      (  25.773889)
+# Longitude:      80.30.20W      ( -80.505556)
+# Elevation(m):   5
+# Sigle:          GUMLIMDH
+# Entity name:    98-04-21-8D
+# Contact person: Willard, D.A.
+#
+# Radiocarbon dates:
+#      Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#       21.0     2    2170     40     40               U
+#
+# Chron name:     NAPD1-C14
+# Age model:      linear interpolation
+# Age bounds:     -40 - 1850
+# Chron notes:    Casuarina rise at 4.5 cm estimated to be 50 years B.P. -
+#                 could be younger
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0     0     -48    -48    -48   TOP
+#     4.5     2      50     50     50   CSR
+#    21.0     2    2170   2210   2130   C14
+#
+# Publications:   Willard, D.A., L.M. Weimer, and W.L. Riegel. 2001. Pollen
+#                 assemblages as paleoenvironmental proxies in the Florida
+#                 Everglades. Review of Paleobotany and Palynology 113:213-235
+#
+#                 Willard, D.A., C.W. Holmes, M.S. Korvela, D. Mason, J.B.
+#                 Murray, W.H. Orem, and D.T. Towles. 2002. Paleoecological
+#                 insights on fixed tree island development in the Florida
+#                 Everglades: 1. Environmental controls. Pages 117-152. F.
+#                 Sklar and A. van der Valk, editors. Tree Islands of the
+#                 Everglades. Kluwer Academic Publishers, Dordrecht, The
+#                 Netherlands.
+#
+30 7
+    1 Ann      A Annona
+    2 Bum      A Bumelia
+    3 Csr      A Casuarina
+    4 Cep      A Cephalanthus
+    5 Pin      A Pinus
+    6 Que      A Quercus
+    7 Slx      A Salix
+    8 Ulm      A Ulmus
+    9 Vit      A Vitis
+   10 Wal      A Waltheria
+   11 Amb      B Ambrosia
+   12 Astae.ud B Asteraceae undiff.
+   13 Ch/Am    B Chenopodiaceae/Amaranthaceae
+   14 Cypae.ud B Cyperaceae undiff.
+   15 Jus      B Justicia
+   16 Poaae    B Poaceae
+   17 Polae    B Polygonaceae
+   18 Vig      B Vigna
+   19 Osu.re   F Osmunda regalis
+   20 Cla      Q Cladium
+   21 Nym      Q Nymphaea
+   22 Sag      Q Sagittaria
+   23 sp.m     S Spore (monolete)
+   24 sp.t     S Spore (trilete)
+   25 unk.C3   X Unknown (tricolpate)
+   26 unk.C3P3 X Unknown (tricolporate)
+   27 unk.ud   X Unknown undiff.
+   28 Lyc.spk  - Lycopodium spike (number counted)
+   29 LycCn/t  - Lycopodium tablets (concentration, grains/tablet)
+   30 sa.ma.g  - Sample dry mass (g)
+.5, , -37
+     0.0     0.0     0.0     0.0    13.0     4.0     1.0     0.0     5.0     2.0
+     0.0     2.0    17.0     0.0     0.0     1.0     1.0     0.0     1.0     6.0
+     0.0     0.0    28.0   233.0     0.0     2.0     1.0   452.0 12542.0      .5
+4.5, , 50
+     0.0     0.0     1.0     2.0    13.0     0.0     0.0     1.0     2.0     0.0
+     0.0     0.0     9.0     1.0     1.0     0.0     0.0     1.0     3.0     1.0
+     0.0     2.0    33.0   236.0     0.0     0.0     5.0   460.0 12542.0      .5
+9.5, , 692
+     0.0     0.0     0.0     3.0     9.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0    24.0     0.0     0.0     0.0     0.0     0.0     0.0     1.0
+     0.0     1.0    33.0   188.0     0.0     0.0     0.0   755.0 12542.0      .7
+12.5, , 1078
+     0.0     0.0     0.0     0.0    10.0     1.0     0.0     0.0     0.0     0.0
+     0.0     0.0    16.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     7.0    12.0   114.0     0.0     0.0     1.0   713.0 12542.0      .8
+15.5, , 1463
+     0.0     0.0     0.0     2.0     2.0     0.0     0.0     0.0     0.0     0.0
+     0.0     2.0    50.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     3.0     7.0    43.0     0.0     0.0     0.0   679.0 12542.0      .6
+17.5, , 1720
+     1.0     0.0     0.0     3.0     1.0     0.0     1.0     0.0     0.0     0.0
+     0.0     3.0   152.0     1.0     0.0     1.0     0.0     0.0     0.0     2.0
+     0.0     2.0     1.0    12.0     0.0     2.0     4.0  1586.0 12542.0      .7
+18.5, , 1849
+     1.0     2.0     0.0     0.0     1.0     0.0     4.0     0.0     0.0     0.0
+     1.0     8.0   299.0     1.0     2.0     1.0     0.0     0.0     0.0     1.0
+     2.0     0.0     1.0    14.0     2.0     1.0     5.0  1005.0 12542.0      .6

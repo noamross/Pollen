@@ -1,0 +1,133 @@
+# GPD ASCII Format
+# 24 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      McCraney Pond
+# Place:          USA:Minnesota
+# Latitude:       47.10.41N      (  47.178056)
+# Longitude:      95.41.53W      ( -95.698056)
+# Elevation(m):   445
+# Sigle:          MCCRANEY
+# Entity name:
+# Contact person: McAndrews, J.H.
+#
+# Chron name:     NAPD 1
+# Age model:      linear interpolation
+# Age bounds:     -10 - 260
+# Chron notes:    Chron uses surface date (-15 BP) and the Ambrosia-rise (70
+#                 BP).
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0     0     -15      0    -15   TOP
+#    25.0    10      70    100     40   AMR
+#
+# Publications:   McAndrews, J.H. 1966. Postglacial history of prairie,
+#                 savanna, and forest in northwestern Minnesota. Torrey
+#                 Botanical Club Memoir 22(2):1-72.
+#
+45 9
+    1 Abi      A Abies
+    2 Ace.ne   A Acer negundo
+    3 Ace.sa   A Acer saccharum
+    4 Aln      A Alnus
+    5 Bet      A Betula
+    6 Car      A Carya
+    7 Cor      A Corylus
+    8 Cupae    A Cupressaceae
+    9 Fra.am-t A Fraxinus americana-type
+   10 Fra.ni   A Fraxinus nigra
+   11 Lar      A Larix
+   12 Os/Ca    A Ostrya/Carpinus
+   13 Pic      A Picea
+   14 Pin      A Pinus
+   15 Pop      A Populus
+   16 Que      A Quercus
+   17 Slx      A Salix
+   18 Sar.v    A Sarcobatus vermiculatus
+   19 Til      A Tilia
+   20 Ulm      A Ulmus
+   21 Amb      B Ambrosia
+   22 Amo      B Amorpha
+   23 Art      B Artemisia
+   24 Astae.Au B Asteraceae subf. Asteroideae undiff.
+   25 Astae.Ci B Asteraceae subf. Cichorioideae
+   26 Bra      B Brassica
+   27 Braae.ud B Brassicaceae undiff.
+   28 Ch/Am.ud B Chenopodiaceae/Amaranthaceae undiff.
+   29 Cypae    B Cyperaceae
+   30 Dal.c-t  B Dalea candida-type
+   31 Hum      B Humulus
+   32 Iva.a    B Iva annua
+   33 Iva.x    B Iva xanthifolia
+   34 Lilae    B Liliaceae
+   35 Pln      B Plantago
+   36 Poaae    B Poaceae
+   37 Ran      B Ranunculus
+   38 Rosae    B Rosaceae
+   39 Tha      B Thalictrum
+   40 Drp-t    F Dryopteris-type
+   41 Equ      F Equisetum
+   42 Nup      Q Nuphar
+   43 Spa-t    Q Sparganium-type
+   44 Typ.l    Q Typha latifolia
+   45 unk      X Unknown
+1, , -12
+     8.0     0.0     0.0     9.0    64.0     0.0     2.0     1.0     8.0     0.0
+     1.0     5.0     9.0    82.0     6.0    38.0     6.0     0.0     1.0    21.0
+    42.0     0.0     8.0     1.0     1.0     1.0     0.0    12.0     9.0     0.0
+     0.0     0.0     1.0     0.0     0.0    13.0     0.0     1.0     1.0     1.0
+     0.0     0.0     0.0     0.0     4.0
+10, , 19
+     1.0     0.0     0.0     3.0    41.0     0.0     2.0     6.0     2.0     6.0
+     2.0     4.0     7.0    76.0    10.0    32.0     6.0     0.0     3.0    13.0
+    53.0     1.0    10.0     1.0     0.0     1.0     0.0    19.0     8.0     0.0
+     1.0     0.0     3.0     0.0     1.0    18.0     0.0     0.0     1.0     0.0
+     1.0     0.0     0.0     1.0     4.0
+20, , 53
+     2.0     1.0     0.0    21.0    43.0     0.0     1.0     0.0     0.0     8.0
+     4.0    13.0     3.0    68.0    10.0    34.0     7.0     0.0     1.0    17.0
+    40.0     0.0     8.0     2.0     0.0     1.0     0.0    20.0     9.0     1.0
+     0.0     0.0     0.0     1.0     0.0    20.0     1.0     0.0     1.0     0.0
+     0.0     0.0     0.0     0.0     1.0
+30, , 87
+     4.0     1.0     2.0    10.0    39.0     1.0     4.0     0.0     1.0     3.0
+     5.0     9.0     3.0   156.0     4.0    40.0     4.0     0.0     1.0    16.0
+     5.0     0.0    12.0     5.0     0.0     0.0     0.0     0.0     9.0     0.0
+     0.0     0.0     0.0     0.0     0.0    14.0     0.0     0.0     0.0     1.0
+     0.0     0.0     0.0     0.0     2.0
+40, , 121
+     3.0     0.0     2.0    12.0    64.0     1.0     3.0     0.0     3.0     0.0
+     1.0    15.0     7.0   136.0     4.0    36.0     4.0     0.0     0.0    18.0
+     4.0     0.0     5.0     1.0     0.0     0.0     1.0     2.0     7.0     0.0
+     0.0     0.0     0.0     0.0     0.0    11.0     0.0     0.0     1.0     1.0
+     0.0     0.0     0.0     0.0     1.0
+50, , 155
+     3.0     1.0     0.0     8.0    76.0     1.0     1.0     0.0     0.0     1.0
+     4.0    23.0     6.0   123.0     2.0    32.0     2.0     0.0     2.0    11.0
+    13.0     0.0    11.0     6.0     0.0     0.0     0.0     2.0     6.0     0.0
+     0.0     0.0     2.0     0.0     0.0    18.0     0.0     0.0     0.0     0.0
+     1.0     0.0     1.0     0.0     3.0
+60, , 189
+     3.0     0.0     1.0    13.0    68.0     0.0     3.0     0.0     0.0     0.0
+     0.0    18.0     2.0   107.0     1.0    37.0     4.0     0.0     3.0     9.0
+     8.0     0.0    15.0     4.0     0.0     0.0     0.0     2.0     8.0     1.0
+     0.0     0.0     0.0     0.0     0.0    20.0     0.0     0.0     0.0     0.0
+     0.0     1.0     0.0     0.0     1.0
+70, , 223
+     2.0     0.0     3.0     9.0    76.0     1.0     7.0     4.0     5.0     0.0
+     1.0    17.0    10.0   139.0     2.0    27.0     9.0     1.0     1.0     9.0
+     9.0     0.0     9.0     5.0     0.0     0.0     0.0     6.0    20.0     0.0
+     0.0     0.0     2.0     0.0     0.0    19.0     0.0     1.0     1.0     0.0
+     0.0     1.0     0.0     0.0     1.0
+80, , 257
+     6.0     0.0     1.0    12.0    77.0     0.0     4.0     0.0     1.0     2.0
+     5.0    30.0     7.0    96.0     1.0    68.0     6.0     1.0     2.0    17.0
+    22.0     0.0    26.0     4.0     0.0     0.0     0.0     4.0    24.0     0.0
+     0.0     1.0     1.0     0.0     0.0    23.0     0.0     0.0     3.0     0.0
+     1.0     2.0     0.0     0.0     3.0

@@ -1,0 +1,84 @@
+# GPD ASCII Format
+# 24 Apr 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the Latin American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Encantado
+# Place:          ARG:Neuquén
+# Latitude:       40.40.00S      ( -40.666667)
+# Longitude:      71.08.00W      ( -71.133333)
+# Elevation(m):   960
+# Sigle:          ENCANT
+# Entity name:
+# Contact person: Markgraf, V.
+# Entity notes:   amberat deposits along cave walls, few plant macro remains,
+#                 mostly rodent pellets and bones
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#     1.0           295    135    135  GX-18247     G    amberat sample #7869
+#     2.0           655    125    125  GX-17155     G    amberat sample #7871
+#     3.0          1260     95     95  GX-18248     G    amberat sample #7870
+#
+# Chron name:     LAPD 1
+# Age model:      each sample individually dated
+# Age bounds:     290 - 1260
+# Chron notes:    Each sample is individually dated. Samples are not in a
+#                 single stratigraphic sequence.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     1.0           295    430    160   C13
+#     2.0           655    905    405   C13
+#     3.0          1260   1450   1070   C13
+#
+# Publications:   Markgraf, V., J. Betancourt, and K. Rylander. 1996 (in prep)
+#                 Amberat middens from Rio Limay, Neuquen Province, Argentina.
+#
+30 3
+    1 Ade      A Adesmia
+    2 Anaae    A Anacardiaceae
+    3 Ari      A Aristotelia
+    4 Aus.c-t  A Austrocedrus chilensis-type
+    5 Bud      A Buddleja
+    6 Eph      A Ephedra
+    7 May      A Maytenus
+    8 Not      A Nothofagus
+    9 Rhaae    A Rhamnaceae
+   10 Slx      A Salix
+   11 Sxg.c    A Saxegothaea conspicua
+   12 Wei      A Weinmannia
+   13 Wen      A Wendtia
+   14 Apiae.ud B Apiaceae undiff.
+   15 Astae.Au B Asteraceae subf. Asteroideae undiff.
+   16 Astae.Ci B Asteraceae subf. Cichorioideae
+   17 Astae.Mu B Asteraceae tribe Mutisieae
+   18 Azr      B Azorella
+   19 Braae    B Brassicaceae
+   20 Cryae    B Caryophyllaceae
+   21 Cypae    B Cyperaceae
+   22 Lilae    B Liliaceae
+   23 Pha      B Phacelia
+   24 Poaae    B Poaceae
+   25 Polae.ud B Polygonaceae undiff.
+   26 Qui      B Quinchamalium
+   27 Rum      B Rumex
+   28 Verae    B Verbenaceae
+   29 Vic-t    B Vicia-type
+   30 ind      X Indeterminable
+1, , 295
+    10.0     1.0     2.0     4.0     7.0     2.0     0.0     4.0     4.0     0.0
+     0.0     4.0     0.0    38.0    24.0     0.0     3.0     1.0    28.0     2.0
+     0.0    25.0    18.0     6.0     1.0    16.0     2.0     1.0     2.0     1.0
+2, , 655
+    10.0     0.0     2.0     6.0     1.0     0.0     0.0     5.0     2.0     0.0
+     0.0     0.0     0.0    30.0    10.0     0.0     2.0     0.0    26.0     0.0
+     1.0     6.0    14.0    14.0     0.0    15.0     0.0     0.0     6.0     4.0
+3, , 1260
+     6.0     0.0     2.0     4.0     0.0     3.0     3.0     9.0     8.0     1.0
+     1.0     6.0     2.0    33.0    13.0     1.0     5.0     1.0    33.0     0.0
+     0.0    10.0    26.0    15.0     0.0    23.0     0.0     0.0     7.0     5.0

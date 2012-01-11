@@ -1,0 +1,106 @@
+# GPD ASCII Format
+# 24 Apr 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the Latin American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Tuyajto
+# Place:          CHL:
+# Latitude:       23.57.00S      ( -23.95    )
+# Longitude:      67.47.00W      ( -67.783333)
+# Elevation(m):   4050
+# Sigle:          TUYAJTO
+# Entity name:
+# Contact person: Graf, K.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   230.0    10   12020     95     95  ETH-7371     A
+#
+# Chron name:     LAPD 1
+# Age model:      linear interpolation
+# Age bounds:     1040 - 12290
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0     0       0      0      0   TOP
+#   230.0    10   12020  12110  11930   C14
+#
+# Publications:   Ybert, J.P., and Y. Miranda. 1984. Analisis palinologico de
+#                 un corte del Sajama. Actas II Congreso Geologico Bolivia,
+#                 691-694.
+#
+22 12
+    1 Aln      A Alnus
+    2 Eph      A Ephedra
+    3 Ercae    A Ericaceae
+    4 Myr      A Myrica
+    5 Pod      A Podocarpus
+    6 Apiae.ud B Apiaceae undiff.
+    7 Astae.As B Asteraceae subf. Asteroideae
+    8 Azr      B Azorella
+    9 Braae    B Brassicaceae
+   10 Cryae    B Caryophyllaceae
+   11 Cheae    B Chenopodiaceae
+   12 Cypae    B Cyperaceae
+   13 Gen-t    B Gentiana-type
+   14 Malae    B Malvaceae
+   15 Poaae    B Poaceae
+   16 Solae    B Solanaceae
+   17 Verae    B Verbenaceae
+   18 Pts      F Pteris
+   19 sp.m.ud  S Spore (monolete undiff.)
+   20 Fu:      U Fungus
+   21 ot       X Other
+   22 ase.cm2  - Area slide examined (cm²)
+20, , 1045
+     2.0     7.0     0.0     0.0     2.0     0.0    21.0     3.0     0.0     0.0
+    22.0     0.0     0.0     0.0    18.0     0.0     0.0     0.0     0.0     0.0
+     9.0     7.7
+35, , 1829
+     0.0    10.0     0.0     0.0     2.0     1.0    14.0     0.0     1.0     0.0
+    50.0     0.0     0.0     2.0    18.0     1.0     0.0     0.0     0.0     1.0
+     7.0    11.5
+60, , 3136
+     1.0     9.0     0.0     0.0     1.0     0.0     8.0     0.0     0.0     0.0
+    70.0     0.0     0.0     0.0    14.0     3.0     0.0     0.0     0.0     0.0
+     4.0    11.5
+70, , 3658
+     0.0     4.0     0.0     0.0     1.0     0.0     8.0     0.0     0.0     0.0
+    39.0     1.0     0.0     0.0     6.0     0.0     0.0     0.0     0.0     0.0
+     2.0    15.5
+90, , 4704
+     1.0     8.0     0.0     0.0     0.0     0.0    19.0     1.0     0.0     1.0
+    52.0     0.0     1.0     0.0    17.0     2.0     0.0     0.0     0.0     0.0
+     7.0     7.7
+120, , 6271
+     3.0     2.0     0.0     0.0     0.0     0.0     9.0     3.0     0.0     0.0
+    51.0     0.0     0.0     0.0    20.0     1.0     0.0     0.0     2.0     0.0
+     5.0     8.7
+135, , 7055
+     0.0     3.0     0.0     2.0     0.0     0.0    11.0     0.0     1.0     0.0
+    35.0     9.0     0.0     1.0    38.0     1.0     0.0     0.0     2.0     0.0
+     5.0    15.5
+165, , 8623
+     3.0     4.0     0.0     0.0     1.0     0.0     7.0     0.0     0.0     0.0
+    19.0     0.0     0.0     0.0    12.0     1.0     0.0     0.0     0.0     0.0
+     2.0    23.0
+180, , 9407
+     2.0     2.0     0.0     0.0     3.0     0.0    11.0     0.0     0.0     1.0
+    40.0     9.0     0.0     0.0    56.0     2.0     0.0     1.0     0.0     1.0
+     4.0    15.5
+210, , 10975
+     2.0     4.0     0.0     0.0     1.0     0.0     9.0     1.0     0.0     0.0
+    30.0     0.0     1.0     1.0    26.0     1.0     0.0     0.0     0.0     0.0
+     5.0    15.5
+235, , 12281
+     3.0     5.0     1.0     0.0     1.0     0.0    16.0     0.0     1.0     0.0
+    31.0     0.0     0.0     0.0    11.0     2.0     6.0     0.0     0.0     0.0
+     5.0    15.5
+285, , 14894
+     3.0     3.0     0.0     0.0     1.0     0.0    12.0     1.0     0.0     0.0
+    16.0     1.0     0.0     2.0     8.0     2.0     0.0     0.0     1.0     0.0
+     2.0    23.0

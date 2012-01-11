@@ -1,0 +1,79 @@
+# GPD ASCII Format
+# 25 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Tunica Bayou Site 23
+# Place:          USA:Louisiana
+# Latitude:       30.57.43N      (  30.961944)
+# Longitude:      91.31.10W      ( -91.519444)
+# Elevation(m):   31
+# Sigle:          TUNICA23
+# Entity name:
+# Contact person: Jackson, S.T.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#     0.0         18745    475    475  GX-18928     U    Picea wood
+#
+# Chron name:     Jackson 1994
+# Age model:      snapshot assemblage
+# Age bounds:     18740 - 18750
+# Chron notes:    age estimate based on wood date. Entity is a "snapshot"
+#                 exposure.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0         18745  19695  17795   C14
+#
+# Publications:   Jackson, S.T., and C.R. Givens. 1994. Late Wisconsinan
+#                 vegetation and environment of the Tunica Hills Region,
+#                 Louisiana/Mississippi. Quaternary Research 41:316-325.
+#
+37 1
+    1 Ace.sa   A Acer saccharum
+    2 Aln.i    A Alnus incana
+    3 Arc      A Arceuthobium
+    4 Bet      A Betula
+    5 Car      A Carya
+    6 Cas      A Castanea
+    7 Cupae    A Cupressaceae
+    8 Fag      A Fagus
+    9 Fra.ni   A Fraxinus nigra
+   10 Lar      A Larix
+   11 Nys      A Nyssa
+   12 Os/Ca    A Ostrya/Carpinus
+   13 Pic      A Picea
+   14 Pin.Pi   A Pinus subg. Pinus
+   15 Pin.ud   A Pinus undiff.
+   16 Que      A Quercus
+   17 Slx      A Salix
+   18 Til      A Tilia
+   19 Ulm      A Ulmus
+   20 Vib      A Viburnum
+   21 Amb      B Ambrosia
+   22 Apiae    B Apiaceae
+   23 Art      B Artemisia
+   24 Astae.Au B Asteraceae subf. Asteroideae undiff.
+   25 Astae.Ci B Asteraceae subf. Cichorioideae
+   26 Braae    B Brassicaceae
+   27 Crm      B Cirsium
+   28 Cypae    B Cyperaceae
+   29 Gur      B Gaura
+   30 Poaae    B Poaceae
+   31 Bot      F Botrychium
+   32 Osu      F Osmunda
+   33 Nym      Q Nymphaea
+   34 sp.m     S Spore (monolete)
+   35 sp.t     S Spore (trilete)
+   36 ind.deP3 X Indeterminable (degraded triporate)
+   37 Un/In.ud X Unknown/Indeterminable undiff.
+0, , 18745
+     1.0     1.0    11.0     1.0     1.0     1.0    12.0     4.0     3.0     1.0
+     1.0     3.0   170.0    17.0    34.0    29.0     2.0     3.0    21.0     2.0
+     5.0     4.0     2.0    35.0     1.0     1.0     2.0    17.0     1.0    20.0
+     1.0     1.0     1.0     2.0    17.0     6.0    18.0

@@ -1,0 +1,96 @@
+# GPD ASCII Format
+# 12 Mar 04
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** Pollen Database for Siberia and the Russian Far East.             **
+# ***********************************************************************
+#
+# Site name:      Neizvestnaya Exposure
+# Place:          RUS:Chukotskiy Avtonomnyy Okrug
+# Latitude:       71.33.00N      (  71.55    )
+# Longitude:      179.25.00W     (-179.416667)
+# Elevation(m):   3
+# Sigle:          NEIZ
+# Entity name:
+# Contact person: Lozhkin, A.V.
+# Entity notes:   site locate near the mouth of Neizvestnaya River, which
+#                 crosscuts the Academy Tundra of northern Wrangel Island.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   103.5    13    3280     40     40  MAG-1165     L    bulk peat
+#
+# Chron name:     PALE 1
+# Age model:      single date - single sample
+# Age bounds:     3270 - 3290
+# Chron notes:    No extrapolation possible from single date.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#   104.0    13    3280   3320   3240   C14
+#
+# Publications:   Oganesyan, A.Sh., T.P. Prokhorova, M.A. Trumpe, and N.G.
+#                 Susekova. 1993. Paleosols and peats of Wrangel Island.
+#                 Pochvovedenie 2:15-28. In Russian.
+#
+#                 Anderson, P.M., and A.V. Lozhkin, editors. 2002. Late
+#                 Quaternary Vegetation and Climate of Siberia and the Russian
+#                 Far East (Palynological and Radiocarbon Database). North
+#                 East Science Center, Far East Branch, Russian Academy of
+#                 Sciences, Magadan, Russia.
+#
+32 4
+    1 Aln      A Alnus
+    2 Bet      A Betula
+    3 Erles    A Ericales
+    4 Groae    A Grossulariaceae
+    5 Pin.St   A Pinus subg. Strobus
+    6 Slx      A Salix
+    7 Art      B Artemisia
+    8 Astae.Ci B Asteraceae subf. Cichorioideae
+    9 Astae.ud B Asteraceae undiff.
+   10 Braae    B Brassicaceae
+   11 Cryae    B Caryophyllaceae
+   12 Cheae    B Chenopodiaceae
+   13 Cly      B Claytonia
+   14 Cypae    B Cyperaceae
+   15 Lilae    B Liliaceae
+   16 Ongae    B Onagraceae
+   17 Poaae    B Poaceae
+   18 Pom      B Polemonium
+   19 Polae.ud B Polygonaceae undiff.
+   20 Pol.bs   B Polygonum bistorta
+   21 Ranae    B Ranunculaceae
+   22 Rosae    B Rosaceae
+   23 Saxae    B Saxifragaceae
+   24 Val      B Valeriana
+   25 Dph.al   F Diphasiastrum alpinum
+   26 Lyc.an.a F Lycopodium annotinum subsp. alpestre
+   27 Plpae    F Polypodiaceae
+   28 Sel.ru   F Selaginella rupestris
+   29 Br:Bryes M Bryales
+   30 Br:Hepae M Hepaticae
+   31 Br:Spg   M Sphagnum
+   32 unk      X Unknown
+43
+    18.0     5.0     0.0     0.0     3.0     6.0    64.0     0.0    15.0    17.0
+     6.0     5.0     0.0    20.0     3.0     0.0    46.0     0.0     0.0     0.0
+     0.0     6.0     2.0     0.0     0.0     0.0     1.0     3.0    80.0     0.0
+    16.0     7.0
+82
+    10.0    17.0     0.0     0.0     4.0    32.0    74.0     0.0    12.0    13.0
+     6.0     2.0     0.0    20.0     0.0     0.0    54.0     5.0     3.0     0.0
+     3.0     6.0    30.0     0.0     2.0     0.0     6.0     5.0   110.0     0.0
+    16.0     0.0
+104, , 3280
+     4.0     8.0     1.0     0.0     8.0    13.0   115.0     5.0     0.0     6.0
+    10.0     3.0     1.0    32.0     0.0     0.0    76.0     0.0     0.0     0.0
+     0.0     6.0    10.0     0.0     0.0     0.0     8.0     4.0   108.0     0.0
+    18.0     0.0
+170
+     2.0    12.0     0.0     2.0     1.0    58.0    24.0     6.0     5.0     6.0
+    12.0     2.0     0.0   110.0     1.0     1.0    70.0     0.0     0.0     1.0
+     4.0     2.0    10.0     3.0     0.0     1.0     1.0    60.0    57.0     3.0
+     2.0    10.0

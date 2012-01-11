@@ -1,0 +1,116 @@
+# GPD ASCII Format
+# 08 May 04
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** Pollen Database for Siberia and the Russian Far East.             **
+# ***********************************************************************
+#
+# Site name:      Stadukhinskaya Protoka Channel (River terrace)
+# Place:          RUS:Sakha
+# Latitude:       68.40.00N      (  68.666667)
+# Longitude:      159.30.00E     ( 159.5     )
+# Elevation(m):   5
+# Sigle:          STAD
+# Entity name:    2-m high terrace
+# Contact person: Lozhkin, A.V.
+# Entity notes:   channel of Kolyma River, Kolyma lowlands
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   100.0    10    1300     50     50  MAG-489      L    peat
+#   121.0     8    1350     50     50  MAG-490      L    peat
+#
+# Chron name:     PALE 1
+# Age model:      single dated sample
+# Age bounds:     1290 - 1310
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#   100.0    10    1300   1350   1250   C14
+#
+# Publications:   Anderson, P.M., and A.V. Lozhkin, editors. 2002. Late
+#                 Quaternary Vegetation and Climate of Siberia and the Russian
+#                 Far East (Palynological and Radiocarbon Database). North
+#                 East Science Center, Far East Branch, Russian Academy of
+#                 Sciences, Magadan, Russia.
+#
+41 6
+    1 Aln      A Alnus
+    2 Bet      A Betula
+    3 Ercae    A Ericaceae
+    4 Lar      A Larix
+    5 Pic.Eu   A Picea sect. Eupicea
+    6 Pin.St   A Pinus subg. Strobus
+    7 Rbs.ch   A Rubus chamaemorus
+    8 Slx      A Salix
+    9 Apiae    B Apiaceae
+   10 Art      B Artemisia
+   11 Astae.ud B Asteraceae undiff.
+   12 Braae    B Brassicaceae
+   13 Camae    B Campanulaceae
+   14 Cryae    B Caryophyllaceae
+   15 Cypae    B Cyperaceae
+   16 Fabae    B Fabaceae
+   17 Lilae    B Liliaceae
+   18 Ongae    B Onagraceae
+   19 Plnae    B Plantaginaceae
+   20 Poaae    B Poaceae
+   21 Pomae    B Polemoniaceae
+   22 Polae.ud B Polygonaceae undiff.
+   23 Pol.Ac   B Polygonum sect. Aconogonon
+   24 Ranae    B Ranunculaceae
+   25 Rosae.ud B Rosaceae undiff.
+   26 San      B Sanguisorba
+   27 Saxae    B Saxifragaceae
+   28 Val      B Valeriana
+   29 Dph.al   F Diphasiastrum alpinum
+   30 Equ      F Equisetum
+   31 Hup.se.a F Huperzia selago subsp. arctica
+   32 Lycae.ud F Lycopodiaceae undiff.
+   33 Lyc.an.a F Lycopodium annotinum subsp. alpestre
+   34 Lyc.cl   F Lycopodium clavatum
+   35 Polta.ud F Polypodiophyta undiff.
+   36 Plp.vu   F Polypodium vulgare
+   37 Sel.ru   F Selaginella rupestris
+   38 Pdi      L Pediastrum
+   39 Br:Bryes M Bryales
+   40 Br:Hepae M Hepaticae
+   41 Br:Spg   M Sphagnum
+0
+    94.0    50.0     5.0     3.0     0.0    35.0     0.0    42.0     0.0     0.0
+     0.0     0.0     0.0     0.0    15.0     0.0     0.0     0.0     0.0    23.0
+     0.0     1.0     0.0     2.0     2.0     0.0     0.0     1.0     0.0     1.0
+     0.0     0.0     1.0     4.0     2.0     0.0     1.0     1.0    11.0     0.0
+    32.0
+35
+   125.0    66.0    20.0     2.0     1.0    40.0     1.0    16.0     4.0     3.0
+     2.0     0.0     0.0     2.0    40.0     0.0     0.0     2.0     0.0    38.0
+     0.0     0.0     0.0     6.0    22.0     0.0     0.0     2.0     0.0     7.0
+     1.0     0.0     5.0     2.0     6.0     0.0     3.0     0.0    62.0     0.0
+    28.0
+45
+    80.0    80.0    12.0     2.0     1.0    14.0     0.0     8.0     1.0     1.0
+     0.0     0.0     0.0     4.0     2.0     1.0     1.0     2.0     0.0    32.0
+     0.0     0.0     2.0     1.0    10.0     0.0     0.0     3.0     2.0     4.0
+     0.0     4.0     5.0     0.0     4.0     0.0     1.0     0.0    40.0     0.0
+     4.0
+55
+   104.0    62.0     8.0     6.0     0.0    31.0     0.0     6.0     0.0     2.0
+     2.0     0.0     0.0     1.0    54.0     8.0     0.0     1.0     0.0    50.0
+     0.0     0.0     3.0     3.0    30.0     0.0     0.0     0.0     0.0    10.0
+     1.0     0.0    10.0     1.0     6.0     0.0     5.0     0.0    50.0     2.0
+    36.0
+70
+    39.0    32.0    42.0     2.0     0.0     7.0     0.0    14.0     0.0     0.0
+     6.0     0.0     1.0     1.0   100.0     0.0     0.0     0.0     0.0    14.0
+     1.0     0.0     0.0     0.0    36.0     2.0     0.0     0.0     0.0     5.0
+     0.0     0.0     1.0     0.0     2.0     1.0     2.0     0.0    12.0     2.0
+    17.0
+100, , 1300
+    84.0    50.0     2.0     1.0     0.0    12.0     0.0    28.0     0.0     0.0
+     0.0     2.0     0.0     2.0   120.0     0.0     0.0     0.0     2.0    62.0
+     0.0     0.0     0.0     0.0    47.0     0.0     1.0     0.0     0.0     5.0
+     0.0     0.0     1.0     0.0     0.0     0.0     0.0     0.0    50.0     0.0
+    18.0

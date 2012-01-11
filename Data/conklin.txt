@@ -1,0 +1,67 @@
+# GPD ASCII Format
+# 23 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Conklin Quarry
+# Place:          USA:Iowa
+# Latitude:       41.41.40N      (  41.694444)
+# Longitude:      91.33.50W      ( -91.563889)
+# Elevation(m):   213
+# Sigle:          CONKLIN
+# Entity name:
+# Contact person: Ashworth, A.C.
+# Entity notes:   Depths of 500 and 510 imposed by TW. One set of raw counts
+#                 duplicated for these depths.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   510.0         18090    190    190  Beta-12527   L
+#
+# Chron name:     COHMAP chron# 1
+# Age model:      linear interpolation
+# Age bounds:     17500 - 18500
+# Chron notes:    1 C-14 date at 18,090. Upper date a guess by TW to help set
+#                 dates in "dates" program. Depths are a guess. R.G.Baker
+#                 (unpubl.) Age bounds for application of the model: top =
+#                 17500; bottom = 18500.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#   500.0         17900  18100  17700   GUE
+#   510.0         18090  18280  17900   C14
+#
+# Publications:   Baker, R.G., R.S. Rhodes II, D.P. Schwert, A.C. Ashworth,
+#                 T.J. Frest, G.R. Hallberg, and J.A. Janssens. 1986. A
+#                 full-glacial biota from southeastern Iowa, USA. Journal of
+#                 Quaternary Science 1:91-107.
+#
+18 2
+    1 Bet      A Betula
+    2 Cel      A Celtis
+    3 Cupae    A Cupressaceae
+    4 Pic      A Picea
+    5 Pin      A Pinus
+    6 Que      A Quercus
+    7 Amb-t    B Ambrosia-type
+    8 Apiae    B Apiaceae
+    9 Art      B Artemisia
+   10 Astae.ud B Asteraceae undiff.
+   11 Ch/Am    B Chenopodiaceae/Amaranthaceae
+   12 Cypae    B Cyperaceae
+   13 Iva.a-t  B Iva annua-type
+   14 Poaae    B Poaceae
+   15 Priae    B Primulaceae
+   16 Drp-t    F Dryopteris-type
+   17 Sel      F Selaginella
+   18 Pdi      L Pediastrum
+500, , 17900
+     6.0     2.0     7.0    76.0    59.0     1.0     1.0     1.0     1.0     5.0
+     1.0   129.0     1.0     8.0     1.0     1.0     5.0    23.0
+510, , 18090
+     6.0     2.0     7.0    76.0    59.0     1.0     1.0     1.0     1.0     5.0
+     1.0   129.0     1.0     8.0     1.0     1.0     5.0    23.0

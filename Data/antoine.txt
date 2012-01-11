@@ -1,0 +1,107 @@
+# GPD ASCII Format
+# 23 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Antoine Lake
+# Place:          CAN:Ontario
+# Latitude:       47.44.00N      (  47.733333)
+# Longitude:      84.54.00W      ( -84.9     )
+# Elevation(m):   271
+# Sigle:          ANTOINE
+# Entity name:
+# Contact person: Saarnisto, M.
+# Entity notes:   All counts increased by a factor of 10 7/11/82
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#  1206.0          8830    200    200  Hel-398      U
+#
+# Chron name:     COHMAP chron# 1
+# Age model:      linear interpolation
+# Age bounds:     7500 - 9000
+# Chron notes:    1 basal C-14 date Saarnisto, 1974 QR, 7200 strat date from
+#                 Alfies. Age bounds for application of the model: top = 7500;
+#                 bottom = 9000.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#  1120.0          7200   7400   7000   POL
+#  1206.0          8830   9030   8630   C14
+#
+# Publications:   Saarnisto, M. 1975. Stratigraphical studies on the shoreline
+#                 displacement of Lake Superior. Canadian Journal of Earth
+#                 Sciences 12:300-319.
+#
+#                 Saarnisto, M. 1974. The deglaciation history of the Lake
+#                 Superior region and its climatic implications. Quaternary
+#                 Research 4:316-339.
+#
+18 15
+    1 Abi      A Abies
+    2 Ace      A Acer
+    3 Aln      A Alnus
+    4 Bet      A Betula
+    5 Cupae    A Cupressaceae
+    6 Fra      A Fraxinus
+    7 Lar      A Larix
+    8 Myr      A Myrica
+    9 Os/Ca    A Ostrya/Carpinus
+   10 Pic      A Picea
+   11 Pin.Pi   A Pinus subg. Pinus
+   12 Pin.St   A Pinus subg. Strobus
+   13 Que      A Quercus
+   14 Slx      A Salix
+   15 Ulm      A Ulmus
+   16 Amb-t    B Ambrosia-type
+   17 Cypae    B Cyperaceae
+   18 herbs.ud B Herbs undiff.
+1120, , 7200
+    50.0     0.0     0.0   370.0    20.0     0.0    10.0    10.0     0.0    70.0
+   250.0   140.0    30.0     0.0     0.0    40.0     0.0    70.0
+1130, , 7389
+    50.0     0.0    10.0   410.0    10.0     0.0    20.0    10.0     0.0    40.0
+   230.0    80.0    40.0     0.0    10.0    20.0    10.0    70.0
+1140, , 7579
+    50.0     0.0     0.0   330.0    20.0     0.0    30.0    10.0    20.0    30.0
+   330.0    80.0    30.0     0.0     0.0    20.0     0.0    60.0
+1150, , 7768
+    90.0     0.0    10.0   290.0    30.0     0.0    20.0     0.0    10.0    30.0
+   280.0   100.0    10.0     0.0    10.0    10.0     0.0    60.0
+1160, , 7958
+   150.0     0.0    10.0   310.0    30.0     0.0    20.0    10.0     0.0    90.0
+   230.0    70.0    10.0     0.0    10.0     0.0    10.0    60.0
+1170, , 8147
+    50.0     0.0    10.0   370.0    20.0     0.0    20.0    20.0    10.0    70.0
+   260.0    30.0    20.0    10.0    20.0    10.0     0.0   100.0
+1180, , 8337
+    60.0     0.0     0.0   380.0    20.0     0.0    10.0     0.0    40.0    60.0
+   240.0    40.0    40.0     0.0    10.0    10.0    10.0    50.0
+1190, , 8526
+    70.0    10.0     0.0   310.0    20.0    20.0    10.0    20.0    20.0    60.0
+   280.0    30.0    20.0    10.0    20.0    30.0     0.0    80.0
+1200, , 8716
+    10.0     0.0    20.0   410.0    30.0     0.0     0.0     0.0    10.0   120.0
+   220.0     0.0    20.0     0.0    30.0    40.0    10.0   100.0
+1210, , 8905
+     0.0    20.0     0.0   140.0    10.0     0.0     0.0    10.0    10.0   310.0
+   280.0    10.0    40.0    20.0    20.0    20.0    30.0   130.0
+1220, , 9095
+     0.0     0.0     0.0    50.0    10.0    10.0     0.0     0.0     0.0   580.0
+   250.0    20.0    20.0     0.0    10.0    10.0    10.0    80.0
+1230, , 9284
+     0.0     0.0     0.0    20.0    30.0     0.0     0.0     0.0     0.0   500.0
+   320.0     0.0     0.0    10.0     0.0    20.0    40.0   120.0
+1240, , 9474
+     0.0     0.0     0.0    20.0    10.0     0.0     0.0     0.0     0.0   560.0
+   270.0     0.0    30.0    20.0    10.0    10.0    30.0    90.0
+1250, , 9663
+     0.0     0.0     0.0    10.0     0.0     0.0     0.0     0.0     0.0   600.0
+   300.0     0.0    20.0     0.0     0.0     0.0    30.0    50.0
+1260, , 9853
+     0.0    80.0     0.0    80.0     0.0    10.0     0.0     0.0     0.0   110.0
+   330.0     0.0    80.0     0.0     0.0    20.0    30.0   120.0

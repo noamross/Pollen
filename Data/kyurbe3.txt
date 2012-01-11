@@ -1,0 +1,92 @@
+# GPD ASCII Format
+# 12 Mar 04
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** Pollen Database for Siberia and the Russian Far East.             **
+# ***********************************************************************
+#
+# Site name:      Kyurbe-Yuryakh-3
+# Place:          RUS:Sakha
+# Latitude:       68.36.30N      (  68.608333)
+# Longitude:      137.37.10E     ( 137.619444)
+# Elevation(m):   563
+# Sigle:          KYURBE3
+# Entity name:
+# Contact person: Grinenko, O.V.
+# Entity notes:   located along Kyurbe-Yurakh Stream, Indigirka basin
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   127.5     5    3180    150    150  MAG-1362     L    wood fragments
+#
+# Chron name:     PALE 1
+# Age model:      single dated level
+# Age bounds:     3170 - 3190
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#   127.5     5    3180   3330   3030   C14
+#
+# Publications:   Anderson, P.M., and A.V. Lozhkin, editors. 2002. Late
+#                 Quaternary Vegetation and Climate of Siberia and the Russian
+#                 Far East (Palynological and Radiocarbon Database). North
+#                 East Science Center, Far East Branch, Russian Academy of
+#                 Sciences, Magadan, Russia.
+#
+34 4
+    1 Aln.ud   A Alnus undiff.
+    2 Aln.vi.f A Alnus viridis subsp. fruticosa
+    3 Bet.na   A Betula nana
+    4 Bet.ud   A Betula undiff.
+    5 Erles    A Ericales
+    6 Lar      A Larix
+    7 Pic      A Picea
+    8 Pin.Pi   A Pinus subg. Pinus
+    9 PinSt.ud A Pinus subg. Strobus undiff.
+   10 Pin.Ce   A Pinus subsect. Cembrae
+   11 Pin.ud   A Pinus undiff.
+   12 Slx      A Salix
+   13 Art      B Artemisia
+   14 Astae.ud B Asteraceae undiff.
+   15 Cryae    B Caryophyllaceae
+   16 Cheae    B Chenopodiaceae
+   17 Cly      B Claytonia
+   18 Conae    B Convolvulaceae
+   19 Cypae    B Cyperaceae
+   20 herbs.ud B Herbs undiff.
+   21 Ongae    B Onagraceae
+   22 Poaae    B Poaceae
+   23 Pog      B Polygonatum
+   24 Ranae.ud B Ranunculaceae undiff.
+   25 Rosae    B Rosaceae
+   26 Tha      B Thalictrum
+   27 Valae    B Valerianaceae
+   28 Equ      F Equisetum
+   29 Lycae    F Lycopodiaceae
+   30 Sel.si   F Selaginella sibirica
+   31 Br:Bes.u M Bryales undiff.
+   32 Br:Mee   M Meesia
+   33 Br:Ric   M Riccia
+   34 Br:Spg   M Sphagnum
+50
+     0.0    48.1    28.1     2.9    15.2    14.9     1.9     2.9    36.2    64.3
+     4.8     4.8     1.9     0.0     0.0     0.0     0.0     0.0     3.9     0.0
+     1.0    11.0     2.9     1.0     1.0     1.0     0.0     0.0     6.8    18.4
+     3.9     1.9     1.0     5.8
+80
+     0.0    61.5    50.7    18.9    23.0     8.1     0.0     2.0    29.1    41.6
+     3.0     4.1     8.1     0.0     3.0     1.0     0.0     0.0     5.1     0.0
+     3.0    19.6     3.0     1.0     0.0     0.0     1.0     0.0     5.0    11.2
+     2.0     0.0     0.0     6.1
+125, , 3180
+     0.0    69.7    61.7    14.8    21.7    10.8     2.2     0.0    10.8    63.2
+     1.1     9.0    10.1     0.0     0.0     0.0     1.1     0.0     9.0     1.1
+     2.2    14.8     1.1     2.2     1.1     0.0     0.0     0.0     2.2     5.1
+     2.9     0.0     0.0    22.0
+170
+     4.8    68.3    35.1     8.0    17.4     6.9     2.8     4.0     8.9   115.1
+     1.2     2.8    14.9     2.0     2.8     0.0     2.8     2.0    12.9     0.0
+     2.8     4.8     6.8     2.8     0.0     0.0     1.2     2.8     9.2     8.1
+     6.9     1.2     1.2     8.5

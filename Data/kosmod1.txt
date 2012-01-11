@@ -1,0 +1,126 @@
+# GPD ASCII Format
+# 08 Mar 04
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** Pollen Database for Siberia and the Russian Far East.             **
+# ***********************************************************************
+#
+# Site name:      Gulf of Kosmodem'yanskaya-1 Exposure 5706
+# Place:          RUS:Sakhalinskaya Oblast
+# Latitude:       44.06.00N      (  44.1     )
+# Longitude:      146.04.00E     ( 146.066667)
+# Elevation(m):   6
+# Sigle:          KOSMOD1
+# Entity name:    K5706
+# Contact person: Korotky, A.M.
+# Entity notes:   trees include Picea microsperma, Abies mayriana, A.
+#                 sachalinensis, Quercus crispula, Acer, Phellodendron
+#                 amurense, Juglans, Betula, Aralia
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   464.0    18    4570     70     70  GIN-7889     L    wood
+#   542.5    15    5790     80     80  GIN-7890     L    peat
+#   567.5     5    5750     70     70  GIN-7891     L    peaty silt
+#
+# Chron name:     GPD 1
+# Age model:      linear interpolation
+# Age bounds:     4440 - 6010
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#   464.0    18    4570   4640   4500   C14
+#   552.5    35    5767   5821   5713   CAV
+#
+# Publications:   Korotky, A.M., N.G. Razzhigaeva, T.A. Grebennikova, L.A.
+#                 Ganzey, L.M. Mokhova, V.B. Bazarova, and L.D. Sulerzhitsky.
+#                 1995. Holocene marine terraces of Kunashir Island, Kuril
+#                 Islands. Quaternary Research 34:359-375.
+#
+#                 Korotky, A.M., N.G. Razzhigaeva, T.A. Grebennikova, L.M.
+#                 Mokhova, L.A. Ganzey, V.S. Pushkar, and V.B. Bazarova. 1994.
+#                 Marine terraces and coastal evolution of Kunashir Island
+#                 during the Pleistocene. Special Publication Number 3033-V94,
+#                 All Union Institute Science and Technical Information,
+#                 Vladivostok. In Russian.
+#
+#                 Korotky, A.M., N.G. Razzhigaeva, L.M. Mokhova, L.A. Ganzey,
+#                 T.A. Grebennikova, and V.B. Bazarova. 1996. Coastal dunes as
+#                 an indicator of period of global climatic deterioration
+#                 (Kunashir Island, Kuriles). Geology of the Pacific Ocean
+#                 13:73-84.
+#
+#                 Anderson, P.M., and A.V. Lozhkin, editors. 2002. Late
+#                 Quaternary Vegetation and Climate of Siberia and the Russian
+#                 Far East (Palynological and Radiocarbon Database). North
+#                 East Science Center, Far East Branch, Russian Academy of
+#                 Sciences, Magadan, Russia.
+#
+25 10
+    1 Abi      A Abies
+    2 Aln      A Alnus
+    3 Bet.Be   A Betula sect. Betula
+    4 Bet.Cs   A Betula sect. Costatae
+    5 Cor      A Corylus
+    6 Jug      A Juglans
+    7 Pdn      A Phellodendron
+    8 Pic.Eu   A Picea sect. Eupicea
+    9 Pic.Om   A Picea sect. Omorica
+   10 Pin.St   A Pinus subg. Strobus
+   11 Que      A Quercus
+   12 Til      A Tilia
+   13 Ulm      A Ulmus
+   14 Apiae    B Apiaceae
+   15 Art      B Artemisia
+   16 Astae.ud B Asteraceae undiff.
+   17 Cypae    B Cyperaceae
+   18 Fabae    B Fabaceae
+   19 Poaae    B Poaceae
+   20 Pol      B Polygonum
+   21 Ranae    B Ranunculaceae
+   22 Lyc.cl   F Lycopodium clavatum
+   23 Osu      F Osmunda
+   24 Plpae    F Polypodiaceae
+   25 Br:Spg   M Sphagnum
+90
+    68.0     4.0     9.0    10.0     0.0    64.0     2.0    12.0    14.0    45.0
+    56.0     0.0     5.0     0.0     4.0     6.0     6.0     5.0    18.0     6.0
+     0.0     8.0    26.0    46.0     0.0
+430
+   105.0     1.0     4.0     1.0     1.0    13.0     0.0    28.0    32.0    68.0
+    42.0     0.0     6.0     0.0     0.0    31.0    11.0     0.0     7.0     0.0
+     1.0    55.0     0.0    30.0     0.0
+440
+    93.0     5.0     6.0     1.0     0.0     4.0     0.0    30.0    42.0    71.0
+    22.0     1.0     1.0     0.0     0.0    27.0    38.0     0.0     5.0     0.0
+     0.0    22.0     0.0    46.0     0.0
+455, , 4448
+    81.0     9.0     5.0     5.0     0.0    26.0     0.0     8.0    48.0    68.0
+    21.0     0.0     4.0     1.0     2.0     0.0    22.0     0.0    20.0     0.0
+     0.0    55.0    30.0   100.0     0.0
+470, , 4651
+    92.0     5.0    16.0    10.0     0.0    50.0     0.0    23.0    24.0    42.0
+    32.0     0.0     9.0     2.0     2.0     1.0     0.0     0.0     2.0     0.0
+     0.0    20.0    25.0   111.0     0.0
+480, , 4786
+   118.0     6.0    10.0     6.0     0.0    16.0     0.0    17.0    51.0    45.0
+    31.0     0.0     6.0     0.0     0.0    12.0     0.0     0.0     2.0     6.0
+     0.0    18.0    56.0    80.0     2.0
+490, , 4922
+    67.0    31.0    22.0     5.0     0.0    35.0     0.0    25.0    28.0    18.0
+    29.0     0.0     5.0     4.0     8.0     2.0     6.0     0.0     4.0     2.0
+     0.0    13.0    35.0    96.0     0.0
+525, , 5395
+    30.0    23.0    15.0    23.0     0.0    48.0     0.0    16.0    10.0    30.0
+    40.0     0.0     7.0     3.0    10.0     0.0     2.0     0.0     1.0     0.0
+     0.0    13.0    58.0    36.0     0.0
+550, , 5733
+    80.0     5.0     8.0     7.0     0.0    37.0     0.0    14.0    24.0    33.0
+    36.0     0.0    17.0     2.0     3.0     0.0     0.0     0.0    40.0     0.0
+     0.0    13.0    12.0     1.0     0.0
+570, , 6004
+    83.0    14.0     6.0    20.0     0.0    41.0     0.0    11.0    33.0    24.0
+    60.0     0.0    10.0     0.0     7.0     6.0     2.0     1.0    37.0     1.0
+     0.0    12.0    12.0    50.0     0.0

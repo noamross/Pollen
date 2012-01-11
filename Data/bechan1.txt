@@ -1,0 +1,153 @@
+# GPD ASCII Format
+# 23 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Bechan Cave
+# Place:          USA:Utah
+# Latitude:       38.00.00N      (  38.0     )
+# Longitude:      111.00.00W     (-111.0     )
+# Elevation(m):   1370
+# Sigle:          BECHAN1
+# Entity name:    Test Pit 1
+# Contact person: Davis, O.K.
+# Entity notes:   The "Synthetic depth" variable permits construction of a
+#                 stratigraphically continuous profile of BECHAN2M and BECHAN1
+#
+# Chron name:     Davis 1990
+# Age model:      pollen concentration
+# Age bounds:     16030 - 22010
+# Chron notes:    Ages calculated by the inversely proportional relationship
+#                 between pollen concentration and sedimentation rate using
+#                 the average sedimentation rate and pollen concentration from
+#                 BECHAN2M.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#    43.0     2   16035  17035  15035   OTH
+#    45.0     2   16209  17209  15209   OTH
+#    47.0     2   16496  17496  15496   OTH
+#    49.0     2   16732  17732  15732   OTH
+#    51.0     2   16868  17868  15868   OTH
+#    53.0     2   17155  18155  16155   OTH
+#    55.0     2   18236  19236  17236   OTH
+#    57.0     2   19642  20642  18642   OTH
+#    59.0     2   20329  21329  19329   OTH
+#    61.0     2   20541  21541  19541   OTH
+#    63.0     2   20688  21688  19688   OTH
+#    65.0     2   21142  22142  20142   OTH
+#    67.0     2   22010  23010  21010   OTH
+#
+# Publications:   Davis, O.K. 1990. Caves as sources of biotic remains in arid
+#                 western North America. Palaeogeography, Palaeoclimatology,
+#                 Palaeoecology 76:331-348.
+#
+#                 Davis, O.K., L. Agenbroad, P.S. Martin, and J.I. Mead. 1984.
+#                 The Pleistocene dung blanket of Bechan Cave, Utah. Pages
+#                 267-282 in H.H. Genoways and M.R. Dawson, editors.
+#                 Contributions in Quaternary vertebrate paleontology: a
+#                 volume in memorial to John E. Guilday. Special Publication
+#                 of Carnegie Museum of Natural History 8, Pittsburgh,
+#                 Pennsylvania, USA.
+#
+31 13
+    1 Cel      A Celtis
+    2 Eph.ne-t A Ephedra nevadensis-type
+    3 Jun      A Juniperus
+    4 Ost      A Ostrya
+    5 Pic      A Picea
+    6 Pin      A Pinus
+    7 Pop      A Populus
+    8 Que      A Quercus
+    9 Slx      A Salix
+   10 Amb      B Ambrosia
+   11 Art      B Artemisia
+   12 Astae.Au B Asteraceae subf. Asteroideae undiff.
+   13 Astae.Ci B Asteraceae subf. Cichorioideae
+   14 Cryae    B Caryophyllaceae
+   15 cf.Lep   B cf. Leptodactylon
+   16 cf.Raf   B cf. Rafinesquia
+   17 Ch/Am    B Chenopodiaceae/Amaranthaceae
+   18 Crm      B Cirsium
+   19 Cypae    B Cyperaceae
+   20 Erg      B Eriogonum
+   21 Opu      B Opuntia
+   22 Poaae    B Poaceae
+   23 Polta    F Polypodiophyta
+   24 Fu:      U Fungus
+   25 ind      X Indeterminable
+   26 unk      X Unknown
+   27 Lyc.spik - Lycopodium spike (number counted)
+   28 Lyc.ta.n - Lycopodium tablets (added, number)
+   29 LycCn/t  - Lycopodium tablets (concentration, grains/tablet)
+   30 sa.vo.ml - Sample volume (ml)
+   31 Syn.dep  - Synthetic depth (cm)
+43, , 16035
+     0.0     0.0    47.0    20.0    17.0    91.0     1.0     2.0     1.0     0.0
+    24.0     6.0     0.0     0.0     0.0     0.0    46.0     0.0     3.0     0.0
+     0.0     3.0     0.0     5.0    97.0     0.0  1103.0     5.0 11329.0     1.0
+   120.0
+45, , 16209
+     0.0     0.0    21.0     1.0     1.0    34.0     0.0     0.0     0.0     0.0
+     3.0     1.0     1.0     0.0     0.0     1.0    17.0     1.0     0.0     0.0
+     0.0     4.0     0.0     5.0   131.0     0.0   364.0     5.0 11329.0     1.0
+   128.0
+47, , 16496
+     0.0     0.0    12.0     2.0     3.0    34.0     0.0     0.0     0.0     0.0
+     9.0     3.0     0.0     0.0     0.0     0.0    18.0     0.0     6.0     1.0
+     0.0     2.0     0.0     2.0   137.0     0.0   244.0     5.0 11329.0     1.0
+   135.0
+49, , 16732
+     0.0     0.0    12.0     4.0     2.0    26.0     0.0     0.0     0.0     4.0
+     2.0    22.0     2.0     0.0     0.0     0.0    30.0     0.0     4.0     0.0
+     0.0     5.0     0.0     5.0    89.0     2.0   202.0     5.0 11329.0     1.0
+   143.0
+51, , 16868
+     0.0     0.0     5.0     9.0     2.0    36.0     0.0     2.0     0.0     5.0
+     5.0    13.0     0.0     0.0     1.0     0.0    38.0     0.0     7.0     1.0
+     0.0     4.0     1.0     9.0    80.0     2.0   549.0     5.0 11329.0     1.0
+   150.0
+53, , 17155
+     0.0     0.0     4.0    15.0     1.0    51.0     0.0     1.0     0.0     2.0
+    10.0    16.0     0.0     0.0     1.0     0.0    30.0     0.0     9.0     0.0
+     0.0     4.0     0.0     2.0    63.0     3.0   184.0     5.0 11329.0     1.0
+   158.0
+55, , 18236
+     0.0     0.0    22.0     1.0     2.0    30.0     5.0     1.0     0.0     1.0
+     9.0     3.0     0.0     0.0     0.0     0.0    27.0     0.0    10.0     0.0
+     0.0    34.0     0.0     3.0   144.0     0.0    61.0     5.0 11329.0     1.0
+   165.0
+57, , 19642
+     0.0     0.0    19.0     0.0     1.0    30.0     0.0     1.0     0.0     0.0
+     8.0     5.0     1.0     0.0     0.0     0.0    15.0     0.0     0.0     0.0
+     0.0     9.0     0.0     0.0   127.0     0.0    78.0     5.0 11329.0     1.0
+   173.0
+59, , 20329
+     0.0     1.0    16.0     2.0     0.0    29.0     0.0     2.0     0.0     0.0
+    15.0     5.0     0.0     1.0     0.0     0.0    19.0     0.0     2.0     0.0
+     0.0    13.0     0.0     0.0   121.0     0.0   284.0     5.0 11329.0     1.0
+   180.0
+61, , 20541
+     1.0     0.0    17.0    11.0     1.0    43.0     0.0     0.0     0.0     1.0
+     8.0     3.0     0.0     0.0     0.0     0.0    17.0     0.0     2.0     0.0
+     1.0    10.0     0.0     2.0    99.0     0.0   673.0     5.0 11329.0     1.0
+   188.0
+63, , 20688
+     0.0     0.0    22.0     5.0     1.0    26.0     0.0     2.0     0.0     0.0
+    17.0     5.0     0.0     0.0     0.0     0.0     6.0     0.0     1.0     0.0
+     0.0     2.0     0.0     0.0   128.0     0.0   485.0     5.0 11329.0     1.0
+   195.0
+65, , 21142
+     0.0     0.0     7.0     2.0     1.0    26.0     0.0     0.0     0.0     0.0
+    10.0     4.0     0.0     0.0     0.0     0.0     8.0     0.0     1.0     0.0
+     0.0     3.0     0.0     0.0   146.0     0.0   108.0     5.0 11329.0     1.0
+   202.0
+67, , 22010
+     0.0     0.0     9.0     2.0     0.0    24.0     0.0     1.0     0.0     0.0
+    18.0     1.0     0.0     0.0     0.0     0.0    21.0     0.0     6.0     0.0
+     0.0     4.0     0.0     1.0   136.0     0.0   216.0     5.0 11329.0     1.0
+   210.0

@@ -1,0 +1,159 @@
+# GPD ASCII Format
+# 23 Feb 05
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** North American Pollen Database.                                   **
+# ***********************************************************************
+#
+# Site name:      Water Conservation Area 3B, Nuthouse Far Tail
+# Place:          USA:Florida
+# Latitude:       25.53.08N      (  25.885556)
+# Longitude:      80.33.24W      ( -80.556667)
+# Elevation(m):   5
+# Sigle:          NUTHSFT
+# Entity name:    98-04-21-2D
+# Contact person: Willard, D.A.
+#
+# Radiocarbon dates:
+#      Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#       33.0     2    2000     60     60
+#       51.0     2    3190     70     70
+#       65.0     2    3470     70     70
+#
+# Chron name:     NAPD1-C14 yrs
+# Age model:      linear interpolation
+# Age bounds:     -20 - 3390
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0     0     -48    -48    -48   TOP
+#    33.0     2    2000   2060   1940   C14
+#    51.0     2    3190   3260   3120   C14
+#    65.0     2    3470   3540   3400   C14
+#
+# Publications:   Willard, D.A., L.M. Weimer, and W.L. Riegel. 2001. Pollen
+#                 assemblages as paleoenvironmental proxies in the Florida
+#                 Everglades. Review of Paleobotany and Palynology 113:213-235
+#
+#                 Willard, D.A., C.W. Holmes, M.S. Korvela, D. Mason, J.B.
+#                 Murray, W.H. Orem, and D.T. Towles. 2002. Paleoecological
+#                 insights on fixed tree island development in the Florida
+#                 Everglades: 1. Environmental controls. Pages 117-152. F.
+#                 Sklar and A. van der Valk, editors. Tree Islands of the
+#                 Everglades. Kluwer Academic Publishers, Dordrecht, The
+#                 Netherlands.
+#
+39 12
+    1 Car      A Carya
+    2 Csr      A Casuarina
+    3 Cep      A Cephalanthus
+    4 Ercae    A Ericaceae
+    5 Ilx      A Ilex
+    6 Myr      A Myrica
+    7 Ost/Cpn  A Ostrya/Carpinus
+    8 Pin      A Pinus
+    9 Que      A Quercus
+   10 Slx      A Salix
+   11 Vit      A Vitis
+   12 Wal      A Waltheria
+   13 Amb      B Ambrosia
+   14 Apiae    B Apiaceae
+   15 Astae.ud B Asteraceae undiff.
+   16 Ch/Am    B Chenopodiaceae/Amaranthaceae
+   17 Cypae.ud B Cyperaceae undiff.
+   18 Eupae    B Euphorbiaceae
+   19 Iva      B Iva
+   20 Jus      B Justicia
+   21 Ongae    B Onagraceae
+   22 Poaae    B Poaceae
+   23 Polae    B Polygonaceae
+   24 Osu.re   F Osmunda regalis
+   25 Pte.ba   F Pteris bahamensis
+   26 Al:Ovo   L Ovoidites
+   27 Cla      Q Cladium
+   28 Nym      Q Nymphaea
+   29 Sag      Q Sagittaria
+   30 Typ      Q Typha
+   31 Utr      Q Utricularia
+   32 sp.m     S Spore (monolete)
+   33 sp.t     S Spore (trilete)
+   34 unk.C3P3 X Unknown (tricolporate)
+   35 unk.P3   X Unknown (triporate)
+   36 unk.ud   X Unknown undiff.
+   37 Lyc.spk  - Lycopodium spike (number counted)
+   38 PCLyc/g  - Pollen concentration - Lycopodium method (grains/g)
+   39 sa.ma.g  - Sample dry mass (g)
+.5, , -17
+       1.0       3.0       6.0       0.0       0.0       2.0       0.0      20.0
+       3.0      12.0       0.0       1.0       5.0       0.0       4.0       8.0
+       0.0       0.0       0.0       1.0       4.0       3.0       7.0       4.0
+       0.0       5.0       5.0       4.0      10.0      28.0       2.0      48.0
+      38.0       3.0       1.0      12.0     158.0   37308.5        .5
+2.5, , 107
+       0.0       0.0       9.0       0.0       1.0       5.0       0.0      10.0
+       2.0      39.0       0.0       0.0       3.0       1.0       1.0      28.0
+       0.0       0.0       0.0       0.0       0.0       3.0       2.0       1.0
+       0.0       1.0       5.0       1.0       6.0      21.0       1.0      14.0
+      20.0       5.0       0.0       7.0      21.0       0.0       0.0
+9.5, , 542
+       2.0       0.0      14.0       0.0       0.0       7.0       0.0      10.0
+       5.0      37.0       0.0       0.0       2.0       1.0       6.0      10.0
+       1.0       0.0       0.0       0.0       1.0       1.0       4.0       0.0
+       1.0       0.0       4.0       1.0       6.0      33.0       0.0      17.0
+      52.0       4.0       1.0       4.0      50.0   93646.9        .6
+15.5, , 914
+       0.0       0.0       1.0       0.0       0.0       0.0       0.0      13.0
+       0.0       4.0       0.0       0.0       0.0       0.0       7.0     191.0
+       2.0       0.0       1.0       0.0       1.0       0.0       3.0       0.0
+       0.0       1.0       1.0       0.0       5.0       2.0       0.0      55.0
+      45.0       0.0       0.0       0.0      86.0   68960.2        .7
+21, , 1255
+       0.0       0.0       1.0       0.0       1.0       2.0       0.0      27.0
+       2.0       4.0       0.0       0.0       0.0       1.0       2.0     151.0
+       1.0       1.0       1.0       0.0       0.0       1.0       5.0       0.0
+       0.0       4.0      13.0       0.0       6.0       0.0       0.0     128.0
+      11.0       1.0       0.0       2.0      23.0  281221.3        .7
+25, , 1504
+       0.0       0.0       3.0       0.0       0.0       1.0       0.0      44.0
+       1.0       3.0       2.0       0.0       0.0       0.0       8.0      93.0
+       4.0       0.0       0.0       0.0       2.0       4.0      12.0       0.0
+       1.0       1.0      10.0       4.0       8.0       0.0       0.0      95.0
+       5.0       1.0       1.0       3.0      63.0   86741.7        .7
+29, , 1752
+       0.0       0.0       0.0       0.0       0.0       0.0       0.0      40.0
+       0.0       0.0       0.0       0.0       0.0       0.0       0.0      57.0
+       1.0       0.0       0.0       0.0       0.0       1.0       6.0       0.0
+       0.0       1.0       1.0       0.0       2.0       0.0       1.0      23.0
+       6.0       0.0       0.0       0.0     121.0   20434.4        .7
+35, , 2132
+       0.0       0.0       0.0       0.0       0.0       0.0       0.0     132.0
+       0.0       0.0       0.0       0.0       0.0       0.0       2.0      26.0
+       0.0       0.0       1.0       0.0       0.0       3.0       0.0       0.0
+       0.0      16.0       3.0       3.0       1.0       0.0       0.0       8.0
+       3.0       0.0       0.0       2.0      38.0   86756.7        .7
+39, , 2397
+       0.0       0.0       0.0       0.0       0.0       1.0       0.0     107.0
+       3.0       1.0       0.0       0.0       0.0       0.0       0.0      76.0
+       1.0       0.0       1.0       0.0       0.0       0.0       3.0       0.0
+       0.0       3.0       0.0       4.0       3.0       2.0       0.0       1.0
+       1.0       0.0       0.0       0.0      70.0   52215.7        .7
+45, , 2793
+       0.0       0.0       0.0       1.0       0.0       1.0       2.0      47.0
+       1.0       0.0       0.0       0.0       0.0       0.0       1.0      63.0
+       1.0       0.0       1.0       0.0       0.0       0.0       0.0       0.0
+       0.0       4.0       0.0       9.0       3.0       0.0       0.0       1.0
+       1.0       0.0       0.0       0.0      32.0   86226.3        .6
+49, , 3058
+       0.0       0.0       0.0       0.0       0.0       0.0       0.0     123.0
+       1.0       0.0       0.0       0.0       2.0       0.0       1.0     155.0
+       0.0       0.0       1.0       0.0       0.0       0.0       1.0       0.0
+       0.0      11.0       0.0      20.0       3.0       1.0       0.0       0.0
+       0.0       0.0       0.0       1.0      14.0  346024.8        .8
+61, , 3390
+       0.0       0.0       0.0       0.0       0.0       0.0       0.0      33.0
+       2.0       0.0       0.0       0.0       0.0       0.0       0.0      27.0
+       0.0       0.0       1.0       0.0       0.0       0.0       0.0       0.0
+       0.0       2.0       1.0       4.0       1.0       0.0       0.0       0.0
+       0.0       0.0       0.0       0.0      45.0   24038.8        .8

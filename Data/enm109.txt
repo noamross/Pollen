@@ -1,0 +1,180 @@
+# GPD ASCII Format
+# 04 Mar 04
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** Pollen Database for Siberia and the Russian Far East.             **
+# ***********************************************************************
+#
+# Site name:      Enmyvaam River, 2.5-3 m terrace
+# Place:          RUS:Chukotskiy Avtonomnyy Okrug
+# Latitude:       67.26.00N      (  67.433333)
+# Longitude:      172.10.00E     ( 172.166667)
+# Elevation(m):   491
+# Sigle:          ENM109
+# Entity name:
+# Contact person: Lozhkin, A.V.
+# Entity notes:   river is located in southern part of Elgygytgyn crater; site
+#                 located 1.7km from river head.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   102.5     5    6620     30     30  MAG1476      L    PLANT DETRITUS
+#   127.5     5    7770     50     50  MAG1480      L    PEAT
+#   152.5     5    8120     25     25  MAG1478      L    PEAT
+#   162.5     5    9125     30     30  MAG994       L    PEAT
+#   173.5     5    9250     90     90  MAG1477      L    PEAT, WOOD
+#
+# Chron name:     PALE 1
+# Age model:      Linear interpolation
+# Age bounds:     6500 - 9330
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#   102.5     5    6620   6650   6590   C14
+#   127.5     5    7770   7820   7720   C14
+#   152.5     5    8120   8145   8095   C14
+#   162.5     5    9125   9155   9095   C14
+#   173.5     5    9250   9340   9160   C14
+#
+# Publications:   Lozhkin, A.V., and L.N. Vazhenina. 1987. The characteristics
+#                 of vegetational development from the Kolyma lowland in the
+#                 early Holocene. Pages 135-144 in V.P. Pokhialainen, editor.
+#                 Quaternary period of northeast Asia. North East
+#                 Interdisciplinary Research Institute, Far East Branch, USSR
+#                 Academy of Sciences, Magadan. In Russian.
+#
+#                 Glushkova, O.Yu., A.V. Lozhkin, and T.B. Solomatkina. 1996.
+#                 Stratigraphy and paleogeography of the Elgygytgyn Lake in
+#                 the Holocene (northwestern Chukotka). Geology of the Pacific
+#                 Ocean 12:617-628. In Russian.
+#
+#                 Kaplina, T.N., and A.L. Chekovskii. 1987. Reconstruction of
+#                 paleogeographic conditons during the Holocene climatic
+#                 optimum in the Primorski Lowlands of Yakutia. Pages 141-151
+#                 in Quaternary period of northeast Asia. SVKNII, DVO USSR
+#                 Academy of Sciences, Magadan, Russia. In Russian.
+#
+51 10
+    1 Aln      A Alnus
+    2 Bet      A Betula
+    3 Capae    A Caprifoliaceae
+    4 Erles.ud A Ericales undiff.
+    5 Pin.Pi   A Pinus subg. Pinus
+    6 Pin.St   A Pinus subg. Strobus
+    7 Rho      A Rhododendron
+    8 Rbs.ch   A Rubus chamaemorus
+    9 Slx      A Salix
+   10 Apiae    B Apiaceae
+   11 Art      B Artemisia
+   12 Astae.Ci B Asteraceae subf. Cichorioideae
+   13 Astae.ud B Asteraceae undiff.
+   14 Cryae    B Caryophyllaceae
+   15 Cheae    B Chenopodiaceae
+   16 Cir.al   B Circaea alpina
+   17 Cly.ac   B Claytonia acutifolia
+   18 Cypae    B Cyperaceae
+   19 Epi      B Epilobium
+   20 Lilae    B Liliaceae
+   21 Ongae.ud B Onagraceae undiff.
+   22 Plnae    B Plantaginaceae
+   23 Poaae    B Poaceae
+   24 Pomae    B Polemoniaceae
+   25 Polae.ud B Polygonaceae undiff.
+   26 Pol.av   B Polygonum aviculare
+   27 Pol.Ac   B Polygonum sect. Aconogonon
+   28 Pol.Bi   B Polygonum sect. Bistorta
+   29 Ranae.ud B Ranunculaceae undiff.
+   30 Rosae.ud B Rosaceae undiff.
+   31 Rum      B Rumex
+   32 Saxae    B Saxifragaceae
+   33 Scrae    B Scrophulariaceae
+   34 Tha      B Thalictrum
+   35 Valae    B Valerianaceae
+   36 Bot      F Botrychium
+   37 Dph.al   F Diphasiastrum alpinum
+   38 Hup.pe   F Huperzia petrovii
+   39 Hup.se.a F Huperzia selago subsp. arctica
+   40 Hup.se.s F Huperzia selago subsp. selago
+   41 Lycae.ud F Lycopodiaceae undiff.
+   42 Lyc.an.a F Lycopodium annotinum subsp. alpestre
+   43 Lyc.cl   F Lycopodium clavatum
+   44 Plpae.ud F Polypodiaceae undiff.
+   45 Plp.vu   F Polypodium vulgare
+   46 Sel.ru   F Selaginella rupestris
+   47 Br:Bryes M Bryales
+   48 Br:Hepae M Hepaticae
+   49 Br:Spg   M Sphagnum
+   50 Myp      Q Myriophyllum
+   51 unk      X Unknown
+0, , 1905
+   132.0    80.0     0.0    20.0     0.0    84.0     0.0     0.0    10.0     0.0
+     3.0     4.0     2.0     3.0     0.0     0.0     1.0    22.0     0.0     1.0
+     1.0     0.0    35.0     2.0     0.0     1.0     2.0     7.0    16.0     0.0
+     0.0    13.0     5.0     1.0     1.0     0.0     0.0     0.0     0.0     4.0
+     0.0     5.0     0.0     6.0     0.0    11.0     1.0     0.0    24.0     0.0
+     0.0
+40, , 3745
+   131.0   120.0     0.0    56.0     0.0    90.0     0.0     6.0     5.0     0.0
+    15.0     3.0     2.0    13.0     0.0     0.0     0.0    26.0     0.0     5.0
+     1.0     3.0    11.0     0.0     6.0     7.0    13.0     8.0    27.0     3.0
+     3.0    18.0     4.0     5.0     4.0     2.0     0.0     0.0     0.0     6.0
+     0.0     6.0     0.0    20.0     0.0    33.0     0.0     1.0    47.0     0.0
+     0.0
+65, , 4895
+    75.0   101.0     0.0    24.0     0.0    80.0     0.0     0.0     3.0     0.0
+    13.0     1.0     1.0    11.0     0.0     0.0     2.0    15.0     0.0     3.0
+     0.0     1.0    39.0     0.0     0.0     1.0     6.0     8.0    24.0     6.0
+     0.0    14.0     0.0     6.0     0.0     0.0     0.0     0.0     0.0     5.0
+     0.0     3.0     0.0    10.0     1.0     9.0     0.0     2.0    28.0     0.0
+     2.0
+80, , 5585
+    24.0    19.0     0.0    26.0     0.0    74.0     0.0     2.0     2.0     0.0
+     7.0     2.0     1.0     9.0     0.0     0.0     1.0    14.0     0.0     1.0
+     1.0     0.0    18.0     7.0     0.0     3.0     9.0    14.0    13.0     2.0
+     0.0     2.0     2.0     5.0     4.0     3.0     0.0     0.0     0.0     6.0
+     0.0     3.0     0.0    33.0     1.0     6.0     0.0     2.0    34.0     0.0
+     0.0
+100, , 6505
+   180.0   159.0     0.0    60.0     0.0    84.0     0.0     0.0    30.0     1.0
+     7.0    20.0     5.0    11.0     2.0     0.0     0.0    39.0     3.0     3.0
+     1.0     0.0    27.0     6.0     3.0     7.0     3.0     5.0     9.0     1.0
+     0.0    21.0     3.0     8.0     8.0     0.0     0.0     0.0     1.0     6.0
+     0.0    10.0     3.0    10.0     0.0    32.0     4.0     5.0    45.0     1.0
+    20.0
+120, , 7425
+   320.0   170.0     0.0    30.0     0.0    31.0     0.0     0.0    12.0     0.0
+     2.0     1.0     2.0     1.0     0.0     0.0     0.0   260.0     0.0     1.0
+     1.0     0.0    10.0     1.0     0.0     1.0     2.0     1.0     7.0     3.0
+     0.0     3.0     0.0     1.0     3.0     0.0     0.0     0.0     0.0     5.0
+     0.0     8.0     0.0     5.0     3.0    15.0     0.0     0.0    13.0     0.0
+     0.0
+135, , 7875
+   240.0   117.0     0.0    31.0     0.0     7.0     0.0     1.0     2.0     1.0
+     2.0     1.0     1.0     1.0     0.0     1.0     1.0   130.0     0.0     0.0
+     1.0     0.0     6.0     3.0     0.0     2.0     2.0     4.0     5.0     1.0
+     0.0     3.0     1.0     0.0     5.0     0.0     0.0     0.0     0.0     2.0
+     0.0     8.0     0.0    10.0     0.0    15.0     1.0     2.0    40.0     0.0
+     0.0
+150, , 8085
+   310.0   181.0     1.0    70.0     0.0     4.0     0.0     0.0     9.0     1.0
+     7.0     1.0     2.0     7.0     0.0     0.0     0.0    38.0     0.0     3.0
+     4.0     0.0     8.0     1.0     0.0     2.0     0.0     3.0    17.0     2.0
+     0.0     4.0     0.0     1.0     3.0     0.0     2.0     0.0     0.0     2.0
+     0.0    17.0     7.0    25.0     0.0    34.0     0.0     1.0    25.0     0.0
+     2.0
+165, , 9153
+   123.0    70.0     1.0    13.0     0.0     1.0     0.0     0.0     3.0     1.0
+     2.0     3.0     2.0     3.0     0.0     0.0     0.0     1.0     0.0     1.0
+     0.0     0.0    11.0     2.0     0.0     3.0     0.0     3.0    13.0     1.0
+     0.0    15.0     2.0     0.0     4.0     0.0     1.0     0.0     0.0     3.0
+     0.0     6.0     3.0    10.0     0.0    20.0     0.0     8.0    11.0     0.0
+     0.0
+180, , 9324
+   185.0   176.0     0.0    26.0     1.0     8.0     3.0     0.0     8.0     0.0
+     2.0     2.0     2.0     7.0     0.0     0.0     0.0    10.0     0.0     4.0
+     1.0     0.0    12.0     2.0     1.0     4.0     0.0     3.0    12.0     1.0
+     0.0     8.0     1.0     3.0    10.0     1.0     0.0     1.0     0.0     3.0
+     1.0     9.0     2.0    21.0     0.0    19.0    10.0    14.0    33.0     0.0
+    10.0

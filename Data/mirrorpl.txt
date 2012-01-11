@@ -1,0 +1,138 @@
+# GPD ASCII Format
+# 24 Apr 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Mirror Pool
+# Place:          USA:North Dakota
+# Latitude:       46.31.33N      (  46.525833)
+# Longitude:      97.14.29W      ( -97.241389)
+# Elevation(m):   302
+# Sigle:          MIRRORPL
+# Entity name:
+# Contact person: McAndrews, J.H.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#    25.0    10    9130    150    150  I-1982       G    wood
+# Dating notes:   Depth is approximate.
+#
+# Chron name:     NAPD 1
+# Age model:      no model
+# Age bounds:     9000 - 9400
+# Chron notes:    Radiocarbon date of 9130±150 at ca. 25 cm. Age of section
+#                 (0-75) cm guessed to be 9000-9400 BP.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0     0    9000   9200   8800   GUE
+#    75.0     0    9400   9600   9200   GUE
+#
+# Publications:   McAndrews, J.H. 1967. Paleoecology of the Seminary and
+#                 Mirror Pool peat deposits. Pages 253-269 in W.J.
+#                 Mayer-Oakes, editor. Life, Land, and Water, Occasional
+#                 Papers, Department of Anthropology, University of Manitoba
+#                 1. University of Manitoba Press, Manitoba, Canada.
+#
+43 9
+    1 Ace.ne   A Acer negundo
+    2 Aln      A Alnus
+    3 Bet      A Betula
+    4 Cor      A Corylus
+    5 Cupae    A Cupressaceae
+    6 Eph.to-t A Ephedra torreyana-type
+    7 Fra      A Fraxinus
+    8 Lar      A Larix
+    9 Ost      A Ostrya
+   10 Pic      A Picea
+   11 Pin      A Pinus
+   12 Pop      A Populus
+   13 Que      A Quercus
+   14 Slx      A Salix
+   15 Sar.v    A Sarcobatus vermiculatus
+   16 She.a    A Shepherdia argentea
+   17 Ulm      A Ulmus
+   18 Vit      A Vitis
+   19 Amb      B Ambrosia
+   20 Amo      B Amorpha
+   21 Apiae    B Apiaceae
+   22 Art      B Artemisia
+   23 Astae.Au B Asteraceae subf. Asteroideae undiff.
+   24 Astae.Ci B Asteraceae subf. Cichorioideae
+   25 Ch/Am.ud B Chenopodiaceae/Amaranthaceae undiff.
+   26 Cypae    B Cyperaceae
+   27 Dal.c-t  B Dalea candida-type
+   28 Dal.p    B Dalea purpurea
+   29 Iva.a    B Iva annua
+   30 Iva.x    B Iva xanthifolia
+   31 Lamae    B Lamiaceae
+   32 Poaae    B Poaceae
+   33 Tha      B Thalictrum
+   34 Xan      B Xanthium
+   35 Drp-t    F Dryopteris-type
+   36 Equ      F Equisetum
+   37 Ptr      F Pteridium
+   38 Pot      Q Potamogeton
+   39 Sag      Q Sagittaria
+   40 Spa-t    Q Sparganium-type
+   41 Typ.l    Q Typha latifolia
+   42 ind      X Indeterminable
+   43 unk      X Unknown
+0, , 9000
+     0.0     1.0     1.0     2.0     2.0     0.0     1.0     0.0     0.0     0.0
+    50.0     0.0     5.0     5.0     0.0     2.0     2.0     1.0    34.0     0.0
+     0.0    30.0     4.0     3.0    32.0   248.0     1.0     1.0     0.0     0.0
+     0.0    23.0     0.0     0.0     2.0     0.0     3.0    14.0     0.0     0.0
+     0.0    34.0     1.0
+5, , 9027
+     0.0     1.0     1.0     0.0     0.0     0.0     0.0     0.0     0.0     1.0
+   100.0     0.0     7.0     1.0     0.0     0.0     1.0     0.0    11.0     0.0
+     0.0    17.0     4.0     1.0    25.0   456.0     1.0     1.0     0.0     1.0
+     0.0    62.0     0.0     1.0    39.0     0.0     9.0    28.0     0.0     0.0
+     0.0    13.0     5.0
+10, , 9053
+     1.0     0.0    13.0     8.0     0.0     2.0     0.0     0.0     1.0     0.0
+    77.0     0.0    12.0     3.0     0.0     0.0     5.0     0.0    14.0     0.0
+     0.0    20.0     2.0     0.0    28.0   466.0     0.0     1.0     1.0     1.0
+     0.0    54.0     0.0     0.0    23.0     0.0     5.0    11.0     0.0     0.0
+     0.0    20.0     6.0
+15, , 9080
+     0.0     0.0     3.0     1.0     0.0     0.0     0.0     0.0     0.0     0.0
+    85.0     0.0     8.0     4.0     1.0     0.0     3.0     0.0     7.0     0.0
+     0.0    22.0     4.0     0.0    23.0   580.0     0.0     1.0     0.0     0.0
+     0.0    34.0     0.0     0.0    23.0     0.0     3.0    44.0     0.0     0.0
+     0.0    13.0     5.0
+20, , 9107
+     0.0     0.0     2.0     1.0     1.0     0.0     0.0     0.0     0.0     1.0
+    80.0     0.0     4.0     8.0     2.0     1.0     4.0     0.0    13.0     2.0
+     0.0    11.0     6.0     1.0    29.0   462.0     2.0     0.0     0.0     2.0
+     0.0    25.0     0.0     0.0   287.0     0.0     4.0     0.0     0.0     0.0
+     0.0    22.0     2.0
+25, , 9133
+     0.0    56.0    11.0     1.0     0.0     0.0     0.0     4.0     2.0     0.0
+    16.0     0.0     3.0    77.0     0.0     0.0     7.0     0.0     7.0     0.0
+     0.0     6.0     0.0     0.0     9.0    71.0     0.0     0.0     0.0     0.0
+     0.0    18.0     0.0     0.0    14.0     0.0     4.0     1.0     0.0     0.0
+     3.0    15.0     2.0
+30, , 9160
+     0.0    70.0     0.0     0.0     4.0     0.0     0.0     0.0     1.0     2.0
+    96.0     0.0     2.0   243.0     0.0     1.0     3.0     0.0    37.0     0.0
+     0.0     6.0     2.0     1.0     9.0    22.0     0.0     0.0     0.0     0.0
+     0.0     8.0     0.0     0.0     2.0     0.0     0.0     0.0     0.0     1.0
+     0.0    28.0     3.0
+55, , 9293
+     0.0     2.0     0.0     1.0     1.0     0.0     0.0    35.0     1.0     3.0
+    54.0     0.0     7.0    14.0     1.0     0.0    15.0     0.0    18.0     1.0
+     0.0    21.0     5.0     0.0    24.0   130.0     0.0     1.0     0.0     0.0
+     0.0    24.0     0.0     0.0    10.0     1.0     4.0     2.0     1.0     0.0
+     0.0    56.0     1.0
+75, , 9400
+     0.0    14.0     5.0     0.0     3.0     0.0     0.0     1.0     1.0     1.0
+    66.0     1.0    17.0     9.0     1.0     0.0    41.0     0.0    11.0     0.0
+     1.0    27.0     5.0     1.0     5.0   563.0     0.0     1.0     0.0     1.0
+     1.0    26.0     2.0     0.0     1.0     2.0     4.0     0.0     0.0     0.0
+     6.0    20.0     2.0

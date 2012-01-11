@@ -1,0 +1,111 @@
+# GPD ASCII Format
+# 04 Mar 04
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** Pollen Database for Siberia and the Russian Far East.             **
+# ***********************************************************************
+#
+# Site name:      Demyanskoye Exposure
+# Place:          RUS:
+# Latitude:       59.30.00N      (  59.5     )
+# Longitude:      69.30.00E      (  69.5     )
+# Elevation(m):   65
+# Sigle:          DEMYAN
+# Entity name:
+# Contact person: Volkova, V.S.
+# Entity notes:   trees include Picea, Pinus sibirica, Pinus sylvestris,
+#                 Abies, Betula
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#  1950.0     3   46450   3000   3000  SOAN-2043    L    wood
+# Dating notes:   Date believed to be too old.
+#
+# Chron name:     [no chron]
+#
+# Publications:   Kind, N.V. 1974. Geochronology of the late Anthropogene by
+#                 isotopic data. Nauka, Moscow. In Russian.
+#
+#                 Bakhareva, V.A. 1983. Palynological characteristics of
+#                 sediments of the second floodplain terrace of the lower
+#                 Irtysh River. Pages 79-82 in S.A. Arkhipov, V.S. Volkova,
+#                 and N.A. Skabichevskaya, editors. Glaciation and
+#                 paleoclimates of Siberia during the Pleistocene. Institute
+#                 of Geology and Geophysics, Siberian Branch, USSR Academy of
+#                 Sciences, Novosibirsk. In Russian.
+#
+#                 Volkov, I.A. 1960. About structure, stratigraphy and origin
+#                 of loess deposits of north Kazakhstan. Vestnik 18:47-56. In
+#                 Russian.
+#
+#                 Anderson, P.M., and A.V. Lozhkin, editors. 2002. Late
+#                 Quaternary Vegetation and Climate of Siberia and the Russian
+#                 Far East (Palynological and Radiocarbon Database). North
+#                 East Science Center, Far East Branch, Russian Academy of
+#                 Sciences, Magadan, Russia.
+#
+20 14
+    1 Abi      A Abies
+    2 Aln      A Alnus
+    3 Bet.na   A Betula nana
+    4 Betae.ud A Betulaceae undiff.
+    5 Ercae    A Ericaceae
+    6 Pic      A Picea
+    7 Pin.si   A Pinus sibirica
+    8 Pin.sy   A Pinus sylvestris
+    9 Art      B Artemisia
+   10 Astae.Ci B Asteraceae subf. Cichorioideae
+   11 Cryae    B Caryophyllaceae
+   12 Cheae    B Chenopodiaceae
+   13 Cypae    B Cyperaceae
+   14 Fabae    B Fabaceae
+   15 herbs.ud B Herbs undiff.
+   16 Poaae    B Poaceae
+   17 Polae    B Polygonaceae
+   18 Ranae    B Ranunculaceae
+   19 Plpae    F Polypodiaceae
+   20 Br:Spg   M Sphagnum
+1000
+     0.0     0.0     3.0   100.0    20.0     0.0     0.0    50.0     0.0     0.0
+     0.0     0.0    10.0     0.0     5.0    50.0    10.0     0.0    20.0    40.0
+1140
+     0.0     0.0    10.0   100.0     5.0     0.0    15.0    65.0     5.0     0.0
+     0.0     0.0    20.0     0.0     0.0    30.0     0.0     0.0    25.0    35.0
+1280
+     0.0     5.0     0.0    75.0    10.0     0.0     0.0    40.0    20.0     0.0
+     0.0    13.0    30.0     0.0     0.0    35.0    10.0    10.0    20.0    40.0
+1420
+     0.0     0.0    21.0    60.0     0.0    21.0    24.0   105.0    15.0     0.0
+     0.0    10.0    20.0     0.0     0.0    15.0     0.0     5.0    24.0    36.0
+1560
+     5.0     0.0    13.0    52.0    20.0    20.0    20.0    95.0    10.0     0.0
+    10.0    15.0     5.0    10.0     4.0     8.0     3.0     5.0    20.0    40.0
+1660
+     5.0    20.0    10.0    20.0     0.0    10.0    41.0    53.0     0.0     0.0
+     1.0     4.0     2.0     2.0     0.0    20.0     3.0     4.0    24.0    36.0
+1760
+     6.0    14.0    19.0    36.0     0.0    14.0    15.0    85.0     0.0    10.0
+     0.0    17.0     5.0     2.0     0.0    23.0     0.0     5.0    10.0    50.0
+1860
+    10.0     5.0     0.0    40.0     0.0    15.0    30.0   104.0     5.0     0.0
+     0.0    10.0     5.0     0.0     0.0    40.0     0.0     0.0    24.0    36.0
+1960
+     2.0     5.0     0.0    25.0     0.0     3.0     5.0    20.0     4.0     0.0
+     0.0    10.0     0.0     0.0     0.0     6.0     0.0     0.0     5.0    15.0
+2060
+     0.0    10.0     5.0    30.0    10.0     0.0     0.0    35.0     5.0     0.0
+     0.0     5.0    10.0     0.0     0.0    50.0     0.0     0.0    20.0    30.0
+2160
+     0.0    15.0     0.0    50.0     8.0     0.0     5.0    40.0    28.0     3.0
+     2.0    27.0    25.0     3.0     5.0    30.0    15.0    30.0     9.0    21.0
+2260
+     5.0    12.0    19.0    78.0     0.0    14.0    20.0    40.0    25.0     1.0
+     3.0     0.0    10.0    10.0     0.0    15.0     2.0     1.0    15.0    30.0
+2360
+     1.0     3.0    13.0    60.0     0.0     4.0     5.0    40.0    20.0     0.0
+     0.0    10.0    11.0     0.0     0.0    12.0     0.0     0.0     4.0    10.0
+2460
+     0.0     9.0    14.0    19.0     0.0    21.0    86.0    36.0     2.0     3.0
+     5.0    17.0     3.0    32.0     3.0    14.0     2.0     7.0    18.0    42.0

@@ -1,0 +1,119 @@
+# GPD ASCII Format
+# 12 Mar 04
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** Pollen Database for Siberia and the Russian Far East.             **
+# ***********************************************************************
+#
+# Site name:      Utaatap Exposure, Mechigmem Gulf
+# Place:          RUS:Chukotskiy Avtonomnyy Okrug
+# Latitude:       65.27.00N      (  65.45    )
+# Longitude:      172.25.00W     (-172.416667)
+# Elevation(m):   6
+# Sigle:          MECHIG
+# Entity name:
+# Contact person: Lozhkin, A.V.
+# Entity notes:   site located 2 km upstream for mouth of Utaatap River on
+#                 7-m-high terrace.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   210.0    10    8820    140    140  MAG-149      L    bulk peat
+# Dating notes:   nearest pollen samples taken at 160 & 240 cm depth
+#
+# Chron name:     [no chron]
+#
+# Publications:   Ivanov, V.F. 1986. Quaternary deposits of the coast of
+#                 eastern Chukotka. North East Interdisciplinary Research
+#                 Institute, Far East Branch, USSR Academy of Sciences,
+#                 Vladivostok. In Russian.
+#
+#                 Anderson, P.M., and A.V. Lozhkin, editors. 2002. Late
+#                 Quaternary Vegetation and Climate of Siberia and the Russian
+#                 Far East (Palynological and Radiocarbon Database). North
+#                 East Science Center, Far East Branch, Russian Academy of
+#                 Sciences, Magadan, Russia.
+#
+35 9
+    1 Aln      A Alnus
+    2 Bet      A Betula
+    3 Ercae    A Ericaceae
+    4 Pic      A Picea
+    5 Pin.St   A Pinus subg. Strobus
+    6 Rbs.ch   A Rubus chamaemorus
+    7 Slx      A Salix
+    8 Apiae    B Apiaceae
+    9 Art      B Artemisia
+   10 Astae.ud B Asteraceae undiff.
+   11 Cryae    B Caryophyllaceae
+   12 Cly      B Claytonia
+   13 Cypae    B Cyperaceae
+   14 Koe.is   B Koenigia islandica
+   15 Ongae    B Onagraceae
+   16 Poaae    B Poaceae
+   17 Pomae.ud B Polemoniaceae undiff.
+   18 Pom.ac   B Polemonium acutiflorum
+   19 Pom.bo   B Polemonium boreale
+   20 Polae.ud B Polygonaceae undiff.
+   21 Ranae.ud B Ranunculaceae undiff.
+   22 Rosae.ud B Rosaceae undiff.
+   23 Rum      B Rumex
+   24 Tha      B Thalictrum
+   25 Val      B Valeriana
+   26 Dph.al   F Diphasiastrum alpinum
+   27 Equ      F Equisetum
+   28 Hup.se   F Huperzia selago
+   29 Lyc.an.a F Lycopodium annotinum subsp. alpestre
+   30 Lyc.cl   F Lycopodium clavatum
+   31 Polta    F Polypodiophyta
+   32 Sel.ru   F Selaginella rupestris
+   33 Br:Bryes M Bryales
+   34 Br:Hepae M Hepaticae
+   35 Br:Spg   M Sphagnum
+0
+    41.0    39.0    49.0     1.0     0.0     0.0   116.0     0.0   108.0     9.0
+     0.0     0.0    11.0     0.0     0.0    26.0     0.0     6.0     0.0     4.0
+     0.0     0.0     0.0     0.0     0.0     1.0     0.0     3.0     6.0     0.0
+     0.0     0.0     5.0     0.0     2.0
+80
+    90.0   102.0   139.0     0.0     0.0     1.0     0.0     0.0     1.0     4.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     3.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0    59.0     0.0
+     1.0     0.0     0.0     0.0     0.0
+100
+    70.0   106.0   135.0     0.0     8.0     5.0    28.0     0.0     3.0     5.0
+     0.0     0.0    18.0     0.0     0.0     2.0     0.0     2.0     0.0     0.0
+     0.0     2.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     2.0     1.0     0.0     1.0    12.0
+160
+    22.0    20.0    33.0     0.0     0.0     1.0     0.0     0.0     1.0     1.0
+     0.0     0.0     4.0     0.0     1.0     1.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     2.0     0.0    30.0     2.0  1282.0
+240
+    30.0   396.0   420.0     0.0     0.0     0.0     4.0     2.0    28.0     3.0
+     0.0     2.0    12.0     0.0     2.0    28.0     0.0     2.0     2.0     5.0
+     0.0     2.0     0.0     0.0     2.0     1.0     0.0     0.0    24.0     1.0
+     7.0    12.0     3.0     3.0     9.0
+320
+    16.0   368.0   204.0     0.0     0.0     0.0    36.0     0.0    90.0    20.0
+     2.0     2.0    15.0     1.0     1.0   142.0     0.0     1.0     5.0    25.0
+     0.0     0.0     0.0     1.0     1.0     0.0     1.0     1.0     1.0     0.0
+     4.0    35.0    23.0     1.0     4.0
+370
+     6.0     2.0    11.0     1.0     0.0     0.0     6.0     0.0    78.0     4.0
+     2.0     1.0    46.0     1.0     1.0    74.0     0.0     0.0     1.0     2.0
+     0.0     0.0     7.0     2.0     1.0     0.0     1.0     0.0     2.0     0.0
+     1.0     7.0    41.0     1.0     1.0
+490
+    18.0   104.0   199.0     0.0     1.0     6.0     7.0     0.0    97.0    19.0
+    23.0    17.0    41.0     0.0     0.0   172.0     0.0     6.0     0.0    11.0
+     1.0     1.0     0.0     6.0     1.0     2.0     8.0     0.0    12.0     0.0
+     2.0    92.0   141.0     3.0    10.0
+575
+     6.0     1.0     1.0     0.0     0.0     0.0     5.0     0.0   193.0    13.0
+    58.0     5.0    22.0     2.0    12.0   112.0     9.0     0.0     0.0     1.0
+     0.0     0.0     0.0    13.0     9.0     1.0     1.0     0.0     1.0     0.0
+     2.0    63.0    63.0     7.0     0.0

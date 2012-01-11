@@ -1,0 +1,69 @@
+# GPD ASCII Format
+# 24 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Little Bayou Sara Site 4J
+# Place:          USA:Louisiana
+# Latitude:       30.57.42N      (  30.961667)
+# Longitude:      91.28.51W      ( -91.480833)
+# Elevation(m):   49
+# Sigle:          LBSARA4J
+# Entity name:
+# Contact person: Jackson, S.T.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#     0.0         25250    520    480  A-6575       U    Picea wood
+#
+# Chron name:     Jackson 1994
+# Age model:      snapshot assemblage
+# Age bounds:     25250 - 25250
+# Chron notes:    age estimate based on wood date. Entity is a "snapshot"
+#                 exposure.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0         25250  26290  24290   C14
+#
+# Publications:   Jackson, S.T., and C.R. Givens. 1994. Late Wisconsinan
+#                 vegetation and environment of the Tunica Hills Region,
+#                 Louisiana/Mississippi. Quaternary Research 41:316-325.
+#
+28 1
+    1 Ace.sa   A Acer saccharum
+    2 Ace.ud   A Acer undiff.
+    3 Aln      A Alnus
+    4 Car      A Carya
+    5 Crn      A Cornus
+    6 Cupae    A Cupressaceae
+    7 Fra.ni   A Fraxinus nigra
+    8 Jug.c    A Juglans cinerea
+    9 Pic      A Picea
+   10 Pin.Pi   A Pinus subg. Pinus
+   11 Pin.ud   A Pinus undiff.
+   12 Que      A Quercus
+   13 Ulm      A Ulmus
+   14 Amb      B Ambrosia
+   15 Apiae    B Apiaceae
+   16 Art      B Artemisia
+   17 Astae.Au B Asteraceae subf. Asteroideae undiff.
+   18 Ch/Am    B Chenopodiaceae/Amaranthaceae
+   19 Cypae    B Cyperaceae
+   20 Poaae    B Poaceae
+   21 Pol.am   B Polygonum amphibium
+   22 Tha      B Thalictrum
+   23 Nym      Q Nymphaea
+   24 Typ.l    Q Typha latifolia
+   25 sp.m     S Spore (monolete)
+   26 sp.t     S Spore (trilete)
+   27 ind.deP3 X Indeterminable (degraded triporate)
+   28 Un/In.ud X Unknown/Indeterminable undiff.
+0, , 25250
+     3.0     1.0     1.0     2.0     3.0    58.0     3.0     2.0   147.0     6.0
+    62.0    27.0     2.0    10.0     1.0     3.0    31.0     1.0     8.0     4.0
+     1.0     1.0     1.0     1.0     2.0     8.0     8.0    55.0

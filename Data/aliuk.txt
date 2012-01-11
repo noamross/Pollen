@@ -1,0 +1,100 @@
+# GPD ASCII Format
+# 24 Apr 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Aliuk Pond
+# Place:          CAN:Newfoundland
+# Latitude:       54.35.00N      (  54.583333)
+# Longitude:      57.22.00W      ( -57.366667)
+# Elevation(m):   25
+# Sigle:          ALIUK
+# Entity name:
+# Contact person: Jordan, R.H.
+# Entity notes:   Taxon counts and names were unclear on original Jordan data
+#                 sheets - errors are possible.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#    10.0    20    2255    510    510  SI-1741      G    gyttja
+#    61.0    22    7170    180    180  SI-1531-A    G    gyttja/clay transition
+#
+# Chron name:     NAPD 1
+# Age model:      linear interpolation
+# Age bounds:     2250 - 9970
+# Chron notes:    Chron uses two C14 dates.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#    10.0    20    2255   3265   1225   C14
+#    61.0    22    7170   7530   6810   C14
+#
+# Publications:   Jordan, R.H. 1975. Pollen diagrams from Hamilton Inlet,
+#                 central Labrador, and their environmental implications for
+#                 the northern maritime Archaic. Arctic Anthropology 12:92-116
+#
+24 9
+    1 Abi      A Abies
+    2 Aln      A Alnus
+    3 Bet      A Betula
+    4 Ercae    A Ericaceae
+    5 Fra      A Fraxinus
+    6 Pic      A Picea
+    7 Pin      A Pinus
+    8 Que      A Quercus
+    9 Slx      A Salix
+   10 Amb-t    B Ambrosia-type
+   11 Art      B Artemisia
+   12 Astae.ud B Asteraceae undiff.
+   13 Cryae    B Caryophyllaceae
+   14 Cypae    B Cyperaceae
+   15 Dry-t    B Dryas-type
+   16 Fabae    B Fabaceae
+   17 Ongae    B Onagraceae
+   18 Poaae    B Poaceae
+   19 Rbs      B Rubus
+   20 Drp-t    F Dryopteris-type
+   21 Lyc-t    F Lycopodium-type
+   22 Woo      F Woodsia
+   23 Spg      M Sphagnum
+   24 Iso      Q Isoëtes
+10, , 2255
+    13.0    73.0    40.0     3.0     0.0    88.0     2.0     0.0     1.0     0.0
+     0.0     0.0     0.0     3.0     0.0     0.0     0.0     1.0     0.0     3.0
+     2.0     0.0     2.0     2.0
+20, , 3219
+    22.0   203.0    42.0     6.0     0.0   121.0     3.0     0.0     0.0     0.0
+     0.0     0.0     0.0     2.0     0.0     0.0     1.0     3.0     1.0    15.0
+     4.0     1.0     5.0     1.0
+30, , 4182
+    21.0    98.0    66.0     1.0     1.0   124.0     5.0     0.0     1.0     0.0
+     0.0     0.0     0.0     1.0     0.0     0.0     0.0     1.0     0.0     3.0
+     3.0     0.0     0.0     0.0
+40, , 5146
+    15.0    86.0    60.0     1.0     0.0    83.0     2.0     0.0     2.0     0.0
+     1.0     0.0     0.0     0.0     0.0     0.0     0.0     2.0     0.0    13.0
+     7.0     0.0     0.0     0.0
+50, , 6110
+    10.0   157.0    64.0     3.0     0.0    19.0     2.0     0.0     1.0     0.0
+     0.0     1.0     0.0     2.0     0.0     0.0     0.0     2.0     0.0     0.0
+    37.0     0.0     1.0     0.0
+60, , 7074
+     2.0    96.0    51.0    11.0     0.0    19.0     7.0     0.0    21.0     0.0
+     1.0     0.0     0.0    16.0     1.0     0.0     0.0     6.0     3.0     1.0
+     4.0     0.0     0.0     0.0
+70, , 8037
+     1.0    42.0    84.0     7.0     1.0    16.0     9.0     1.0    43.0     1.0
+     2.0     1.0     0.0     8.0     1.0     1.0     0.0    13.0    23.0     1.0
+     2.0     0.0     1.0     0.0
+80, , 9001
+     0.0    19.0    46.0     3.0     0.0    10.0    12.0     0.0    12.0     3.0
+     4.0     0.0     2.0    10.0     0.0     0.0     0.0     7.0     1.0     1.0
+     4.0     0.0     0.0     0.0
+90, , 9965
+     1.0    16.0    54.0     3.0     0.0    11.0    14.0     1.0     2.0     1.0
+     2.0     1.0     0.0    17.0     0.0     0.0     0.0    13.0     0.0     2.0
+     5.0     0.0     0.0     0.0

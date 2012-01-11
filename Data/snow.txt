@@ -1,0 +1,155 @@
+# GPD ASCII Format
+# 25 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Snow Lake
+# Place:          CAN:Newfoundland
+# Latitude:       56.38.00N      (  56.633333)
+# Longitude:      63.53.00W      ( -63.883333)
+# Elevation(m):   522
+# Sigle:          SNOW
+# Entity name:
+# Contact person: Lamb, H.F.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#  1012.5    15    2180     70     70  Q-2193       G
+#  1062.5    15    3330     70     70  Q-2194       G
+#  1112.5     5    5270    150    150  GSC-3233     G
+#
+# Chron name:     COHMAP chron# 1
+# Age model:      linear interpolation
+# Age bounds:     0 - 5390
+# Chron notes:    3 C-14 dates, top of core at 975 cm. Base of core
+#                 extrapolated to 5300 yr. b.p. COHMAP age bounds for
+#                 application of the model: top = 0; bottom = 5000.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#   975.0     0       0    100   -100   TOP
+#  1012.5    15    2180   2320   2040   C14
+#  1062.5    15    3330   3470   3190   C14
+#  1112.5     5    5270   5570   4970   C14
+#
+# Publications:   Lamb, H.F. 1985. Palynological evidence for postglacial
+#                 change in the position of tree limit in Labrador. Ecological
+#                 Monographs 55:241-258.
+#
+#                 Lamb, H.F. 1982. Late Quaternary vegetational history of the
+#                 forest-tundra ecotone in North-Central Labrador.
+#                 Dissertation. University of Cambridge, Cambridge, England.
+#
+33 15
+    1 Abi      A Abies
+    2 Ace      A Acer
+    3 Aln.v-t  A Alnus viridis-type
+    4 Bet      A Betula
+    5 Csp-t    A Cassiope-type
+    6 Erles.ud A Ericales undiff.
+    7 Lar      A Larix
+    8 Le/Ch.c  A Ledum/Chamaedaphne calyculata
+    9 Pic      A Picea
+   10 Pin      A Pinus
+   11 Que      A Quercus
+   12 Slx      A Salix
+   13 Ulm      A Ulmus
+   14 Vac      A Vaccinium
+   15 Amb-t    B Ambrosia-type
+   16 Art      B Artemisia
+   17 Astae.Au B Asteraceae subf. Asteroideae undiff.
+   18 Braae    B Brassicaceae
+   19 Ch/Am    B Chenopodiaceae/Amaranthaceae
+   20 Cypae    B Cyperaceae
+   21 Dry-t    B Dryas-type
+   22 Fabae    B Fabaceae
+   23 Poaae    B Poaceae
+   24 Gym      F Gymnocarpium
+   25 Hup.s    F Huperzia selago
+   26 Lyc.a    F Lycopodium annotinum
+   27 Lyc.cl   F Lycopodium clavatum
+   28 Sel      F Selaginella
+   29 Pdi.b    L Pediastrum boryanum
+   30 Pdi.b.i  L Pediastrum boryanum var. integrum
+   31 Spg      M Sphagnum
+   32 ind      X Indeterminable
+   33 unk      X Unknown
+975, , 0
+     1.0     0.0    46.0    65.0     0.0     2.0     1.0     0.0   124.0    16.0
+     0.0     2.0     0.0     0.0     4.0     4.0     0.0     1.0     0.0    80.0
+     1.0     0.0     8.0     0.0     1.0     5.0     1.0     1.0     0.0     0.0
+     8.0     0.0     0.0
+985, , 589
+     0.0     0.0    48.0    57.0     0.0     1.0     1.0     0.0   125.0    13.0
+     0.0     1.0     0.0     0.0     0.0     4.0     0.0     0.0     0.0    64.0
+     0.0     0.0     4.0     0.0     2.0     6.0     0.0     0.0     0.0     0.0
+     4.0     0.0     0.0
+995, , 1178
+     0.0     0.0    44.0    47.0     0.0     0.0     0.0     0.0   175.0    13.0
+     0.0     2.0     0.0     1.0     1.0     2.0     0.0     0.0     0.0    41.0
+     0.0     0.0     5.0     0.0     0.0     3.0     0.0     0.0     1.0     0.0
+     4.0     0.0     0.0
+1005, , 1767
+     0.0     0.0    48.0    61.0     0.0     1.0     0.0     0.0   226.0     4.0
+     0.0     1.0     0.0     2.0     0.0     0.0     1.0     0.0     0.0    24.0
+     0.0     0.0     2.0     0.0     0.0     1.0     0.0     0.0     1.0     0.0
+     5.0     1.0     0.0
+1015, , 2248
+     0.0     0.0    41.0    44.0     0.0     0.0     0.0     0.0   200.0     8.0
+     0.0     2.0     0.0     2.0     0.0     1.0     0.0     0.0     0.0    20.0
+     0.0     0.0     0.0     0.0     0.0     7.0     0.0     0.0     0.0     0.0
+     1.0     0.0     0.0
+1025, , 2478
+     0.0     0.0    58.0    44.0     0.0     2.0     0.0     0.0   167.0     5.0
+     0.0     3.0     0.0     2.0     1.0     0.0     0.0     0.0     0.0    27.0
+     0.0     0.0     4.0     0.0     0.0     4.0     0.0     0.0     0.0     0.0
+     4.0     0.0     0.0
+1035, , 2708
+     0.0     0.0    86.0    61.0     0.0     0.0     0.0     0.0   190.0     7.0
+     0.0     0.0     1.0     0.0     0.0     2.0     0.0     0.0     0.0    20.0
+     0.0     0.0     0.0     0.0     0.0     4.0     0.0     0.0     0.0     0.0
+     2.0     0.0     0.0
+1045, , 2938
+     0.0     0.0    74.0    64.0     1.0     0.0     0.0     2.0   145.0     1.0
+     0.0     2.0     0.0     0.0     0.0     1.0     0.0     0.0     0.0    12.0
+     0.0     0.0     2.0     0.0     0.0     1.0     1.0     0.0     5.0     0.0
+     2.0     0.0     0.0
+1055, , 3168
+     0.0     0.0    90.0    81.0     0.0     0.0     0.0     0.0   176.0     6.0
+     0.0     2.0     0.0     1.0     0.0     2.0     0.0     0.0     0.0    30.0
+     0.0     0.0     1.0     0.0     0.0     2.0     0.0     0.0     1.0     0.0
+     1.0     0.0     0.0
+1065, , 3446
+     1.0     0.0    49.0    46.0     0.0     0.0     0.0     2.0   165.0    11.0
+     0.0     1.0     1.0     1.0     1.0     3.0     1.0     0.0     0.0    28.0
+     0.0     1.0     1.0     0.0     0.0     1.0     0.0     0.0     1.0     0.0
+     1.0     1.0     0.0
+1075, , 3834
+     0.0     0.0   124.0    96.0     0.0     0.0     1.0     1.0   219.0     6.0
+     0.0     1.0     0.0     0.0     1.0     4.0     0.0     0.0     0.0    20.0
+     0.0     0.0     3.0     0.0     1.0     4.0     0.0     0.0     1.0     0.0
+     4.0     0.0     1.0
+1085, , 4222
+     1.0     1.0   154.0   113.0     0.0     0.0     0.0     0.0   119.0     7.0
+     1.0     1.0     0.0     0.0     1.0     1.0     0.0     0.0     0.0    28.0
+     0.0     0.0     7.0     2.0     0.0     3.0     0.0     0.0     4.0     0.0
+     5.0     0.0     0.0
+1095, , 4610
+     0.0     0.0   322.0   228.0     0.0     0.0     2.0     0.0    73.0     7.0
+     1.0     5.0     0.0     0.0     0.0     2.0     2.0     0.0     0.0    31.0
+     0.0     0.0     6.0     0.0     0.0    13.0     0.0     0.0     9.0     0.0
+     2.0     0.0     0.0
+1105, , 4998
+     0.0     0.0   221.0   134.0     0.0     0.0     0.0     0.0    26.0    11.0
+     0.0    10.0     0.0     0.0     0.0     1.0     0.0     0.0     2.0    29.0
+     0.0     0.0     4.0     0.0     1.0    11.0     0.0     0.0    11.0     0.0
+     5.0     0.0     0.0
+1115, , 5386
+     0.0     0.0   164.0    55.0     1.0     0.0     0.0     0.0    10.0     6.0
+     0.0    13.0     0.0     4.0     0.0     2.0     0.0     0.0     2.0    54.0
+     1.0     0.0     3.0     0.0     0.0     1.0     0.0     0.0    20.0     1.0
+     3.0     0.0     1.0

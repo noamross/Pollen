@@ -1,0 +1,113 @@
+# GPD ASCII Format
+# 24 Apr 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the Latin American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Tumbre 1
+# Place:          CHL:
+# Latitude:       23.19.00S      ( -23.316667)
+# Longitude:      67.47.00W      ( -67.783333)
+# Elevation(m):   3920
+# Sigle:          TUMBRE1
+# Entity name:
+# Contact person: Graf, K.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#    45.0     5    2220     65     65  Hv-17570     U    peat
+#   100.0     5    3810     90     90  UZ-1471      U    peat
+#   120.0     5    4165    145    145  Hv-17571     U    peat
+#   140.0     5    3905     85     85  UZ-1469      U    peat
+#   190.0     5    6010    130    130  Hv-17572     U    clay
+#   250.0     5    6165    165    165  Hv-17573     U    clay
+#   300.0     5    7500     80     80  ETH-6625     A
+#
+# Chron name:     LAPD 1
+# Age model:      linear interpolation
+# Age bounds:     240 - 7500
+# Chron notes:    Chron uses 6 radiocarbon dates plus top. Inverted date
+#                 3905±85 dropped.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0     0       0      0      0   TOP
+#    45.0     5    2220   2285   2155   C14
+#   100.0     5    3810   3900   3720   C14
+#   120.0     5    4165   4310   4020   C14
+#   190.0     5    6010   6140   5880   C14
+#   250.0     5    6165   6330   6000   C14
+#   300.0     5    7500   7580   7420   C14
+#
+# Publications:   Ybert, J.P., and Y. Miranda. 1984. Analisis palinologico de
+#                 un corte del Sajama. Actas II Congreso Geologico Bolivia,
+#                 691-694.
+#
+13 17
+    1 Eph      A Ephedra
+    2 Astae.As B Asteraceae subf. Asteroideae
+    3 Azr      B Azorella
+    4 Cryae    B Caryophyllaceae
+    5 Cheae    B Chenopodiaceae
+    6 Cypae    B Cyperaceae
+    7 Gerae    B Geraniaceae
+    8 Malae    B Malvaceae
+    9 Poaae    B Poaceae
+   10 sp.m.ud  S Spore (monolete undiff.)
+   11 Fu:      U Fungus
+   12 ot       X Other
+   13 ase.cm2  - Area slide examined (cm²)
+5, , 247
+     2.0    12.0     3.0     3.0     6.0   150.0     0.0     0.0     1.0     0.0
+    50.0     2.0     7.7
+15, , 740
+     2.0    14.0     6.0     4.0     9.0    19.0     0.0     0.0     6.0     0.0
+     4.0     3.0     7.7
+20, , 987
+     2.0    10.0    22.0     1.0    13.0    14.0     0.0     0.0    36.0     0.0
+     7.0     3.0     7.7
+45, , 2220
+     0.0     0.0     0.0     0.0     2.0     1.0     0.0     0.0    13.0     0.0
+     3.0     0.0     7.7
+80, , 3232
+     0.0     0.0     0.0     0.0     5.0     0.0     0.0     0.0    22.0     0.0
+     0.0     1.0     7.7
+95, , 3665
+     0.0     6.0     0.0     2.0     9.0     1.0     0.0     0.0    69.0     0.0
+     0.0     1.0     7.7
+110, , 3988
+     0.0    14.0     0.0     4.0     6.0     0.0     1.0     1.0    96.0     0.0
+     8.0     2.0     7.7
+125, , 4297
+     1.0     6.0     1.0     5.0    11.0     0.0     0.0     0.0    52.0     0.0
+     4.0     2.0     7.7
+140, , 4692
+     0.0     3.0     0.0     3.0     6.0     0.0     0.0     0.0    33.0     0.0
+     7.0     0.0     7.7
+165, , 5351
+     0.0     0.0     0.0     1.0     4.0     0.0     0.0     0.0    42.0     0.0
+     0.0     0.0     7.7
+180, , 5746
+     0.0     3.0     0.0     0.0     6.0     0.0     0.0     0.0    35.0     0.0
+     8.0     0.0     9.0
+195, , 6023
+     1.0     0.0     0.0     1.0     7.0     0.0     0.0     0.0    34.0     0.0
+     3.0     0.0    11.7
+220, , 6088
+     0.0     6.0     1.0     0.0     2.0     1.0     0.0     0.0    49.0     1.0
+     0.0     0.0     7.7
+240, , 6139
+     1.0     2.0     1.0     0.0     6.0     0.0     0.0     0.0    43.0     0.0
+     2.0     1.0     7.7
+260, , 6432
+     0.0     6.0     0.0     0.0    10.0     1.0     0.0     0.0    33.0     0.0
+     2.0     1.0     7.7
+280, , 6966
+     0.0    10.0     1.0     1.0     9.0    13.0     0.0     0.0    27.0     0.0
+   104.0     2.0     7.7
+300, , 7500
+     3.0    17.0     0.0     1.0    11.0     5.0     0.0     0.0    89.0     0.0
+     5.0     0.0     7.7

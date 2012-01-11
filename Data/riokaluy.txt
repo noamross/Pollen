@@ -1,0 +1,125 @@
+# GPD ASCII Format
+# 24 Apr 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the Latin American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Río Kaluyo
+# Place:          BOL:La Paz
+# Latitude:       16.26.00S      ( -16.433333)
+# Longitude:      68.08.00W      ( -68.133333)
+# Elevation(m):   4070
+# Sigle:          RIOKALUY
+# Entity name:
+# Contact person: Graf, K.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#    80.0     2    1085     80     80  Hv-8071      U
+#   180.0     2    3880    960    630  Hv-8072      U
+#   350.0     5    9645     90     90  Hv-8073      U
+#
+# Chron name:     LAPD 1
+# Age model:      linear interpolation
+# Age bounds:     130 - 9920
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0     0       0      0      0   TOP
+#    80.0     2    1085   1165   1005   C14
+#   180.0     2    3880   4840   2920   C14
+#   350.0     2    9645   9735   9555   C14
+#
+# Publications:   Graf, K. 1992. Pollendiagramme aus den Anden: Eine Synthese
+#                 zur Klimageschichte und Vegetationsentwicklung seit der
+#                 letzten Eiszeit. Physische Geographie vol. 34. University of
+#                 Zurich, Switzerland.
+#
+28 14
+    1 Aln      A Alnus
+    2 Eph      A Ephedra
+    3 Ercae    A Ericaceae
+    4 Myr      A Myrica
+    5 Pod      A Podocarpus
+    6 Amaae    B Amaranthaceae
+    7 Apiae    B Apiaceae
+    8 Astae.Au B Asteraceae subf. Asteroideae undiff.
+    9 Astae.Ci B Asteraceae subf. Cichorioideae
+   10 Astae.Mu B Asteraceae tribe Mutisieae
+   11 Cacae    B Cactaceae
+   12 Cryae    B Caryophyllaceae
+   13 Cheae    B Chenopodiaceae
+   14 Cypae    B Cyperaceae
+   15 Gen-t    B Gentiana-type
+   16 Malae    B Malvaceae
+   17 Poaae    B Poaceae
+   18 Po/Ac    B Polylepis/Acaena
+   19 Cyaae    F Cyatheaceae
+   20 Lycae.ud F Lycopodiaceae undiff.
+   21 Lyc.cl   F Lycopodium clavatum
+   22 Plp      F Polypodium
+   23 Iso      Q Isoëtes
+   24 sp.m.ud  S Spore (monolete undiff.)
+   25 sp.t.ps  S Spore (trilete psilate)
+   26 sp.t.ud  S Spore (trilete undiff.)
+   27 Fu:      U Fungus
+   28 ot       X Other
+10, , 136
+     3.0     0.0     0.0     1.0     0.0    15.0    34.0    98.0     2.0     1.0
+    20.0     2.0     8.0     0.0     8.0     5.0   150.0     0.0    15.0     8.0
+     2.0     8.0     6.0     3.0    17.0     6.0    26.0     2.0
+20, , 271
+     0.0     0.0     0.0     2.0     5.0     3.0    15.0   124.0     4.0     1.0
+     0.0     1.0     9.0     1.0     9.0     2.0    95.0     0.0     9.0    10.0
+     2.0     3.0    16.0     6.0    18.0     5.0     6.0     5.0
+40, , 542
+     0.0     0.0     0.0     0.0     1.0    28.0     0.0    66.0     4.0     0.0
+     0.0     2.0    19.0     1.0    34.0     3.0    64.0     0.0    25.0    42.0
+     5.0     9.0     1.0     1.0    15.0     8.0     4.0    12.0
+50, , 678
+     1.0     0.0     0.0     0.0     3.0     2.0    24.0    19.0     2.0     0.0
+     0.0     0.0     3.0     0.0     0.0     0.0    16.0     0.0    37.0     2.0
+    11.0     8.0     0.0    11.0    20.0    11.0     3.0     1.0
+70, , 949
+     0.0     0.0     0.0     0.0     0.0     4.0     0.0    40.0     6.0     0.0
+     0.0     1.0     7.0     0.0     1.0     0.0    24.0     0.0     6.0    17.0
+     3.0     5.0     4.0     4.0     8.0     3.0     6.0     3.0
+80, , 1085
+     0.0     5.0     0.0     1.0     1.0    28.0     2.0   120.0     2.0     0.0
+     0.0     1.0     6.0     0.0     2.0     0.0    39.0     0.0    31.0     6.0
+     2.0    13.0     1.0     7.0    38.0    20.0     3.0     3.0
+275, , 7102
+     0.0     0.0     0.0     0.0     4.0     1.0     1.0    15.0     0.0     0.0
+     0.0     1.0     0.0     0.0     7.0     3.0    20.0     0.0    14.0     8.0
+     1.0     5.0     2.0     5.0    13.0     4.0     1.0     1.0
+290, , 7610
+     2.0     2.0     1.0     2.0    14.0     0.0     0.0    44.0     0.0     1.0
+     1.0     4.0     1.0     3.0     9.0     3.0   138.0     0.0    27.0     7.0
+     2.0     4.0     3.0     7.0    20.0     5.0     0.0     7.0
+305, , 8119
+     1.0     0.0     0.0     0.0     6.0     0.0     0.0    10.0     0.0     0.0
+     0.0     0.0     3.0     1.0     4.0     1.0    54.0     0.0     4.0    11.0
+     0.0     1.0     2.0     1.0    12.0     1.0    29.0     3.0
+320, , 8628
+     2.0     1.0     0.0     0.0    11.0     0.0     1.0    62.0     0.0     3.0
+     1.0     4.0     2.0     5.0    19.0     2.0   104.0     1.0    27.0    11.0
+     0.0     8.0     1.0     4.0    16.0     3.0    28.0    15.0
+330, , 8967
+     0.0     1.0     0.0     0.0     7.0     1.0     1.0    22.0     1.0     0.0
+     0.0     2.0     3.0     1.0     1.0     1.0    45.0     0.0     9.0    10.0
+     0.0     0.0     1.0     1.0     4.0     3.0    28.0     2.0
+340, , 9306
+     1.0     1.0     0.0     1.0    13.0     3.0     0.0    44.0     0.0     0.0
+     0.0     4.0     1.0     1.0     6.0     0.0   186.0     0.0     8.0     9.0
+     1.0     9.0     6.0     2.0    10.0     2.0    17.0    13.0
+358, , 9916
+     2.0     0.0     1.0     0.0     8.0     2.0     0.0    34.0     0.0     0.0
+     0.0     8.0     0.0     2.0    14.0     1.0    82.0     0.0     6.0    13.0
+     0.0     3.0     1.0     3.0     9.0     4.0    40.0    13.0
+370, , 10323
+     4.0     0.0     0.0     1.0     2.0     0.0     0.0   126.0     0.0     8.0
+     0.0    19.0     2.0    13.0    16.0     0.0   123.0     0.0    10.0     1.0
+     0.0     9.0    10.0     4.0     8.0     5.0    91.0    15.0

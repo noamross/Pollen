@@ -1,0 +1,85 @@
+# GPD ASCII Format
+# 24 Mar 00
+# Raw Counts - All Pollen Types
+#
+# *********************************************************
+# ** Please acknowledge the contributors and the African **
+# ** Pollen Database when using these data.              **
+# *********************************************************
+#
+# Site name:      Nile Delta S6
+# Place:          EGY:
+# Latitude:       31.06.30N      (  31.108333)
+# Longitude:      31.43.00E      (  31.716667)
+# Elevation(m):   2
+# Sigle:          NILEDS6
+# Entity name:    Core S6
+# Contact person: Leroy, S.A.G.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   200.0    18    1910     70     70  Beta-16340   L    inorganic fraction bul
+#   580.0    19    3750     60     60  Beta-16341   L    organic fraction, bulk
+#
+# Chron name:     GPD 1
+# Age model:      linear interpolation
+# Age bounds:     3600 - 3950
+# Chron notes:    Chron uses 2 radiocarbon dates. Except for age at 580 cm,
+#                 interpolated and extrapolated dates are approximate because
+#                 of uneven sedimentation rate.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#   200.0    18    1910   2050   1770   C14
+#   580.0    19    3750   3870   3630   C14
+#
+# Publications:   Leroy, S.A.G. 1992. Palynological evidence of Azolla
+#                 nilotica Dec. in recent Holocene of the eastern Nile Delta
+#                 and palaeoenvironment. Vegetation History and Archaeobotany
+#                 1:43-52.
+#
+#                 Coutellier, V., and D.J. Stanley. 1987. Late Quaternary
+#                 stratigraphy and paleogeography of the eastern Nile Delta,
+#                 Egypt. Marine Geology 77:257-275.
+#
+#                 Stanley, D.J., H. Sheng, and Y. Pan. 1988. Heavy minerals
+#                 and provenance of late Quaternary sands, eastern Nile Delta.
+#                 Journal of African Earth Sciences 7:735-741.
+#
+#                 Foucault, A., and D.J. Stanley. 1989. Late Quaternary
+#                 palaeoclimatic oscillations in East Africa recorded by heavy
+#                 minerals in the Nile Delta. Nature 339:44-46.
+#
+20 4
+    1 Ercae    A Ericaceae
+    2 Pinae.ud A Pinaceae undiff.
+    3 Pin      A Pinus
+    4 Pod      A Podocarpus
+    5 Aer      B Aerva
+    6 Apiae    B Apiaceae
+    7 Astae.As B Asteraceae subf. Asteroideae
+    8 Cryae    B Caryophyllaceae
+    9 Ch/Am.ud B Chenopodiaceae/Amaranthaceae undiff.
+   10 Cypae    B Cyperaceae
+   11 Ongae    B Onagraceae
+   12 Poaae    B Poaceae
+   13 Pol.pe-t B Polygonum persicaria-type
+   14 Azo.n    F Azolla nilotica
+   15 Ric      M Riccia
+   16 Typ.cf.d Q Typha cf. T. domingensis
+   17 Typ.cf.e Q Typha cf. T. elephantina
+   18 sp.m.ps  S Spore (monolete psilate)
+   19 ind      X Indeterminable
+   20 Lab.no   - Laboratory number
+550, , 3605
+     0.0     0.0     1.0     0.0     2.0     1.0     2.0     0.0     4.0   154.0
+     2.0    21.0     0.0     5.0     0.0     1.0     0.0     0.0     2.0    87.0
+565, , 3677
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     1.0     2.0   100.0
+     0.0     3.0     0.0     0.0     0.0     0.0     0.0     1.0     0.0    88.0
+580, , 3750
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     1.0     1.0    91.0
+     0.0     6.0     4.0     0.0     0.0     0.0     0.0     0.0     1.0    89.0
+620, , 3944
+     1.0     1.0     0.0     2.0     0.0     0.0     0.0     0.0     5.0   540.0
+     0.0     9.0     7.0     0.0     1.0     0.0     4.0     0.0     7.0    90.0

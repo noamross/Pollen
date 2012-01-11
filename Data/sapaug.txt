@@ -1,0 +1,132 @@
+# GPD ASCII Format
+# 25 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      San Agustin Plains
+# Place:          USA:New Mexico
+# Latitude:       33.52.00N      (  33.866667)
+# Longitude:      108.15.00W     (-108.25    )
+# Elevation(m):   2069
+# Sigle:          SAPAUG
+# Entity name:    SAP-auger
+# Contact person: Markgraf, V.
+# Entity notes:   The auger samples were obtained below 145 cm (the base of
+#                 the pit), so San Agustin Plains pit 10 cm sample is 10 cm
+#                 below 145 cm.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   147.0     4   15040    200    200  W-4987       G    bulk clay sample
+#   219.5     7   18300    300    300  W-4988       G    bulk clay sample
+#
+# Chron name:     Markgraf et al. 1984
+# Age model:      linear interpolation
+# Age bounds:     8830 - 18170
+# Chron notes:    Chron uses 2 radiocarbon dates.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#   292.0     4   15040  15440  14640   C14
+#   364.0     7   18300  18900  17700   C14
+#
+# Publications:   Markgraf, V., J.P. Bradbury, R.M. Forester, G. Singh, and
+#                 R.S. Sternberg. 1984. San Agustin Plains, New Mexico: age
+#                 and paleoenvironmental potential reassessed. Quaternary
+#                 Research 22:336-343.
+#
+26 16
+    1 Abi      A Abies
+    2 Eph      A Ephedra
+    3 Jun      A Juniperus
+    4 Pic      A Picea
+    5 Pin      A Pinus
+    6 Pop      A Populus
+    7 Psu      A Pseudotsuga
+    8 Que      A Quercus
+    9 Sar.v    A Sarcobatus vermiculatus
+   10 Amb-t    B Ambrosia-type
+   11 Apiae    B Apiaceae
+   12 Arm      B Armeria
+   13 Art      B Artemisia
+   14 Astae.Au B Asteraceae subf. Asteroideae undiff.
+   15 Cryae    B Caryophyllaceae
+   16 Ch/Am.ud B Chenopodiaceae/Amaranthaceae undiff.
+   17 Cypae    B Cyperaceae
+   18 Pln      B Plantago
+   19 Poaae    B Poaceae
+   20 Ranae    B Ranunculaceae
+   21 Btr      L Botryococcus
+   22 Pdi      L Pediastrum
+   23 Pot      Q Potamogeton
+   24 ind      X Indeterminable
+   25 Lyc.n/gs - Lycopodium spike (grains/g sample)
+   26 Lyc.spik - Lycopodium spike (number counted)
+155, , 8837
+     1.0     0.0     0.0     9.0   108.0     0.0     0.0     0.0     4.0     1.0
+     0.0     0.0     0.0     3.0     0.0     2.0     0.0     0.0     5.0     0.0
+    51.0    71.0     0.0     1.0  2260.0    68.0
+185, , 10195
+     0.0     0.0    57.0     5.0   208.0     0.0     0.0     1.0    21.0     0.0
+     0.0     0.0     3.0     1.0     0.0     5.0     3.0     0.0     9.0     0.0
+    94.0    72.0     0.0     1.0  5238.0   221.0
+205, , 11101
+     1.0     0.0    33.0    17.0   312.0     0.0     0.0     0.0     6.0     1.0
+     0.0     0.0     1.0     1.0     0.0     3.0     0.0     1.0    21.0     0.0
+    16.0    44.0     0.0     0.0  5238.0   136.0
+235, , 12459
+     2.0     0.0     6.0    54.0   320.0     0.0     1.0     0.0     3.0     0.0
+     0.0     0.0    15.0     2.0     0.0    12.0     0.0     0.0    10.0     0.0
+    30.0     5.0     0.0     3.0  2773.0    44.0
+260, , 13591
+     1.0     0.0    20.0    33.0   264.0     0.0     4.0     3.0     1.0     0.0
+     0.0     0.0    32.0    11.0     0.0    22.0     0.0     0.0    16.0     1.0
+    27.0     0.0    21.0     1.0  2481.0    50.0
+270, , 14044
+     1.0     1.0    16.0    48.0   284.0     0.0     4.0     4.0     5.0     0.0
+     0.0     1.0    65.0    10.0     0.0    23.0     3.0     0.0    43.0     1.0
+    18.0     0.0     0.0     0.0  4177.0    53.0
+290, , 14949
+     2.0     0.0    13.0    93.0   273.0     0.0     5.0     1.0     0.0     0.0
+     0.0     0.0    49.0     4.0     0.0    15.0     0.0     0.0     1.0     0.0
+    11.0     0.0     0.0     0.0  4170.0    50.0
+299, , 15357
+     1.0     0.0    11.0    44.0   223.0     0.0     4.0     2.0     1.0     0.0
+     0.0     0.0   128.0    16.0     0.0    14.0     1.0     0.0    23.0     0.0
+    23.0     0.0     0.0     2.0  1952.0    27.0
+318, , 16217
+     2.0     0.0    35.0    55.0   284.0     1.0    12.0     2.0     0.0     0.0
+     2.0     0.0    62.0     0.0     0.0    21.0     9.0     0.0    10.0     0.0
+    10.0     3.0     0.0     5.0  4200.0    27.0
+322, , 16398
+     1.0     0.0    15.0    38.0   275.0     3.0     0.0     0.0     1.0     1.0
+     0.0     0.0   102.0     5.0     1.0    14.0     7.0     0.0    58.0     0.0
+    69.0    76.0     1.0     0.0  2920.0    19.0
+331, , 16806
+     0.0     0.0     8.0    50.0   308.0     0.0     6.0     1.0     3.0     3.0
+     0.0     0.0    87.0     7.0     0.0    13.0     9.0     0.0    29.0     0.0
+    58.0     1.0     0.0     1.0  2682.0    26.0
+341, , 17259
+     1.0     0.0    14.0    43.0   153.0     0.0    15.0     0.0     1.0     0.0
+     1.0     1.0    38.0     5.0     0.0    10.0     0.0     0.0     7.0     0.0
+     4.0     1.0     0.0     0.0  2700.0    25.0
+346, , 17485
+     1.0     0.0    22.0    25.0   232.0     1.0     4.0     4.0     1.0     0.0
+     0.0     0.0    31.0     9.0     0.0     7.0     0.0     0.0     8.0     1.0
+    27.0     2.0     0.0     2.0  5000.0    25.0
+353, , 17802
+     0.0     0.0     5.0    32.0   234.0     0.0     0.0     1.0     1.0     0.0
+     1.0     1.0    18.0     2.0     0.0     3.0     4.0     0.0    14.0     0.0
+   205.0   114.0     0.0     2.0  5000.0    27.0
+354, , 17847
+     2.0     0.0     5.0    23.0   217.0     1.0     0.0     1.0     1.0     2.0
+     0.0     0.0    54.0    13.0     0.0     2.0     1.0     0.0    19.0     0.0
+    49.0   263.0     0.0     0.0  3420.0    19.0
+361, , 18164
+     1.0     0.0    16.0    22.0   168.0     0.0     1.0     0.0     1.0     0.0
+     0.0     0.0    61.0     9.0     0.0     7.0     1.0     0.0    28.0     0.0
+     9.0     6.0     0.0     1.0  5000.0    27.0

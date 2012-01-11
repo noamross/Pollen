@@ -1,0 +1,163 @@
+# GPD ASCII Format
+# 25 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Lake Site South Burin Peninsula
+# Place:          CAN:Newfoundland
+# Latitude:       46.55.10N      (  46.919444)
+# Longitude:      55.36.45W      ( -55.6125  )
+# Elevation(m):   114
+# Sigle:          SBURIN
+# Entity name:
+# Contact person: Anderson, T.W.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   456.0     2   10700    110    110  GSC-3572     G    gyttja
+#   465.0         11300    120    120
+#   498.5     3   13400    140    140  GSC-3559     G    gyttja
+# Dating notes:   Anderson (1982) reports only 2 radiocarbon dates: 10700 and
+#                 13400.
+#
+# Chron name:     COHMAP chron# 1
+# Age model:      linear interpolation
+# Age bounds:     10500 - 13500
+# Chron notes:    3 C-14 dates on section from 448 to 500 cm. Influx from 20
+#                 +200 grains per sq. cm per yr. Lowest around 11-12k. Higher
+#                 at 13k and 10.5k. Age bounds for application of the model:
+#                 top = 10500; bottom = 13500.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#   456.0         10700  10810  10590   C14
+#   465.0         11300  11420  11180   C14
+#   498.5         13400  13540  13260   C14
+#
+# Publications:   Anderson, T.W. 1983. Preliminary evidence for late
+#                 Wisconsinan climatic fluctuations from pollen stratigraphy
+#                 in Burin Peninsula, Newfoundland. Pages 185-188 in Current
+#                 Research, Part B, Geological Survey of Canada Paper 83-1B.
+#
+54 9
+    1 Abi      A Abies
+    2 Aln      A Alnus
+    3 Bet      A Betula
+    4 Cas      A Castanea
+    5 Cor      A Corylus
+    6 Cupae    A Cupressaceae
+    7 Ercae    A Ericaceae
+    8 Fra.c4   A Fraxinus (tetracolpate)
+    9 Fra.c3   A Fraxinus (tricolpate)
+   10 Fra.ud   A Fraxinus undiff.
+   11 Myr      A Myrica
+   12 Os/Ca    A Ostrya/Carpinus
+   13 Pic      A Picea
+   14 Pin      A Pinus
+   15 Pop      A Populus
+   16 Que      A Quercus
+   17 Slx      A Salix
+   18 She.c    A Shepherdia canadensis
+   19 trees.ud A Trees undiff.
+   20 Tsu      A Tsuga
+   21 Ulm      A Ulmus
+   22 Amb-t    B Ambrosia-type
+   23 Apiae    B Apiaceae
+   24 Art      B Artemisia
+   25 Astae.Au B Asteraceae subf. Asteroideae undiff.
+   26 Cryae    B Caryophyllaceae
+   27 Ch/Am    B Chenopodiaceae/Amaranthaceae
+   28 Cypae    B Cyperaceae
+   29 Epi      B Epilobium
+   30 Oxy.d    B Oxyria digyna
+   31 Poaae    B Poaceae
+   32 Polae.ud B Polygonaceae undiff.
+   33 Pol      B Polygonum
+   34 Ptl-t    B Potentilla-type
+   35 Ranae.ud B Ranunculaceae undiff.
+   36 Rosae.ud B Rosaceae undiff.
+   37 Sax-t    B Saxifraga-type
+   38 Tha      B Thalictrum
+   39 Urt-t    B Urtica-type
+   40 Bot      F Botrychium
+   41 Equ      F Equisetum
+   42 Hup.l    F Huperzia lucidula
+   43 Hup.s    F Huperzia selago
+   44 Lycae.ud F Lycopodiaceae undiff.
+   45 Plpae    F Polypodiaceae
+   46 Ptrta.ud F Pteridophyta undiff.
+   47 Pdi      L Pediastrum
+   48 Bryda    M Bryopsida
+   49 Spg      M Sphagnum
+   50 Myp      Q Myriophyllum
+   51 Pot      Q Potamogeton
+   52 Ty/Sp    Q Typha/Sparganium
+   53 sp       S Spore
+   54 ind      X Indeterminable
+448, , 10166
+     0.0    26.0    37.0     0.0     2.0     7.0     6.0     1.0     2.0     0.0
+    10.0     6.0    16.0    60.0     4.0     4.0    16.0     0.0     5.0     1.0
+     1.0     1.0     2.0     4.0     2.0     0.0     0.0    34.0     0.0     0.0
+     5.0     0.0     0.0     0.0     0.0     1.0     0.0     1.0     7.0     0.0
+     0.0     0.0     2.0    43.0    23.0     6.0     1.0     0.0     6.0     0.0
+     0.0     0.0    11.0     8.0
+454, , 10566
+     0.0    23.0    46.0     0.0     0.0     6.0     6.0     1.0     0.0     0.0
+     8.0     6.0     5.0    59.0     1.0     5.0    19.0     0.0     3.0     0.0
+     2.0     0.0    13.0     3.0     3.0     0.0     1.0    37.0     0.0     0.0
+     3.0     0.0     0.0     0.0     2.0     1.0     0.0     2.0     4.0     1.0
+     2.0     0.0     1.0    29.0    13.0     3.0     0.0     0.0     3.0     0.0
+     5.0     1.0     9.0    10.0
+459.5, , 10899
+     0.0    39.0     9.0     0.0     2.0     9.0    12.0     0.0     1.0     0.0
+     0.0    10.0    13.0    56.0     4.0     4.0    18.0     0.0     1.0     0.0
+     0.0     0.0     0.0    12.0     2.0     2.0     1.0    52.0     0.0    19.0
+     5.0     0.0     0.0     0.0     0.0     1.0     2.0     2.0     5.0     0.0
+     0.0     2.0     2.0     7.0     4.0     4.0     1.0     0.0     6.0     0.0
+     0.0     0.0    29.0     5.0
+461.5, , 11033
+     0.0    26.0     7.0     0.0     2.0     5.0    42.0     1.0     0.0     0.0
+     0.0     7.0    15.0    53.0     2.0     1.0    40.0     0.0     4.0     0.0
+     1.0     1.0     0.0     8.0     0.0     1.0     4.0    82.0     0.0    14.0
+     5.0     0.0     0.0     0.0     0.0     0.0     0.0     1.0     8.0     0.0
+     0.0     0.0     0.0     4.0     6.0     8.0     1.0     0.0     4.0     0.0
+     0.0     1.0    32.0     0.0
+466, , 11361
+     1.0     5.0    26.0     0.0     1.0    10.0    50.0     0.0     0.0     2.0
+     3.0     8.0    14.0    33.0     1.0     5.0    38.0     1.0     4.0     0.0
+     1.0     3.0     0.0     6.0     3.0     0.0     1.0   111.0     0.0     0.0
+     6.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     1.0     0.0
+     0.0     0.0     2.0     4.0     2.0     2.0     1.0     1.0     7.0     0.0
+     0.0     0.0    13.0    16.0
+473, , 11794
+     0.0     4.0     8.0     0.0     1.0     8.0    32.0     1.0     0.0     0.0
+     7.0     5.0     8.0    46.0     2.0     4.0    58.0     0.0     1.0     0.0
+     0.0     1.0     1.0     4.0     2.0     0.0     1.0   110.0     1.0     1.0
+     5.0     1.0     1.0     1.0     0.0     0.0     0.0     0.0     9.0     0.0
+     0.0     0.0     3.0     7.0     3.0     0.0     1.0     0.0     5.0     0.0
+     1.0     0.0    16.0    10.0
+480, , 12226
+     0.0     3.0    18.0     0.0     0.0    14.0    24.0     0.0     0.0     0.0
+    18.0     6.0     9.0    55.0     9.0     4.0    31.0     1.0     1.0     0.0
+     1.0     0.0     0.0    10.0     3.0     1.0     0.0   107.0     0.0     0.0
+     6.0     1.0     0.0     0.0     1.0     1.0     0.0     0.0     9.0     0.0
+     0.0     0.0     1.0    15.0     4.0     1.0     1.0     0.0    10.0     0.0
+     0.0     0.0    17.0     7.0
+490, , 12844
+     0.0     4.0    17.0     0.0     1.0     9.0    32.0     0.0     0.0     0.0
+    12.0     9.0     6.0    48.0     3.0     3.0    51.0     1.0     2.0     0.0
+     2.0     1.0     1.0     7.0     3.0     0.0     0.0   121.0     0.0     2.0
+    11.0     0.0     0.0     0.0     0.0     0.0     1.0     2.0     5.0     0.0
+     0.0     0.0     0.0     9.0     5.0     0.0     2.0     0.0    14.0     0.0
+     0.0     0.0    21.0    13.0
+500, , 13500
+     0.0     5.0     6.0     2.0     0.0     0.0     1.0     3.0     2.0     0.0
+     1.0     1.0    12.0    74.0     0.0     6.0    50.0     0.0     8.0     0.0
+     3.0     4.0     0.0    17.0     4.0     0.0     1.0    32.0     2.0     0.0
+    13.0     0.0     0.0     0.0     0.0     0.0     0.0     1.0     4.0     0.0
+     0.0     0.0     0.0     0.0    14.0     3.0     3.0     0.0     2.0     1.0
+     0.0     0.0    20.0    11.0

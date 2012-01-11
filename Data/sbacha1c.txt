@@ -1,0 +1,64 @@
+# GPD ASCII Format
+# 26 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the Latin American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Sierra Bacha
+# Place:          MEX:Sonora
+# Latitude:       29.50.00N      (  29.833333)
+# Longitude:      112.29.00W     (-112.483333)
+# Elevation(m):   220
+# Sigle:          SBACHA1C
+# Entity name:    SB1C
+# Contact person: Anderson, R.S.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#                  9670    170    170  A-5096       G    Midden debris
+# Dating notes:   Midden Sample SB1A
+#
+# Chron name:     R.S. Anderson 1995
+# Age model:      sample directly dated
+# Age bounds:     9660 - 9680
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#  9670.0          9670  10010   9330   C14
+#
+# Publications:   Anderson, R.S., and T.R. Van Devender. 1995. Vegetation
+#                 history of the coastal lowlands of Sonora, Mexico - pollen
+#                 records from packrat middens. Journal of Arid Environments
+#                 30:295-306.
+#
+23 1
+    1 Bur.m    A Bursera microphylla
+    2 Cci      A Cercidium
+    3 Ece-t    A Encelia-type
+    4 Eph.ne-t A Ephedra nevadensis-type
+    5 Fou.c    A Fouquieria columnaris
+    6 Fou.s    A Fouquieria splendens
+    7 Lym      A Lycium
+    8 Pin      A Pinus
+    9 Pps      A Prosopis
+   10 Amb-t    B Ambrosia-type
+   11 Braae    B Brassicaceae
+   12 Cacae.ud B Cactaceae undiff.
+   13 Cng-t    B Carnegiea-type
+   14 Ch/Am    B Chenopodiaceae/Amaranthaceae
+   15 Erg      B Eriogonum
+   16 Eup      B Euphorbia
+   17 Lamae    B Lamiaceae
+   18 Pln.ov   B Plantago ovata
+   19 Sph      B Sphaeralcea
+   20 Ntl      F Notholaena
+   21 sp       S Spore
+   22 ind.de   X Indeterminable (degraded)
+   23 unk      X Unknown
+9670, , 9670
+     4.0     1.0    41.0     1.0     3.0     2.0     2.0     1.0     1.0   113.0
+     4.0    32.0     5.0     3.0     6.0     7.0     2.0     1.0     5.0     6.0
+     6.0    33.0     2.0

@@ -1,0 +1,119 @@
+# GPD ASCII Format
+# 24 Apr 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Lamb Lake
+# Place:          USA:Minnesota
+# Latitude:       48.09.55N      (  48.165278)
+# Longitude:      92.06.26W      ( -92.107222)
+# Elevation(m):
+# Sigle:          LAMBLAKE
+# Entity name:
+# Contact person: Wright, H.E., Jr.
+#
+# Chron name:     [no chron]
+#
+56 6
+    1 Abi      A Abies
+    2 Ace.ne   A Acer negundo
+    3 Ace.ru   A Acer rubrum
+    4 Ace.sa   A Acer saccharum
+    5 Ace.sp   A Acer spicatum
+    6 Aln.i    A Alnus incana
+    7 Aln.v    A Alnus viridis
+    8 Bet      A Betula
+    9 Car      A Carya
+   10 Cor.co   A Corylus cornuta
+   11 Cor.ud   A Corylus undiff.
+   12 Cupae    A Cupressaceae
+   13 Fra.ni-t A Fraxinus nigra-type
+   14 Fra.pe   A Fraxinus pennsylvanica
+   15 Lar      A Larix
+   16 Os/Ca    A Ostrya/Carpinus
+   17 Pic      A Picea
+   18 Pin.b/r  A Pinus banksiana/P. resinosa
+   19 Pin.st   A Pinus strobus
+   20 Pla      A Platanus
+   21 Pop.ba   A Populus balsamifera
+   22 Pop.tr   A Populus tremuloides
+   23 Que      A Quercus
+   24 Slx      A Salix
+   25 Tsu      A Tsuga
+   26 Ulm      A Ulmus
+   27 Vit      A Vitis
+   28 Amb      B Ambrosia
+   29 Art      B Artemisia
+   30 Astae.Au B Asteraceae subf. Asteroideae undiff.
+   31 Ch/Am.ud B Chenopodiaceae/Amaranthaceae undiff.
+   32 Cypae    B Cyperaceae
+   33 Hu/Ca.s  B Humulus/Cannabis sativa
+   34 Iva.a    B Iva annua
+   35 Iva.x    B Iva xanthifolia
+   36 Lap      B Laportea
+   37 Poaae    B Poaceae
+   38 Rosae    B Rosaceae
+   39 Rum      B Rumex
+   40 Sal      B Salsola
+   41 Tha      B Thalictrum
+   42 Urt-t    B Urtica-type
+   43 Drp.cm   F Dryopteris campyloptera
+   44 Drp-t.ud F Dryopteris-type undiff.
+   45 Equ      F Equisetum
+   46 Hup.s    F Huperzia selago
+   47 Lyc.a    F Lycopodium annotinum
+   48 Lyc.cl   F Lycopodium clavatum
+   49 Ono.s    F Onoclea sensibilis
+   50 Ptr-t    F Pteridium-type
+   51 Spg      M Sphagnum
+   52 Iso      Q Isoëtes
+   53 Nup      Q Nuphar
+   54 Spa-t    Q Sparganium-type
+   55 ind.cr   X Indeterminable (crumpled)
+   56 ind.hi   X Indeterminable (hidden)
+.25
+     7.0     0.0     0.0     1.0     0.0     6.0     6.0    70.0    11.0     0.0
+     0.0     4.0     1.0     0.0     1.0     0.0    44.0   230.0    50.0     0.0
+     0.0     5.0     4.0     1.0     0.0     0.0     0.0    21.0     3.0     3.0
+     6.0     2.0     1.0     0.0     0.0     0.0     4.0     0.0     1.0     0.0
+     0.0     3.0     1.0     0.0     3.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     1.0     0.0
+2
+     9.0     0.0     2.0     0.0     1.0     7.0     5.0    52.0     0.0     0.0
+     0.0     4.0     4.0     0.0     0.0     0.0    70.0   205.0    40.0     0.0
+     0.0     7.0     8.0     3.0     0.0     0.0     0.0    19.0     2.0     3.0
+     9.0     2.0     0.0     0.0     0.0     0.0     1.0     0.0     0.0     1.0
+     0.0     0.0     1.0     0.0     4.0     0.0     0.0     1.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0
+4
+     5.0     0.0     1.0     0.0     0.0     7.0     5.0    49.0     0.0     1.0
+     1.0     2.0     1.0     0.0     8.0     0.0    34.0   183.0    37.0     1.0
+     2.0    10.0     4.0     1.0     0.0     2.0     0.0    22.0     4.0     0.0
+     8.0     1.0     0.0     1.0     0.0     1.0     1.0     0.0     0.0     2.0
+     2.0     0.0     0.0     0.0     5.0     0.0     1.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0
+6
+     8.0     1.0     0.0     1.0     0.0     9.0     5.0    36.0     1.0     0.0
+     1.0     3.0     1.0     1.0     0.0     2.0    48.0   212.5    42.5     1.0
+     0.0     6.0     4.0     0.0     0.0     3.0     0.0    19.0     7.0     2.0
+     7.0     1.0     0.0     0.0     1.0     0.0     3.0     0.0     0.0     2.0
+     0.0     0.0     0.0     0.0     9.0     0.0     1.0     0.0     0.0     1.0
+     1.0     0.0     1.0     1.0     0.0     1.0
+8
+    10.0     0.0     1.0     1.0     0.0     7.0     6.0    49.0     0.0     0.0
+     0.0     6.0     3.0     0.0     7.0     0.0    46.0   155.0    78.0     0.0
+     0.0    12.0     6.0     2.0     2.0     2.0     0.0    17.0     6.0     1.0
+     4.0     3.0     0.0     0.0     0.0     0.0    12.0     0.0     0.0     0.0
+     0.0     3.0     0.0     1.0     5.0     0.0     0.0     1.0     1.0     1.0
+     1.0     1.0     0.0     0.0     0.0     0.0
+16
+     4.0     0.0     0.0     0.0     0.0    13.0    17.0    64.0     0.0     0.0
+     1.0     6.0     2.0     0.0     8.0     2.0    39.0   157.0    31.0     0.0
+     1.0     5.0     9.0     1.0     1.0     1.0     1.0    15.0     7.0     0.0
+     0.0     2.0     0.0     0.0     0.0     1.0     2.0     1.0     0.0     1.0
+     0.0     2.0     0.0     0.0     7.0     1.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0

@@ -1,0 +1,138 @@
+# GPD ASCII Format
+# 08 Mar 04
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** Pollen Database for Siberia and the Russian Far East.             **
+# ***********************************************************************
+#
+# Site name:      Gulf of Kosmodem'yanskaya-2 Exposure 5705
+# Place:          RUS:Sakhalinskaya Oblast
+# Latitude:       44.06.00N      (  44.1     )
+# Longitude:      146.03.00E     ( 146.05    )
+# Elevation(m):   6
+# Sigle:          KOSMOD2
+# Entity name:    K5705
+# Contact person: Korotky, A.M.
+# Entity notes:   trees include Quercus crispula, Acer, Phellodendron
+#                 amurense, Juglans, Betula, Aralia, Picea microsperma, Abies
+#                 mayriana, A. sachalinensis.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   245.0    10    4560     60     60  GIN-8338     L    wood
+#   265.0    10    4780    100    100  GIN-8339     L    peat
+#
+# Chron name:     GPD 1
+# Age model:      linear interpolation
+# Age bounds:     4280 - 4950
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#   245.0    10    4560   4620   4500   C14
+#   265.0    10    4780   4880   4680   C14
+#
+# Publications:   Korotky, A.M., N.G. Razzhigaeva, T.A. Grebennikova, L.A.
+#                 Ganzey, L.M. Mokhova, V.B. Bazarova, and L.D. Sulerzhitsky.
+#                 1995. Holocene marine terraces of Kunashir Island, Kuril
+#                 Islands. Quaternary Research 34:359-375.
+#
+#                 Korotky, A.M., N.G. Razzhigaeva, T.A. Grebennikova, L.M.
+#                 Mokhova, L.A. Ganzey, V.S. Pushkar, and V.B. Bazarova. 1994.
+#                 Marine terraces and coastal evolution of Kunashir Island
+#                 during the Pleistocene. Special Publication Number 3033-V94,
+#                 All Union Institute Science and Technical Information,
+#                 Vladivostok. In Russian.
+#
+#                 Korotky, A.M., N.G. Razzhigaeva, L.M. Mokhova, L.A. Ganzey,
+#                 T.A. Grebennikova, and V.B. Bazarova. 1996. Coastal dunes as
+#                 an indicator of period of global climatic deterioration
+#                 (Kunashir Island, Kuriles). Geology of the Pacific Ocean
+#                 13:73-84.
+#
+#                 Anderson, P.M., and A.V. Lozhkin, editors. 2002. Late
+#                 Quaternary Vegetation and Climate of Siberia and the Russian
+#                 Far East (Palynological and Radiocarbon Database). North
+#                 East Science Center, Far East Branch, Russian Academy of
+#                 Sciences, Magadan, Russia.
+#
+30 12
+    1 Abi      A Abies
+    2 Aln.ud   A Alnus undiff.
+    3 Aln.vi.f A Alnus viridis subsp. fruticosa
+    4 Bet.di   A Betula divaricata
+    5 Bet.na.e A Betula nana subsp. exilis
+    6 Bet.Be   A Betula sect. Betula
+    7 Bet.Cs   A Betula sect. Costatae
+    8 Bet.ud   A Betula undiff.
+    9 Cor      A Corylus
+   10 Ercae    A Ericaceae
+   11 Jug      A Juglans
+   12 Pic.Eu   A Picea sect. Eupicea
+   13 Pic.Om   A Picea sect. Omorica
+   14 Pin.St   A Pinus subg. Strobus
+   15 Que      A Quercus
+   16 Til      A Tilia
+   17 Ulm      A Ulmus
+   18 Apiae    B Apiaceae
+   19 Art      B Artemisia
+   20 Astae.ud B Asteraceae undiff.
+   21 Cypae    B Cyperaceae
+   22 Fabae    B Fabaceae
+   23 Poaae    B Poaceae
+   24 Pol      B Polygonum
+   25 Ranae    B Ranunculaceae
+   26 Dph.al   F Diphasiastrum alpinum
+   27 Lyc.cl   F Lycopodium clavatum
+   28 Osu      F Osmunda
+   29 Plpae    F Polypodiaceae
+   30 Br:Spg   M Sphagnum
+15, , 2030
+    16.0    29.0    16.0     0.0     0.0     7.0     1.0     3.0     0.0     0.0
+     3.0    78.0    28.0    65.0     1.0     0.0     6.0     6.0     1.0     3.0
+    11.0     0.0    25.0     0.0     0.0     5.0    33.0     0.0   100.0     1.0
+140, , 3405
+    17.0     4.0     5.0     0.0     0.0     2.0     0.0     4.0     0.0     1.0
+     1.0    13.0    14.0    94.0     0.0     1.0     0.0     0.0     0.0    68.0
+     0.0     0.0     3.0     0.0     2.0     6.0   100.0     0.0    76.0     1.0
+145, , 3460
+    38.0     0.0     0.0     0.0     0.0     4.0     0.0     0.0     0.0     0.0
+     0.0    51.0    40.0    87.0     0.0     1.0     2.0     0.0     0.0    11.0
+     0.0     0.0     0.0     0.0     0.0     4.0     6.0     0.0   112.0     0.0
+220, , 4285
+    31.0     9.0     0.0     0.0     0.0     6.0     8.0     0.0     0.0     0.0
+    33.0    28.0    73.0    70.0    16.0     1.0     6.0     1.0     1.0     6.0
+     0.0     0.0     1.0     0.0     0.0     0.0    28.0    54.0    88.0     0.0
+240, , 4505
+    60.0     0.0     0.0     0.0     0.0     1.0     0.0     0.0     0.0     0.0
+     1.0    22.0    76.0    97.0     8.0     0.0     0.0     0.0     0.0    12.0
+     0.0     1.0     1.0     0.0     0.0     0.0     5.0     0.0     3.0     0.0
+250, , 4615
+   107.0     0.0     0.0     0.0     0.0     3.0     1.0     1.0     0.0     0.0
+     5.0    22.0    86.0    55.0    13.0     0.0     3.0     0.0     0.0     0.0
+     8.0     0.0     0.0     0.0     0.0     0.0     8.0     9.0     6.0     0.0
+260, , 4725
+   112.0     3.0     0.0     0.0     0.0     1.0     0.0     1.0     0.0     0.0
+     4.0     7.0    80.0    52.0    25.0     0.0     1.0     1.0     0.0     1.0
+     0.0     0.0     4.0     0.0     0.0     0.0     4.0     3.0     8.0     0.0
+270, , 4835
+     1.0     0.0    29.0     2.0     6.0     1.0     1.0     5.0     0.0     0.0
+     2.0     0.0     0.0     1.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0    50.0     0.0
+280, , 4945
+     0.0     1.0    28.0     2.0     1.0     0.0     0.0     1.0     0.0     0.0
+     0.0     0.0     0.0     2.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     6.0     0.0    46.0     2.0
+335, , 5550
+     0.0    10.0    53.0    12.0     4.0     1.0     6.0    11.0     0.0     0.0
+     0.0     3.0     0.0     1.0     7.0     0.0     3.0     0.0     0.0     0.0
+     2.0     0.0     5.0     0.0     0.0     0.0     8.0     0.0    32.0     0.0
+370, , 5935
+    80.0     3.0     0.0     0.0     0.0    12.0     1.0     0.0     0.0     1.0
+    33.0    11.0    51.0    46.0    34.0     0.0    12.0     0.0     4.0     3.0
+     5.0     1.0     2.0     1.0     0.0     0.0    11.0    12.0    40.0     0.0
+380, , 6045
+    76.0     0.0     0.0     0.0     0.0     3.0     1.0     0.0     2.0     0.0
+    12.0    29.0    43.0    67.0    15.0     0.0     2.0     0.0     2.0     0.0
+    17.0     4.0     4.0     5.0     0.0     0.0     0.0    17.0    16.0     0.0

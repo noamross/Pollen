@@ -1,0 +1,238 @@
+# GPD ASCII Format
+# 23 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Brown Lake [US:Ohio]
+# Place:          USA:Ohio
+# Latitude:       40.40.50N      (  40.680556)
+# Longitude:      82.03.45W      ( -82.0625  )
+# Elevation(m):   295
+# Sigle:          BROWNSLK
+# Entity name:
+# Contact person: Shane, L.C.K.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#  1070.0    40   11820    920    920  SI-1362      G    laminated sediments
+#  1370.0    40   16680   1240   1240  SI-1361      G    clay
+#
+# Chron name:     NAPD 1
+# Age model:      3rd order polynomial
+# Age bounds:     8160 - 11640
+# Chron notes:    Chron uses 1 C14 date, top and two pollen stratigraphic
+#                 markers (coefs:-116436, 366.507, -0.358315, 0.00011804). C14
+#                 date SI-1362 considered to old and was not used.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#   600.0     0     -29    -19    -29   TOP
+#   875.0    40    9000   9500   8500   POL
+#  1050.0    40   10000  10500   9500   POL
+#  1370.0    40   16680  19160  14200   C14
+#
+# Publications:   Shane, L.C.K. 1987. Late glacial vegetational and climatic
+#                 history of the Allegheny Plateau and the Till Plains of Ohio
+#                 and Indiana, U.S.A. Boreas 16:1-20.
+#
+#                 Shane, L.C.K., and K.H. Anderson. 1993. Intensity, gradients
+#                 and reversals in late glacial environmental change in
+#                 East-Central North America. Quaternary Science Reviews
+#                 12:307-320.
+#
+#                 Sanger, J.E., and G.H. Crowl. 1979. Fossil pigments as a
+#                 guide to the paleolimnology of Brown's Lake, Ohio.
+#                 Quaternary Research 11:342-352.
+#
+67 15
+    1 Abi      A Abies
+    2 Ace.ru   A Acer rubrum
+    3 Ace.sa   A Acer saccharum
+    4 Ace.ud   A Acer undiff.
+    5 Aln      A Alnus
+    6 Bet      A Betula
+    7 Car      A Carya
+    8 Cas      A Castanea
+    9 Cel      A Celtis
+   10 Crn      A Cornus
+   11 Cor      A Corylus
+   12 Cupae    A Cupressaceae
+   13 Fag      A Fagus
+   14 Fra.c4   A Fraxinus (tetracolpate)
+   15 Fra.c3   A Fraxinus (tricolpate)
+   16 Jug.c-t  A Juglans cinerea-type
+   17 Jug.n-t  A Juglans nigra-type
+   18 Lar      A Larix
+   19 Liq      A Liquidambar
+   20 Os/Ca    A Ostrya/Carpinus
+   21 ot.tr&sh A Other trees and shrubs
+   22 Pic      A Picea
+   23 Pin.b/r  A Pinus banksiana/P. resinosa
+   24 Pin.st   A Pinus strobus
+   25 Pin.ud   A Pinus undiff.
+   26 Pla      A Platanus
+   27 Pop      A Populus
+   28 Que      A Quercus
+   29 Rha      A Rhamnus
+   30 Rhu      A Rhus
+   31 Slx      A Salix
+   32 She.c    A Shepherdia canadensis
+   33 Til      A Tilia
+   34 Tsu      A Tsuga
+   35 Ulm      A Ulmus
+   36 Amb      B Ambrosia
+   37 Apiae    B Apiaceae
+   38 Art      B Artemisia
+   39 Astae.ud B Asteraceae undiff.
+   40 Ch/Am    B Chenopodiaceae/Amaranthaceae
+   41 Cypae    B Cyperaceae
+   42 Gal      B Galium
+   43 Iva.a    B Iva annua
+   44 ot.herbs B Other herbs
+   45 Poaae    B Poaceae
+   46 Rosae    B Rosaceae
+   47 Tha      B Thalictrum
+   48 Urt      B Urtica
+   49 Bot      F Botrychium
+   50 Lycae    F Lycopodiaceae
+   51 Osu      F Osmunda
+   52 Plpae    F Polypodiaceae
+   53 Ptr      F Pteridium
+   54 Woo-t    F Woodsia-type
+   55 Pdi      L Pediastrum
+   56 Spg      M Sphagnum
+   57 Brs.s    Q Brasenia schreberi
+   58 Nup      Q Nuphar
+   59 Nym      Q Nymphaea
+   60 Pot      Q Potamogeton
+   61 Sag      Q Sagittaria
+   62 Typ.l    Q Typha latifolia
+   63 Ty/Sp.ud Q Typha/Sparganium undiff.
+   64 sp.t     S Spore (trilete)
+   65 ind      X Indeterminable
+   66 unk      X Unknown
+   67 Euc.spik - Eucalyptus spike (number counted)
+755, , 6829
+     0.0     0.0     2.0     0.0     0.0     3.0    24.0     1.0     0.0     0.0
+    10.0     1.0     1.0     3.0     7.0     3.0     0.0     0.0     0.0    11.0
+     0.0     1.0     0.0     5.0    52.0     2.0     1.0   243.0     3.0     0.0
+     2.0     0.0     1.0     2.0    21.0    12.0     0.0     0.0     2.0     1.0
+     6.0     0.0     0.0     1.0    23.0     0.0     1.0     0.0     0.0     0.0
+     0.0    11.0     0.0     0.0     1.0     0.0     1.0     1.0     0.0     0.0
+     0.0     0.0     0.0     0.0     2.0     1.0    42.0
+815, , 8165
+     1.0     1.0     3.0     0.0     0.0     2.0    25.0     0.0     1.0     1.0
+     3.0     0.0     0.0     2.0    13.0     2.0     0.0     0.0     0.0    19.0
+     0.0     1.0     1.0    14.0    15.0     6.0     1.0   227.0     0.0     0.0
+     0.0     0.0     3.0     2.0    20.0     9.0     0.0     0.0     1.0     0.0
+    10.0     1.0     0.0     0.0     8.0     0.0     0.0     0.0     0.0     0.0
+     0.0    12.0     2.0     0.0     2.0     0.0     2.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     3.0    42.0
+855, , 8768
+     0.0     0.0     4.0     3.0     0.0     0.0    23.0     0.0     0.0     0.0
+     5.0     0.0     2.0     0.0    18.0     3.0     0.0     0.0     2.0    20.0
+     0.0     0.0     1.0     7.0    12.0     2.0     0.0   190.0     0.0     0.0
+     1.0     0.0     0.0     1.0    41.0     5.0     0.0     1.0     3.0     0.0
+     9.0     0.0     0.0     0.0    10.0     1.0     0.0     0.0     0.0     0.0
+     3.0     6.0     0.0     0.0     1.0     0.0     0.0     0.0     0.0     1.0
+     2.0     0.0     1.0     0.0     2.0     0.0    35.0
+895, , 9193
+     0.0     1.0     9.0     0.0     2.0     2.0     9.0     0.0     1.0     0.0
+     2.0     0.0     0.0     0.0     8.0     0.0     1.0     1.0     0.0    57.0
+     0.0     1.0     2.0    37.0    33.0     3.0     0.0   170.0     0.0     0.0
+     1.0     0.0     2.0     4.0    38.0     0.0     0.0     1.0     1.0     0.0
+     3.0     0.0     0.0     1.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     3.0     0.0     1.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     1.0     0.0     1.0     1.0    21.0
+915, , 9353
+     0.0     3.0     2.0     1.0     5.0     0.0    10.0     0.0     0.0     0.0
+     2.0     0.0     1.0     0.0    10.0     5.0     0.0     1.0     0.0    46.0
+     0.0     3.0    45.0    84.0    45.0     2.0     0.0   102.0     0.0     0.0
+     0.0     0.0     2.0     5.0    23.0     1.0     0.0     0.0     1.0     0.0
+     2.0     0.0     0.0     0.0     3.0     0.0     0.0     0.0     0.0     0.0
+     0.0     6.0     0.0     0.0     3.0     0.0     0.0     0.0     1.0     1.0
+     0.0     0.0     0.0     0.0     0.0     0.0     9.0
+975, , 9691
+    10.0     0.0     1.0     0.0     7.0    18.0     4.0     0.0     0.0     0.0
+     3.0     1.0     0.0     1.0    21.0     0.0     0.0     6.0     0.0    19.0
+     0.0    24.0    99.0    30.0    60.0     0.0     2.0    37.0     0.0     0.0
+     1.0     0.0     0.0    12.0    42.0     0.0     0.0     2.0     0.0     1.0
+     7.0     0.0     0.0     1.0     1.0     0.0     0.0     0.0     0.0     2.0
+     0.0     0.0     3.0     0.0     3.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0   177.0
+1035, , 9936
+    10.0     0.0     1.0     0.0     6.0     9.0     1.0     0.0     0.0     0.0
+     2.0     0.0     0.0     0.0    11.0     0.0     0.0     6.0     0.0    29.0
+     0.0    47.0    84.0     3.0    57.0     0.0     0.0    56.0     0.0     1.0
+     6.0     0.0     1.0     8.0    13.0     1.0     0.0     5.0     3.0     0.0
+    14.0     1.0     1.0     1.0     8.0     0.0     1.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     8.0     0.0     0.0     0.0     0.0     2.0
+     0.0     0.0     0.0     0.0     0.0     0.0   247.0
+1055, , 10023
+    36.0     0.0     1.0     0.0     1.0     1.0     1.0     0.0     2.0     0.0
+     9.0     0.0     0.0     4.0    27.0     1.0     1.0     1.0     0.0    73.0
+     0.0    50.0    18.0     1.0     4.0     0.0     1.0    52.0     0.0     0.0
+     4.0     0.0     0.0     1.0    14.0     2.0     0.0     0.0     3.0     0.0
+    15.0     0.0     0.0     0.0    32.0     0.0     2.0     0.0     0.0     0.0
+     0.0     2.0     1.0     0.0     8.0     1.0     0.0     0.0     0.0     6.0
+     0.0     1.0     4.0     1.0     2.0     0.0   175.0
+1095, , 10239
+    27.0     0.0     2.0     0.0     4.0     1.0     6.0     1.0     0.0     0.0
+     7.0     0.0     0.0     4.0    41.0     2.0     0.0     1.0     0.0    47.0
+     0.0    80.0     2.0     0.0     3.0     1.0     1.0    66.0     1.0     0.0
+     1.0     0.0     0.0     1.0    12.0     4.0     0.0     1.0     5.0     0.0
+    13.0     0.0     0.0     0.0    17.0     0.0     1.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0    17.0     0.0     0.0     0.0     0.0     5.0
+     0.0     0.0     1.0     0.0     1.0     0.0   228.0
+1135, , 10550
+     4.0     0.0     1.0     0.0     3.0     3.0     3.0     0.0     1.0     0.0
+     2.0     0.0     0.0     1.0    31.0     1.0     0.0     0.0     0.0    55.0
+     0.0   150.0     4.0     0.0     1.0     0.0     0.0    44.0     1.0     1.0
+     1.0     0.0     0.0     0.0     4.0     4.0     0.0     7.0     4.0     1.0
+    16.0     1.0     0.0     1.0    14.0     0.0     0.0     0.0     0.0     0.0
+     0.0     2.0     0.0     0.0    18.0     0.0     0.0     0.0     0.0    11.0
+     1.0     5.0     2.0     1.0     0.0     1.0   212.0
+1155, , 10754
+     0.0     0.0     1.0     0.0    12.0     8.0     2.0     0.0     1.0     0.0
+     1.0     0.0     0.0     1.0    28.0     1.0     0.0     3.0     0.0    26.0
+     0.0   163.0     9.0     0.0     3.0     1.0     0.0    39.0     1.0     0.0
+     1.0     0.0     0.0     0.0     5.0     2.0     0.0     2.0     5.0     0.0
+    26.0     1.0     0.0     2.0    27.0     0.0     1.0     0.0     1.0     0.0
+     0.0     0.0     0.0     0.0    13.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     2.0     0.0     0.0     0.0   377.0
+1195, , 11291
+     0.0     0.0     1.0     0.0    11.0     5.0     1.0     0.0     0.0     0.0
+     0.0     1.0     0.0     1.0    13.0     0.0     0.0     1.0     0.0    12.0
+     1.0   200.0     8.0     0.0     4.0     0.0     1.0    31.0     1.0     1.0
+     3.0     0.0     0.0     0.0     0.0     1.0     0.0     4.0     2.0     0.0
+    16.0     1.0     1.0     2.0    22.0     1.0     0.0     0.0     0.0     0.0
+     0.0     1.0     1.0     0.0    36.0     0.0     0.0     0.0     0.0     4.0
+     0.0     0.0     3.0     0.0     3.0     0.0   100.0
+1215, , 11635
+     0.0     0.0     0.0     0.0    10.0     2.0     2.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     3.0     0.0     0.0     3.0     0.0     6.0
+     0.0   142.0     0.0     0.0     3.0     0.0     0.0    12.0     0.0     0.0
+     2.0     1.0     0.0     0.0     1.0     1.0     0.0     5.0     3.0     0.0
+    23.0     0.0     0.0     0.0    17.0     0.0     1.0     1.0     0.0     0.0
+     0.0     0.0     1.0     0.0    11.0     0.0     0.0     0.0     0.0     0.0
+     1.0     0.0     1.0     1.0     3.0     0.0   137.0
+1335, , 15102
+     1.0     0.0     1.0     0.0     7.0     5.0     2.0     0.0     0.0     0.0
+     0.0     3.0     0.0     0.0     1.0     0.0     0.0     4.0     0.0     6.0
+     0.0   185.0    20.0     0.0     0.0     0.0     0.0    13.0     0.0     0.0
+     1.0     0.0     0.0     0.0     1.0     2.0     1.0     6.0     4.0     0.0
+    22.0     0.0     0.0     1.0    20.0     1.0     2.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     1.0
+     0.0     0.0     0.0     2.0     5.0     1.0  1860.0
+1375, , 16930
+     0.0     0.0     0.0     0.0     4.0     0.0     0.0     1.0     0.0     0.0
+     0.0     0.0     0.0     0.0     9.0     0.0     0.0     2.0     0.0     1.0
+     0.0   259.0    10.0     0.0     6.0     0.0     0.0    15.0     0.0     0.0
+     1.0     0.0     0.0     0.0     3.0     0.0     0.0    10.0     2.0     1.0
+    17.0     0.0     0.0     0.0    12.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     3.0     1.0     0.0     0.0     0.0     1.0
+     0.0     0.0     1.0     3.0     4.0     3.0  1276.0

@@ -1,0 +1,185 @@
+# GPD ASCII Format
+# 16 Feb 05
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** North American Pollen Database.                                   **
+# ***********************************************************************
+#
+# Site name:      Lake PWWL
+# Place:          CAN:Nunavut
+# Latitude:       73.35.29N      (  73.591389)
+# Longitude:      98.32.20W      ( -98.538889)
+# Elevation(m):   110
+# Sigle:          LAKEPWWL
+# Entity name:
+# Contact person: Gajewski, K.J.
+# Entity notes:   counted by two analysts, K. Gajewski and M. Frappier
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#      .5     1    -560     60     60  TO-7938      A    Scoripidium scorpioide
+#    13.5     3    1560     90     90  TO-7939      A    Drepanocladus/Callierg
+#    41.5     1    2600     80     80  TO-7940      A    Drepanocladus
+#    74.0     2    4140     80     80  TO-7941      A    Drepanocladus/Callierg
+#    91.5     1    6480    140    140  TO-7942      A    Drepanocladus/Callierg
+# Dating notes:   contaminated by bomb carbon, rejected
+#
+# Chron name:     NAPD1-C14
+# Age model:      linear interpolation
+# Age bounds:     10 - 6630
+# Chron notes:    Chron based on top, 4 AMS dates on bryophytes, and estimated
+#                 basal age of emergence from the sea. Bryophyte dates may be
+#                 too old. See Gajewski & Frappier (2001) for discussion.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0     0     -45      0    -45   TOP
+#    13.5     3    1560   1650   1470   C14
+#    41.5     1    2600   2680   2520   C14
+#    74.0     2    4140   4220   4060   C14
+#    91.5     1    6480   6620   6340   C14
+#   160.0     0    9000  10000   8000   OTH
+#
+# Publications:   Gajewski, K., and M. Frappier. 2001. Postglacial
+#                 environmental history from Prince of Wales Island, Nunavut,
+#                 Canada. Boreas 30:285-289.
+#
+59 11
+    1 Abi      A Abies
+    2 Aln.i    A Alnus incana
+    3 Aln.vi.c A Alnus viridis subsp. crispa
+    4 Bet      A Betula
+    5 Csp      A Cassiope
+    6 Cor      A Corylus
+    7 Cupae    A Cupressaceae
+    8 Ercae.ud A Ericaceae undiff.
+    9 Myr      A Myrica
+   10 Ost      A Ostrya
+   11 Pic.1/2  A Picea (1/2 grains)
+   12 Pic.whol A Picea (whole grains)
+   13 Pin.1/2  A Pinus (1/2 grains)
+   14 Pin.Pi   A Pinus subg. Pinus
+   15 Pin.St   A Pinus subg. Strobus
+   16 Pin.ud   A Pinus undiff.
+   17 Pop      A Populus
+   18 Slx.he   A Salix herbacea
+   19 Slx.ud   A Salix undiff.
+   20 Amb      B Ambrosia
+   21 Art      B Artemisia
+   22 Astae.Au B Asteraceae subf. Asteroideae undiff.
+   23 Astae.Ci B Asteraceae subf. Cichorioideae
+   24 Braae    B Brassicaceae
+   25 Cryae    B Caryophyllaceae
+   26 Cheae    B Chenopodiaceae
+   27 Cypae    B Cyperaceae
+   28 Dry      B Dryas
+   29 Fabae.ud B Fabaceae undiff.
+   30 Lilae    B Liliaceae
+   31 Oxy.di   B Oxyria digyna
+   32 Oxt      B Oxytropis
+   33 Pap      B Papaver
+   34 Ped      B Pedicularis
+   35 Pln      B Plantago
+   36 Poaae    B Poaceae
+   37 Pol.vi   B Polygonum viviparum
+   38 Ptl      B Potentilla
+   39 Ranae.ud B Ranunculaceae undiff.
+   40 Rosae.ud B Rosaceae undiff.
+   41 Sax.hi   B Saxifraga hieracifolia
+   42 Sax.op   B Saxifraga oppositifolia
+   43 Saxae.ud B Saxifragaceae undiff.
+   44 Tha      B Thalictrum
+   45 Dph.co   F Diphasiastrum complanatum
+   46 Hup.se   F Huperzia selago
+   47 Lyc      F Lycopodium
+   48 Plpae    F Polypodiaceae
+   49 Pdi      L Pediastrum
+   50 Br:Spg   M Sphagnum
+   51 Iso      Q Isoëtes
+   52 Pot      Q Potamogeton
+   53 Spa      Q Sparganium
+   54 ind      X Indeterminable
+   55 unk      X Unknown
+   56 Lyc.spk  - Lycopodium spike (number counted)
+   57 Lyc.ta.n - Lycopodium tablets (added, number)
+   58 sa.vo.ml - Sample volume (ml)
+   59 spkCn/t  - Spike tablets (concentration, grains/tablet)
+.5, , 14
+     0.0     0.0     8.0    16.0     0.0     1.0     0.0     1.0     0.0     0.0
+     0.0    10.0     2.0     3.0     1.0     2.0     0.0     0.0    16.0     2.0
+     4.0     0.0     0.0     6.0     4.0     1.0    48.0     4.0     0.0     0.0
+    15.0     0.0     6.0     4.0     0.0    23.0     1.0     0.0     6.0     4.0
+     2.0     4.0     4.0     0.0     0.0     0.0     0.0   104.0     1.0    22.0
+     1.0     0.0     0.0    13.0     8.0  5791.0     2.0     4.0 13500.0
+2, , 193
+     0.0     0.0    12.0    22.0     0.0     0.0     0.0     5.0     0.0     0.0
+     2.0     9.0     5.0     3.0     0.0    15.0     0.0     0.0    20.0     1.0
+     3.0     0.0     0.0     5.0     2.0     0.0    82.0     1.0     1.0     0.0
+    18.0     0.0     0.0     0.0     0.0    31.0     0.0     0.0     0.0     3.0
+     0.0     4.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0    25.0
+     0.0     0.0     0.0    21.0     9.0  3443.0     2.0     4.0 13500.0
+6.5, , 728
+     0.0     3.0    26.0    15.0     0.0     0.0     0.0     1.0     0.0     0.0
+     6.0    19.0     2.0     8.0     1.0    25.0     0.0     0.0    38.0     1.0
+     5.0     1.0     1.0     1.0     1.0     2.0    85.0     2.0     0.0     0.0
+     7.0     0.0     2.0     0.0     0.0    17.0     0.0     0.0     2.0     5.0
+     0.0     1.0     0.0     0.0     0.0     0.0     0.0    49.0     1.0    20.0
+     0.0     0.0     0.0    31.0    12.0  2488.0     2.0     4.0 13500.0
+21.5, , 1857
+     0.0     2.0    14.0    24.0     0.0     1.0     0.0     0.0     0.0     1.0
+     1.0    16.0     3.0     2.0     1.0    18.0     0.0     0.0    17.0     1.0
+     7.0     0.0     0.0     9.0     0.0     0.0    34.0     8.0     0.0     0.0
+    14.0    14.0     2.0     1.0     0.0    11.0     0.0     0.0     1.0     0.0
+     0.0     3.0     1.0     2.0     0.0     0.0     0.0     4.0    32.0    23.0
+     0.0     0.0     0.0    26.0     2.0  2861.0     2.0     4.0 13500.0
+39, , 2507
+     1.0     2.0    35.0    16.0     0.0     0.0     0.0     6.0     1.0     0.0
+     2.0    10.0     5.0    12.0     1.0    25.0     2.0     0.0    25.0     2.0
+     5.0     0.0     0.0     6.0     3.0     0.0    69.0     5.0     0.0     1.0
+     3.0     0.0     0.0     9.0     1.0    17.0     0.0     1.0     5.0     2.0
+     1.0     5.0     3.0     0.0     1.0     1.0     1.0    20.0   345.0    35.0
+     0.0     1.0     3.0    21.0     3.0  3876.0     2.0     4.0 13500.0
+50.5, , 3026
+     0.0     5.0    19.0    20.0     1.0     1.0     1.0     2.0     0.0     0.0
+     1.0     6.0    12.0    10.0     2.0    21.0     0.0     0.0    30.0     0.0
+     6.0     0.0     0.0     2.0     3.0     0.0    40.0     2.0     0.0     0.0
+     6.0     0.0     1.0     0.0     0.0    10.0     0.0     0.0     2.0     3.0
+     0.0     0.0    10.0     0.0     0.0     0.0     0.0     6.0    33.0    36.0
+     0.0     0.0     0.0    14.0     9.0  3274.0     2.0     4.0 13500.0
+60, , 3477
+     0.0     1.0    23.0    20.0     0.0     0.0     0.0     0.0     0.0     1.0
+     1.0    20.0     9.0     5.0     4.0    19.0     0.0     0.0    27.0     1.0
+     3.0     0.0     0.0     9.0     2.0     1.0    82.0     3.0     0.0     0.0
+     9.0     0.0     1.0     0.0     0.0     6.0     0.0     0.0     2.0     3.0
+     0.0     0.0     5.0     0.0     0.0     0.0     0.0     7.0    71.0    10.0
+     0.0     0.0     0.0    18.0    11.0  2395.0     2.0     4.0 13500.0
+80.5, , 5009
+     0.0     0.0    44.0    26.0     0.0     0.0     0.0     0.0     0.0     0.0
+     4.0    20.0     9.0     7.0     2.0     8.0     0.0     0.0    23.0     0.0
+     3.0     1.0     0.0     0.0     0.0     0.0    87.0     5.0     0.0     0.0
+    17.0     0.0     2.0     0.0     0.0     8.0     0.0     0.0     0.0     4.0
+     0.0     2.0     4.0     0.0     0.0     0.0     0.0     0.0    24.0    17.0
+     0.0     0.0     1.0    24.0     4.0  1467.0     2.0     4.0 13500.0
+95.5, , 6627
+     0.0     0.0    22.0    39.0     0.0     0.0     0.0     1.0     0.0     0.0
+     6.0     6.0     0.0     0.0     1.0     6.0     0.0     1.0    31.0     3.0
+     6.0     3.0     0.0     2.0     0.0     1.0    88.0    13.0     0.0     0.0
+    20.0     0.0     2.0     0.0     1.0    14.0     0.0     0.0     0.0     2.0
+     0.0     3.0     3.0     1.0     0.0     0.0     1.0     2.0    18.0    21.0
+     0.0     0.0     0.0    22.0    15.0  1598.0     2.0     4.0 13500.0
+124.5, , 7694
+     0.0     1.0     9.0    34.0     0.0     0.0     0.0     1.0     0.0     0.0
+    13.0    12.0    23.0     2.0     0.0     6.0     0.0     0.0     8.0     0.0
+     1.0     1.0     0.0     0.0     0.0     0.0    20.0     0.0     0.0     0.0
+     0.0     3.0     1.0     0.0     3.0    10.0     0.0     0.0     0.0     0.0
+     0.0     0.0     2.0     0.0     0.0     0.0     0.0     1.0     1.0     2.0
+     0.0     0.0     0.0    36.0     1.0  4674.0     2.0     4.0 13500.0
+158.5, , 8945
+     0.0     0.0    17.0    73.0     0.0     0.0     0.0     0.0     0.0     0.0
+    10.0    14.0    14.0     2.0     0.0    10.0     0.0     0.0     5.0     1.0
+     1.0     0.0     0.0     0.0     0.0     0.0    19.0     0.0     0.0     0.0
+     7.0     0.0     4.0     0.0     0.0    13.0     0.0     0.0     0.0     0.0
+     0.0     0.0     2.0     0.0     0.0     0.0     1.0     1.0     4.0     0.0
+     0.0     0.0     0.0    35.0     0.0  3618.0     2.0     4.0 13500.0

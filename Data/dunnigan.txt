@@ -1,0 +1,247 @@
+# GPD ASCII Format
+# 24 Apr 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Dunnigan Lake
+# Place:          USA:Minnesota
+# Latitude:       47.42.30N      (  47.708333)
+# Longitude:      91.38.30W      ( -91.641667)
+# Elevation(m):   506
+# Sigle:          DUNNIGAN
+# Entity name:
+# Contact person: Shane, L.C.K.
+#
+# Chron name:     NAPD 1
+# Age model:      linear interpolation
+# Age bounds:     -40 - 240
+# Chron notes:    Chron uses 14 Pb210 dates for top half of core, extrapolated
+#                 from 23cm to 50cm.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#      .2     0     -33    -33    -33   PB2
+#     1.3     0     -30    -30    -30   PB2
+#     2.8     0     -25    -25    -25   PB2
+#     4.3     0     -20    -20    -20   PB2
+#     5.3     0     -15    -15    -15   PB2
+#     6.3     0     -11    -11    -11   PB2
+#     8.3     0       0      0      0   PB2
+#     9.3     0       7      7      7   PB2
+#    11.3     0      21     21     21   PB2
+#    12.8     0      28     28     28   PB2
+#    14.8     0      39     39     39   PB2
+#    17.3     0      53     53     53   PB2
+#    19.8     0      68     68     68   PB2
+#    22.8     0      85     85     85   PB2
+#
+# Publications:   Shane, L.C.K. 1987. Paleoecological investigation of recent
+#                 lake acidification. PIRLA unpublished Report Series, Report
+#                 Number 9.
+#
+#                 Kingston, J.C., R.B. Cook, R.G. Kreis, Jr., K.E. Camburn,
+#                 S.A. Norton, P.R. Sweets, M.W. Binford, M.J. Mitchell, S.C.
+#                 Schindler, L.C.K. Shane, and G.A. King. 1990.
+#                 Paleoecological investigation of recent lake acidification
+#                 in the northern Great Lakes states. Journal of
+#                 Paleolimnology 4:153-201.
+#
+#                 Charles, D.F., and D.R. Whitehead. 1984. Paleoecological
+#                 Investigation of Recent Lake Acidification (PIRLA): December
+#                 1984 Status Report RP 2174-10. Electric Power Research
+#                 Institute, Palo Alto, California, USA.
+#
+#                 Charles, D.F., and D.R. Whitehead, (editors). 1986.
+#                 Paleoecological Investigation of Recent Acidification,
+#                 Methods and Project Description. EPRI-EA4906 Electric Power
+#                 Research Institute, Palo Alto, California, USA.
+#
+56 16
+    1 Abi      A Abies
+    2 Ace.ru   A Acer rubrum
+    3 Ace.sa   A Acer saccharum
+    4 Aln      A Alnus
+    5 Bet      A Betula
+    6 Car      A Carya
+    7 Cor      A Corylus
+    8 Cupae    A Cupressaceae
+    9 Ercae    A Ericaceae
+   10 Fra.ni-t A Fraxinus nigra-type
+   11 Fr.p/a-t A Fraxinus pennsylvanica/F. americana-type
+   12 Jug.c    A Juglans cinerea
+   13 Jug.n    A Juglans nigra
+   14 Lar      A Larix
+   15 Mor      A Morus
+   16 Os/Ca    A Ostrya/Carpinus
+   17 Pic      A Picea
+   18 Pin.Pi   A Pinus subg. Pinus
+   19 Pin.St   A Pinus subg. Strobus
+   20 Pin.ud   A Pinus undiff.
+   21 Pla      A Platanus
+   22 Pop      A Populus
+   23 Que      A Quercus
+   24 Rha      A Rhamnus
+   25 Rhu      A Rhus
+   26 Slx      A Salix
+   27 Til      A Tilia
+   28 Tsu      A Tsuga
+   29 Ulm      A Ulmus
+   30 Amb      B Ambrosia
+   31 Art      B Artemisia
+   32 Astae.Au B Asteraceae subf. Asteroideae undiff.
+   33 Cryae    B Caryophyllaceae
+   34 Ch/Am    B Chenopodiaceae/Amaranthaceae
+   35 Cypae    B Cyperaceae
+   36 Iriae    B Iridaceae
+   37 Poaae    B Poaceae
+   38 Rosae    B Rosaceae
+   39 Urt      B Urtica
+   40 Chl      F Cheilanthes
+   41 Drp      F Dryopteris
+   42 Lycae.ud F Lycopodiaceae undiff.
+   43 Lyc.cl   F Lycopodium clavatum
+   44 Ptr      F Pteridium
+   45 Pdi      L Pediastrum
+   46 Spg      M Sphagnum
+   47 Iso      Q Isoëtes
+   48 Myp      Q Myriophyllum
+   49 Nym      Q Nymphaea
+   50 Ty/Sp    Q Typha/Sparganium
+   51 ind      X Indeterminable
+   52 unk      X Unknown
+   53 Euc.spik - Eucalyptus spike (number counted)
+   54 EucCn/ml - Eucalyptus suspension (concentration, grains/ml)
+   55 Euc.s.ml - Eucalyptus suspension (volume added, ml)
+   56 sa.vo.ml - Sample volume (ml)
+.25, , -33
+       1.0       0.0       0.0      10.0      49.0       0.0       1.0       0.0
+       0.0       0.0       0.0       0.0       0.0       0.0       0.0       2.0
+      12.0      13.0       5.0     103.0       0.0       1.0       6.0       0.0
+       1.0       0.0       0.0       0.0       1.0      12.0       5.0       3.0
+       0.0       0.0       4.0       0.0       4.0       0.0       1.0       1.0
+       0.0       0.0       0.0       0.0       0.0       1.0      21.0       0.0
+       1.0       0.0       2.0       0.0     308.0  117180.0       2.0       1.0
+1.25, , -30
+       2.0       1.0       1.0       9.0      38.0       0.0       0.0       3.0
+       0.0       1.0       1.0       0.0       0.0       1.0       0.0       1.0
+      16.0      11.0       2.0      94.0       0.0       2.0       6.0       0.0
+       0.0       1.0       0.0       1.0       2.0      10.0       1.0       0.0
+       0.0       3.0       2.0       1.0       3.0       0.0       3.0       0.0
+       0.0       0.0       0.0       0.0       0.0       2.0      18.0       0.0
+       0.0       0.0       2.0       1.0     264.0  117180.0       2.0       1.0
+2.75, , -25
+       3.0       0.0       0.0      14.0      36.0       1.0       0.0       2.0
+       0.0       1.0       1.0       0.0       1.0       1.0       0.0       1.0
+      18.0       7.0       3.0     106.0       0.0       1.0       3.0       0.0
+       0.0       2.0       0.0       0.0       0.0       9.0       3.0       0.0
+       0.0       3.0       1.0       0.0       3.0       0.0       0.0       0.0
+       0.0       0.0       1.0       0.0       2.0       2.0      18.0       0.0
+       0.0       1.0       0.0       0.0     336.0  117180.0       2.0       1.0
+4.25, , -20
+       2.0       2.0       0.0       7.0      31.0       0.0       0.0       1.0
+       0.0       0.0       0.0       0.0       0.0       0.0       0.0       1.0
+      14.0      10.0       8.0     101.0       0.0       5.0       8.0       1.0
+       0.0       0.0       0.0       0.0       0.0       5.0       3.0       2.0
+       0.0       1.0       0.0       0.0       5.0       1.0       0.0       0.0
+       0.0       0.0       1.0       0.0       0.0       1.0       9.0       0.0
+       0.0       0.0       3.0       1.0     328.0  117180.0       2.0       1.0
+5.25, , -15
+       2.0       0.0       1.0      15.0      35.0       1.0       1.0       2.0
+       0.0       1.0       0.0       0.0       0.0       2.0       0.0       0.0
+       9.0       7.0       4.0      96.0       0.0       2.0       9.0       0.0
+       0.0       0.0       0.0       0.0       0.0       9.0       2.0       3.0
+       0.0       2.0       0.0       0.0       2.0       0.0       0.0       0.0
+       0.0       0.0       0.0       0.0       1.0       2.0      14.0       0.0
+       0.0       0.0       2.0       1.0     242.0  117180.0       2.0       1.0
+6.25, , -11
+       1.0       0.0       0.0      11.0      54.0       1.0       0.0       1.0
+       0.0       2.0       0.0       0.0       0.0       1.0       0.0       3.0
+      17.0      11.0       2.0      99.0       0.0       2.0       2.0       0.0
+       0.0       2.0       0.0       1.0       1.0      10.0       7.0       2.0
+       0.0       2.0       2.0       0.0       5.0       0.0       0.0       0.0
+       0.0       1.0       0.0       0.0       0.0       2.0      19.0       1.0
+       0.0       0.0       2.0       0.0     279.0  117180.0       2.0       1.0
+8.25, , 0
+       2.0       0.0       1.0      10.0      64.0       0.0       1.0       0.0
+       0.0       0.0       0.0       1.0       0.0       2.0       0.0       2.0
+      21.0      17.0       6.0     134.0       1.0       0.0       9.0       0.0
+       0.0       1.0       1.0       0.0       1.0      12.0       5.0       4.0
+       0.0       2.0       0.0       0.0       2.0       0.0       0.0       0.0
+       1.0       0.0       0.0       2.0       0.0       0.0      17.0       2.0
+       0.0       2.0       2.0       0.0     275.0  117180.0       2.0       1.0
+9.25, , 7
+       6.0       0.0       0.0      11.0      30.0       1.0       0.0       2.0
+       0.0       0.0       0.0       0.0       0.0       1.0       2.0       0.0
+      19.0      19.0       6.0     106.0       0.0       1.0       2.0       0.0
+       0.0       0.0       0.0       0.0       1.0      13.0       5.0       3.0
+       0.0       1.0       1.0       0.0       0.0       0.0       0.0       0.0
+       0.0       0.0       0.0       0.0       0.0       4.0      13.0       3.0
+       0.0       0.0       2.0       0.0     195.0  117180.0       2.0       1.0
+11.25, , 21
+       1.0       0.0       0.0      12.0      23.0       0.0       1.0       1.0
+       1.0       0.0       0.0       0.0       0.0       1.0       0.0       1.0
+      17.0      16.0       6.0     106.0       0.0       0.0       4.0       1.0
+       0.0       0.0       0.0       1.0       0.0       0.0       0.0       0.0
+       1.0       2.0       1.0       0.0       3.0       0.0       0.0       0.0
+       0.0       0.0       0.0       0.0       1.0       1.0      21.0       1.0
+       0.0       0.0       0.0       0.0     263.0  117180.0       2.0       1.0
+12.75, , 28
+       2.0       0.0       1.0      10.0      32.0       0.0       0.0       2.0
+       0.0       0.0       0.0       0.0       0.0       1.0       0.0       2.0
+       8.0      12.0      17.0     106.0       0.0       1.0       4.0       1.0
+       0.0       2.0       0.0       1.0       0.0       4.0       3.0       2.0
+       1.0       1.0       2.0       0.0       3.0       0.0       0.0       0.0
+       0.0       0.0       0.0       0.0       0.0       1.0      23.0       0.0
+       0.0       1.0       1.0       0.0     309.0  117180.0       2.0       1.0
+14.75, , 39
+       5.0       0.0       0.0       7.0      39.0       0.0       0.0       0.0
+       0.0       0.0       0.0       0.0       0.0       0.0       0.0       0.0
+      15.0      16.0      10.0     105.0       0.0       0.0       5.0       0.0
+       0.0       0.0       0.0       0.0       0.0       8.0       4.0       0.0
+       0.0       0.0       0.0       0.0       1.0       0.0       1.0       0.0
+       0.0       1.0       0.0       1.0       0.0       1.0      18.0       1.0
+       0.0       2.0       5.0       0.0     184.0  117180.0       2.0       1.0
+17.25, , 53
+       1.0       0.0       0.0       9.0      53.0       0.0       1.0       1.0
+       1.0       0.0       0.0       0.0       0.0       0.0       0.0       1.0
+      17.0       5.0      10.0     103.0       0.0       0.0       7.0       0.0
+       0.0       0.0       0.0       2.0       0.0       3.0       3.0       1.0
+       0.0       0.0       0.0       0.0       2.0       0.0       0.0       0.0
+       1.0       0.0       1.0       0.0       0.0       0.0      20.0       0.0
+       0.0       0.0       0.0       0.0     213.0  117180.0       2.0       1.0
+19.75, , 68
+       3.0       0.0       0.0       6.0      60.0       0.0       0.0       0.0
+       0.0       1.0       0.0       0.0       0.0       0.0       1.0       1.0
+      21.0       9.0      10.0     120.0       0.0       0.0       5.0       0.0
+       0.0       0.0       0.0       2.0       0.0       2.0       0.0       2.0
+       0.0       1.0       1.0       0.0       3.0       0.0       0.0       0.0
+       0.0       0.0       0.0       0.0       0.0       2.0      46.0       1.0
+       0.0       0.0       3.0       0.0     363.0  117180.0       2.0       1.0
+22.75, , 85
+       2.0       0.0       0.0      10.0      28.0       0.0       1.0       0.0
+       0.0       0.0       0.0       0.0       0.0       1.0       0.0       0.0
+      13.0      11.0       8.0     115.0       0.0       0.0       3.0       0.0
+       0.0       1.0       0.0       1.0       1.0       3.0       3.0       1.0
+       0.0       0.0       0.0       0.0       0.0       0.0       0.0       0.0
+       0.0       0.0       0.0       0.0       1.0       1.0      20.0       0.0
+       0.0       0.0       0.0       0.0     220.0  117180.0       2.0       1.0
+28.75, , 119
+       4.0       0.0       0.0      10.0      36.0       0.0       0.0       1.0
+       1.0       1.0       0.0       0.0       0.0       1.0       0.0       0.0
+      17.0      13.0       6.0     108.0       0.0       1.0       5.0       0.0
+       0.0       0.0       0.0       0.0       1.0       3.0       1.0       0.0
+       0.0       1.0       0.0       0.0       0.0       0.0       0.0       0.0
+       0.0       0.0       0.0       0.0       1.0       1.0      17.0       0.0
+       0.0       0.0       1.0       0.0     199.0  117180.0       2.0       1.0
+49.5, , 237
+       2.0       0.0       0.0       6.0      42.0       0.0       0.0       1.0
+       0.0       2.0       0.0       0.0       0.0       4.0       0.0       0.0
+      23.0      12.0      13.0     115.0       1.0       2.0       5.0       0.0
+       0.0       0.0       0.0       2.0       1.0       0.0       0.0       2.0
+       0.0       1.0       0.0       0.0       0.0       0.0       0.0       0.0
+       0.0       0.0       0.0       0.0       1.0       2.0      10.0       0.0
+       0.0       0.0       1.0       1.0     146.0  117180.0       2.0       1.0

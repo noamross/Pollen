@@ -1,0 +1,127 @@
+# GPD ASCII Format
+# 24 Apr 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the Latin American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Nevado Sabancaya
+# Place:          PER:
+# Latitude:       16.13.00S      ( -16.216667)
+# Longitude:      71.05.00W      ( -71.083333)
+# Elevation(m):   4300
+# Sigle:          NEVADASA
+# Entity name:
+# Contact person: Graf, K.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   112.0     5    8520     80     80               U    peat
+#   165.0     5    9250     90     90               U    peat
+#   300.0     5    9580    120    120               U    sand
+#
+# Chron name:     LAPD 1
+# Age model:      linear interpolation
+# Age bounds:     8360 - 9550
+# Chron notes:    Chron uses 3 radiocarbon dates plus top. Ages above top C14
+#                 date not reliable.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0     0       0     30    -30   TOP
+#   112.0     5    8520   8600   8440   C14
+#   165.0     5    9250   9340   9160   C14
+#   300.0     5    9580   9700   9460   C14
+#
+29 15
+    1 Eph      A Ephedra
+    2 Myr      A Myrica
+    3 Pod      A Podocarpus
+    4 Amaae    B Amaranthaceae
+    5 Astae.Au B Asteraceae subf. Asteroideae undiff.
+    6 Astae.Ci B Asteraceae subf. Cichorioideae
+    7 Astae.Mu B Asteraceae tribe Mutisieae
+    8 Azr      B Azorella
+    9 Cryae    B Caryophyllaceae
+   10 Cheae    B Chenopodiaceae
+   11 Cypae    B Cyperaceae
+   12 Gen-t    B Gentiana-type
+   13 Gerae    B Geraniaceae
+   14 Malae    B Malvaceae
+   15 Pln      B Plantago
+   16 Poaae    B Poaceae
+   17 Po/Ac    B Polylepis/Acaena
+   18 Solae    B Solanaceae
+   19 Lycae.ud F Lycopodiaceae undiff.
+   20 Lyc.cl   F Lycopodium clavatum
+   21 Plp      F Polypodium
+   22 Pts      F Pteris
+   23 Iso      Q Isoëtes
+   24 sp.m.ud  S Spore (monolete undiff.)
+   25 sp.t.ps  S Spore (trilete psilate)
+   26 sp.t.ud  S Spore (trilete undiff.)
+   27 Fu:      U Fungus
+   28 ot       X Other
+   29 ase.cm2  - Area slide examined (cm²)
+15, , 1141
+     0.0     0.0     0.0     1.0    12.0     0.0     0.0     0.0    15.0     8.0
+     0.0     0.0     0.0     0.0     0.0    64.0     0.0     1.0     0.0     0.0
+     1.0     0.0     0.0     0.0     0.0     0.0    49.0     1.0     5.8
+40, , 3043
+     0.0     0.0     0.0     0.0    56.0     1.0     0.0     0.0    49.0    10.0
+     4.0     0.0     0.0     1.0     0.0   101.0     1.0     1.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0    15.0     0.0     1.0
+60, , 4564
+     0.0     0.0     0.0     0.0     5.0     0.0     0.0     4.0     0.0     4.0
+     0.0     0.0     0.0     0.0     0.0    12.0     0.0     0.0     0.0     0.0
+     1.0     1.0     0.0     0.0     0.0     0.0     3.0     2.0    15.5
+70, , 5325
+     0.0     0.0     0.0     0.0     4.0     0.0     0.0     0.0    49.0    11.0
+     0.0     0.0     0.0     3.0     0.0    55.0     0.0     0.0     0.0     0.0
+     1.0     0.0     0.0     0.0     0.0     0.0     3.0     1.0     1.0
+90, , 6846
+     0.0     0.0     1.0     0.0     9.0     0.0     0.0     1.0     1.0     0.0
+     0.0     0.0     0.0     0.0     0.0    32.0     0.0     2.0     0.0     0.0
+     0.0     0.0     1.0     0.0     0.0     0.0    99.0     0.0     7.7
+110, , 8368
+     0.0     0.0     0.0     0.0    21.0     0.0     0.0     0.0     3.0     0.0
+    13.0     0.0     0.0     0.0     0.0     2.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0    13.0     0.0    11.5
+150, , 9043
+     0.0     0.0     1.0     0.0    17.0     0.0     0.0     0.0     0.0     1.0
+     2.0     1.0     0.0     0.0     0.0    86.0     0.0     0.0     1.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0    14.0     1.0     9.3
+165, , 9250
+     0.0     0.0     0.0     0.0     7.0     0.0     0.0     0.0     0.0     0.0
+     1.0     0.0     0.0     0.0     0.0     6.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     8.0     3.0    19.0
+185, , 9299
+     0.0     0.0     0.0     0.0    26.0     0.0     0.0     0.0     1.0     0.0
+     6.0     1.0     0.0     0.0     0.0     5.0     0.0     0.0     2.0     0.0
+     0.0     0.0     1.0     3.0     0.0     0.0   190.0     0.0    15.5
+200, , 9336
+     0.0     0.0     0.0     0.0    19.0     0.0     0.0     0.0     1.0     1.0
+     4.0     0.0     0.0     0.0     0.0    34.0     0.0     0.0     0.0     0.0
+     1.0     0.0     1.0     0.0     0.0     0.0    19.0     2.0    15.5
+220, , 9384
+     0.0     0.0     0.0     0.0     7.0     0.0     0.0     0.0     1.0     2.0
+     0.0     0.0     1.0     0.0     0.0    35.0     1.0     1.0     0.0     0.0
+     0.0     0.0     0.0     0.0     1.0     0.0     0.0     4.0     7.7
+240, , 9433
+     1.0     0.0     1.0     0.0    19.0     0.0     1.0     3.0     1.0    14.0
+     3.0     1.0     1.0     0.0     0.0    32.0     3.0     1.0     0.0     1.0
+     0.0     0.0     2.0     0.0     0.0     0.0    20.0     5.0    13.2
+260, , 9482
+     0.0     1.0     1.0     0.0    28.0     0.0     0.0     4.0     4.0     6.0
+     3.0     0.0     0.0     4.0     1.0    10.0     3.0     2.0     0.0     1.0
+     1.0     0.0     3.0     0.0     0.0     1.0   300.0     2.0    15.5
+270, , 9507
+     0.0     1.0     0.0     0.0     7.0     0.0     0.0     1.0     0.0     0.0
+     2.0     0.0     0.0     0.0     0.0    98.0     0.0     3.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0    37.0     0.0     3.9
+285, , 9543
+     0.0     0.0     0.0     0.0   111.0     0.0     0.0     0.0     2.0     0.0
+     3.0     0.0     0.0     0.0     0.0    11.0     0.0     0.0     1.0     0.0
+     0.0     0.0     0.0     1.0     0.0     1.0     0.0     0.0     1.9

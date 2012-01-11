@@ -1,0 +1,78 @@
+# GPD ASCII Format
+# 12 Mar 04
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** Pollen Database for Siberia and the Russian Far East.             **
+# ***********************************************************************
+#
+# Site name:      Lakeevskaya Zaimka
+# Place:          RUS:Sakha
+# Latitude:       68.37.00N      (  68.616667)
+# Longitude:      159.15.00E     ( 159.25    )
+# Elevation(m):   40
+# Sigle:          LAKEEV
+# Entity name:
+# Contact person: Lozhkin, A.V.
+# Entity notes:   site is from the 12-m-high terrace of the lower Kolyma
+#                 River, Kolyma lowlands.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   300.0    10    8510     55     55  MAG-164      L    bulk peat
+#
+# Chron name:     PALE 1
+# Age model:      single sample - single date
+# Age bounds:     8140 - 8160
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#   300.0    10    8510   8565   8455   C14
+#
+# Publications:   Kaplina, T.N., and A.V. Lozhkin. 1982. The history of
+#                 vegetation of the Primorskikh lowland of Yakutia in the
+#                 Holocene. Pages 207-220 in A.A. Velichko, I.I. Spasskaya,
+#                 and N.A. Khotinskiy, editors. Evolution of the environment
+#                 of the territory of the USSR during the late Pleistocene and
+#                 Holocene. Nauka, Moscow. In Russian.
+#
+#                 Sher, A.V., T.N. Kaplina, R.E. Giterman, A.V. Lozhkin, A.A.
+#                 Arkhangelov, S.V. Kiselyov, Yu.V. Kouznetsov, E.I. Virina,
+#                 and V.S. Zazhigin. 1979. Scientific excursions on problem
+#                 "late Cenozoic of the Kolyma lowland," Tour 11, the guide.
+#                 XIV Pacific Science Congress, USSR Academy of Sciences,
+#                 Moscow. In Russian.
+#
+#                 Anderson, P.M., and A.V. Lozhkin, editors. 2002. Late
+#                 Quaternary Vegetation and Climate of Siberia and the Russian
+#                 Far East (Palynological and Radiocarbon Database). North
+#                 East Science Center, Far East Branch, Russian Academy of
+#                 Sciences, Magadan, Russia.
+#
+21 1
+    1 Aln      A Alnus
+    2 Bet      A Betula
+    3 Ercae    A Ericaceae
+    4 Slx      A Salix
+    5 Apiae    B Apiaceae
+    6 Art      B Artemisia
+    7 Cryae    B Caryophyllaceae
+    8 Cheae    B Chenopodiaceae
+    9 Cypae    B Cyperaceae
+   10 Fabae    B Fabaceae
+   11 Ongae    B Onagraceae
+   12 Poaae    B Poaceae
+   13 Ranae    B Ranunculaceae
+   14 Rosae    B Rosaceae
+   15 Urt      B Urtica
+   16 Crp      F Cryptogramma
+   17 Lyc.an.a F Lycopodium annotinum subsp. alpestre
+   18 Polta.ud F Polypodiophyta undiff.
+   19 Br:Bryes M Bryales
+   20 Br:Spg   M Sphagnum
+   21 unk      X Unknown
+300, , 8150
+    15.0   137.0     1.0     9.0    82.0     4.0     1.0     1.0    31.0     1.0
+     2.0    21.0     4.0     3.0     4.0     1.0     2.0     1.0    35.0     1.0
+     1.0

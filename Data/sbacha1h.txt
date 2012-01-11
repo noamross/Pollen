@@ -1,0 +1,74 @@
+# GPD ASCII Format
+# 26 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the Latin American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Sierra Bacha
+# Place:          MEX:Sonora
+# Latitude:       29.50.00N      (  29.833333)
+# Longitude:      112.29.00W     (-112.483333)
+# Elevation(m):   220
+# Sigle:          SBACHA1H
+# Entity name:    SB1H
+# Contact person: Anderson, R.S.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#                  3830    100    100  A-5442       G    Neotoma pellets
+# Dating notes:   Midden Sample SB1H
+#
+# Chron name:     R.S. Anderson 1995
+# Age model:      sample directly dated
+# Age bounds:     3820 - 3840
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#  3830.0          3830   4030   3630   C14
+#
+# Publications:   Anderson, R.S., and T.R. Van Devender. 1995. Vegetation
+#                 history of the coastal lowlands of Sonora, Mexico - pollen
+#                 records from packrat middens. Journal of Arid Environments
+#                 30:295-306.
+#
+32 1
+    1 Bur.m    A Bursera microphylla
+    2 Cci      A Cercidium
+    3 Ece-t    A Encelia-type
+    4 Eph.ne-t A Ephedra nevadensis-type
+    5 Eph.vi-t A Ephedra viridis-type
+    6 Hpt      A Hyptis
+    7 Jat      A Jatropha
+    8 Lrr      A Larrea
+    9 Lym      A Lycium
+   10 Oln.t    A Olneya tesota
+   11 Pin      A Pinus
+   12 Sim.c    A Simmondsia chinensis
+   13 Alo      B Allionia
+   14 Amb-t    B Ambrosia-type
+   15 Art      B Artemisia
+   16 Ast.As.c B Asteraceae subf. Asteroideae (coarse-spine)
+   17 Brh      B Boerhavia
+   18 Borae    B Boraginaceae
+   19 Cacae.ud B Cactaceae undiff.
+   20 Cng-t    B Carnegiea-type
+   21 Ch/Am    B Chenopodiaceae/Amaranthaceae
+   22 Eup      B Euphorbia
+   23 Hydae    B Hydrophyllaceae
+   24 Lamae.ud B Lamiaceae undiff.
+   25 Lup      B Lupinus
+   26 Opu      B Opuntia
+   27 Phs      B Physalis
+   28 Poaae    B Poaceae
+   29 Sol      B Solanum
+   30 Sph      B Sphaeralcea
+   31 ind.de   X Indeterminable (degraded)
+   32 unk      X Unknown
+3830, , 3830
+    13.0    79.0    50.0     2.0     2.0    18.0     4.0     5.0     4.0     5.0
+     1.0     4.0     2.0    22.0     3.0     9.0     3.0     1.0     8.0     9.0
+     3.0    31.0     1.0     3.0     2.0     1.0     2.0     2.0    12.0    13.0
+    32.0     6.0

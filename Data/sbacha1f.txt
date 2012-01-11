@@ -1,0 +1,74 @@
+# GPD ASCII Format
+# 26 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the Latin American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Sierra Bacha
+# Place:          MEX:Sonora
+# Latitude:       29.50.00N      (  29.833333)
+# Longitude:      112.29.00W     (-112.483333)
+# Elevation(m):   220
+# Sigle:          SBACHA1F
+# Entity name:    SB1F
+# Contact person: Anderson, R.S.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#                  2765     70     70  A-5443       G    Neotoma pellets
+# Dating notes:   Midden Sample SB1F
+#
+# Chron name:     R.S. Anderson 1995
+# Age model:      sample directly dated
+# Age bounds:     2760 - 2770
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#  2765.0          2765   2905   2595   C14
+#
+# Publications:   Anderson, R.S., and T.R. Van Devender. 1995. Vegetation
+#                 history of the coastal lowlands of Sonora, Mexico - pollen
+#                 records from packrat middens. Journal of Arid Environments
+#                 30:295-306.
+#
+32 1
+    1 Bur.m    A Bursera microphylla
+    2 Cci      A Cercidium
+    3 Ece-t    A Encelia-type
+    4 Eph.ne-t A Ephedra nevadensis-type
+    5 Eph.vi-t A Ephedra viridis-type
+    6 Fou.s    A Fouquieria splendens
+    7 Hpt      A Hyptis
+    8 Jat      A Jatropha
+    9 Lym      A Lycium
+   10 Oln.t    A Olneya tesota
+   11 Pin      A Pinus
+   12 Pps      A Prosopis
+   13 Que      A Quercus
+   14 Sim.c    A Simmondsia chinensis
+   15 Amb-t    B Ambrosia-type
+   16 Ast.As.c B Asteraceae subf. Asteroideae (coarse-spine)
+   17 Brh      B Boerhavia
+   18 Cacae.ud B Cactaceae undiff.
+   19 Cng-t    B Carnegiea-type
+   20 Ch/Am    B Chenopodiaceae/Amaranthaceae
+   21 Dat      B Datura
+   22 Eup      B Euphorbia
+   23 Fabae.ud B Fabaceae undiff.
+   24 Mcm-t    B Macromeria-type
+   25 Phs      B Physalis
+   26 Pln.ov   B Plantago ovata
+   27 Sol      B Solanum
+   28 Sph      B Sphaeralcea
+   29 Ntl      F Notholaena
+   30 sp       S Spore
+   31 ind.de   X Indeterminable (degraded)
+   32 unk      X Unknown
+2765, , 2765
+    21.0    73.0    47.0     3.0     1.0     8.0     4.0     3.0     3.0     1.0
+     1.0     1.0     2.0     9.0    23.0    15.0     3.0     4.0     7.0     2.0
+     5.0     8.0     5.0     1.0     1.0     4.0     8.0     7.0     1.0     1.0
+    28.0    11.0

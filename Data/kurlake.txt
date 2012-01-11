@@ -1,0 +1,68 @@
+# GPD ASCII Format
+# 08 Mar 04
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** Pollen Database for Siberia and the Russian Far East.             **
+# ***********************************************************************
+#
+# Site name:      Bol'shaya Kuropatoch'ya River [KURLAKE]
+# Place:          RUS:Sakha
+# Latitude:       70.30.00N      (  70.5     )
+# Longitude:      157.00.00E     ( 157.0     )
+# Elevation(m):   40
+# Sigle:          KURLAKE
+# Entity name:
+# Contact person: Lozhkin, A.V.
+# Entity notes:   the site is a ca. 33 m high exposure that includes tusk of
+#                 Mammuthus primigenius and 2 m high Alnus shrub in growth
+#                 position.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   299.5     3    8620    200    200  MAG-243      L    Alnus wood
+#
+# Chron name:     PALE 1
+# Age model:      single sample - single date
+# Age bounds:     8610 - 8630
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#   299.5     3    8620   8820   8420   C14
+#
+# Publications:   Anderson, P.M., and A.V. Lozhkin, editors. 2002. Late
+#                 Quaternary Vegetation and Climate of Siberia and the Russian
+#                 Far East (Palynological and Radiocarbon Database). North
+#                 East Science Center, Far East Branch, Russian Academy of
+#                 Sciences, Magadan, Russia.
+#
+24 1
+    1 Aln      A Alnus
+    2 Bet      A Betula
+    3 Ercae    A Ericaceae
+    4 Pin.St   A Pinus subg. Strobus
+    5 Rbs.ch   A Rubus chamaemorus
+    6 Slx      A Salix
+    7 Art      B Artemisia
+    8 Astae.ud B Asteraceae undiff.
+    9 Braae    B Brassicaceae
+   10 Cryae    B Caryophyllaceae
+   11 Fabae    B Fabaceae
+   12 Ongae    B Onagraceae
+   13 Poaae    B Poaceae
+   14 Pomae    B Polemoniaceae
+   15 Polae    B Polygonaceae
+   16 Ranae    B Ranunculaceae
+   17 Rosae.ud B Rosaceae undiff.
+   18 San      B Sanguisorba
+   19 Val      B Valeriana
+   20 Lyc.an.a F Lycopodium annotinum subsp. alpestre
+   21 Br:Bryes M Bryales
+   22 Br:Hepae M Hepaticae
+   23 Br:Spg   M Sphagnum
+   24 unk      X Unknown
+300, , 8620
+   116.0    12.0    10.0     2.0     1.0    18.0    35.0     7.0     8.0    12.0
+     2.0     8.0    30.0     3.0     3.0    11.0     2.0     1.0     5.0     1.0
+    11.0     2.0     3.0     6.0

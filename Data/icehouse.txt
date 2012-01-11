@@ -1,0 +1,90 @@
+# GPD ASCII Format
+# 24 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Icehouse Bottom (40MR23)
+# Place:          USA:Tennessee
+# Latitude:       35.35.18N      (  35.588333)
+# Longitude:      84.11.30W      ( -84.191667)
+# Elevation(m):   239
+# Sigle:          ICEHOUSE
+# Entity name:    Square 55 L 285
+# Contact person: Delcourt, H.R.
+# Entity notes:   The Icehouse Bottom site is now innundated by Tellico
+#                 Reservoir.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   695.0     5    9380    215    215  GX-4128      G    partly decayed, uncarb
+#
+# Chron name:     NAPD 1
+# Age model:      individual date
+# Age bounds:     9370 - 9390
+# Chron notes:    Radiocarbon date from same level as sample.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#   695.0     5    9380   9810   8950   C14
+#
+# Publications:   Cridlebaugh, P.A. 1984. American Indian and Euro-American
+#                 impact upon Holocene vegetation in the Lower Little
+#                 Tennessee River Valley, East Tennessee. Dissertation.
+#                 University of Tennessee, Knoxville, Tennessee, USA.
+#
+#                 Delcourt, P.A., H.R. Delcourt, P.A. Cridlebaugh, and J.
+#                 Chapman. 1986. Holocene ethnobotanical and paleoecological
+#                 record of human impact on vegetation in the Little Tennessee
+#                 River Valley, Tennessee. Quaternary Research 25:330-349.
+#
+#                 Chapman, J. 1977. Archaic Period research in the Lower
+#                 Little Tennessee River Valley. University of Tennessee,
+#                 Department of Anthropology, Report of Investigations 18.
+#
+37 1
+    1 Ace.ru   A Acer rubrum
+    2 Aln.i-t  A Alnus incana-type
+    3 Bet      A Betula
+    4 Car      A Carya
+    5 Cas      A Castanea
+    6 Ercae    A Ericaceae
+    7 Fag      A Fagus
+    8 Fr.p/a-t A Fraxinus pennsylvanica/F. americana-type
+    9 Fr.q/n-t A Fraxinus quadrangulata/F. nigra-type
+   10 Fra.ud   A Fraxinus undiff.
+   11 Jug.c    A Juglans cinerea
+   12 Os/Ca    A Ostrya/Carpinus
+   13 Pin.Pi   A Pinus subg. Pinus
+   14 Pin.ud   A Pinus undiff.
+   15 Pla      A Platanus
+   16 Pop      A Populus
+   17 Que      A Quercus
+   18 Slx      A Salix
+   19 Til      A Tilia
+   20 Tsu      A Tsuga
+   21 Ulm      A Ulmus
+   22 Vit      A Vitis
+   23 Amb-t    B Ambrosia-type
+   24 Astae.Au B Asteraceae subf. Asteroideae undiff.
+   25 Bid-t    B Bidens-type
+   26 Cypae    B Cyperaceae
+   27 Poaae    B Poaceae
+   28 Tha      B Thalictrum
+   29 Chl.a    F Cheilanthes alabamensis
+   30 Drp-t    F Dryopteris-type
+   31 Lycae    F Lycopodiaceae
+   32 Ptr.a    F Pteridium aquilinum
+   33 Sel      F Selaginella
+   34 Pot.Po   Q Potamogeton subg. Potamogeton
+   35 ind.co   X Indeterminable (corroded)
+   36 ind.crbr X Indeterminable (crumpled or broken)
+   37 ind.de   X Indeterminable (degraded)
+695, , 9380
+     1.0    11.0    25.0     3.0   124.0     2.0     2.0     1.0     8.0    13.0
+     2.0     6.0     3.0     6.0     2.0     3.0    65.0     1.0     6.0    24.0
+     1.0     2.0     1.0     3.0     2.0     1.0     3.0     1.0     1.0     6.0
+     1.0     1.0     1.0     3.0     1.0     3.0     3.0

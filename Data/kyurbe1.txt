@@ -1,0 +1,98 @@
+# GPD ASCII Format
+# 12 Mar 04
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** Pollen Database for Siberia and the Russian Far East.             **
+# ***********************************************************************
+#
+# Site name:      Kyurbe-Yurakh-1 Exposure
+# Place:          RUS:Sakha
+# Latitude:       68.36.10N      (  68.602778)
+# Longitude:      138.37.00E     ( 138.616667)
+# Elevation(m):   570
+# Sigle:          KYURBE1
+# Entity name:
+# Contact person: Grinenko, O.V.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   525.0    10    8840    100    100  MAG-1316     L    wood fragment
+#
+# Chron name:     PALE 1
+# Age model:      single dated level
+# Age bounds:     8830 - 8850
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#   525.0    10    8840   8940   8740   C14
+#
+# Publications:   Anderson, P.M., and A.V. Lozhkin, editors. 2002. Late
+#                 Quaternary Vegetation and Climate of Siberia and the Russian
+#                 Far East (Palynological and Radiocarbon Database). North
+#                 East Science Center, Far East Branch, Russian Academy of
+#                 Sciences, Magadan, Russia.
+#
+29 8
+    1 Aln.ud   A Alnus undiff.
+    2 Aln.vi.f A Alnus viridis subsp. fruticosa
+    3 Bet.d.sh A Betula det. Betula (shrub)
+    4 Bet.d.tr A Betula det. Betula (tree)
+    5 Erles    A Ericales
+    6 Lar      A Larix
+    7 Pin      A Pinus
+    8 Slx      A Salix
+    9 Apiae    B Apiaceae
+   10 Art      B Artemisia
+   11 Astae.Ci B Asteraceae subf. Cichorioideae
+   12 Astae.ud B Asteraceae undiff.
+   13 Braae    B Brassicaceae
+   14 Camae    B Campanulaceae
+   15 Cryae    B Caryophyllaceae
+   16 Cheae    B Chenopodiaceae
+   17 Cly      B Claytonia
+   18 Cypae    B Cyperaceae
+   19 herbs.ud B Herbs undiff.
+   20 Ongae    B Onagraceae
+   21 Oxy.di   B Oxyria digyna
+   22 Poaae    B Poaceae
+   23 Polae.ud B Polygonaceae undiff.
+   24 Ranae.ud B Ranunculaceae undiff.
+   25 Rosae    B Rosaceae
+   26 Rum      B Rumex
+   27 Sau      B Saussurea
+   28 Tha      B Thalictrum
+   29 Valae    B Valerianaceae
+70
+     0.0     9.0     6.1     2.0     2.9      .9      .9     4.0      .9    36.4
+     2.9     0.0     2.9     0.0     8.0      .9     0.0    94.5      .9     0.0
+     0.0    68.2     2.0     2.0     2.0     0.0      .9     0.0      .9
+110
+     0.0    33.9     3.9     8.9     3.0     0.0     0.0     6.9     1.0    59.2
+     0.0     0.0     2.0     0.0     4.0     0.0     0.0   128.6     0.0     0.0
+     0.0    31.9     2.0     0.0     1.0     0.0     0.0     2.0     1.0
+163
+     0.0     1.9     3.0     1.1     1.1     0.0     4.1     6.0     3.0    26.8
+     3.0     4.1     0.0     0.0    20.2     0.0     1.1    90.6     1.1     0.0
+     0.0    89.3     2.2     1.1     4.1     1.1     3.0     1.9     0.0
+230
+     0.0   231.9    40.1    23.3    19.1     2.7     1.9     4.2     0.0     3.4
+     0.0     1.1     0.0     0.0     0.0     0.0     1.1     0.0     0.0     1.1
+     1.1    31.7     3.8     0.0     0.0     1.1     0.0     0.0     1.1
+290
+     0.0   173.4    69.7    35.2    24.4     3.9     1.2     1.9     1.2     1.9
+     0.0     0.0     0.0     0.0     2.4     0.0     0.0    10.8     0.0     1.9
+     0.0    45.7     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+460
+     0.0   219.9    59.6     9.9    11.1     6.0     0.0     2.0     0.0      .8
+     0.0      .8     0.0      .8     1.6     0.0     0.0     0.0     0.0     2.0
+     0.0    63.9     1.6     0.0     0.0     0.0     0.0     0.0      .8
+530, , 8840
+     0.0   185.3    68.1    25.0    30.9     1.1     0.0     7.8     0.0     3.7
+     0.0     0.0     0.0     0.0     2.2     0.0     0.0     4.8     0.0     0.0
+     0.0    23.1     3.0     3.0     1.9     0.0     0.0     1.1     0.0
+820
+     2.5   201.4    39.5    83.5    15.2     2.9     0.0     2.1     0.0     4.9
+      .8      .8     0.0     0.0     0.0     0.0      .8     7.0     0.0     2.1
+     0.0    25.1     2.1      .8     0.0     0.0     0.0     0.0     2.1

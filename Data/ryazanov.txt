@@ -1,0 +1,143 @@
+# GPD ASCII Format
+# 19 Mar 04
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** Pollen Database for Siberia and the Russian Far East.             **
+# ***********************************************************************
+#
+# Site name:      Ryazanovka Exposure
+# Place:          RUS:Primorskiy Kray
+# Latitude:       42.50.00N      (  42.833333)
+# Longitude:      131.22.00E     ( 131.366667)
+# Elevation(m):   6
+# Sigle:          RYAZANOV
+# Entity name:    P585
+# Contact person: Korotky, A.M.
+# Entity notes:   trees include Quercus mongolica, Q. dentata, Carpinus
+#                 cordata, Abies holophylla, Pinus koraiensis, Pinus funebris,
+#                 Betula, Tilia, Acer, Juglans manshurica, Fraxinus, Corylus,
+#                 Alnus, Phellodendron amurense
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#    65.0    10    1310     20     20  SOAN-285     L    peat with wood
+#   215.0    10    2595     20     20  SOAN-286     L    peat with wood
+#   480.0    40    5200    100    100  MGU-242      L    mollusc shells
+#
+# Chron name:     PALE 1
+# Age model:      linear interpolation
+# Age bounds:     790 - 5300
+# Chron notes:    Upper part of section appears continuous.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#    65.0    10    1310   1330   1290   C14
+#   215.0    10    2595   2615   2575   C14
+#   480.0    40    5200   5300   5100   C14
+#
+# Publications:   Shilo, N.A., editor. 1987. Resolution: Interagency
+#                 Stratigraphic meeting of Quaternary system of eastern USSR.
+#                 North East Interdisciplinary Research Institute, Far East
+#                 Branch, USSR Academy of Sciences, Magadan. In Russian.
+#
+#                 Korotky, A.M., L.P. Karaulova, and T.S. Troitskaya. 1980.
+#                 The Quaternary deposits of Primor'ye. Nauka, Novosibirsk. In
+#                 Russian.
+#
+#                 Anderson, P.M., and A.V. Lozhkin, editors. 2002. Late
+#                 Quaternary Vegetation and Climate of Siberia and the Russian
+#                 Far East (Palynological and Radiocarbon Database). North
+#                 East Science Center, Far East Branch, Russian Academy of
+#                 Sciences, Magadan, Russia.
+#
+38 10
+    1 Abi      A Abies
+    2 Ace      A Acer
+    3 Aln      A Alnus
+    4 Bet.co   A Betula costata
+    5 Bet.da   A Betula dahurica
+    6 Bet.er   A Betula ermanii
+    7 Bet.pl   A Betula platyphylla
+    8 Bet.ud   A Betula undiff.
+    9 Cpn      A Carpinus
+   10 Cor      A Corylus
+   11 Eph      A Ephedra
+   12 Erles    A Ericales
+   13 Jug      A Juglans
+   14 Pdn      A Phellodendron
+   15 Pic.Eu   A Picea sect. Eupicea
+   16 Pic.Om   A Picea sect. Omorica
+   17 Pin.ko   A Pinus koraiensis
+   18 Pin.Pi   A Pinus subg. Pinus
+   19 PinSt.ud A Pinus subg. Strobus undiff.
+   20 Que      A Quercus
+   21 Syr      A Syringa
+   22 Til      A Tilia
+   23 Ulm      A Ulmus
+   24 Art      B Artemisia
+   25 Astae.ud B Asteraceae undiff.
+   26 Braae    B Brassicaceae
+   27 Cryae    B Caryophyllaceae
+   28 Cheae    B Chenopodiaceae
+   29 Cypae    B Cyperaceae
+   30 Fabae    B Fabaceae
+   31 Poaae    B Poaceae
+   32 Polae    B Polygonaceae
+   33 Saxae    B Saxifragaceae
+   34 Cgr      F Coniogramme
+   35 Osu      F Osmunda
+   36 Plpae    F Polypodiaceae
+   37 Br:Bryes M Bryales
+   38 Br:Spg   M Sphagnum
+5, , 796
+     7.0     0.0     4.0     0.0     0.0     0.0    17.0     0.0     0.0     0.0
+     0.0     0.0     2.0     0.0     1.0     1.0    28.0     0.0     0.0    42.0
+     0.0     0.0     2.0    11.0     1.0     0.0     0.0     0.0    33.0     0.0
+     2.0     1.0     0.0     1.0     1.0    12.0     0.0     0.0
+10, , 839
+     0.0     0.0    21.0     1.0    12.0    12.0    61.0     6.0     0.0     6.0
+     0.0     0.0     5.0     0.0     0.0     0.0    41.0     1.0     0.0   115.0
+     0.0     0.0    10.0    97.0     5.0     1.0     0.0     1.0   171.0    10.0
+     8.0     0.0     0.0     0.0     3.0    34.0     4.0     3.0
+60, , 1267
+     0.0     1.0    76.0     0.0     2.0     0.0    27.0     0.0     2.0     2.0
+     0.0     0.0     4.0     0.0     4.0     1.0    51.0     1.0     0.0   111.0
+     0.0     0.0     4.0    33.0     0.0     0.0     1.0     0.0    91.0     0.0
+    10.0     1.0     0.0     0.0     4.0    40.0     1.0     0.0
+100, , 1610
+     0.0     2.0   150.0     0.0     0.0     1.0    13.0     6.0     0.0     0.0
+     0.0     0.0     5.0     0.0     1.0     0.0    24.0     0.0     0.0    59.0
+     0.0     2.0     1.0    60.0     0.0     0.0     0.0     1.0    34.0     0.0
+     4.0     1.0     0.0     0.0     0.0   205.0     0.0     0.0
+130, , 1867
+     3.0     0.0   107.0     0.0     0.0     0.0    19.0     3.0     0.0     1.0
+     0.0     0.0     3.0     0.0     5.0     1.0    57.0     0.0     0.0    87.0
+     1.0     1.0     1.0    44.0     0.0     0.0     0.0     0.0    94.0     0.0
+     0.0     0.0     0.0     0.0    25.0    62.0     1.0     2.0
+200, , 2466
+     0.0     0.0    61.0     0.0     0.0     1.0    26.0     0.0     1.0     2.0
+     1.0     0.0    16.0     3.0     0.0     1.0    38.0     0.0     2.0   157.0
+     0.0     0.0    16.0    22.0     0.0     0.0     0.0     0.0    31.0     1.0
+     2.0     0.0     0.0     0.0    16.0    53.0     0.0     0.0
+230, , 2742
+     0.0     0.0    29.0     0.0     0.0     0.0     5.0     0.0     4.0     2.0
+     0.0     0.0     7.0     1.0     0.0     0.0    16.0     0.0     1.0   228.0
+     0.0     5.0    12.0     9.0     2.0     0.0     0.0     0.0     6.0     3.0
+     0.0     0.0     0.0     0.0     0.0    16.0     0.0     0.0
+270, , 3136
+     0.0     0.0    14.0     0.0     3.0     1.0    15.0    16.0     0.0     1.0
+     0.0     0.0    10.0     1.0     0.0     4.0    67.0     0.0     0.0   137.0
+     1.0    20.0     4.0    22.0     0.0     0.0     0.0     0.0    22.0     1.0
+     0.0     1.0     1.0     0.0     3.0   317.0     1.0     1.0
+300, , 3431
+     1.0     0.0   112.0     0.0     1.0     0.0     9.0    11.0     0.0     1.0
+     0.0     0.0     1.0     5.0     3.0     2.0    36.0     0.0     0.0    77.0
+     0.0    17.0     4.0    10.0     3.0     0.0     2.0     0.0     2.0     1.0
+     0.0     2.0     0.0     0.0     3.0   230.0     2.0     0.0
+490, , 5298
+     2.0     0.0     0.0     2.0     4.0     0.0    10.0     0.0     8.0     2.0
+     0.0     4.0    48.0     6.0     4.0     0.0    12.0     0.0     6.0    40.0
+     4.0    10.0     8.0    15.0     0.0     0.0     0.0     0.0    40.0     0.0
+    12.0     2.0     0.0     0.0    10.0    14.0     0.0    10.0

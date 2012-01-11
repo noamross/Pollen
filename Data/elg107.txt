@@ -1,0 +1,99 @@
+# GPD ASCII Format
+# 04 Mar 04
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** Pollen Database for Siberia and the Russian Far East.             **
+# ***********************************************************************
+#
+# Site name:      Elgygytgyn Stream Section
+# Place:          RUS:Chukotskiy Avtonomnyy Okrug
+# Latitude:       67.25.00N      (  67.416667)
+# Longitude:      172.05.00E     ( 172.083333)
+# Elevation(m):   490
+# Sigle:          ELG107
+# Entity name:
+# Contact person: Lozhkin, A.V.
+# Entity notes:   Unnamed stream located 4 km to southwest of Enmyvaam River;
+#                 2-2.5 m terrace
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#    37.5     5    4850    400    400  MAG1334      L    plant detritus
+#    67.5     5    5080     35     35  MAG1435      L    peat
+#
+# Chron name:     GPD 1
+# Age model:      linear interpolation
+# Age bounds:     4560 - 5220
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#    37.5     5    4850   5250   4450   C14
+#    67.5     5    5080   5115   5045   C14
+#
+# Publications:   Glushkova, O.Yu., A.V. Lozhkin, and T.B. Solomatkina. 1996.
+#                 Stratigraphy and paleogeography of the Elgygytgyn Lake in
+#                 the Holocene (northwestern Chukotka). Geology of the Pacific
+#                 Ocean 12:617-628. In Russian.
+#
+39 4
+    1 Aln      A Alnus
+    2 Bet      A Betula
+    3 Erles    A Ericales
+    4 Pin.St   A Pinus subg. Strobus
+    5 Rbs.ar   A Rubus arcticus
+    6 Rbs.ch   A Rubus chamaemorus
+    7 Slx      A Salix
+    8 Apiae    B Apiaceae
+    9 Art      B Artemisia
+   10 Astae.Ci B Asteraceae subf. Cichorioideae
+   11 Astae.ud B Asteraceae undiff.
+   12 Cryae    B Caryophyllaceae
+   13 Cheae    B Chenopodiaceae
+   14 Cly      B Claytonia
+   15 Cypae    B Cyperaceae
+   16 Lilae    B Liliaceae
+   17 Ongae    B Onagraceae
+   18 Poaae    B Poaceae
+   19 Pomae    B Polemoniaceae
+   20 Pol.av   B Polygonum aviculare
+   21 Pol.Ac   B Polygonum sect. Aconogonon
+   22 Pol.Bi   B Polygonum sect. Bistorta
+   23 Ranae    B Ranunculaceae
+   24 Rosae.ud B Rosaceae undiff.
+   25 Saxae    B Saxifragaceae
+   26 Scrae    B Scrophulariaceae
+   27 Valae    B Valerianaceae
+   28 Bot      F Botrychium
+   29 Hup.se   F Huperzia selago
+   30 Lyc.an.a F Lycopodium annotinum subsp. alpestre
+   31 Lyc.an.n F Lycopodium annotinum subsp. annotinum
+   32 Plpae.ud F Polypodiaceae undiff.
+   33 Plp.vu   F Polypodium vulgare
+   34 Sel.ru   F Selaginella rupestris
+   35 Sel.ud   F Selaginella undiff.
+   36 Br:Bryes M Bryales
+   37 Br:Hepae M Hepaticae
+   38 Br:Spg   M Sphagnum
+   39 unk      X Unknown
+0, , 4562
+    81.0    83.0    33.0   120.0     0.0     2.0     2.0     1.0    23.0     3.0
+    30.0     4.0     0.0     1.0    13.0     0.0     0.0    65.0     1.0     1.0
+     6.0     6.0     9.0     2.0    10.0     7.0     3.0     1.0    53.0     2.0
+     0.0     9.0     1.0    12.0     0.0     0.0     3.0    24.0     0.0
+15, , 4677
+    81.0    76.0    51.0    89.0     0.0     0.0     1.0     0.0     6.0     0.0
+     2.0     2.0     0.0     2.0    27.0     0.0     1.0     5.0     1.0     2.0
+     1.0     7.0     9.0     0.0    11.0     3.0     2.0     0.0    27.0     3.0
+     0.0     4.0     0.0     4.0     0.0     0.0     1.0    10.0     1.0
+45, , 4907
+   145.0   144.0   103.0   120.0     0.0     1.0     2.0     0.0     9.0     0.0
+     1.0     5.0     0.0     0.0    22.0     1.0     0.0     9.0     1.0     1.0
+     0.0     8.0    10.0    44.0     5.0     8.0     1.0     0.0    13.0     6.0
+     0.0    12.0     0.0    15.0     0.0     0.0     0.0    47.0     0.0
+85, , 5214
+    76.0    70.0    30.0    87.0     1.0     0.0     7.0     0.0     8.0     1.0
+     1.0     5.0     1.0     0.0    27.0     0.0     0.0    20.0     1.0     1.0
+     0.0     5.0    12.0     1.0     3.0     4.0     1.0     0.0     7.0     1.0
+     1.0     5.0     0.0    77.0     1.0     1.0     2.0    14.0     0.0

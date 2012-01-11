@@ -1,0 +1,60 @@
+# GPD ASCII Format
+# 26 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the Latin American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Sierra Bacha 3
+# Place:          MEX:Sonora
+# Latitude:       29.50.00N      (  29.833333)
+# Longitude:      112.29.00W     (-112.483333)
+# Elevation(m):   180
+# Sigle:          SBACHA3
+# Entity name:    SB3
+# Contact person: Anderson, R.S.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#                   320     65     65  A-1674       G    Jatropha seeds
+# Dating notes:   Midden Sample SB3 ALL DATES ARE REPORTED UNCORRECTED
+#
+# Chron name:     R.S. Anderson 1995
+# Age model:      sample directly dated
+# Age bounds:     310 - 330
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#   320.0           320    450    190   C14
+#
+# Publications:   Anderson, R.S., and T.R. Van Devender. 1995. Vegetation
+#                 history of the coastal lowlands of Sonora, Mexico - pollen
+#                 records from packrat middens. Journal of Arid Environments
+#                 30:295-306.
+#
+20 1
+    1 Bur.m    A Bursera microphylla
+    2 Cci      A Cercidium
+    3 Ece-t    A Encelia-type
+    4 Fou.s    A Fouquieria splendens
+    5 Jus.c    A Justicia californica
+    6 Sim.c    A Simmondsia chinensis
+    7 Amb-t    B Ambrosia-type
+    8 Ast.As.c B Asteraceae subf. Asteroideae (coarse-spine)
+    9 Ch/Am    B Chenopodiaceae/Amaranthaceae
+   10 Cmc-t    B Commicarpus-type
+   11 Eup      B Euphorbia
+   12 Hof      B Hoffmannseggia
+   13 Phs      B Physalis
+   14 Poaae    B Poaceae
+   15 Scrae    B Scrophulariaceae
+   16 Sol      B Solanum
+   17 Sph      B Sphaeralcea
+   18 Trs      B Trixis
+   19 ind.de   X Indeterminable (degraded)
+   20 unk      X Unknown
+320, , 320
+     6.0     2.0    55.0     1.0     9.0     1.0    44.0     1.0     2.0     1.0
+     2.0     1.0     1.0     2.0     3.0    17.0     5.0     3.0    26.0    18.0

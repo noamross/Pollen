@@ -1,0 +1,1145 @@
+setwd('/Users/noamross/Dropbox/Workspace/code/_TreePhysiology/R')
+  require(deSolve)                                                            #
+  require(rootSolve)#
+  require(gdata)#
+  require(xtable)#
+  require(Hmisc)#
+  require(abind)#
+  require(scatterplot3d)#
+  require(rgl)
+setwd('/Users/noamross/Dropbox/Workspace/code/_TreePhysiology/R')
+#load relevant packages#
+#
+  require(deSolve)                                                            #
+  require(rootSolve)#
+  require(gdata)#
+  require(xtable)#
+  require(Hmisc)#
+  require(abind)#
+  require(scatterplot3d)#
+  require(rgl)#
+  #
+#load relevant files#
+#
+  source("R/forced_ODEs.r")  #
+  source("R/weibullcurves.R")#
+  source("R/modelplots.R")#
+  source("R/treephysinout.R")#
+  source("R/analysis.R")#
+  source("R/multirunfunc.R")
+setwd('/Users/noamross/Dropbox/Workspace/code/_TreePhysiology/R')
+  require(deSolve)                                                            #
+  require(rootSolve)#
+  require(gdata)#
+  require(xtable)#
+  require(Hmisc)#
+  require(abind)#
+  require(scatterplot3d)#
+  require(rgl)
+setwd('/Users/noamross/Dropbox/Workspace/code/_TreePhysiology/R')
+ require(deSolve)                                                            #
+  require(rootSolve)#
+  require(gdata)#
+  require(xtable)#
+  require(Hmisc)#
+  require(abind)#
+  require(scatterplot3d)#
+  require(rgl)
+setwd('/Users/noamross/Dropbox/Workspace/code/_TreePhysiology/R')
+  source("R/forced_ODEs.r")
+setwd('/Users/noamross/Dropbox/Workspace/code/_TreePhysiology/R')
+#
+  source("R/forced_ODEs.r")  #
+  source("R/weibullcurves.R")#
+  source("R/modelplots.R")#
+  source("R/treephysinout.R")#
+  source("R/analysis.R")#
+  source("R/multirunfunc.R")
+setwd('/Users/noamross/Dropbox/Workspace/code/_TreePhysiology/')
+setwd('/Users/noamross/Dropbox/Workspace/code/_TreePhysiology/R')
+  source("R/forced_ODEs.r")
+setwd('/Users/noamross/Dropbox/Workspace/code/_TreePhysiology/R')
+  source("R/forced_ODEs.r")
+setwd('/Users/noamross/Dropbox/Workspace/code/_TreePhysiology/R')
+  source("R/multirunfunc.R")
+  source("R/forced_ODEs.r")
+  source("R/weibullcurves.R")
+  source("R/modelplots.R")
+  source("R/treephysinout.R")
+  source("R/analysis.R")
+  source("R/multirunfunc.R")
+#load relevant packages#
+#
+  require(deSolve)                                                            #
+  require(rootSolve)#
+  require(gdata)#
+  require(xtable)#
+  require(Hmisc)#
+  require(abind)#
+  require(scatterplot3d)#
+  require(rgl)#
+  #
+#load relevant files#
+#
+  source("R/forced_ODEs.r")  #
+  source("R/weibullcurves.R")#
+  source("R/modelplots.R")#
+  source("R/treephysinout.R")#
+  source("R/analysis.R")#
+  source("R/multirunfunc.R")
+runmodel("realparms.R","newout",plots="fourplot")
+a = load.forcings("realparms.R")
+a
+multirun("realparms.R","changeparms.R","newmulti",plots="fourplot")
+  source("R/modelplots.R")
+plotfile("Outputs/newmulti1_20110914_104732.R","fourplot")
+  source("R/modelplots.R")
+plotfile("Outputs/newmulti1_20110914_104732.R","fourplot")
+  source("R/modelplots.R")
+plotfile("Outputs/newmulti1_20110914_104732.R","fourplot")
+  source("R/modelplots.R")
+plotfile("Outputs/newmulti1_20110914_104732.R","fourplot")
+plotfile("Outputs/newmulti4_20110914_104745.R","fourplot")
+plotfile("Outputs/newmulti1_20110914_104732.R","fourplot")
+title("Psi_s = -1")
+?title
+plotfile("Outputs/newmulti1_20110914_104732.R","fourplot")
+mtext("Psi_s = -1")
+mtext("Psi_s = -1",outer=TRUE)
+plotfile("Outputs/newmulti1_20110914_104732.R","fourplot")
+mtext("Psi_s = -1",outer=TRUE)
+?mtext
+mtext("Psi_s = -1",outer=TRUE,adj=1)
+mtext("Psi_s = -1",outer=TRUE,padj=-1)
+mtext("Psi_s = -1",outer=TRUE,padj=1)
+mtext("Psi_s = -1",outer=TRUE,padj=2)
+mtext("Psi_s = -1",outer=TRUE,padj=3)
+mtext("Psi_s = -1",outer=TRUE,padj=3,cex=2)
+mtext("Psi_s = -1",outer=TRUE,padj=3,cex=1.5)
+plotfile("Outputs/newmulti1_20110914_104732.R","fourplot")
+mtext("Psi_s = -1",outer=TRUE,padj=3,cex=1.5)
+plotfile("Outputs/newmulti2_20110914_104735.R","fourplot")
+mtext("Psi_s = -2",outer=TRUE,padj=3,cex=1.5)
+plotfile("Outputs/newmulti3_20110914_104740.R","fourplot")
+mtext("Psi_s = -3",outer=TRUE,padj=3,cex=1.5)
+plotfile("Outputs/newmulti4_20110914_104745.R","fourplot")
+mtext("Psi_s = -4",outer=TRUE,padj=3,cex=1.5)
+plotfile("Outputs/newmulti5_20110914_104754.R","fourplot")
+mtext("Psi_s = -5",outer=TRUE,padj=3,cex=1.5)
+par
+par()
+Ks = seq(6,10,by=1)#
+Psis = seq(-4,0,by=1)#
+D = 2#
+parmst = load.parmtable("realparms.R")#
+Psilout = matrix(0,length(Ks),length(Psis))
+Psilout
+Ks = seq(6,10,by=1)#
+Psis = seq(-4,0,by=1)#
+D = 2#
+parmst = load.parmtable("realparms.R")#
+Psilout = matrix(0,length(Ks),length(Psis))#
+ABAout = Psilout#
+Xout = Psilout#
+Gout = Psilout#
+#
+for(i in 1:length(Ks)) {#
+  for(j in 1:length(Ks)) {#
+    states = c(K=Ks[i],S=10)#
+    Psi_s=Psis[j]#
+    with(c(as.list(states), parmst,Psi_s=Psi_s), {#
+      Psi_l = uniroot(leaf,c(-30,(b/K + Psi_s - h*rho*g)),parms = c(as.list(states),parmst,Psi_s=Psi_s,D=D))$root #Calculate leaf water potential#
+      G = (K/D)*(Psi_s - Psi_l - h*rho*g)#
+      ABA = (-a*Psi_s)/(G*D + b)#
+      X = -(Psi_s - Psi_l - h*rho*g)#
+      ABAout[i,j] = ABA#
+      Xout[i,j] = X#
+      Gout[i,j] = G#
+      Psilout[i,j] = Psi_l#
+    })#
+  }#
+}
+Ks = seq(10,10,by=1)
+Ks
+Ks = seq(10,10,by=1)#
+Psis = seq(-4,0,by=1)#
+D = 2#
+parmst = load.parmtable("realparms.R")#
+Psilout = matrix(0,length(Ks),length(Psis))#
+ABAout = Psilout#
+Xout = Psilout#
+Gout = Psilout
+Gout
+for(i in 1:length(Ks)) {#
+  for(j in 1:length(Ks)) {#
+    states = c(K=Ks[i],S=10)#
+    Psi_s=Psis[j]#
+    with(c(as.list(states), parmst,Psi_s=Psi_s), {#
+      Psi_l = uniroot(leaf,c(-30,(b/K + Psi_s - h*rho*g)),parms = c(as.list(states),parmst,Psi_s=Psi_s,D=D))$root #Calculate leaf water potential#
+      G = (K/D)*(Psi_s - Psi_l - h*rho*g)#
+      ABA = (-a*Psi_s)/(G*D + b)#
+      X = -(Psi_s - Psi_l - h*rho*g)#
+      ABAout[i,j] = ABA#
+      Xout[i,j] = X#
+      Gout[i,j] = G#
+      Psilout[i,j] = Psi_l#
+    })#
+  }#
+}
+Gout
+Ks = seq(10,10,by=1)#
+Psis = seq(-4,0,by=1)#
+D = 2#
+parmst = load.parmtable("realparms.R")#
+Psilout = matrix(0,length(Ks),length(Psis))#
+ABAout = Psilout#
+Xout = Psilout#
+Gout = Psilout#
+#
+for(i in 1:length(Ks)) {#
+  for(j in 1:length(Ks)) {#
+    states = c(K=Ks[i],S=10)#
+    Psi_s=Psis[j]#
+    with(c(as.list(states), parmst,Psi_s=Psi_s), {#
+      Psi_l = uniroot(leaf,c(-30,(b/K + Psi_s - h*rho*g)),parms = c(as.list(states),parmst,Psi_s=Psi_s,D=D))$root #Calculate leaf water potential#
+      G = (K/D)*(Psi_s - Psi_l - h*rho*g)#
+      ABA = (-a*Psi_s)/(G*D + b)#
+      X = -(Psi_s - Psi_l - h*rho*g)#
+      ABAout[i,j] = ABA#
+      Xout[i,j] = X#
+      Gout[i,j] = G#
+      Psilout[i,j] = Psi_l#
+    })#
+  }#
+}
+Psilout
+Gout
+    states = c(K=Ks[i],S=10)
+states
+    Psi_s=Psis[j]
+Psi_s
+parmst
+as.list(states),parmst,Psi_s=Psi_s,D=D)
+parms = c(as.list(states),parmst,Psi_s=Psi_s,D=D)
+parms
+Ks = seq(10,10,by=1)#
+Psis = seq(-4,0,by=1)#
+D = 2#
+parmst = load.parmtable("realparms.R")#
+Psilout = matrix(0,length(Ks),length(Psis))#
+ABAout = Psilout#
+Xout = Psilout#
+Gout = Psilout#
+#
+for(i in 1:length(Ks)) {#
+  for(j in 1:length(Ks)) {#
+    states = c(K=Ks[i],S=10)#
+    Psi_s=Psis[j]#
+    with(c(as.list(states), parmst,Psi_s=Psi_s), {#
+      Psi_l = uniroot(leaf,c(-30,(b/K + Psi_s - h*rho*g)),parms = c(as.list(states),parmst,Psi_s=Psi_s,D=D)$root #Calculate leaf water potential#
+      G = (K/D)*(Psi_s - Psi_l - h*rho*g)#
+      ABA = (-a*Psi_s)/(G*D + b)#
+      X = -(Psi_s - Psi_l - h*rho*g)#
+      ABAout[i,j] = ABA#
+      Xout[i,j] = X#
+      Gout[i,j] = G#
+      Psilout[i,j] = Psi_l#
+    })#
+  }#
+}
+Ks = seq(10,10,by=1)#
+Psis = seq(-4,0,by=1)#
+D = 2#
+parmst = load.parmtable("realparms.R")#
+Psilout = matrix(0,length(Ks),length(Psis))#
+ABAout = Psilout#
+Xout = Psilout#
+Gout = Psilout
+    states = c(K=Ks[i],S=10)
+    Psi_s=Psis[j]
+    with(c(as.list(states), parmst,Psi_s=Psi_s), {
+      Psi_l = uniroot(leaf,c(-30,(b/K + Psi_s - h*rho*g)),parms = c(as.list(states),parmst,Psi_s=Psi_s,D=D)$root #Calculate leaf water potential
+}
+Ks = seq(10,10,by=1)#
+Psis = seq(-4,0,by=1)#
+D = 2#
+parmst = load.parmtable("realparms.R")#
+Psilout = matrix(0,length(Ks),length(Psis))#
+ABAout = Psilout#
+Xout = Psilout#
+Gout = Psilout#
+#
+for(i in 1:length(Ks)) {#
+  for(j in 1:length(Ks)) {#
+    states = c(K=Ks[i],S=10)#
+    Psi_s=Psis[j]#
+    with(c(as.list(states), parmst,Psi_s=Psi_s), {#
+      Psi_l = uniroot(leaf,c(-30,(b/K + Psi_s - h*rho*g)),parms = c(as.list(states),parmst,Psi_s=Psi_s,D=D))$root #Calculate leaf water potential#
+      G = (K/D)*(Psi_s - Psi_l - h*rho*g)#
+      ABA = (-a*Psi_s)/(G*D + b)#
+      X = -(Psi_s - Psi_l - h*rho*g)#
+      ABAout[i,j] = ABA#
+      Xout[i,j] = X#
+      Gout[i,j] = G#
+      Psilout[i,j] = Psi_l#
+    })#
+  }#
+}
+Gout
+    Psi_s=Psis[j]
+    with(c(as.list(states), parmst,Psi_s=Psi_s), {
+      Psi_l = uniroot(leaf,c(-30,(b/K + Psi_s - h*rho*g)),parms = c(as.list(states),parmst,Psi_s=Psi_s,D=D))$root #Calculate leaf water potential
+}
+Psi_l
+    states = c(K=Ks[i],S=10)
+    Psi_s=Psis[j]
+    with(c(as.list(states), parmst,Psi_s=Psi_s), {
+      Psi_l = uniroot(leaf,c(-30,(b/K + Psi_s - h*rho*g)),parms = c(as.list(states),parmst,Psi_s=Psi_s,D=D))$root #Calculate leaf water potential
+}
+)
+Psi_l
+Psilout
+with(a=6,b=a+1)
+with(a=6, B <- a)
+parmst
+states
+parms
+leaf
+Ks = seq(10,10,by=1)#
+Psis = seq(-4,0,by=1)#
+D = 2#
+parmst = load.parmtable("realparms.R")#
+Psilout = matrix(0,length(Ks),length(Psis))#
+ABAout = Psilout#
+Xout = Psilout#
+Gout = Psilout#
+#
+for(i in 1:length(Ks)) {#
+  for(j in 1:length(Ks)) {#
+    states = c(K=Ks[i],S=10)#
+    Psi_s=Psis[j]#
+    with(c(as.list(states), parmst,Psi_s=Psi_s), {#
+      Psi_l = uniroot(leaf,c(-30,(b/K + Psi_s - h*rho*g)),parms = c(as.list(states),parmst,Psi_s=Psi_s,D=D)) $root #Calculate leaf water potential#
+      G = (K/D)*(Psi_s - Psi_l - h*rho*g)#
+      ABA = (-a*Psi_s)/(G*D + b)#
+      X = -(Psi_s - Psi_l - h*rho*g)#
+      ABAout[i,j] = ABA#
+      Xout[i,j] = X#
+      Gout[i,j] = G#
+      Psilout[i,j] = Psi_l#
+    })#
+  }#
+}
+ABAout
+Xout
+Ks = seq(10,10,by=1)#
+Psis = seq(-4,0,by=1)#
+D = 2#
+parmst = load.parmtable("realparms.R")#
+Psilout = matrix(0,length(Ks),length(Psis))#
+ABAout = Psilout#
+Xout = Psilout#
+Gout = Psilout
+Xout[,1] = 1
+Xout
+for(i in 1:length(Ks)) {#
+  for(j in 1:length(Ks)) {#
+    states = c(K=Ks[i],S=10)#
+    Psi_s=Psis[j]#
+    with(c(as.list(states), parmst,Psi_s=Psi_s), {#
+      Psi_l = uniroot(leaf,c(-30,(b/K + Psi_s - h*rho*g)),parms = c(as.list(states),parmst,Psi_s=Psi_s,D=D)) $root #Calculate leaf water potential#
+      G = (K/D)*(Psi_s - Psi_l - h*rho*g)#
+      ABA = (-a*Psi_s)/(G*D + b)#
+      X = -(Psi_s - Psi_l - h*rho*g)#
+      ABAout[i,j] = ABA#
+      Xout[i,j] = X#
+      Gout[i,j] = G#
+      Psilout[i,j] = Psi_l#
+    })#
+  }#
+}
+Xout
+    with(c(as.list(states), parmst,Psi_s=Psi_s), {#
+      Psi_l = uniroot(leaf,c(-30,(b/K + Psi_s - h*rho*g)),parms = c(as.list(states),parmst,Psi_s=Psi_s,D=D))})
+Psi_l
+leaf(1,c(as.list(states), parmst,Psi_s=Psi_s))
+leaf(-2,c(as.list(states), parmst,Psi_s=Psi_s))
+leaf(-8,c(as.list(states), parmst,Psi_s=Psi_s))
+leaf(-5,c(as.list(states), parmst,Psi_s=Psi_s))
+leaf(-4,c(as.list(states), parmst,Psi_s=Psi_s))
+leaf(-3,c(as.list(states), parmst,Psi_s=Psi_s))
+    with(c(as.list(states), parmst,Psi_s=Psi_s), {#
+      Psi_l = uniroot(leaf,c(-30,(b/K + Psi_s - h*rho*g)),parms = c(as.list(states),parmst,Psi_s=Psi_s,D=D))})
+Psi_l
+?with
+with(a=1,{b = a + 1})
+a=1
+with(a,b+1)
+with(a,a+1)
+b
+with(a,b=a+1)
+with(a,{b = a+1})
+b
+?with
+Ks = seq(10,10,by=1)#
+Psis = seq(-4,0,by=1)#
+D = 2#
+parmst = load.parmtable("realparms.R")#
+Psilout = matrix(0,length(Ks),length(Psis))#
+ABAout = Psilout#
+Xout = Psilout#
+Gout = Psilout#
+#
+for(i in 1:length(Ks)) {#
+  for(j in 1:length(Ks)) {#
+    states = c(K=Ks[i],S=10)#
+    Psi_s=Psis[j]#
+    with(c(as.list(states), parmst,Psi_s=Psi_s), {#
+      Psi_l = uniroot(leaf,c(-30,(b/K + Psi_s - h*rho*g)),parms = c(as.list(states),parmst,Psi_s=Psi_s,D=D)) $root #Calculate leaf water potential#
+      G = (K/D)*(Psi_s - Psi_l - h*rho*g)#
+      ABA = (-a*Psi_s)/(G*D + b)#
+      X = -(Psi_s - Psi_l - h*rho*g)#
+      ABAout[i,j] <<-- ABA#
+      Xout[i,j] <<-- X#
+      Gout[i,j] <<-- G#
+      Psilout[i,j] <<-- Psi_l#
+    })#
+  }#
+}
+ABAout
+Xout
+Psilout
+Ks = seq(10,10,by=1)#
+Psis = seq(-4,0,by=1)#
+D = 2#
+parmst = load.parmtable("realparms.R")#
+Psilout = matrix(0,length(Ks),length(Psis))#
+ABAout = Psilout#
+Xout = Psilout#
+Gout = Psilout#
+#
+for(i in 1:length(Ks)) {#
+  for(j in 1:length(Psis)) {#
+    states = c(K=Ks[i],S=10)#
+    Psi_s=Psis[j]#
+    with(c(as.list(states), parmst,Psi_s=Psi_s), {#
+      Psi_l = uniroot(leaf,c(-30,(b/K + Psi_s - h*rho*g)),parms = c(as.list(states),parmst,Psi_s=Psi_s,D=D)) $root #Calculate leaf water potential#
+      G = (K/D)*(Psi_s - Psi_l - h*rho*g)#
+      ABA = (-a*Psi_s)/(G*D + b)#
+      X = -(Psi_s - Psi_l - h*rho*g)#
+      ABAout[i,j] <<-- ABA#
+      Xout[i,j] <<-- X#
+      Gout[i,j] <<-- G#
+      Psilout[i,j] <<-- Psi_l#
+    })#
+  }#
+}
+Ks = seq(10,10,by=1)#
+Psis = seq(-4,-1,by=1)#
+D = 2#
+parmst = load.parmtable("realparms.R")#
+Psilout = matrix(0,length(Ks),length(Psis))#
+ABAout = Psilout#
+Xout = Psilout#
+Gout = Psilout#
+#
+for(i in 1:length(Ks)) {#
+  for(j in 1:length(Psis)) {#
+    states = c(K=Ks[i],S=10)#
+    Psi_s=Psis[j]#
+    with(c(as.list(states), parmst,Psi_s=Psi_s), {#
+      Psi_l = uniroot(leaf,c(-30,(b/K + Psi_s - h*rho*g)),parms = c(as.list(states),parmst,Psi_s=Psi_s,D=D)) $root #Calculate leaf water potential#
+      G = (K/D)*(Psi_s - Psi_l - h*rho*g)#
+      ABA = (-a*Psi_s)/(G*D + b)#
+      X = -(Psi_s - Psi_l - h*rho*g)#
+      ABAout[i,j] <<-- ABA#
+      Xout[i,j] <<-- X#
+      Gout[i,j] <<-- G#
+      Psilout[i,j] <<-- Psi_l#
+    })#
+  }#
+}
+Gout
+?with
+Ks = seq(10,10,by=1)#
+Psis = seq(-4,-1,by=1)#
+D = 2#
+parmst = load.parmtable("realparms.R")#
+Psilout = matrix(0,length(Ks),length(Psis))#
+ABAout = Psilout#
+Xout = Psilout#
+Gout = Psilout#
+#
+for(i in 1:length(Ks)) {#
+  for(j in 1:length(Psis)) {#
+    states = c(K=Ks[i],S=10)#
+    Psi_s=Psis[j]#
+    with(c(as.list(states), parmst,Psi_s=Psi_s), {#
+      Psi_l = uniroot(leaf,c(-30,(b/K + Psi_s - h*rho*g)),parms = c(as.list(states),parmst,Psi_s=Psi_s,D=D)) $root #Calculate leaf water potential#
+      G = (K/D)*(Psi_s - Psi_l - h*rho*g)#
+      ABA = (-a*Psi_s)/(G*D + b)#
+      X = -(Psi_s - Psi_l - h*rho*g)#
+      assign(ABAout[i,j],ABA,envir=parent.env)#
+      assign(Xout[i,j], X,envir=parent.env)#
+      assign(Xout[i,j],X,envir=parent.env)#
+      assign(Psilout[i,j],Psi_l,envir=parent.env)#
+    })#
+  }#
+}
+Ks = seq(10,10,by=1)#
+Psis = seq(-4,-1,by=1)#
+D = 2#
+parmst = load.parmtable("realparms.R")#
+Psilout = matrix(0,length(Ks),length(Psis))#
+ABAout = Psilout#
+Xout = Psilout#
+Gout = Psilout#
+#
+for(i in 1:length(Ks)) {#
+  for(j in 1:length(Psis)) {#
+    states = c(K=Ks[i],S=10)#
+    Psi_s=Psis[j]#
+    with(c(as.list(states), parmst,Psi_s=Psi_s), {#
+      assign(Psi_l, uniroot(leaf,c(-30,(b/K + Psi_s - h*rho*g)),parms = c(as.list(states),parmst,Psi_s=Psi_s,D=D))$root,envir=parent.env) #Calculate leaf water potential#
+      })#
+	  G = (K/D)*(Psi_s - Psi_l - h*rho*g)#
+      ABA = (-a*Psi_s)/(G*D + b)#
+      X = -(Psi_s - Psi_l - h*rho*g)#
+	  ABAout[i,j] = ABA#
+      Xout[i,j] = X#
+      Gout[i,j] = G#
+      Psilout[i,j] = Psi_l#
+    })#
+  }#
+}
+Ks = seq(10,10,by=1)#
+Psis = seq(-4,-1,by=1)#
+D = 2#
+parmst = load.parmtable("realparms.R")#
+Psilout = matrix(0,length(Ks),length(Psis))#
+ABAout = Psilout#
+Xout = Psilout#
+Gout = Psilout#
+#
+for(i in 1:length(Ks)) {#
+  for(j in 1:length(Psis)) {#
+    states = c(K=Ks[i],S=10)#
+    Psi_s=Psis[j]#
+    with(c(as.list(states), parmst,Psi_s=Psi_s), {#
+      assign(Psi_l, uniroot(leaf,c(-30,(b/K + Psi_s - h*rho*g)),parms = c(as.list(states),parmst,Psi_s=Psi_s,D=D))$root,envir=parent.env) #Calculate leaf water potential#
+      })#
+  	G = (K/D)*(Psi_s - Psi_l - h*rho*g)#
+    ABA = (-a*Psi_s)/(G*D + b)#
+    X = -(Psi_s - Psi_l - h*rho*g)#
+ 	ABAout[i,j] = ABA#
+    Xout[i,j] = X#
+    Gout[i,j] = G#
+    Psilout[i,j] = Psi_l#
+  }#
+}
+Ks = seq(10,10,by=1)#
+Psis = seq(-4,-1,by=1)#
+D = 2#
+parmst = load.parmtable("realparms.R")#
+Psilout = matrix(0,length(Ks),length(Psis))#
+ABAout = Psilout#
+Xout = Psilout#
+Gout = Psilout#
+#
+for(i in 1:length(Ks)) {#
+  for(j in 1:length(Psis)) {#
+    states = c(K=Ks[i],S=10)#
+    Psi_s=Psis[j]#
+	Psi_l = 0#
+    with(c(as.list(states), parmst,Psi_s=Psi_s), {#
+      assign(Psi_l, uniroot(leaf,c(-30,(b/K + Psi_s - h*rho*g)),parms = c(as.list(states),parmst,Psi_s=Psi_s,D=D))$root,envir=parent.env) #Calculate leaf water potential#
+      })#
+  	G = (K/D)*(Psi_s - Psi_l - h*rho*g)#
+    ABA = (-a*Psi_s)/(G*D + b)#
+    X = -(Psi_s - Psi_l - h*rho*g)#
+ 	ABAout[i,j] = ABA#
+    Xout[i,j] = X#
+    Gout[i,j] = G#
+    Psilout[i,j] = Psi_l#
+  }#
+}
+?assign
+Ks = seq(10,10,by=1)#
+Psis = seq(-4,-1,by=1)#
+D = 2#
+parmst = load.parmtable("realparms.R")#
+Psilout = matrix(0,length(Ks),length(Psis))#
+ABAout = Psilout#
+Xout = Psilout#
+Gout = Psilout#
+#
+for(i in 1:length(Ks)) {#
+  for(j in 1:length(Psis)) {#
+    states = c(K=Ks[i],S=10)#
+    Psi_s=Psis[j]#
+    with(c(as.list(states), parmst,Psi_s=Psi_s), {#
+      assign("Psi_l", uniroot(leaf,c(-30,(b/K + Psi_s - h*rho*g)),parms = c(as.list(states),parmst,Psi_s=Psi_s,D=D))$root,envir=parent.env) #Calculate leaf water potential#
+      })#
+  	G = (K/D)*(Psi_s - Psi_l - h*rho*g)#
+    ABA = (-a*Psi_s)/(G*D + b)#
+    X = -(Psi_s - Psi_l - h*rho*g)#
+ 	ABAout[i,j] = ABA#
+    Xout[i,j] = X#
+    Gout[i,j] = G#
+    Psilout[i,j] = Psi_l#
+  }#
+}
+?assing
+?assign
+Ks = seq(10,10,by=1)#
+Psis = seq(-4,-1,by=1)#
+D = 2#
+parmst = load.parmtable("realparms.R")#
+Psilout = matrix(0,length(Ks),length(Psis))#
+ABAout = Psilout#
+Xout = Psilout#
+Gout = Psilout#
+#
+for(i in 1:length(Ks)) {#
+  for(j in 1:length(Psis)) {#
+    states = c(K=Ks[i],S=10)#
+    Psi_s=Psis[j]#
+    with(c(as.list(states), parmst,Psi_s=Psi_s), {#
+      assign("Psi_l", uniroot(leaf,c(-30,(b/K + Psi_s - h*rho*g)),parms = c(as.list(states),parmst,Psi_s=Psi_s,D=D))$root,parent.env(environment())) #Calculate leaf water potential#
+      })#
+  	G = (K/D)*(Psi_s - Psi_l - h*rho*g)#
+    ABA = (-a*Psi_s)/(G*D + b)#
+    X = -(Psi_s - Psi_l - h*rho*g)#
+ 	ABAout[i,j] = ABA#
+    Xout[i,j] = X#
+    Gout[i,j] = G#
+    Psilout[i,j] = Psi_l#
+  }#
+}
+    states = c(K=Ks[i],S=10)
+Ks = seq(10,10,by=1)#
+Psis = seq(-4,-1,by=1)#
+D = 2#
+parmst = load.parmtable("realparms.R")#
+Psilout = matrix(0,length(Ks),length(Psis))#
+ABAout = Psilout#
+Xout = Psilout#
+Gout = Psilout#
+#
+for(i in 1:length(Ks)) {#
+  for(j in 1:length(Psis)) {#
+    states = c(K=Ks[i],S=10)#
+    Psi_s=Psis[j]#
+    with(c(as.list(states), parmst,Psi_s=Psi_s), {#
+      assign("Psi_l", uniroot(leaf,c(-30,(b/K + Psi_s - h*rho*g)),parms = c(as.list(states),parmst,Psi_s=Psi_s,D=D))$root,parent.env(environment())) #Calculate leaf water potential#
+      })#
+  	G = (K/D)*(Psi_s - Psi_l - h*rho*g)#
+    ABA = (-a*Psi_s)/(G*D + b)#
+    X = -(Psi_s - Psi_l - h*rho*g)#
+ 	ABAout[i,j] = ABA#
+    Xout[i,j] = X#
+    Gout[i,j] = G#
+    Psilout[i,j] = Psi_l#
+  }#
+}
+Ks = seq(10,10,by=1)#
+Psis = seq(-4,-1,by=1)#
+D = 2#
+parmst = load.parmtable("realparms.R")#
+Psilout = matrix(0,length(Ks),length(Psis))#
+ABAout = Psilout#
+Xout = Psilout#
+Gout = Psilout#
+#
+for(i in 1:length(Ks)) {#
+  for(j in 1:length(Psis)) {#
+	K = Ks[i]#
+    states = c(K=K,S=10)#
+    Psi_s=Psis[j]#
+    with(c(as.list(states), parmst,Psi_s=Psi_s), {#
+      assign("Psi_l", uniroot(leaf,c(-30,(b/K + Psi_s - h*rho*g)),parms = c(as.list(states),parmst,Psi_s=Psi_s,D=D))$root,parent.env(environment())) #Calculate leaf water potential#
+      })#
+  	G = (K/D)*(Psi_s - Psi_l - h*rho*g)#
+    ABA = (-a*Psi_s)/(G*D + b)#
+    X = -(Psi_s - Psi_l - h*rho*g)#
+ 	ABAout[i,j] = ABA#
+    Xout[i,j] = X#
+    Gout[i,j] = G#
+    Psilout[i,j] = Psi_l#
+  }#
+}
+Ks = seq(10,10,by=1)#
+Psis = seq(-4,-1,by=1)#
+D = 2#
+parmst = load.parmtable("realparms.R")#
+Psilout = matrix(0,length(Ks),length(Psis))#
+ABAout = Psilout#
+Xout = Psilout#
+Gout = Psilout#
+#
+for(i in 1:length(Ks)) {#
+  for(j in 1:length(Psis)) {#
+    states = c(K=K,S=10)#
+    Psi_s=Psis[j]#
+    with(c(as.list(states), parmst,Psi_s=Psi_s), {#
+      assign("Psi_l", uniroot(leaf,c(-30,(b/K + Psi_s - h*rho*g)),parms = c(as.list(states),parmst,Psi_s=Psi_s,D=D))$root,parent.env(environment())) #Calculate leaf water potential#
+  	  assign("G", (K/D)*(Psi_s - Psi_l - h*rho*g), parent.env(environment()))#
+      assign(ABA, (-a*Psi_s)/(G*D + b, parent.env(environment()))#
+      assign("X", -(Psi_s - Psi_l - h*rho*g, parent.env(environment()))#
+   		})#
+		ABAout[i,j] = ABA#
+    Xout[i,j] = X#
+    Gout[i,j] = G#
+    Psilout[i,j] = Psi_l#
+#
+  }#
+}
+Ks = seq(10,10,by=1)#
+Psis = seq(-4,-1,by=1)#
+D = 2#
+parmst = load.parmtable("realparms.R")#
+Psilout = matrix(0,length(Ks),length(Psis))#
+ABAout = Psilout#
+Xout = Psilout#
+Gout = Psilout#
+#
+for(i in 1:length(Ks)) {#
+  for(j in 1:length(Psis)) {#
+    states = c(K=K,S=10)#
+    Psi_s=Psis[j]#
+    with(c(as.list(states), parmst,Psi_s=Psi_s), {#
+      assign("Psi_l", uniroot(leaf,c(-30,(b/K + Psi_s - h*rho*g)),parms = c(as.list(states),parmst,Psi_s=Psi_s,D=D))$root,parent.env(environment())) #Calculate leaf water potential#
+  	  assign("G", (K/D)*(Psi_s - Psi_l - h*rho*g), parent.env(environment()))#
+      assign(ABA, (-a*Psi_s)/(G*D + b), parent.env(environment()))#
+      assign("X", -(Psi_s - Psi_l - h*rho*g), parent.env(environment()))#
+   		})#
+		ABAout[i,j] = ABA#
+    Xout[i,j] = X#
+    Gout[i,j] = G#
+    Psilout[i,j] = Psi_l#
+#
+  }#
+}
+Ks = seq(10,10,by=1)#
+Psis = seq(-4,-1,by=1)#
+D = 2#
+parmst = load.parmtable("realparms.R")#
+Psilout = matrix(0,length(Ks),length(Psis))#
+ABAout = Psilout#
+Xout = Psilout#
+Gout = Psilout#
+#
+for(i in 1:length(Ks)) {#
+  for(j in 1:length(Psis)) {#
+    states = c(K=K,S=10)#
+    Psi_s=Psis[j]#
+    with(c(as.list(states), parmst,Psi_s=Psi_s), {#
+      assign("Psi_l", uniroot(leaf,c(-30,(b/K + Psi_s - h*rho*g)),parms = c(as.list(states),parmst,Psi_s=Psi_s,D=D))$root,parent.env(environment())) #Calculate leaf water potential#
+  	  assign("G", (K/D)*(Psi_s - Psi_l - h*rho*g), parent.env(environment()))#
+      assign("ABA", (-a*Psi_s)/(G*D + b), parent.env(environment()))#
+      assign("X", -(Psi_s - Psi_l - h*rho*g), parent.env(environment()))#
+   		})#
+		ABAout[i,j] = ABA#
+    Xout[i,j] = X#
+    Gout[i,j] = G#
+    Psilout[i,j] = Psi_l#
+#
+  }#
+}
+Psilout
+Ks = seq(10,10,by=1)#
+Psis = seq(-6,-0.2,by=0.2)#
+D = 2#
+parmst = load.parmtable("realparms.R")#
+Psilout = matrix(0,length(Ks),length(Psis))#
+ABAout = Psilout#
+Xout = Psilout#
+Gout = Psilout#
+#
+for(i in 1:length(Ks)) {#
+  for(j in 1:length(Psis)) {#
+    states = c(K=K,S=10)#
+    Psi_s=Psis[j]#
+    with(c(as.list(states), parmst,Psi_s=Psi_s), {#
+      assign("Psi_l", uniroot(leaf,c(-30,(b/K + Psi_s - h*rho*g)),parms = c(as.list(states),parmst,Psi_s=Psi_s,D=D))$root,parent.env(environment())) #Calculate leaf water potential#
+  	  assign("G", (K/D)*(Psi_s - Psi_l - h*rho*g), parent.env(environment()))#
+      assign("ABA", (-a*Psi_s)/(G*D + b), parent.env(environment()))#
+      assign("X", -(Psi_s - Psi_l - h*rho*g), parent.env(environment()))#
+   		})#
+		ABAout[i,j] = ABA#
+    Xout[i,j] = X#
+    Gout[i,j] = G#
+    Psilout[i,j] = Psi_l#
+#
+  }#
+}
+plot(Psis,Gout)
+?par
+plot(Psis,Gout)
+plot(Psis,Xout)
+plot(Psis,Psilout)
+plot(Psis,ABAout)
+par(mfrow=c(1,2))#
+plot(Psis,Xout)#
+plot(Psis,Gout)
+par(mfrow=c(1,2))#
+plot(Psis,Xout,xlab="Psi_s (Soil Water Potential)", ylab="X (Xylem Pressure)")#
+plot(Psis,Gout,xlab="Psi_s (Soil Water Potential)", ylab="G (Stomatal Conductance)")
+parmfile = "realparms.R"
+parms = load.parmtable(parmfile)
+parms
+%parmfile = "realparms.R"#
+%parms = load.parmtable(parmfile)#
+%states0 = load.statestable(parmfile)#
+%forcings = load.forcing(parmfile)#
+#
+Ks = seq(10,10,by=1)#
+Psis = seq(-6,-0.2,by=0.2)#
+D = 2#
+parmst = load.parmtable("realparms.R")#
+Psilout = matrix(0,length(Ks),length(Psis))#
+ABAout = Psilout#
+Xout = Psilout#
+Gout = Psilout#
+#
+for(i in 1:length(Ks)) {#
+  for(j in 1:length(Psis)) {#
+    states = c(K=K,S=10)#
+    Psi_s=Psis[j]#
+    with(c(as.list(states), parmst,Psi_s=Psi_s), {#
+      assign("Psi_l", uniroot(leaf,c(-30,(b/K + Psi_s - h*rho*g)),parms = c(as.list(states),parmst,Psi_s=Psi_s,D=D))$root,parent.env(environment())) #Calculate leaf water potential#
+  	  assign("G", (K/D)*(Psi_s - Psi_l - h*rho*g), parent.env(environment()))#
+      assign("ABA", (-a*Psi_s)/(G*D + b), parent.env(environment()))#
+      assign("X", -(Psi_s - Psi_l - h*rho*g), parent.env(environment()))#
+   		})#
+		ABAout[i,j] = ABA#
+    Xout[i,j] = X#
+    Gout[i,j] = G#
+    Psilout[i,j] = Psi_l#
+#
+  }#
+}#
+#
+par(mfrow=c(1,2))#
+plot(Psis,Xout,xlab="Psi_s (Soil Water Potential)", ylab="X (Xylem Pressure)")#
+plot(Psis,Gout,xlab="Psi_s (Soil Water Potential)", ylab="G (Stomatal Conductance)")
+parmst
+parmst$tau
+%parmfile = "realparms.R"#
+%parms = load.parmtable(parmfile)#
+%states0 = load.statestable(parmfile)#
+%forcings = load.forcing(parmfile)#
+#
+taus = seq(0,1.5,by=0.3)#
+Psis = seq(-6,-0.2,by=0.2)#
+D = 2#
+K = 10#
+parmst = load.parmtable("realparms.R")#
+Psilout = matrix(0,length(Ks),length(Psis))#
+ABAout = Psilout#
+Xout = Psilout#
+Gout = Psilout#
+#
+for(i in 1:length(taus)) {#
+	parmst$tau = taus[i]#
+  for(j in 1:length(Psis)) {#
+    states = c(K=K,S=10)#
+    Psi_s=Psis[j]#
+    with(c(as.list(states), parmst,Psi_s=Psi_s), {#
+      assign("Psi_l", uniroot(leaf,c(-30,(b/K + Psi_s - h*rho*g)),parms = c(as.list(states),parmst,Psi_s=Psi_s,D=D))$root,parent.env(environment())) #Calculate leaf water potential#
+  	  assign("G", (K/D)*(Psi_s - Psi_l - h*rho*g), parent.env(environment()))#
+      assign("ABA", (-a*Psi_s)/(G*D + b), parent.env(environment()))#
+      assign("X", -(Psi_s - Psi_l - h*rho*g), parent.env(environment()))#
+   		})#
+		ABAout[i,j] = ABA#
+    Xout[i,j] = X#
+    Gout[i,j] = G#
+    Psilout[i,j] = Psi_l#
+#
+  }#
+}#
+#
+par(mfrow=c(1,2))#
+plot(Psis,Xout,xlab="Psi_s (Soil Water Potential)", ylab="X (Xylem Pressure)")#
+plot(Psis,Gout,xlab="Psi_s (Soil Water Potential)", ylab="G (Stomatal Conductance)")
+%parmfile = "realparms.R"#
+%parms = load.parmtable(parmfile)#
+%states0 = load.statestable(parmfile)#
+%forcings = load.forcing(parmfile)#
+#
+taus = seq(0,1.5,by=0.3)#
+Psis = seq(-6,-0.2,by=0.2)#
+D = 2#
+K = 10#
+parmst = load.parmtable("realparms.R")#
+Psilout = matrix(0,length(Ks),length(Psis))#
+ABAout = Psilout#
+Xout = Psilout#
+Gout = Psilout#
+#
+for(i in 1:length(taus)) {#
+	parmst$tau = taus[i]#
+  for(j in 1:length(Psis)) {#
+    states = c(K=K,S=10)#
+    Psi_s=Psis[j]#
+    with(c(as.list(states), parmst,Psi_s=Psi_s), {#
+      assign("Psi_l", uniroot(leaf,c(-30,(b/K + Psi_s - h*rho*g)),parms = c(as.list(states),parmst,Psi_s=Psi_s,D=D))$root,parent.env(environment())) #Calculate leaf water potential#
+  	  assign("G", (K/D)*(Psi_s - Psi_l - h*rho*g), parent.env(environment()))#
+      assign("ABA", (-a*Psi_s)/(G*D + b), parent.env(environment()))#
+      assign("X", -(Psi_s - Psi_l - h*rho*g), parent.env(environment()))#
+   		})#
+		ABAout[i,j] = ABA#
+    Xout[i,j] = X#
+    Gout[i,j] = G#
+    Psilout[i,j] = Psi_l#
+#
+  }#
+}
+%parmfile = "realparms.R"#
+%parms = load.parmtable(parmfile)#
+%states0 = load.statestable(parmfile)#
+%forcings = load.forcing(parmfile)#
+#
+taus = seq(0,1.5,by=0.3)#
+Psis = seq(-6,-0.2,by=0.2)#
+D = 2#
+K = 10#
+parmst = load.parmtable("realparms.R")#
+Psilout = matrix(0,length(tauss),length(Psis))#
+ABAout = Psilout#
+Xout = Psilout#
+Gout = Psilout
+%parmfile = "realparms.R"#
+%parms = load.parmtable(parmfile)#
+%states0 = load.statestable(parmfile)#
+%forcings = load.forcing(parmfile)#
+#
+taus = seq(0,1.5,by=0.3)#
+Psis = seq(-6,-0.2,by=0.2)#
+D = 2#
+K = 10#
+parmst = load.parmtable("realparms.R")#
+Psilout = matrix(0,length(taus),length(Psis))#
+ABAout = Psilout#
+Xout = Psilout#
+Gout = Psilout
+#
+for(i in 1:length(taus)) {#
+	parmst$tau = taus[i]#
+  for(j in 1:length(Psis)) {#
+    states = c(K=K,S=10)#
+    Psi_s=Psis[j]#
+    with(c(as.list(states), parmst,Psi_s=Psi_s), {#
+      assign("Psi_l", uniroot(leaf,c(-30,(b/K + Psi_s - h*rho*g)),parms = c(as.list(states),parmst,Psi_s=Psi_s,D=D))$root,parent.env(environment())) #Calculate leaf water potential#
+  	  assign("G", (K/D)*(Psi_s - Psi_l - h*rho*g), parent.env(environment()))#
+      assign("ABA", (-a*Psi_s)/(G*D + b), parent.env(environment()))#
+      assign("X", -(Psi_s - Psi_l - h*rho*g), parent.env(environment()))#
+   		})#
+		ABAout[i,j] = ABA#
+    Xout[i,j] = X#
+    Gout[i,j] = G#
+    Psilout[i,j] = Psi_l#
+#
+  }#
+}
+ABAout
+ABAout[i,]
+par(mfrow=c(5,2))#
+for(i in 1:length(taus)) {#
+	plot(Psis[i,],Xout[i,])#
+	plot(Psis[i,],Gout[i])#
+	}
+par(mfrow=c(5,2))
+	plot(Psis[i,],Xout[i,])#
+	plot(Psis[i,],Gout[i,])
+i=1
+	plot(Psis[i,],Gout[i,])
+Psis
+par(mfrow=c(5,2))#
+for(i in 1:length(taus)) {#
+	plot(Psis,Xout[i,])#
+	plot(Psis,Gout[i,])#
+	}
+par(mfrow=c(length(taus),2))#
+for(i in 1:length(taus)) {#
+	plot(Psis,Xout[i,])#
+	plot(Psis,Gout[i,])#
+	}
+%parmfile = "realparms.R"#
+%parms = load.parmtable(parmfile)#
+%states0 = load.statestable(parmfile)#
+%forcings = load.forcing(parmfile)#
+#
+taus = seq(0,1.5,by=0.5)#
+Psis = seq(-6,-0.2,by=0.2)#
+D = 2#
+K = 10#
+parmst = load.parmtable("realparms.R")#
+Psilout = matrix(0,length(taus),length(Psis))#
+ABAout = Psilout#
+Xout = Psilout#
+Gout = Psilout#
+#
+for(i in 1:length(taus)) {#
+	parmst$tau = taus[i]#
+  for(j in 1:length(Psis)) {#
+    states = c(K=K,S=10)#
+    Psi_s=Psis[j]#
+    with(c(as.list(states), parmst,Psi_s=Psi_s), {#
+      assign("Psi_l", uniroot(leaf,c(-30,(b/K + Psi_s - h*rho*g)),parms = c(as.list(states),parmst,Psi_s=Psi_s,D=D))$root,parent.env(environment())) #Calculate leaf water potential#
+  	  assign("G", (K/D)*(Psi_s - Psi_l - h*rho*g), parent.env(environment()))#
+      assign("ABA", (-a*Psi_s)/(G*D + b), parent.env(environment()))#
+      assign("X", -(Psi_s - Psi_l - h*rho*g), parent.env(environment()))#
+   		})#
+		ABAout[i,j] = ABA#
+    Xout[i,j] = X#
+    Gout[i,j] = G#
+    Psilout[i,j] = Psi_l#
+#
+  }#
+}#
+#
+par(mfrow=c(length(taus),2))#
+for(i in 1:length(taus)) {#
+	plot(Psis,Xout[i,])#
+	plot(Psis,Gout[i,])#
+	}
+dev.new()
+parms
+with(parms,plot_weibull(k.K,l.K))
+par(mfrow=c(length(taus),2))#
+for(i in 1:length(taus)) {#
+	plot(Psis,Xout[i,])#
+	abline(h=Psi.e(parmst$k.K,parmst$l.K))#
+	plot(Psis,Gout[i,])#
+	}
+	abline(h=Psi.e(parmst$k.K,parmst$l.K),col="red")
+Psi.e(parmst$k.K,parmst$l.K
+)
+Xout
+max(Xout)
+par(mfrow=c(length(taus),2))#
+for(i in 1:length(taus)) {#
+	plot(Psis,Xout[i,],ylim=c(min(Xout),max(Xout)))#
+	abline(h=Psi.e(parmst$k.K,parmst$l.K),col="red")#
+	plot(Psis,Gout[i,],ylim=c(min(Gout),max(Gout)))#
+	}
+dev.new()
+plotfile("Outputs/newmulti3_20110914_104740.R","fourplot")
+plotfile("Outputs/newmulti1_20110914_104732.R","fourplot")
+taus
+%parmfile = "realparms.R"#
+%parms = load.parmtable(parmfile)#
+%states0 = load.statestable(parmfile)#
+%forcings = load.forcing(parmfile)#
+#
+taus = seq(0,1.5,by=0.5)#
+Psis = seq(-6,-0.2,by=0.2)#
+D = 2#
+K = 10#
+parmst = load.parmtable("realparms.R")#
+Psilout = matrix(0,length(taus),length(Psis))#
+ABAout = Psilout#
+Xout = Psilout#
+Gout = Psilout#
+#
+for(i in 1:length(taus)) {#
+	parmst$tau = taus[i]#
+  for(j in 1:length(Psis)) {#
+    states = c(K=K,S=10)#
+    Psi_s=Psis[j]#
+    with(c(as.list(states), parmst,Psi_s=Psi_s), {#
+      assign("Psi_l", uniroot(leaf,c(-30,(b/K + Psi_s - h*rho*g)),parms = c(as.list(states),parmst,Psi_s=Psi_s,D=D))$root,parent.env(environment())) #Calculate leaf water potential#
+  	  assign("G", (K/D)*(Psi_s - Psi_l - h*rho*g), parent.env(environment()))#
+      assign("ABA", (-a*Psi_s)/(G*D + b), parent.env(environment()))#
+      assign("X", -(Psi_s - Psi_l - h*rho*g), parent.env(environment()))#
+   		})#
+		ABAout[i,j] = ABA#
+    Xout[i,j] = X#
+    Gout[i,j] = G#
+    Psilout[i,j] = Psi_l#
+#
+  }#
+}#
+#
+par(mfrow=c(length(taus),2))#
+for(i in 1:length(taus)) {#
+	plot(Psis,Xout[i,],ylim=c(min(Xout),max(Xout)))#
+	#
+	abline(h=Psi.e(parmst$k.K,parmst$l.K),col="red")#
+	plot(Psis,Gout[i,],ylim=c(min(Gout),max(Gout)))#
+	}
+#load relevant packages#
+#
+  require(deSolve)                                                            #
+  require(rootSolve)#
+  require(gdata)#
+  require(xtable)#
+  require(Hmisc)#
+  require(abind)#
+  require(scatterplot3d)#
+  require(rgl)#
+  #
+#load relevant files#
+#
+  source("R/forced_ODEs.r")  #
+  source("R/weibullcurves.R")#
+  source("R/modelplots.R")#
+  source("R/treephysinout.R")#
+  source("R/analysis.R")#
+  source("R/multirunfunc.R")
+%parmfile = "realparms.R"#
+%parms = load.parmtable(parmfile)#
+%states0 = load.statestable(parmfile)#
+%forcings = load.forcing(parmfile)#
+#
+taus = seq(0,1.5,by=0.5)#
+Psis = seq(-6,-0.2,by=0.2)#
+D = 2#
+K = 10#
+parmst = load.parmtable("realparms.R")#
+Psilout = matrix(0,length(taus),length(Psis))#
+ABAout = Psilout#
+Xout = Psilout#
+Gout = Psilout#
+#
+for(i in 1:length(taus)) {#
+	parmst$tau = taus[i]#
+  for(j in 1:length(Psis)) {#
+    states = c(K=K,S=10)#
+    Psi_s=Psis[j]#
+    with(c(as.list(states), parmst,Psi_s=Psi_s), {#
+      assign("Psi_l", uniroot(leaf,c(-30,(b/K + Psi_s - h*rho*g)),parms = c(as.list(states),parmst,Psi_s=Psi_s,D=D))$root,parent.env(environment())) #Calculate leaf water potential#
+  	  assign("G", (K/D)*(Psi_s - Psi_l - h*rho*g), parent.env(environment()))#
+      assign("ABA", (-a*Psi_s)/(G*D + b), parent.env(environment()))#
+      assign("X", -(Psi_s - Psi_l - h*rho*g), parent.env(environment()))#
+   		})#
+		ABAout[i,j] = ABA#
+    Xout[i,j] = X#
+    Gout[i,j] = G#
+    Psilout[i,j] = Psi_l#
+#
+  }#
+}#
+#
+par(mfrow=c(length(taus),2))#
+for(i in 1:length(taus)) {#
+	plot(Psis,Xout[i,],ylim=c(min(Xout),max(Xout)))#
+	#
+	abline(h=Psi.e(parmst$k.K,parmst$l.K),col="red")#
+	plot(Psis,Gout[i,],ylim=c(min(Gout),max(Gout)))#
+	}
+require(stratiagraph)
+require(stratigraph)
+x=1
+require(stratigraphy)
+require(stratigraph)
+readGPDascii("Data/billys.text")
+readGPDascii("Data/billys.txt")
+billys = readGPDascii("Data/billys.txt") #load the GPD file into a variable
+library(devtools); install_github('knitr', 'yihui')
+library(devtools); install_github('knitr', 'yihui')
+require(devtools)
+library(devtools); install_github('knitr', 'yihui')
+knitr
+require(knitr)

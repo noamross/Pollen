@@ -1,0 +1,142 @@
+# GPD ASCII Format
+# 24 Apr 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the Latin American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Meseta Latorre
+# Place:          ARG:Santa Cruz
+# Latitude:       51.31.00S      ( -51.516667)
+# Longitude:      72.03.00W      ( -72.05    )
+# Elevation(m):   980
+# Sigle:          MESETAL2
+# Entity name:    2
+# Contact person: Schäbitz, F.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   155.0    10    7610   7750   7470  Hv-10220     U    Peat
+#
+# Chron name:     Schäbitz 1995
+# Age model:      linear interpolation
+# Age bounds:     240 - 7120
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0     0       0      0      0   TOP
+#   155.0    10    7610   7750   7470   C14
+#
+# Publications:   Schäbitz, F. 1991. Holocene vegetation and climate in
+#                 southern Santa Cruz, Argentina. Bamberger Geographische
+#                 Schriften 11:235-244.
+#
+36 14
+    1 Ade      A Adesmia
+    2 Brb      A Berberis
+    3 Emp      A Empetrum
+    4 Eph      A Ephedra
+    5 Ftz.c    A Fitzroya cupressoides
+    6 Lym      A Lycium
+    7 Not.a-t  A Nothofagus antarctica-type
+    8 Not.o-t  A Nothofagus obliqua-type
+    9 Pod      A Podocarpus
+   10 Pps      A Prosopis
+   11 Rhaae    A Rhamnaceae
+   12 Sch      A Schinus
+   13 Apiae    B Apiaceae
+   14 Astae.Au B Asteraceae subf. Asteroideae undiff.
+   15 Astae.Ci B Asteraceae subf. Cichorioideae
+   16 Astae.Mu B Asteraceae tribe Mutisieae
+   17 Braae    B Brassicaceae
+   18 Ccl      B Calceolaria
+   19 Cycae    B Calyceraceae
+   20 Cryae    B Caryophyllaceae
+   21 Ch/Am    B Chenopodiaceae/Amaranthaceae
+   22 Cypae    B Cyperaceae
+   23 Eupae    B Euphorbiaceae
+   24 Gil      B Gilia
+   25 Gun      B Gunnera
+   26 Pln      B Plantago
+   27 Poaae    B Poaceae
+   28 Rosae    B Rosaceae
+   29 Rubae    B Rubiaceae
+   30 Rum      B Rumex
+   31 Sax      B Saxifraga
+   32 Urt      B Urtica
+   33 Polta    F Polypodiophyta
+   34 Cal      Q Caltha
+   35 ind      X Indeterminable
+   36 ot       X Other
+5, , 245
+     0.0     0.0     4.0     0.0     1.0     0.0   272.0     0.0     1.0     0.0
+     0.0     0.0     5.0     4.0     1.0     0.0     0.0     1.0     0.0     2.0
+     0.0   126.0     0.0     1.0     0.0     4.0    88.0     1.0     0.0     3.0
+     3.0     0.0     1.0     0.0     3.0     0.0
+15, , 736
+     0.0     0.0     9.0     0.0     0.0     0.0   315.0     0.0     0.0     0.0
+     1.0     0.0     5.0     5.0     0.0     2.0     0.0     0.0     0.0     2.0
+     1.0   139.0     0.0     0.0     0.0     5.0    96.0     0.0     4.0     0.0
+     0.0     0.0     2.0     0.0     5.0     0.0
+25, , 1227
+     1.0     0.0     8.0     0.0     0.0     0.0   267.0     0.0     0.0     0.0
+     0.0     0.0     5.0     8.0     0.0     0.0     0.0     0.0     0.0     8.0
+     0.0   139.0     0.0     0.0     0.0     0.0    86.0     0.0     0.0     0.0
+     0.0     0.0     4.0     0.0     4.0     0.0
+33, , 1620
+     0.0     4.0    10.0     1.0     0.0     0.0   259.0     0.0     2.0     1.0
+     0.0     0.0     8.0     7.0     1.0     3.0     1.0     0.0     0.0    39.0
+     0.0    25.0     0.0     4.0     0.0     1.0   222.0     8.0     0.0     0.0
+     0.0     1.0    11.0     0.0     9.0     1.0
+55, , 2700
+     0.0     0.0     5.0     0.0     0.0     0.0   288.0     0.0     4.0     1.0
+     0.0     0.0    10.0    11.0     0.0     2.0     1.0     0.0     0.0    33.0
+     0.0   110.0     0.0     1.0     0.0     1.0   107.0     4.0     1.0     0.0
+     1.0     0.0     2.0     0.0    13.0     0.0
+63, , 3093
+     0.0     0.0     8.0     2.0     0.0     0.0   217.0     0.0     1.0     0.0
+     0.0     0.0    10.0    13.0     1.0     1.0     1.0     0.0     0.0     7.0
+     0.0    95.0     0.0     0.0     0.0     0.0   256.0     8.0     0.0     0.0
+     0.0     0.0     0.0     0.0     7.0     0.0
+74, , 3633
+     0.0     0.0     9.0     0.0     0.0     0.0   197.0     0.0     3.0     0.0
+     0.0     0.0     5.0     8.0     0.0     1.0     0.0     0.0     0.0     1.0
+     0.0   118.0     0.0     0.0     0.0     0.0   230.0     2.0     0.0     0.0
+     1.0     0.0    11.0     0.0     7.0     0.0
+87, , 4271
+     0.0     0.0     7.0     2.0     0.0     0.0   217.0     0.0     1.0     0.0
+     0.0     0.0    10.0    14.0     3.0     2.0     0.0     0.0     0.0    20.0
+     0.0    78.0     0.0     0.0     0.0     0.0   170.0     3.0     6.0     1.0
+     0.0     0.0     2.0     0.0     6.0     0.0
+95, , 4664
+     0.0     0.0    12.0     0.0     0.0     0.0   249.0     2.0     0.0     0.0
+     0.0     0.0    19.0    16.0     0.0     3.0     5.0     0.0     0.0     3.0
+     0.0   140.0     1.0     0.0     0.0     0.0   104.0    10.0     4.0     0.0
+     0.0     0.0     7.0     0.0    26.0     0.0
+105, , 5155
+     0.0     0.0    18.0     0.0     0.0     1.0   256.0     0.0     0.0     0.0
+     0.0     1.0    65.0    26.0     0.0     2.0     0.0     0.0     0.0     6.0
+     0.0   168.0     0.0     0.0     0.0     0.0    74.0     5.0     8.0     0.0
+     0.0     0.0    19.0     0.0     6.0     3.0
+115, , 5646
+     0.0     0.0    12.0     2.0     0.0     0.0   147.0     2.0     0.0     1.0
+     0.0     1.0    34.0    14.0     0.0     0.0     0.0     0.0     0.0     1.0
+     0.0   173.0     0.0     0.0     0.0     0.0   114.0     1.0     1.0     0.0
+     0.0     0.0     4.0     0.0    11.0     0.0
+125, , 6137
+     0.0     0.0    15.0     2.0     0.0     0.0   119.0     1.0     0.0     2.0
+     0.0     0.0    30.0    19.0     2.0     3.0     0.0     0.0     1.0    12.0
+     0.0   138.0     0.0     0.0     0.0     0.0   208.0     5.0     7.0     0.0
+     0.0     0.0     5.0     0.0    18.0     0.0
+135, , 6628
+     0.0     4.0    17.0     0.0     0.0     0.0   165.0     1.0     0.0     0.0
+     0.0     1.0    18.0     8.0     0.0     2.0     1.0     0.0     0.0     1.0
+     0.0    86.0     0.0     0.0     0.0     0.0   214.0     7.0     4.0     0.0
+     0.0     0.0     8.0     1.0     2.0     1.0
+145, , 7119
+     0.0     0.0    11.0     0.0     0.0     0.0   134.0     0.0     0.0     0.0
+     0.0     0.0    22.0     5.0     0.0     4.0     4.0     0.0     0.0     5.0
+     0.0   156.0     0.0     0.0     1.0     0.0   148.0     8.0     5.0     0.0
+     0.0     0.0    21.0     0.0    16.0     0.0

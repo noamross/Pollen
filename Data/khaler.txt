@@ -1,0 +1,72 @@
+# GPD ASCII Format
+# 04 Mar 04
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** Pollen Database for Siberia and the Russian Far East.             **
+# ***********************************************************************
+#
+# Site name:      Khalerchinskaya Tundra
+# Place:          RUS:Sakha
+# Latitude:       68.00.00N      (  68.0     )
+# Longitude:      162.00.00E     ( 162.0     )
+# Elevation(m):   39
+# Sigle:          KHALER
+# Entity name:
+# Contact person: Lozhkin, A.V.
+# Entity notes:   site located in Kolyma lowland, where there are numerous
+#                 thermokarst lakes and meandering rivers.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#    80.0    10    3660     45     45  MAG-172      L    bulk peat
+#
+# Chron name:     PALE 1
+# Age model:      single date - single sample
+# Age bounds:     3650 - 3670
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#    80.0    10    3660   3705   3615   C14
+#
+# Publications:   Kaplina, T.N., and A.V. Lozhkin. 1982. The history of
+#                 vegetation of the Primorskikh lowland of Yakutia in the
+#                 Holocene. Pages 207-220 in A.A. Velichko, I.I. Spasskaya,
+#                 and N.A. Khotinskiy, editors. Evolution of the environment
+#                 of the territory of the USSR during the late Pleistocene and
+#                 Holocene. Nauka, Moscow. In Russian.
+#
+#                 Anderson, P.M., and A.V. Lozhkin, editors. 2002. Late
+#                 Quaternary Vegetation and Climate of Siberia and the Russian
+#                 Far East (Palynological and Radiocarbon Database). North
+#                 East Science Center, Far East Branch, Russian Academy of
+#                 Sciences, Magadan, Russia.
+#
+22 1
+    1 Aln      A Alnus
+    2 Bet      A Betula
+    3 Ercae    A Ericaceae
+    4 Pic.Eu   A Picea sect. Eupicea
+    5 Pic.ud   A Picea undiff.
+    6 Pin.St   A Pinus subg. Strobus
+    7 Slx      A Salix
+    8 Braae    B Brassicaceae
+    9 Cypae    B Cyperaceae
+   10 Iriae    B Iridaceae
+   11 Lilae    B Liliaceae
+   12 Ped      B Pedicularis
+   13 Poaae    B Poaceae
+   14 Pomae.ud B Polemoniaceae undiff.
+   15 Pom.bo   B Polemonium boreale
+   16 Rosae.ud B Rosaceae undiff.
+   17 San      B Sanguisorba
+   18 Val      B Valeriana
+   19 Polta    F Polypodiophyta
+   20 Br:Bryes M Bryales
+   21 Br:Spg   M Sphagnum
+   22 unk      X Unknown
+80, , 3660
+    49.0    98.0    10.0     1.0     1.0   160.0     1.0     1.0   129.0     1.0
+     1.0     2.0    12.0     1.0     1.0     1.0     1.0     1.0     1.0    20.0
+    14.0     2.0

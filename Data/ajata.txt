@@ -1,0 +1,91 @@
+# GPD ASCII Format
+# 24 Apr 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the Latin American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Ajata
+# Place:          CHL:
+# Latitude:       18.15.00S      ( -18.25    )
+# Longitude:      69.12.00W      ( -69.2     )
+# Elevation(m):   4700
+# Sigle:          AJATA
+# Entity name:
+# Contact person: Graf, K.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   180.0     5    1460     60     60  UZ-1680      U    peat
+#
+# Chron name:     LAPD 1
+# Age model:      linear interpolation
+# Age bounds:     0 - 1460
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0     0       0      0      0   TOP
+#   180.0     5    1460   1520   1400   C14
+#
+20 13
+    1 Aln      A Alnus
+    2 Eph      A Ephedra
+    3 Myr      A Myrica
+    4 Pod      A Podocarpus
+    5 Amaae    B Amaranthaceae
+    6 Astae.As B Asteraceae subf. Asteroideae
+    7 Azr      B Azorella
+    8 Braae    B Brassicaceae
+    9 Cryae    B Caryophyllaceae
+   10 Cheae    B Chenopodiaceae
+   11 Cypae    B Cyperaceae
+   12 Genae-t  B Gentianaceae-type
+   13 Pln      B Plantago
+   14 Poaae    B Poaceae
+   15 Po/Ac    B Polylepis/Acaena
+   16 Solae    B Solanaceae
+   17 Lyc.cl   F Lycopodium clavatum
+   18 Fu:      U Fungus
+   19 ot       X Other
+   20 ase.cm2  - Area slide examined (cm²)
+0, , 0
+     1.0     0.0     1.0     0.0     1.0    28.0     1.0     0.0     2.0     2.0
+    17.0     3.0     2.0    77.0     1.0     2.0     0.0    19.0     0.0     0.0
+30, , 243
+     1.0     0.0     1.0     0.0     1.0    64.0     9.0     1.0     9.0     3.0
+    35.0     4.0     0.0    80.0     1.0     1.0     0.0    26.0     0.0     3.9
+60, , 487
+     1.0     0.0     0.0     0.0     0.0    38.0     2.0     3.0     7.0     3.0
+    23.0     4.0     0.0    64.0     3.0     1.0     0.0    14.0     0.0     7.7
+90, , 730
+     0.0     1.0     0.0     0.0     0.0    55.0     1.0     1.0     2.0     0.0
+    18.0     3.0     0.0    57.0     1.0     0.0     0.0    33.0     0.0     5.1
+120, , 973
+     0.0     1.0     0.0     0.0     0.0    48.0     1.0     5.0    26.0     2.0
+    37.0     3.0     0.0   114.0     2.0     0.0     0.0    82.0     0.0     6.5
+150, , 1217
+     0.0     0.0     0.0     0.0     0.0    40.0     2.0     0.0    12.0     7.0
+    32.0     3.0     0.0    58.0     0.0     1.0     0.0    61.0     0.0     5.0
+180, , 1460
+     0.0     0.0     0.0     0.0     0.0    33.0     1.0     0.0     8.0     2.0
+    21.0     1.0     0.0    74.0     0.0     1.0     0.0    39.0     0.0    10.0
+210, , 1703
+     0.0     0.0     0.0     0.0     0.0    18.0    16.0     0.0     5.0     1.0
+    11.0     2.0     0.0    55.0     3.0     0.0     0.0    20.0     0.0     7.7
+250, , 2028
+     2.0     0.0     0.0     0.0     0.0    33.0     0.0     1.0     3.0     0.0
+    21.0     2.0     0.0    63.0     0.0     1.0     1.0    48.0     0.0     7.7
+270, , 2190
+     0.0     0.0     0.0     1.0     0.0    63.0     6.0     0.0     8.0     4.0
+    25.0     4.0     0.0    90.0     1.0     0.0     0.0    64.0     0.0     7.7
+300, , 2433
+     0.0     0.0     0.0     0.0     0.0    53.0     1.0     3.0     9.0     0.0
+    17.0     2.0     0.0    67.0     0.0     0.0     0.0    13.0     6.0     6.0
+330, , 2677
+     0.0     0.0     0.0     0.0     0.0    74.0     2.0     3.0     1.0     0.0
+     5.0     1.0     0.0    24.0     0.0     1.0     0.0    12.0     3.0    11.5
+350, , 2839
+     0.0     0.0     0.0     0.0     0.0    25.0     1.0     0.0     9.0     0.0
+     9.0     0.0     0.0    67.0     0.0     2.0     0.0    59.0     1.0     3.5

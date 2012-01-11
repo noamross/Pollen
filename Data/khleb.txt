@@ -1,0 +1,182 @@
+# GPD ASCII Format
+# 04 Mar 04
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** Pollen Database for Siberia and the Russian Far East.             **
+# ***********************************************************************
+#
+# Site name:      Khlebnikova Stream Exposure 5858
+# Place:          RUS:Sakhalinskaya Oblast
+# Latitude:       43.45.00N      (  43.75    )
+# Longitude:      145.37.00E     ( 145.616667)
+# Elevation(m):   3
+# Sigle:          KHLEB
+# Entity name:    K5858
+# Contact person: Korotky, A.M.
+# Entity notes:   trees include Quercus crispula, Acer, Phellodendron
+#                 amurense, Juglans, Betula, Aralia, Acer, Picea microsperma,
+#                 Abies mayriana, Abies sachalinensis
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#    45.0    10    2070     30     30  GIN-8440     L    peat
+#    57.5     5    2730     90     90  GIN-8442     L    peat
+#    77.5     5    3790     70     70  GIN-8441     L    peat
+#   155.0    10    4600     70     70  GIN-8443     L    peat
+#
+# Chron name:     GPD 1
+# Age model:      linear interpolation
+# Age bounds:     1800 - 4660
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#    45.0    10    2070   2100   2040   C14
+#    57.5     5    2730   2760   2700   C14
+#    77.5     5    3790   3860   3720   C14
+#   155.0    10    4600   4670   4530   C14
+#
+# Publications:   Korotky, A.M., N.G. Razzhigaeva, T.A. Grebennikova, L.A.
+#                 Ganzey, L.M. Mokhova, V.B. Bazarova, and L.D. Sulerzhitsky.
+#                 1995. Holocene marine terraces of Kunashir Island, Kuril
+#                 Islands. Quaternary Research 34:359-375.
+#
+#                 Korotky, A.M., N.G. Razzhigaeva, L.M. Mokhova, L.A. Ganzey,
+#                 T.A. Grebennikova, and V.B. Bazarova. 1996. Coastal dunes as
+#                 an indicator of period of global climatic deterioration
+#                 (Kunashir Island, Kuriles). Geology of the Pacific Ocean
+#                 13:73-84.
+#
+#                 Anderson, P.M., and A.V. Lozhkin, editors. 2002. Late
+#                 Quaternary Vegetation and Climate of Siberia and the Russian
+#                 Far East (Palynological and Radiocarbon Database). North
+#                 East Science Center, Far East Branch, Russian Academy of
+#                 Sciences, Magadan, Russia.
+#
+41 14
+    1 Abi      A Abies
+    2 Ace      A Acer
+    3 Aln.ud   A Alnus undiff.
+    4 Aln.vi.f A Alnus viridis subsp. fruticosa
+    5 Bet.Be   A Betula sect. Betula
+    6 Bet.Cs   A Betula sect. Costatae
+    7 Bet.Na   A Betula sect. Nanae
+    8 Bet.ud   A Betula undiff.
+    9 Cpn      A Carpinus
+   10 Cas      A Castanea
+   11 Cor      A Corylus
+   12 Ercae    A Ericaceae
+   13 Fag      A Fagus
+   14 Fra      A Fraxinus
+   15 Jug      A Juglans
+   16 Myr      A Myrica
+   17 Pdn      A Phellodendron
+   18 Pic.Eu   A Picea sect. Eupicea
+   19 Pic.Om   A Picea sect. Omorica
+   20 Pin.St   A Pinus subg. Strobus
+   21 Que      A Quercus
+   22 Til      A Tilia
+   23 Ulm      A Ulmus
+   24 Apiae    B Apiaceae
+   25 Art      B Artemisia
+   26 Astae.ud B Asteraceae undiff.
+   27 Cryae    B Caryophyllaceae
+   28 Cheae    B Chenopodiaceae
+   29 Cypae    B Cyperaceae
+   30 Fabae    B Fabaceae
+   31 Lilae    B Liliaceae
+   32 Poaae    B Poaceae
+   33 Pomae    B Polemoniaceae
+   34 Pol      B Polygonum
+   35 Ranae    B Ranunculaceae
+   36 San      B Sanguisorba
+   37 Lyc.cl   F Lycopodium clavatum
+   38 Osu      F Osmunda
+   39 Plpae    F Polypodiaceae
+   40 Br:Spg   M Sphagnum
+   41 Aliae    Q Alismataceae
+10, , 222
+     6.0     0.0    38.0     5.0    36.0    47.0     0.0     9.0     0.0     0.0
+     0.0    21.0     0.0     0.0     5.0    56.0     0.0     5.0     5.0     7.0
+    52.0     1.0     6.0     2.0     3.0     0.0     1.0     2.0    18.0     0.0
+     3.0    34.0     0.0     1.0     4.0     7.0     3.0     3.0   152.0     2.0
+     4.0
+20, , 750
+     4.0     0.0    51.0     9.0    58.0    27.0     0.0    10.0     0.0     0.0
+     0.0    19.0     0.0     0.0     5.0    31.0     0.0     3.0     2.0     3.0
+    77.0     0.0    14.0     1.0    18.0     2.0     0.0     0.0     4.0     0.0
+     4.0    90.0     0.0     0.0     0.0     0.0     2.0     4.0   160.0     4.0
+     2.0
+30, , 1278
+     0.0     0.0    22.0     6.0    88.0    20.0     0.0    15.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0    71.0     0.0     0.0     1.0     1.0
+    30.0     0.0     6.0     1.0     6.0     3.0     0.0     0.0     0.0     1.0
+    18.0    11.0     0.0     0.0     0.0     0.0     1.0     0.0    29.0     0.0
+     0.0
+40, , 1806
+    16.0     0.0    53.0     0.0    47.0    53.0     0.0     5.0     0.0     0.0
+     0.0   300.0     0.0     0.0     6.0    22.0     1.0    10.0     1.0     3.0
+    55.0     0.0    13.0     0.0     5.0     1.0     1.0     1.0     8.0     0.0
+     0.0     2.0     0.0     0.0     0.0     0.0    57.0     5.0     8.0     0.0
+     0.0
+50, , 2334
+     7.0     4.0    26.0     0.0    66.0    31.0     0.0     5.0     0.0     0.0
+     1.0    66.0     3.0     0.0     1.0     0.0     0.0     0.0     5.0     4.0
+   120.0     0.0     7.0     0.0    12.0    13.0     0.0     0.0     0.0     3.0
+     0.0    16.0     2.0     0.0     0.0     0.0     0.0    30.0   185.0     0.0
+     0.0
+58, , 2756
+     2.0     2.0     8.0     0.0    11.0     8.0     0.0     3.0     0.0     0.0
+     0.0     5.0     0.0     0.0     5.0     0.0     0.0     3.0     2.0     4.0
+    87.0     0.0     5.0     0.0    14.0    17.0     0.0     0.0     0.0     2.0
+     0.0    15.0     0.0     0.0     0.0     0.0     0.0     0.0   279.0   210.0
+     0.0
+65, , 3128
+     7.0     0.0     7.0     0.0    19.0     4.0    11.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     2.0     0.0     0.0     4.0     7.0     8.0
+    90.0     0.0     1.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     2.0     0.0     0.0     0.0     0.0     0.0     1.0   169.0    75.0
+     0.0
+75, , 3658
+     1.0     0.0     5.0     3.0     9.0     7.0     0.0    10.0     0.0     0.0
+     0.0     0.0     0.0     0.0     7.0     0.0     0.0     4.0     0.0     8.0
+   118.0     0.0     8.0     0.0     0.0     0.0     0.0     0.0     0.0     1.0
+     0.0    11.0     0.0     0.0     0.0     0.0     1.0    10.0    44.0    40.0
+     0.0
+90, , 3921
+     2.0     1.0     7.0     0.0    27.0     5.0     0.0     0.0     0.0     1.0
+     0.0     0.0     1.0     0.0     4.0     0.0     0.0     1.0     0.0     3.0
+   220.0     1.0     7.0     0.0     8.0     2.0     0.0     2.0     0.0     2.0
+     0.0     6.0     0.0     0.0     0.0     0.0     0.0     4.0    36.0     0.0
+     0.0
+95, , 3973
+     4.0     1.0    19.0     0.0    20.0     9.0     0.0     0.0     7.0     0.0
+     0.0    13.0     3.0     1.0     3.0     2.0     0.0     3.0     0.0     1.0
+   219.0     0.0     8.0     6.0     5.0     0.0     1.0     2.0     6.0     0.0
+     0.0     7.0     0.0     0.0     0.0     0.0     0.0     0.0   106.0     1.0
+     0.0
+115, , 4182
+     0.0     0.0    17.0     0.0    36.0    12.0     0.0     0.0     1.0     0.0
+     1.0     2.0     0.0     0.0     1.0     2.0     0.0     1.0     0.0     0.0
+   152.0     0.0    12.0     8.0     5.0     0.0     5.0     0.0    24.0     6.0
+     0.0    20.0     0.0     0.0     0.0     0.0     0.0     2.0   218.0     0.0
+     0.0
+130, , 4339
+     0.0     1.0     2.0     3.0     4.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     1.0     0.0     0.0     5.0     0.0     0.0
+    82.0     0.0     5.0     6.0     0.0     0.0     0.0     0.0     1.0    14.0
+     0.0     2.0     0.0     0.0     0.0     0.0     0.0     0.0     4.0     0.0
+     0.0
+150, , 4548
+     0.0     0.0     0.0     4.0     7.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     3.0
+    74.0     0.0     2.0     6.0     1.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     3.0     0.0
+     0.0
+160, , 4652
+     1.0     0.0    13.0     0.0    27.0     2.0     0.0     7.0     0.0     0.0
+     0.0    12.0     0.0     0.0     6.0     4.0     0.0    17.0     2.0    16.0
+   114.0     0.0     1.0     7.0     2.0     3.0     0.0     3.0     5.0     0.0
+     0.0     1.0     0.0     1.0     0.0     0.0     7.0     4.0   173.0     0.0
+     2.0

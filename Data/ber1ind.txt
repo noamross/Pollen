@@ -1,0 +1,211 @@
+# GPD ASCII Format
+# 30 Jan 04
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** Pollen Database for Siberia and the Russian Far East.             **
+# ***********************************************************************
+#
+# Site name:      Berelyekh River, Indigirka Lowland
+# Place:          RUS:Sakha
+# Latitude:       70.35.00N      (  70.583333)
+# Longitude:      145.00.00E     ( 145.0     )
+# Elevation(m):   20
+# Sigle:          BER1IND
+# Entity name:
+# Contact person: Lozhkin, A.V.
+# Entity notes:   14m alluvial terrace, Berelyekh R., Lower Indigirka; Mammoth
+#                 site
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   112.5     5   10260    155    155  MAG118       L    wood
+#   132.5     5   10440    100    100  MAG119       L    wood
+#   172.5     5   11870     60     60  MAG117       L    wood
+#   324.5     5   13700     80     80  MAG114       L    muscle and skin of mam
+# Dating notes:   WOOD ASSOCIATED WITH SECOND TERRACE BERELEKH R.
+#                 WOOD ASSOCIATED WITH SECOND TERRACE BERELEKH R.
+#                 WOOD ASSOCIATED WITH SECOND TERRACE BERELEKH R.
+#                 MAMMOTH REMAINS ASSOCIATED WITH SECOND TERRACE BERELEKH R.
+#
+# Chron name:     PALE preferred
+# Age model:      linear interpolation
+# Age bounds:     7000 - 13710
+# Chron notes:    model to be used only for 0-325 cm
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0     2    7000   7500   6500   EXT
+#   112.5     5   10260  10415  10105   C14
+#   132.5     5   10440  10540  10340   C14
+#   172.5     5   11870  11930  11810   C14
+#   324.5     5   13700  13780  13620   C14
+#
+# Publications:   Lozhkin, A.V. 1977. Environment of the Berelyekh mammoth
+#                 population. Pages 67-68 in O.A. Skarlato, editor. Volume 72.
+#                 Mammoth fauna of the Russian plain and Eastern Siberia.
+#                 Zoological Institute, USSR Academy of Sciences, Leningrad.
+#                 In Russian.
+#
+#                 Lozhkin, A.V. 1998. Questions concerning radiocarbon data
+#                 and palynological characteristics of the mammoth burials,
+#                 Berelyekh River, lower Indigirka drainage. Pages 45-62 in
+#                 K.V. Simakov, editor. Environmental changes in Beringia
+#                 during the Quaternary. North East Interdisciplinary Research
+#                 Institute, Far East Branch, Russian Academy of Sciences,
+#                 Magadan. In Russian.
+#
+#                 Vereschagin, N.K. 1977. Berelyekh mammoth "cemetery." Pages
+#                 5-50 in O.A. Skarlato, editor. Volume 72. Mammoth fauna of
+#                 the Russian plain and Eastern Siberia. Zoological Institute,
+#                 USSR Academy of Sciences, Leningrad. In Russian.
+#
+#                 Anderson, P.M., and A.V. Lozhkin, editors. 2002. Late
+#                 Quaternary Vegetation and Climate of Siberia and the Russian
+#                 Far East (Palynological and Radiocarbon Database). North
+#                 East Science Center, Far East Branch, Russian Academy of
+#                 Sciences, Magadan, Russia.
+#
+45 16
+    1 Aln      A Alnus
+    2 Bet      A Betula
+    3 Ercae    A Ericaceae
+    4 Lar      A Larix
+    5 Pic      A Picea
+    6 Pinae.ud A Pinaceae undiff.
+    7 Pin.Pi   A Pinus subg. Pinus
+    8 Pin.St   A Pinus subg. Strobus
+    9 Rbs.ch   A Rubus chamaemorus
+   10 Slx      A Salix
+   11 Tsu      A Tsuga
+   12 Apiae    B Apiaceae
+   13 Art      B Artemisia
+   14 Astae.ud B Asteraceae undiff.
+   15 Braae    B Brassicaceae
+   16 Cryae    B Caryophyllaceae
+   17 Ch/Am    B Chenopodiaceae/Amaranthaceae
+   18 Cypae    B Cyperaceae
+   19 Droae    B Droseraceae
+   20 Fabae    B Fabaceae
+   21 Ongae    B Onagraceae
+   22 Papae    B Papaveraceae
+   23 Ped      B Pedicularis
+   24 Png      B Pinguicula
+   25 Poaae    B Poaceae
+   26 Pomae    B Polemoniaceae
+   27 Polae    B Polygonaceae
+   28 Ranae.ud B Ranunculaceae undiff.
+   29 Rosae.ud B Rosaceae undiff.
+   30 Rubae    B Rubiaceae
+   31 Saxae    B Saxifragaceae
+   32 Tha      B Thalictrum
+   33 Val      B Valeriana
+   34 Equ      F Equisetum
+   35 Lycae    F Lycopodiaceae
+   36 Ophae    F Ophioglossaceae
+   37 Polta.ud F Polypodiophyta undiff.
+   38 Sel      F Selaginella
+   39 Pdi      L Pediastrum
+   40 Br:Bryes M Bryales
+   41 Br:Hepae M Hepaticae
+   42 Br:Spg   M Sphagnum
+   43 Myp      Q Myriophyllum
+   44 Pot      Q Potamogeton
+   45 unk      X Unknown
+0, , 7000
+   143.0   146.0     2.0     1.0     0.0     0.0     0.0     1.0     1.0     4.0
+     0.0     0.0     1.0     0.0     0.0     0.0     0.0     3.0     0.0     0.0
+     0.0     0.0     0.0     0.0     5.0     1.0     0.0     0.0     0.0     0.0
+     1.0     0.0     0.0     0.0     0.0     1.0     1.0     0.0     0.0     4.0
+     0.0     3.0     0.0     0.0     0.0
+35, , 8014
+    44.0    56.0     7.0     0.0     0.0     0.0     0.0     6.0     1.0     9.0
+     0.0     1.0     9.0     8.0     1.0     4.0     1.0    38.0     0.0     1.0
+     0.0     0.0     0.0     0.0    22.0     1.0     1.0     1.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     1.0     4.0     0.0    20.0
+     2.0    32.0     3.0     4.0     0.0
+65, , 8883
+    56.0    63.0     5.0     0.0     0.0     0.0     0.0     8.0     0.0    22.0
+     0.0     0.0    13.0    13.0     0.0     9.0     4.0    26.0     0.0     1.0
+     0.0     0.0     0.0     1.0    28.0     8.0     0.0     0.0     0.0     0.0
+     1.0     0.0     0.0     3.0     0.0     0.0     2.0     3.0     0.0    12.0
+     2.0    18.0     1.0     0.0     4.0
+105, , 10042
+    48.0    86.0    13.0     0.0     1.0     1.0     0.0     4.0     0.0    19.0
+     0.0     0.0     5.0     3.0     1.0     2.0     0.0    30.0     3.0     2.0
+     1.0     0.0     0.0     0.0    16.0     2.0     0.0     0.0     0.0     0.0
+     3.0     0.0     1.0     3.0     1.0     0.0     0.0     1.0     0.0    19.0
+     2.0    34.0     1.0     0.0     7.0
+135, , 10529
+    53.0   118.0    15.0     0.0     0.0     0.0     0.0     9.0     0.0    14.0
+     0.0     0.0     8.0     9.0     0.0     4.0     2.0    18.0     0.0     1.0
+     0.0     0.0     0.0     0.0    23.0     3.0     0.0     3.0     0.0     0.0
+     0.0     0.0     0.0     3.0     1.0     0.0     1.0    12.0     0.0    10.0
+     0.0    84.0     0.0     0.0    13.0
+170, , 11780
+    42.0    62.0    10.0     0.0     1.0     0.0     1.0     7.0     0.0    13.0
+     1.0     0.0     1.0     9.0     0.0     8.0     1.0    19.0     0.0     1.0
+     1.0     0.0     0.0     0.0    34.0     0.0     1.0     0.0     0.0     0.0
+     1.0     0.0     0.0     1.0     0.0     0.0     2.0     0.0     0.0    13.0
+     3.0    42.0     0.0     0.0     8.0
+215, , 12381
+    56.0    63.0     6.0     2.0     0.0     0.0     0.0    10.0     0.0     7.0
+     0.0     0.0     3.0    14.0     0.0     7.0     2.0     1.0     0.0     1.0
+     0.0     0.0     0.0     0.0    44.0     3.0     3.0     0.0     0.0     0.0
+     0.0     0.0     0.0     2.0     0.0     0.0     0.0     0.0     0.0     7.0
+     0.0    40.0     0.0     0.0    21.0
+265, , 12983
+     9.0     9.0     1.0     0.0     0.0     0.0     0.0     2.0     0.0     4.0
+     0.0     1.0    75.0     6.0     0.0    12.0     4.0     2.0     0.0     2.0
+     0.0     0.0     2.0     0.0   156.0     1.0     0.0     7.0     0.0     0.0
+     0.0     0.0     0.0     4.0     1.0     0.0     1.0     0.0     0.0    13.0
+     3.0     3.0     0.0     0.0    17.0
+325, , 13706
+    37.0    57.0     1.0     0.0     0.0     0.0     0.0     4.0     0.0     5.0
+     0.0     0.0    29.0    14.0     0.0    10.0     3.0    13.0     0.0     1.0
+     0.0     0.0     0.0     0.0   128.0     0.0     0.0     1.0     0.0     0.0
+     1.0     1.0     0.0     4.0     1.0     0.0     1.0     5.0     0.0    12.0
+     1.0    10.0     0.0     0.0    19.0
+355, , 14067
+    22.0    21.0     3.0     0.0     0.0     0.0     0.0     2.0     0.0     8.0
+     0.0     2.0    53.0     4.0     2.0    15.0     1.0     4.0     0.0     1.0
+     0.0     0.0     0.0     0.0   130.0     2.0     0.0    11.0     0.0     0.0
+     1.0     0.0     0.0     2.0     0.0     0.0     2.0     4.0     0.0     7.0
+     0.0     7.0     0.0     0.0    36.0
+385, , 14428
+    43.0    37.0     1.0     0.0     0.0     0.0     0.0     1.0     0.0     7.0
+     0.0     5.0    39.0    16.0     2.0    32.0     0.0     6.0     0.0     3.0
+     1.0     0.0     0.0     0.0   127.0     7.0     0.0     2.0     0.0     2.0
+     0.0     1.0     3.0     2.0     1.0     0.0     1.0     9.0     0.0     6.0
+     0.0    14.0     0.0     0.0    19.0
+435, , 15030
+    31.0    37.0     0.0     1.0     0.0     0.0     0.0     2.0     0.0     6.0
+     0.0     4.0    41.0    17.0     2.0    21.0     2.0    11.0     0.0     6.0
+     0.0     1.0     0.0     0.0    92.0     1.0     0.0     4.0     1.0     0.0
+     1.0     0.0     0.0     6.0     0.0     0.0     0.0     9.0     0.0     0.0
+     5.0    13.0     0.0     0.0    20.0
+460, , 15331
+    22.0    38.0     1.0     0.0     0.0     0.0     0.0     1.0     0.0     1.0
+     0.0     0.0    12.0    15.0     0.0     9.0     0.0     3.0     0.0     1.0
+     0.0     0.0     2.0     0.0    62.0     4.0     0.0     7.0     0.0     0.0
+     0.0     0.0     0.0     2.0     0.0     0.0     1.0     6.0     0.0    31.0
+     0.0    14.0     0.0     0.0    10.0
+480, , 15572
+    36.0    37.0     2.0     0.0     0.0     0.0     0.0     4.0     0.0    11.0
+     0.0     4.0    15.0     6.0     3.0    27.0     1.0    12.0     0.0     0.0
+     0.0     0.0     0.0     0.0    75.0     5.0     1.0     7.0     1.0     0.0
+     4.0     0.0     0.0     0.0     0.0     0.0     0.0     6.0     2.0     9.0
+     1.0    15.0     0.0     0.0     7.0
+500, , 15812
+    39.0    65.0     0.0     0.0     0.0     0.0     0.0     1.0     1.0     5.0
+     0.0     3.0    23.0     5.0     0.0     9.0     2.0     9.0     0.0     0.0
+     0.0     0.0     0.0     0.0   104.0     1.0     0.0     1.0     1.0     0.0
+     0.0     0.0     0.0     3.0     0.0     0.0     2.0     2.0     0.0     3.0
+     1.0     8.0     0.0     0.0    20.0
+525, , 16113
+    51.0   116.0     2.0     1.0     0.0     0.0     0.0     3.0     1.0    13.0
+     0.0     2.0     8.0    13.0     0.0    14.0     2.0    17.0     0.0     5.0
+     0.0     0.0     0.0     0.0    92.0     7.0     1.0     2.0     1.0     0.0
+     1.0     0.0     0.0     0.0     0.0     0.0     4.0     3.0     0.0    14.0
+     2.0    10.0     1.0     3.0     3.0

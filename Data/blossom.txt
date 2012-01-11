@@ -1,0 +1,97 @@
+# GPD ASCII Format
+# 30 Jan 04
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** Pollen Database for Siberia and the Russian Far East.             **
+# ***********************************************************************
+#
+# Site name:      Blossom Cape
+# Place:          RUS:Chukotskiy Avtonomnyy Okrug
+# Latitude:       70.41.00N      (  70.683333)
+# Longitude:      178.57.00E     ( 178.95    )
+# Elevation(m):   6
+# Sigle:          BLOSSOM
+# Entity name:
+# Contact person: Lozhkin, A.V.
+# Entity notes:   Site is a 4 m high sea cliff bordering Longa Strait; the
+#                 lower 2.2m were covered by slump deposits and not sampled.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#    60.5     9   10275     30     30  MAG-1167     L    bulk peat
+#
+# Chron name:     PALE preferred
+# Age model:      single date - single level
+# Age bounds:     10270 - 10280
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#    60.5     9   10275  10305  10245   C14
+#
+# Publications:   Oganesyan, A.Sh., T.P. Prokhorova, M.A. Trumpe, and N.G.
+#                 Susekova. 1993. Paleosols and peats of Wrangel Island.
+#                 Pochvovedenie 2:15-28. In Russian.
+#
+#                 Anderson, P.M., and A.V. Lozhkin, editors. 2002. Late
+#                 Quaternary Vegetation and Climate of Siberia and the Russian
+#                 Far East (Palynological and Radiocarbon Database). North
+#                 East Science Center, Far East Branch, Russian Academy of
+#                 Sciences, Magadan, Russia.
+#
+34 4
+    1 Aln      A Alnus
+    2 Bet      A Betula
+    3 Erles    A Ericales
+    4 Groae    A Grossulariaceae
+    5 Pin.Pi   A Pinus subg. Pinus
+    6 Pin.St   A Pinus subg. Strobus
+    7 Rbs.ch   A Rubus chamaemorus
+    8 Slx      A Salix
+    9 Apiae    B Apiaceae
+   10 Art      B Artemisia
+   11 Astae.Ci B Asteraceae subf. Cichorioideae
+   12 Astae.ud B Asteraceae undiff.
+   13 Braae    B Brassicaceae
+   14 Cryae    B Caryophyllaceae
+   15 Cheae    B Chenopodiaceae
+   16 Cypae    B Cyperaceae
+   17 Lilae    B Liliaceae
+   18 Poaae    B Poaceae
+   19 Pom      B Polemonium
+   20 Pol.Ac   B Polygonum sect. Aconogonon
+   21 Pol.Bi   B Polygonum sect. Bistorta
+   22 Ranae    B Ranunculaceae
+   23 Rosae.ud B Rosaceae undiff.
+   24 San      B Sanguisorba
+   25 Saxae    B Saxifragaceae
+   26 Scrae    B Scrophulariaceae
+   27 Val      B Valeriana
+   28 Lyc.an.a F Lycopodium annotinum subsp. alpestre
+   29 Plpae    F Polypodiaceae
+   30 Sel.ru   F Selaginella rupestris
+   31 Br:Bryes M Bryales
+   32 Br:Hepae M Hepaticae
+   33 Br:Spg   M Sphagnum
+   34 sp.ud    S Spore undiff.
+2
+    28.0    51.0    24.0     0.0     2.0     9.0     0.0     5.0     0.0    39.0
+     1.0     5.0     2.0     1.0     1.0     8.0     0.0   170.0     0.0     1.0
+     2.0     6.0    15.0     0.0    40.0    18.0     1.0     1.0     3.0    18.0
+    23.0     2.0     5.0    12.0
+28
+     8.0    47.0     4.0     0.0     0.0     1.0     1.0     2.0     0.0     6.0
+     0.0     2.0     2.0     1.0     0.0    16.0     1.0   140.0     1.0     0.0
+     0.0    15.0     2.0     0.0     2.0     2.0     1.0     0.0     2.0     2.0
+   170.0     2.0     2.0     0.0
+60, , 10275
+    30.0   187.0    60.0     0.0     0.0     0.0     5.0    19.0     1.0    10.0
+     0.0    10.0     2.0     4.0     0.0    50.0     1.0   134.0     2.0     0.0
+     1.0     5.0    10.0     0.0     2.0     0.0     4.0     4.0     4.0     4.0
+    10.0     0.0    12.0     2.0
+75
+    10.0   158.0    20.0     2.0     0.0     0.0     0.0    30.0     0.0     0.0
+     0.0     8.0     2.0     9.0     2.0    40.0     0.0   140.0     0.0     0.0
+     0.0     7.0     7.0     3.0     2.0     2.0     5.0     0.0     4.0    14.0
+    20.0     0.0    10.0     5.0

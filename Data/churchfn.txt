@@ -1,0 +1,78 @@
+# GPD ASCII Format
+# 23 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Churchill Falls North
+# Place:          CAN:Newfoundland
+# Latitude:       53.36.00N      (  53.6     )
+# Longitude:      64.19.00W      ( -64.316667)
+# Elevation(m):   404
+# Sigle:          CHURCHFN
+# Entity name:
+# Contact person: Morrison, A.
+# Entity notes:   Data read from published pollen diagram as percents
+#                 (Morrison, 1970, Can.J.Bot.).Data were input as percents
+#                 using the percent conversion option with a pollen sum of
+#                 1000.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   220.0          5255    200    200
+#
+# Chron name:     COHMAP chron# 1
+# Age model:      linear interpolation
+# Age bounds:     200 - 5000
+# Chron notes:    1 C-14 date in peat core with possible hiatuses at 215 and
+#                 170cm. 1 ha bog close to river. Age bounds for application
+#                 of the model: top = 200; bottom = 5000.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#    20.0           200    300    100   TOP
+#   220.0          5255   5455   5055   C14
+#
+# Publications:   Morrison, A. 1970. Pollen diagrams from interior Labrador.
+#                 Canadian Journal of Botany 48:1957-1975.
+#
+8 14
+    1 Abi      A Abies
+    2 Ace      A Acer
+    3 Aln      A Alnus
+    4 Bet      A Betula
+    5 Lar      A Larix
+    6 Pic      A Picea
+    7 Pin      A Pinus
+    8 Slx      A Salix
+20, , 200
+    40.0    10.0    90.0    80.0    10.0   730.0    40.0     0.0
+40, , 705
+    40.0     0.0   100.0   120.0    20.0   690.0    30.0     0.0
+60, , 1210
+    40.0     0.0   120.0   160.0    20.0   630.0    30.0     0.0
+80, , 1716
+    40.0     0.0   160.0   180.0    20.0   580.0    20.0     0.0
+100, , 2221
+     0.0     0.0   210.0   215.0     0.0   560.0    15.0     0.0
+120, , 2727
+    25.0     0.0   180.0   180.0     0.0   600.0    15.0     0.0
+140, , 3232
+    25.0     0.0   215.0   190.0     0.0   570.0     0.0     0.0
+160, , 3738
+    25.0     0.0   110.0   190.0    10.0   625.0    30.0    10.0
+180, , 4243
+    15.0     0.0   155.0   160.0     5.0   630.0    30.0     5.0
+200, , 4749
+    50.0     0.0   100.0   200.0    10.0   600.0    30.0    10.0
+220, , 5255
+    30.0     0.0   260.0   420.0    10.0   270.0     5.0     5.0
+240, , 5760
+    10.0     0.0   380.0   560.0    10.0    30.0     0.0    10.0
+260, , 6265
+    10.0     0.0   380.0   430.0     0.0   170.0     0.0    10.0
+280, , 6771
+     0.0     0.0   250.0   390.0     0.0   360.0    10.0     0.0

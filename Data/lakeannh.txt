@@ -1,0 +1,119 @@
+# GPD ASCII Format
+# 24 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Lake Ann
+# Place:          USA:Minnesota
+# Latitude:       45.25.30N      (  45.425   )
+# Longitude:      93.41.15W      ( -93.6875  )
+# Elevation(m):   291
+# Sigle:          LAKEANNH
+# Entity name:    core H
+# Contact person: Shane, L.C.K.
+#
+# Chron name:     NAPD 1
+# Age model:      linear interpolation
+# Age bounds:      -
+# Chron notes:    Chron uses top and one sediment stratigraphic date
+#                 interpolated from Lake Ann, core F.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#   512.0     0     -30    -10    -30   TOP
+#   810.0    10   10500  11000  10000   SED
+#
+# Publications:   Keen, K.L., and L.C.K. Shane. 1990. A continuous record of
+#                 Holocene eolian activity and vegetation change at Lake Ann,
+#                 east-central Minnesota. Geological Society of America
+#                 Bulletin 102:1646-1657.
+#
+#                 Keen, K.L. 1985. Sand dunes on the Anoka Sand Plain. Thesis.
+#                 University of Minnesota, Minneapolis, Minnesota, USA.
+#
+45 6
+    1 Abi      A Abies
+    2 Ace.sa   A Acer saccharum
+    3 Aln.i    A Alnus incana
+    4 Bet      A Betula
+    5 Car      A Carya
+    6 Cor      A Corylus
+    7 Fra.ni   A Fraxinus nigra
+    8 Fra.pe   A Fraxinus pennsylvanica
+    9 Jug.c    A Juglans cinerea
+   10 Lar      A Larix
+   11 Os/Ca    A Ostrya/Carpinus
+   12 Pic      A Picea
+   13 Pin.ba   A Pinus banksiana
+   14 Pin.re   A Pinus resinosa
+   15 Pin.st   A Pinus strobus
+   16 Pin.P.ud A Pinus subg. Pinus undiff.
+   17 Pin.ud   A Pinus undiff.
+   18 Pla      A Platanus
+   19 Pop      A Populus
+   20 Que      A Quercus
+   21 Rha      A Rhamnus
+   22 Slx      A Salix
+   23 Til      A Tilia
+   24 Ulm      A Ulmus
+   25 Amb      B Ambrosia
+   26 Art      B Artemisia
+   27 Astae.Au B Asteraceae subf. Asteroideae undiff.
+   28 Cheae    B Chenopodiaceae
+   29 Cypae    B Cyperaceae
+   30 Iva.a    B Iva annua
+   31 Poaae    B Poaceae
+   32 Rosae    B Rosaceae
+   33 Tha      B Thalictrum
+   34 Xan      B Xanthium
+   35 Osu      F Osmunda
+   36 Plpae    F Polypodiaceae
+   37 Pdi      L Pediastrum
+   38 Nup      Q Nuphar
+   39 Pot      Q Potamogeton
+   40 Typ.l    Q Typha latifolia
+   41 ind.hi   X Indeterminable (hidden)
+   42 ind.ud   X Indeterminable undiff.
+   43 unk      X Unknown
+   44 Euc.spik - Eucalyptus spike (number counted)
+   45 sa.vo.ml - Sample volume (ml)
+650, , 4846
+     0.0     0.0     3.0    12.0     2.0     0.0     2.0     0.0     0.0     1.0
+     5.0     1.0     0.0     0.0     6.0     2.0    15.0     0.0     0.0    35.0
+     0.0     2.0     0.0     6.0     2.0    11.0     6.0     1.0     3.0     0.0
+    14.0     0.0     0.0     0.0     1.0     0.0    21.0     0.0     0.0     1.0
+     0.0     0.0     1.0    24.0     1.0
+720, , 7320
+     1.0     0.0     4.0     7.0     0.0     0.0     2.0     8.0     1.0     0.0
+     0.0     6.0     1.0     0.0     0.0    13.0    17.0     0.0     0.0    35.0
+     1.0     2.0     2.0     4.0     4.0    13.0     5.0     2.0     7.0     1.0
+    18.0     0.0     0.0     0.0     0.0     0.0    47.0     1.0     0.0     1.0
+     0.0     1.0     0.0    31.0     1.0
+780.5, , 9458
+     1.0     1.0     0.0     0.0     0.0     0.0     4.0     0.0     0.0     0.0
+     0.0    29.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     4.0
+     0.0     1.0     0.0     0.0     3.0     7.0     2.0     0.0     2.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     1.0     1.0    38.0     1.0
+800, , 10147
+     0.0     2.0     4.0    14.0     1.0     0.0     4.0     0.0     0.0     3.0
+     0.0     2.0     0.0     0.0    15.0     7.0    14.0     0.0     1.0    42.0
+     0.0     0.0     1.0     4.0     3.0     5.0     1.0     0.0     7.0     0.0
+    21.0     1.0     0.0     0.0     1.0     0.0    10.0     0.0     0.0     0.0
+     2.0     0.0     1.0    26.0     1.0
+825, , 11030
+     0.0     0.0     0.0     2.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     1.0     0.0     0.0     0.0     0.0     0.0
+     1.0     0.0     0.0     0.0     0.0     1.0     0.0     0.0     1.0     0.0
+     0.0     0.0     0.0     0.0     1.0
+890, , 13327
+     0.0     1.0     4.0     4.0     1.0     2.0     1.0     0.0     0.0     5.0
+     3.0     2.0     0.0     1.0     3.0     6.0    19.0     2.0     2.0    42.0
+     0.0     1.0     1.0     4.0     1.0     9.0     4.0     0.0     4.0     0.0
+    14.0     0.0     1.0    21.0     0.0     0.0    15.0     0.0     0.0     0.0
+     0.0     0.0     1.0    29.0     1.0

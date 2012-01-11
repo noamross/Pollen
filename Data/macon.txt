@@ -1,0 +1,136 @@
+# GPD ASCII Format
+# 24 Apr 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Macon
+# Place:          USA:Illinois
+# Latitude:       39.41.03N      (  39.684167)
+# Longitude:      89.03.32W      ( -89.058889)
+# Elevation(m):   189
+# Sigle:          MACON
+# Entity name:
+# Contact person: Grüger, E.
+# Entity notes:   No age model. The profile is from the Robein Silt
+#                 (Farmdalian, ca. 20-30 kyr BP) and Roxana Silt (Altonian:
+#                 ca. 30-45 kyr BP).
+#
+# Chron name:     [no chron]
+#
+# Publications:   Grüger, E. 1972. Pollen and seed studies of Wisconsinan
+#                 vegetation in Illinois, U.S.A. Geological Society of America
+#                 Bulletin 83:2715-2734.
+#
+48 10
+    1 Abi      A Abies
+    2 Aln      A Alnus
+    3 Bet      A Betula
+    4 Car      A Carya
+    5 Cor      A Corylus
+    6 Fra.ni-t A Fraxinus nigra-type
+    7 Fra.pe-t A Fraxinus pennsylvanica-type
+    8 Jug      A Juglans
+    9 Jun-t    A Juniperus-type
+   10 Liq      A Liquidambar
+   11 Pic      A Picea
+   12 Pin      A Pinus
+   13 Que      A Quercus
+   14 Slx      A Salix
+   15 Sar.v    A Sarcobatus vermiculatus
+   16 Til      A Tilia
+   17 Ulm      A Ulmus
+   18 Amb      B Ambrosia
+   19 Apiae.ud B Apiaceae undiff.
+   20 Art      B Artemisia
+   21 Astae.ud B Asteraceae undiff.
+   22 Cryae    B Caryophyllaceae
+   23 Ch/Am.ud B Chenopodiaceae/Amaranthaceae undiff.
+   24 Cypae    B Cyperaceae
+   25 Erg      B Eriogonum
+   26 Eup.Ch-t B Euphorbia subg. Chamaesyce-type
+   27 Ger      B Geranium
+   28 Geu-t    B Geum-type
+   29 Iva.a-t  B Iva annua-type
+   30 Poaae    B Poaceae
+   31 Pol.pe-t B Polygonum persicaria-type
+   32 Ptl-t    B Potentilla-type
+   33 Ranae.ud B Ranunculaceae undiff.
+   34 cf.Fil   B Rosaceae cf. Filipendula
+   35 Rosae.ud B Rosaceae undiff.
+   36 Rubae    B Rubiaceae
+   37 Siu-t    B Sium-type
+   38 Tha      B Thalictrum
+   39 Lycae    F Lycopodiaceae
+   40 Polta    F Polypodiophyta
+   41 Myp      Q Myriophyllum
+   42 Nup      Q Nuphar
+   43 Nym      Q Nymphaea
+   44 Sag      Q Sagittaria
+   45 Spa-t    Q Sparganium-type
+   46 Typ.l-t  Q Typha latifolia-type
+   47 ind      X Indeterminable
+   48 unk      X Unknown
+263
+     2.0     0.0     1.0     1.0     0.0     0.0     0.0     0.0     4.0     0.0
+   164.0   228.0     7.0     8.0     0.0     0.0     0.0     1.0     0.0     8.0
+    13.0     0.0     1.0    50.0     1.0     1.0     0.0     1.0     0.0     8.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     1.0     0.0     1.0
+     0.0     0.0     0.0     0.0     0.0     0.0     7.0     0.0
+270
+     0.0     0.0     3.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+   153.0   235.0     8.0    10.0     1.0     0.0     0.0     2.0     0.0     8.0
+    12.0     0.0     1.0    59.0     0.0     0.0     0.0     0.0     0.0     5.0
+     0.0     0.0     0.0     0.0     1.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     5.0     3.0
+280
+     2.0     3.0     2.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+   122.0   159.0    10.0     9.0     0.0     0.0     0.0     3.0     0.0    13.0
+     3.0     0.0     0.0    55.0     0.0     0.0     0.0     0.0     0.0    17.0
+     0.0     1.0     0.0     0.0     0.0     1.0     0.0     0.0     0.0     3.0
+     0.0     0.0     0.0     0.0     0.0     0.0    11.0     0.0
+290
+     0.0     7.0    23.0     1.0     1.0     0.0     0.0     0.0     2.0     0.0
+    89.0   213.0     9.0     5.0     0.0     1.0     1.0     3.0     0.0     6.0
+    18.0     0.0    28.0    75.0     0.0     0.0     0.0     0.0     1.0    66.0
+     2.0     0.0     0.0     0.0     3.0     0.0     2.0     0.0     0.0     3.0
+     1.0     5.0     2.0     3.0     0.0     5.0     8.0     3.0
+300
+     0.0    11.0    14.0     2.0     1.0     0.0     1.0     0.0     1.0     0.0
+    53.0   156.0    18.0     3.0     0.0     0.0     1.0     4.0     0.0     9.0
+    10.0     0.0    22.0    57.0     0.0     0.0     0.0     0.0     0.0   134.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     1.0     0.0     3.0
+     0.0     7.0     4.0     5.0     2.0     6.0     9.0     2.0
+310
+     0.0     6.0    51.0     0.0     0.0     1.0     0.0     1.0     0.0     0.0
+    90.0   216.0    16.0     3.0     0.0     0.0     3.0     1.0     0.0    14.0
+    12.0     0.0     7.0    43.0     0.0     0.0     0.0     0.0     0.0    33.0
+     1.0     0.0     0.0     0.0     0.0     0.0     1.0     0.0     0.0     1.0
+     0.0     1.0     0.0     3.0     1.0     2.0     4.0     1.0
+320
+     0.0     7.0    24.0     1.0     0.0     3.0     0.0     2.0     0.0     0.0
+    49.0   215.0    22.0     1.0     0.0     0.0     1.0     2.0     0.0     6.0
+     6.0     0.0     7.0    95.0     0.0     0.0     0.0     0.0     0.0    55.0
+     1.0     0.0     0.0     0.0     3.0     0.0     0.0     1.0     0.0     1.0
+     1.0     2.0     0.0     6.0     3.0     7.0     5.0     0.0
+330
+     0.0    30.0    27.0     4.0     0.0     0.0     1.0     0.0     0.0     0.0
+    34.1   182.0    46.0     6.0     0.0     0.0     8.0     6.0     0.0     9.0
+    12.0     0.0     9.0    31.0     0.0     0.0     1.0     0.0     0.0    99.0
+     1.0     0.0     0.0     0.0     0.0     0.0     0.0     3.0     0.0     2.0
+     2.0    20.0    14.0     2.0    22.0    18.0     2.0     2.0
+340
+     1.0    24.0    21.0     6.0     0.0     0.0     0.0     1.0     0.0     1.0
+    42.0   145.0    47.0     3.0     0.0     0.0     3.0     2.0     0.0    16.0
+    14.0     0.0     5.0    55.0     0.0     0.0     0.0     0.0     0.0   105.0
+     0.0     0.0     0.0     1.0     1.0     0.0     0.0     5.0     0.0     3.0
+     6.0    14.0    17.0     6.0     8.0    21.0     5.0     1.0
+350
+     0.0    33.0    26.0     5.0     2.0     5.0     1.0     1.0     1.0     1.0
+    13.0   119.5    49.0    11.0     0.0     1.0     6.0     5.0     1.0     8.0
+    15.0     1.0    21.0    48.0     0.0     0.0     0.0     0.0     2.0   120.0
+     0.0     0.0     2.0     0.0     2.0     0.0     0.0     1.0     2.0    15.0
+     3.0     5.0    14.0     8.0    19.0    53.0     9.0     1.0

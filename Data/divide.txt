@@ -1,0 +1,211 @@
+# GPD ASCII Format
+# 24 Apr 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Divide Lake
+# Place:          USA:Wyoming
+# Latitude:       43.56.00N      (  43.933333)
+# Longitude:      110.14.00W     (-110.233333)
+# Elevation(m):   2628
+# Sigle:          DIVIDE
+# Entity name:
+# Contact person: Whitlock, C.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#    97.5    15    3970     80     80  WIS-1934     G    fine detritus gyttja
+#   255.0    10    9800     90     90  WIS-1862     G    fine detritus gyttja
+#   285.0    15   11840    110    110  WIS-1863     G    fine detritus gyttja
+# Dating notes:   Water depth (720 cm) is subtracted from the sample depths as
+#                 per Whitlock (1993, Table 2). Water depth is not subtracted
+#                 from the dates reported in Radiocarbon, however.
+#
+# Chron name:     NAPD 1
+# Age model:      straight-line fit (least squares)
+# Age bounds:     0 - 12400
+# Chron notes:    Chron uses surface (0 BP), 3 radiocarbon dates, and Glacier
+#                 Peak tephra dated in Yellowstone region to 12100±200
+#                 (Whitlock 1993). Fit a least-squares straight line with
+#                 surface age held constant. Coefs: 0.0, 39.9742.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0     0       0     30    -30   TOP
+#    97.5    15    3970   4130   3810   C14
+#   255.0    10    9800   9980   9620   C14
+#   285.0    15   11840  12060  11620   C14
+#   305.5     1   12100  12300  11900   TEF
+#
+# Publications:   Whitlock, C. 1993. Postglacial vegetation and climate of
+#                 Grand Teton and southern Yellowstone National Parks.
+#                 Ecological Monographs 63:173-198.
+#
+#                 Whitlock, C., and P.J. Bartlein. 1993. Spatial variations of
+#                 Holocene climatic change in the Yellowstone region.
+#                 Quaternary Research 39:231-238.
+#
+#                 Steventon, R.L., and J.E. Kutzbach. 1988. University of
+#                 Wisconsin radiocarbon dates XXV. Radiocarbon 30:367-383.
+#
+#                 Steventon, R.L., and J.E. Kutzbach. 1987. University of
+#                 Wisconsin radiocarbon dates XXIV. Radiocarbon 29:397-415.
+#
+38 23
+    1 Abi      A Abies
+    2 Ace      A Acer
+    3 Aln      A Alnus
+    4 Arc      A Arceuthobium
+    5 Bet      A Betula
+    6 Eph      A Ephedra
+    7 Jun-t    A Juniperus-type
+    8 ot.tr&sh A Other trees and shrubs
+    9 Pic      A Picea
+   10 Pin.al-t A Pinus albicaulis-type
+   11 Pin.co-t A Pinus contorta-type
+   12 Pin.ud   A Pinus undiff.
+   13 Pop      A Populus
+   14 Psu-t    A Pseudotsuga-type
+   15 Que      A Quercus
+   16 Slx      A Salix
+   17 Sar.v    A Sarcobatus vermiculatus
+   18 She.c    A Shepherdia canadensis
+   19 Amb-t    B Ambrosia-type
+   20 Apiae    B Apiaceae
+   21 Art      B Artemisia
+   22 Astae.Au B Asteraceae subf. Asteroideae undiff.
+   23 Astae.Ci B Asteraceae subf. Cichorioideae
+   24 Ch/Am.ud B Chenopodiaceae/Amaranthaceae undiff.
+   25 Cypae    B Cyperaceae
+   26 Erg      B Eriogonum
+   27 ot.herbs B Other herbs
+   28 Poaae    B Poaceae
+   29 Rosae    B Rosaceae
+   30 Tha      B Thalictrum
+   31 Val-t    B Valeriana-type
+   32 Drp-t    F Dryopteris-type
+   33 Sel.de-t F Selaginella densa-type
+   34 Spa-t    Q Sparganium-type
+   35 Typ.l    Q Typha latifolia
+   36 ind      X Indeterminable
+   37 unk      X Unknown
+   38 Euc.spik - Eucalyptus spike (number counted)
+0, , 0
+    14.0     1.0     0.0     0.0     0.0     0.0     0.0     0.0    38.0    15.0
+    18.0   175.0     0.0     0.0     1.0     0.0     0.0     0.0     6.0     0.0
+    65.0     6.0     0.0     4.0     2.0     0.0     0.0     6.0     1.0     0.0
+     0.0     0.0     0.0     1.0     0.0     0.0     3.0   112.0
+20, , 799
+    10.0     0.0     0.0     0.0     0.0     1.0     2.0     0.0    42.0    12.0
+    38.0   108.0     0.0     0.0     1.0     0.0     2.0     0.0     5.0     0.0
+    66.0     7.0     0.0     7.0     3.0     0.0     0.0     5.0     1.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     3.0   157.0
+40, , 1599
+    33.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0    67.0    17.0
+    33.0   127.0     0.0     0.0     0.0     0.0     0.0     0.0     1.0     0.0
+    23.0     0.0     0.0     3.0     2.0     0.0     0.0     3.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     2.0     0.0    78.0
+60, , 2398
+    12.0     0.0     0.0     1.0     0.0     0.0     0.0     0.0    89.0    18.0
+    32.0   112.0     0.0     0.0     0.0     0.0     1.0     0.0     1.0     1.0
+    57.0     7.0     0.0     6.0     2.0     1.0     0.0     6.0     1.0     0.0
+     0.0     0.0     0.0     0.0     0.0     5.0     2.0    69.0
+80, , 3198
+    11.0     0.0     1.0     0.0     0.0     0.0     0.0     0.0    65.0    12.0
+    43.0   113.0     0.0     0.0     0.0     0.0     1.0     0.0     1.0     0.0
+    48.0     4.0     0.0     7.0     0.0     0.0     1.0     6.0     0.0     0.0
+     1.0     0.0     0.0     0.0     0.0     2.0     2.0   116.0
+100, , 3997
+    18.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0    69.0     8.0
+    42.0   112.0     1.0     0.0     0.0     0.0     2.0     0.0    11.0     0.0
+    47.0     4.0     0.0     5.0     0.0     0.0     0.0     2.0     0.0     1.0
+     0.0     0.0     0.0     0.0     0.0     1.0     4.0    88.0
+120, , 4797
+    31.0     0.0     1.0     0.0     0.0     0.0     1.0     1.0    50.0     0.0
+     0.0   146.0     0.0     1.0     0.0     0.0     7.0     0.0     1.0     0.0
+    73.0     8.0     0.0    10.0     3.0     0.0     1.0    13.0     1.0     4.0
+     0.0     0.0     0.0     0.0     0.0     3.0     7.0   119.0
+140, , 5596
+    20.0     0.0     0.0     0.0     0.0     1.0     0.0     0.0    42.0    16.0
+    22.0   170.0     0.0     1.0     0.0     3.0     2.0     1.0     2.0     0.0
+    74.0     7.0     0.0     6.0     0.0     0.0     1.0    12.0     0.0     2.0
+     0.0     0.0     0.0     0.0     0.0     5.0     3.0   112.0
+160, , 6396
+    22.0     1.0     0.0     0.0     0.0     0.0     0.0     0.0    54.0    13.0
+    37.0   109.0     0.0    10.0     1.0     1.0     5.0     1.0     1.0     0.0
+    82.0     6.0     0.0     4.0     3.0     0.0     1.0     6.0     2.0     0.0
+     0.0     0.0     0.0     0.0     0.0     1.0     1.0    89.0
+180, , 7195
+    23.0     0.0     0.0     0.0     0.0     0.0     1.0     0.0    63.0    14.0
+    36.0   134.0     0.0     1.0     0.0     0.0     3.0     0.0     3.0     0.0
+    45.0     8.0     2.0     9.0     1.0     0.0     0.0     7.0     0.0     1.0
+     0.0     0.0     1.0     0.0     0.0     1.0     1.0   153.0
+190, , 7595
+    27.0     0.0     1.0     0.0     1.0     1.0     0.0     0.0    62.0    25.0
+    16.0   148.0     0.0     7.0     0.0     0.0     3.0     0.0     0.0     1.0
+    38.0     3.0     0.0     4.0     3.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     2.0     2.0   125.0
+200, , 7995
+    21.0     0.0     0.0     1.0     0.0     0.0     0.0     0.0    53.0     3.0
+    47.0   139.0     0.0     9.0     1.0     1.0     3.0     0.0     4.0     0.0
+    69.0     1.0     0.0     3.0     1.0     0.0     0.0     2.0     0.0     1.0
+     1.0     0.0     0.0     0.0     0.0     3.0     2.0    95.0
+210, , 8395
+    24.0     0.0     0.0     0.0     0.0     0.0     0.0     1.0    43.0    13.0
+    37.0   111.0     0.0     7.0     3.0     1.0     2.0     0.0     5.0     0.0
+    67.0     4.0     0.0     8.0     2.0     0.0     0.0     2.0     2.0     0.0
+     0.0     0.0     0.0     0.0     0.0     1.0     2.0    86.0
+220, , 8794
+    26.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0    41.0     2.0
+    48.0   121.0     0.0     3.0     2.0     0.0     2.0     0.0     6.0     1.0
+    55.0     2.0     0.0    14.0     0.0     0.0     0.0     2.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     1.0     1.0    83.0
+230, , 9194
+    13.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0    34.0     8.0
+    42.0   162.0     0.0     2.0     0.0     2.0     9.0     0.0     2.0     0.0
+    59.0     6.0     0.0    11.0     1.0     0.0     0.0     4.0     0.0     2.0
+     0.0     0.0     0.0     0.0     0.0     1.0     2.0    74.0
+240, , 9594
+    23.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0    36.0     3.0
+    47.0   198.0     0.0    13.0     0.0     0.0     1.0     1.0     3.0     0.0
+    32.0     2.0     0.0     5.0     0.0     0.0     0.0     2.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0    25.0
+250, , 9994
+    21.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0    57.0     2.0
+    48.0   182.0     0.0     2.0     0.0     0.0     1.0     0.0     1.0     0.0
+    25.0     0.0     0.0     3.0     0.0     0.0     0.0     1.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     1.0    26.0
+260, , 10393
+    18.0     0.0     0.0     0.0     1.0     0.0     0.0     0.0    73.0     2.0
+    48.0   152.0     0.0     0.0     0.0     0.0     0.0     2.0     6.0     0.0
+    29.0     1.0     0.0     3.0     1.0     0.0     0.0     2.0     0.0     0.0
+     0.0     0.0     0.0     0.0     1.0     0.0     0.0    47.0
+270, , 10793
+     8.0     0.0     0.0     0.0     1.0     0.0     0.0     0.0   118.0     0.0
+    50.0    97.0     0.0     0.0     0.0     0.0     1.0     0.0     2.0     0.0
+    40.0     2.0     1.0     4.0     1.0     0.0     0.0     4.0     0.0     0.0
+     0.0     1.0     0.0     0.0     0.0     1.0     0.0    43.0
+280, , 11193
+     8.0     0.0     0.0     0.0     2.0     0.0     3.0     0.0    96.0     0.0
+    50.0    73.0     0.0     0.0     0.0     1.0     2.0     0.0     2.0     0.0
+    86.0    10.0     0.0     6.0     4.0     0.0     0.0    18.0     0.0     0.0
+     0.0     1.0     0.0     0.0     1.0     1.0     0.0   132.0
+290, , 11592
+     4.0     0.0     1.0     1.0     0.0     0.0     6.0     0.0    42.0     9.0
+    41.0   110.0     0.0     0.0     0.0     1.0     4.0     0.0     1.0     0.0
+    74.0    10.0     0.0     8.0     8.0     1.0     0.0    15.0     0.0     0.0
+     1.0     0.0     1.0     0.0     0.0     4.0     1.0   138.0
+300, , 11992
+     3.0     0.0     1.0     0.0     1.0     1.0    10.0     0.0    16.0     7.0
+    43.0    54.0     0.0     0.0     0.0     2.0     8.0     0.0     3.0     2.0
+   161.0    20.0     1.0     5.0     4.0     0.0     1.0    21.0     1.0     0.0
+     0.0     1.0     0.0     0.0     1.0     8.0     6.0   180.0
+310, , 12392
+     0.0     0.0     1.0     0.0     0.0     0.0     5.0     1.0    17.0    19.0
+    31.0    62.0     0.0     0.0     0.0     0.0     6.0     0.0     1.0     0.0
+   147.0    13.0     0.0     2.0     3.0     0.0     3.0    13.0     1.0     0.0
+     0.0     0.0     0.0     0.0     0.0     2.0     8.0   396.0

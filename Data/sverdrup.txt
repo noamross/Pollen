@@ -1,0 +1,113 @@
+# GPD ASCII Format
+# 25 Mar 00
+# Raw Counts - All Pollen Types
+#
+# **********************************************************
+# ** Please acknowledge the contributors and the European **
+# ** Pollen Database when using these data.               **
+# **********************************************************
+#
+# Site name:      Sverdrup
+# Place:          RUS:
+# Latitude:       74.30.00N      (  74.5     )
+# Longitude:      79.30.00E      (  79.5     )
+# Elevation(m):   7
+# Sigle:          SVERDRUP
+# Entity name:
+# Contact person: Tarasov, P.E.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#    40.0    10    9770    280    280  GIN-7627     L    peat
+#    60.5    11   10490    380    380  GIN-7626     L    peat
+#    85.0    10   11640     40     40  GIN-7625     L    peat
+#
+# Chron name:     PDB 1
+# Age model:      linear interpolation
+# Age bounds:     9410 - 11410
+# Chron notes:    Chron uses 3 radiocarbon dates. Sediment above 30 cm
+#                 Holocene in age.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#    40.0    10    9770  10330   9210   C14
+#    60.5    11   10490  11250   9730   C14
+#    85.0    10   11640  11720  11560   C14
+#
+# Publications:   Tarasov, P.E., A.A. Andreev, F.A. Romanenko, and L.D.
+#                 Sulerzhitskii. 1995. Palynostratigraphy of upper Quaternary
+#                 deposits of Sverdrup Island, the Kara Sea. Stratigraphy and
+#                 Geological Correlation 3:190-196.
+#
+31 8
+    1 Abi      A Abies
+    2 Aln.v    A Alnus viridis
+    3 Bet.Be   A Betula sect. Betula
+    4 Bet.Fr   A Betula sect. Fruticosae
+    5 Bet.Na   A Betula sect. Nanae
+    6 Erles    A Ericales
+    7 Lar.g    A Larix gmelinii
+    8 Pic.ob   A Picea abies subsp. obovata
+    9 Pin.St   A Pinus subg. Strobus
+   10 Pin.sy   A Pinus sylvestris
+   11 Slx      A Salix
+   12 Art      B Artemisia
+   13 Astae.ud B Asteraceae undiff.
+   14 Braae    B Brassicaceae
+   15 Cryae    B Caryophyllaceae
+   16 Cheae    B Chenopodiaceae
+   17 Cypae    B Cyperaceae
+   18 Poaae    B Poaceae
+   19 Polae    B Polygonaceae
+   20 Ranae.ud B Ranunculaceae undiff.
+   21 Rosae    B Rosaceae
+   22 Scrae    B Scrophulariaceae
+   23 Tha      B Thalictrum
+   24 Valae    B Valerianaceae
+   25 Dph.a    F Diphasiastrum alpinum
+   26 Equ      F Equisetum
+   27 Hup.s    F Huperzia selago
+   28 Plpae    F Polypodiaceae
+   29 Bryes    M Bryales
+   30 Enc      M Encalypta
+   31 Spg      M Sphagnum
+0
+     3.0     6.0     6.0     0.0     7.0     0.0     0.0     5.0    28.0    10.0
+     1.0     1.0     0.0     0.0     0.0     0.0     8.0    26.0     0.0     5.0
+     2.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     6.0     0.0
+     3.0
+10
+     7.0     1.0    18.0     2.0    16.0     1.0     1.0    31.0    27.0     9.0
+     0.0     1.0     0.0     0.0     0.0     0.0     9.0    20.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     3.0     0.0     2.0     1.0     0.0
+     4.0
+30, , 9419
+     0.0    31.0    72.0    10.0   117.0     9.0     0.0     3.0     2.0     1.0
+     2.0     3.0     0.0     0.0     1.0     0.0    46.0    28.0     0.0     2.0
+     1.0     0.0     0.0     0.0     0.0     0.0     0.0     4.0     0.0     2.0
+     4.0
+40, , 9770
+     0.0    12.0   109.0    17.0    51.0     1.0     0.0     1.0     1.0     1.0
+    11.0     1.0     1.0     0.0     1.0     3.0   139.0    31.0     0.0     3.0
+     1.0     1.0     0.0     1.0     1.0     0.0     1.0     1.0     8.0     1.0
+     2.0
+50, , 10121
+     0.0     1.0    22.0     0.0    20.0     2.0     1.0     0.0     2.0     0.0
+    40.0    36.0     0.0     1.0     3.0     4.0   187.0    28.0     0.0    10.0
+     2.0     0.0     1.0     0.0     0.0     0.0     0.0     0.0     0.0     1.0
+     0.0
+60, , 10472
+     0.0     0.0     7.0     1.0    14.0     0.0     0.0     0.0     1.0     0.0
+    24.0    15.0     0.0     0.0     7.0     1.0   253.0    23.0     0.0     9.0
+     0.0     0.0     0.0     0.0     0.0     0.0     2.0     1.0     1.0     6.0
+     1.0
+70, , 10936
+     0.0     0.0     6.0     1.0     2.0     0.0     0.0     4.0     1.0     2.0
+    12.0    16.0     0.0     0.0     1.0     1.0   301.0     4.0     3.0     6.0
+     3.0     0.0     0.0     0.0     0.0     4.0     0.0     0.0     2.0    12.0
+     0.0
+80, , 11405
+     0.0     0.0     2.0     1.0     2.0     0.0     0.0     1.0     1.0     0.0
+    10.0     6.0     1.0     0.0     0.0     0.0   160.0    24.0     0.0     7.0
+     1.0     0.0     1.0     0.0     0.0     0.0     0.0     1.0     0.0     2.0
+     1.0

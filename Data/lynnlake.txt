@@ -1,0 +1,180 @@
+# GPD ASCII Format
+# 24 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Lynn Lake
+# Place:          CAN:Manitoba
+# Latitude:       56.50.30N      (  56.841667)
+# Longitude:      101.02.31W     (-101.041944)
+# Elevation(m):   340
+# Sigle:          LYNNLAKE
+# Entity name:
+# Contact person: Nichols, H.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#    15.0     2    1550     50     50  WIS-225      G    sedge peat
+#    35.0     2    2170     80     80  WIS-113      G    sedge peat (Carex)
+#    59.0     2    5600    100    100  WIS-131      G    sedge peat
+#    69.0     2    5130    100    100  WIS-112b     G    Carex
+#    69.0     2    5140    100    100  WIS-112a     G    Carex
+#   119.0     2    5970    110    110  WIS-66       G    Carex
+#   121.0     2    6060    110    110  WIS-60       G    Carex
+#   135.0    10    6530    130    130  WIS-72       G    blue-grey silty clay
+#
+# Chron name:     NAPD 1
+# Age model:      linear interpolation
+# Age bounds:     280 - 6630
+# Chron notes:    Chron uses guess for top age and five C14 dates; three C14
+#                 dates (WIS-225, WIS-113, and WIS-72) and two averaged C14
+#                 dates (WIS-112a, WIS-112b, and WIS-66, WIS-60). C14 date
+#                 WIS-131 not used as considered to old (see Bender et al,
+#                 1967:541).
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0     0     286    586    -14   GUE
+#    15.0     2    1550   1650   1450   C14
+#    35.0     2    2170   2330   2010   C14
+#    69.0     2    5135   5275   4995   CAV
+#   120.0     4    6015   6171   5859   CAV
+#   137.0     2    6530   6790   6270   C14
+#
+# Publications:   Nichols, H. 1967. Central Canadian palynology and its
+#                 relevance to northwestern Europe in the late Quaternary
+#                 period. Review of Palaeobotany and Palynology 2:231-243.
+#
+#                 Bender, M.M., R.A. Bryson, and D.A. Baerreis. 1965.
+#                 University of Wisconsin radiocarbon dates I. Radiocarbon
+#                 7:399-407.
+#
+#                 Bender, M.M., R.A. Bryson, and D.A. Baerreis. 1966.
+#                 University of Wisconsin radiocarbon dates II. Radiocarbon
+#                 8:522-533.
+#
+#                 Bender, M.M., R.A. Bryson, and D.A. Baerreis. 1967.
+#                 University of Wisconsin radiocarbon dates III. Radiocarbon
+#                 9:530-544.
+#
+#                 Nichols, H. 1967. Pollen diagrams from sub-arctic Central
+#                 Canada. Science 155:1665-1668.
+#
+#                 Bender, M.M., R.A. Bryson, and D.A. Baerreis. 1968.
+#                 University of Wisconsin radiocarbon dates IV. Radiocarbon
+#                 10:161-168.
+#
+16 31
+    1 Aln      A Alnus
+    2 Bet      A Betula
+    3 Cupae    A Cupressaceae
+    4 Ercae    A Ericaceae
+    5 Lar      A Larix
+    6 Myr      A Myrica
+    7 Pic      A Picea
+    8 Pin      A Pinus
+    9 Slx      A Salix
+   10 Amb-t    B Ambrosia-type
+   11 Art      B Artemisia
+   12 Astae.ud B Asteraceae undiff.
+   13 Ch/Am    B Chenopodiaceae/Amaranthaceae
+   14 Cypae    B Cyperaceae
+   15 herbs.ud B Herbs undiff.
+   16 Poaae    B Poaceae
+0, , 286
+   308.0   121.0     0.0     0.0     1.0    28.0   168.0   205.0     1.0     0.0
+     7.0     1.0     1.0    65.0     0.0     0.0
+5, , 707
+   440.0   108.0     0.0    10.0     1.0     0.0    78.0   205.0     1.0     0.0
+    10.0     0.0     0.0    29.0    20.0    29.0
+10, , 1129
+    57.0    57.0     0.0    19.0    19.0     0.0   162.0   333.0     0.0    10.0
+     0.0     0.0     1.0   114.0    48.0    10.0
+15, , 1550
+    67.0    38.0     0.0    10.0     1.0    10.0   209.0   333.0     0.0     0.0
+    19.0     1.0     0.0   238.0    48.0    10.0
+20, , 1705
+   209.0    48.0     0.0    10.0     0.0     1.0   105.0   171.0    10.0     0.0
+    19.0     0.0     0.0   314.0    38.0    10.0
+25, , 1860
+    91.0    58.0     0.0     1.0     0.0     1.0   107.0   231.0     8.0     1.0
+     0.0     0.0     0.0   362.0    10.0     1.0
+27.5, , 1938
+    72.0   452.0     0.0    18.0     0.0    18.0    90.0   172.0    27.0     0.0
+     9.0     0.0     0.0    27.0     9.0     1.0
+30, , 2015
+    56.0   380.0     0.0     1.0     0.0    19.0    75.0   197.0    66.0     0.0
+     1.0     0.0     0.0    94.0    19.0     9.0
+40, , 2606
+   116.0   208.0     0.0    23.0     0.0    62.0   116.0   146.0    15.0     0.0
+     8.0     8.0     0.0    46.0    15.0     6.0
+45, , 3042
+    94.0   224.0     0.0    16.0     0.0    31.0   141.0   180.0    16.0     0.0
+     8.0     0.0     1.0    78.0     1.0     6.0
+50, , 3478
+   192.0   183.0     0.0     9.0     0.0    44.0   175.0   183.0     9.0     1.0
+     9.0     0.0     0.0    70.0    13.0     9.0
+55, , 3914
+    81.0    60.0     0.0    12.0     0.0     8.0   242.0   177.0     0.0     0.0
+    12.0     0.0     0.0   226.0     0.0    12.0
+58, , 4176
+    93.0     7.0     0.0     8.0     0.0    16.0   233.0   225.0     8.0     0.0
+   163.0     0.0     0.0   147.0     0.0     0.0
+60, , 4350
+   113.0    65.0     0.0    12.0     0.0    16.0   251.0   259.0     8.0     0.0
+    16.0    12.0    12.0    89.0     0.0     0.0
+63, , 4612
+   215.0   132.0     0.0     0.0     1.0   124.0   190.0   124.0    17.0     0.0
+    33.0     0.0     1.0    50.0     0.0     0.0
+65, , 4786
+   213.0   129.0     0.0     0.0     0.0    38.0   182.0   137.0    15.0     1.0
+     8.0    15.0     4.0    38.0     0.0     0.0
+70, , 5152
+   207.0   154.0     0.0     0.0     0.0    54.0   215.0    77.0     8.0     1.0
+     8.0     0.0     8.0    31.0     1.0     0.0
+75, , 5238
+   321.0   175.0     0.0     0.0     0.0    28.0   265.0    95.0    19.0    19.0
+     9.0     1.0     1.0    38.0     1.0     0.0
+80, , 5325
+   324.0   240.0     0.0     0.0     0.0    10.0   178.0   115.0    21.0     1.0
+    21.0     0.0    16.0    21.0     1.0     0.0
+85, , 5411
+   314.0   233.0     0.0     0.0     0.0    14.0   247.0   114.0     1.0    10.0
+    29.0     0.0    10.0    19.0     0.0     0.0
+90, , 5497
+   438.0   158.0     0.0     0.0     0.0    19.0   270.0    75.0     9.0     1.0
+     1.0     0.0     1.0    19.0     0.0     0.0
+95, , 5584
+   249.0   175.0     0.0     1.0     0.0    28.0   222.0   166.0     9.0     1.0
+    17.0     1.0     1.0    46.0     0.0     1.0
+100, , 5670
+   376.0   203.0     1.0     0.0     0.0    39.0   270.0    48.0     5.0     0.0
+     1.0     0.0     0.0    10.0     0.0    19.0
+105, , 5756
+   398.0   185.0     0.0     1.0     0.0    19.0   301.0    39.0    19.0     0.0
+    15.0     0.0     1.0     1.0     0.0     1.0
+110, , 5842
+   319.0   155.0     0.0     0.0     0.0    58.0   329.0    87.0    10.0     1.0
+    10.0    19.0     1.0     5.0     0.0     1.0
+115, , 5929
+   388.0   189.0     0.0     0.0     0.0    50.0   234.0    80.0     5.0     1.0
+    18.0     0.0    10.0     5.0     0.0    10.0
+120, , 6015
+   306.0   191.0     0.0     1.0     0.0    10.0   162.0   220.0    29.0     0.0
+    19.0     0.0    19.0    29.0     0.0     1.0
+125, , 6166
+   369.0   189.0     0.0     0.0     0.0    40.0   249.0    80.0     1.0     1.0
+    10.0     1.0    10.0    10.0     0.0    20.0
+130, , 6318
+   397.0   142.0     0.0     1.0     0.0    71.0   244.0    20.0    31.0     0.0
+    31.0     1.0    10.0    20.0     1.0    15.0
+135, , 6469
+   384.0   167.0     0.0     0.0     0.0    39.0   227.0    79.0    15.0     0.0
+    20.0     0.0    10.0    20.0     0.0    10.0
+140, , 6621
+   429.0   153.0     1.0     0.0     0.0   112.0   215.0    41.0    10.0     1.0
+     1.0     0.0    26.0     1.0     0.0    10.0

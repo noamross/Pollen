@@ -1,0 +1,136 @@
+# GPD ASCII Format
+# 25 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      San Agustin Plains
+# Place:          USA:New Mexico
+# Latitude:       33.52.00N      (  33.866667)
+# Longitude:      108.15.00W     (-108.25    )
+# Elevation(m):   2069
+# Sigle:          SAPPIT
+# Entity name:    SAP-pit
+# Contact person: Markgraf, V.
+# Entity notes:   pit dug from surface to 145 cm depth
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#    92.5     5    8735    260    260  GX-7813      L    bulk organic in clay m
+#
+# Chron name:     Markgraf et al. 1984
+# Age model:      linear interpolation
+# Age bounds:     0 - 12660
+# Chron notes:    Chron uses top plus one radiocarbon date.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0     0       0     30    -30   TOP
+#    92.5     1    8735   9255   8215   C14
+#
+# Publications:   Markgraf, V., J.P. Bradbury, R.M. Forester, G. Singh, and
+#                 R.S. Sternberg. 1984. San Agustin Plains, New Mexico: age
+#                 and paleoenvironmental potential reassessed. Quaternary
+#                 Research 22:336-343.
+#
+25 18
+    1 Abi      A Abies
+    2 Eph      A Ephedra
+    3 Jug      A Juglans
+    4 Jun      A Juniperus
+    5 Pic      A Picea
+    6 Pin      A Pinus
+    7 Pop      A Populus
+    8 Psu      A Pseudotsuga
+    9 Que      A Quercus
+   10 Slx      A Salix
+   11 Sar.v    A Sarcobatus vermiculatus
+   12 Amb-t    B Ambrosia-type
+   13 Art      B Artemisia
+   14 Astae.Au B Asteraceae subf. Asteroideae undiff.
+   15 Ch/Am.ud B Chenopodiaceae/Amaranthaceae undiff.
+   16 Cypae    B Cyperaceae
+   17 Poaae    B Poaceae
+   18 Btr      L Botryococcus
+   19 Pdi      L Pediastrum
+   20 Pot      Q Potamogeton
+   21 ind      X Indeterminable
+   22 Euc.spik - Eucalyptus spike (number counted)
+   23 Euc.ta.n - Eucalyptus tablets (added, number)
+   24 EucCn/t  - Eucalyptus tablets (concentration, grains/tablet)
+   25 sa.ma.g  - Sample dry mass (g)
+0, , 0
+     0.0     0.0     0.0     1.0     0.0    44.0     0.0     0.0    11.0     0.0
+    70.0     0.0     0.0     2.0    78.0     2.0     8.0     0.0     0.0     0.0
+     5.0    16.0     5.0 13520.0    20.0
+2, , 189
+     0.0     1.0     0.0     1.0     0.0    22.0     0.0     0.0     0.0     0.0
+    97.0     0.0    11.0     3.0    72.0     1.0     9.0     1.0     0.0     0.0
+     7.0    16.0     5.0 13520.0    20.0
+14, , 1322
+     1.0     0.0     2.0     2.0     2.0    36.0     0.0     0.0     1.0     0.0
+    76.0     0.0     2.0    11.0    76.0     1.0    10.0     2.0     0.0     1.0
+     5.0    21.0     5.0 13520.0    20.0
+24, , 2266
+     1.0     1.0     0.0     2.0     3.0    51.0     0.0     0.0     2.0     0.0
+    74.0     0.0     8.0     2.0    90.0     1.0    13.0     1.0     0.0     0.0
+     9.0    25.0     5.0 13520.0    20.0
+29, , 2739
+     0.0    10.0     0.0     1.0     2.0     2.0     0.0     0.0     0.0     0.0
+    18.0     0.0     2.0     0.0    80.0     0.0     6.0     0.0     0.0     0.0
+     7.0    10.0     3.0 13520.0    20.0
+34, , 3211
+     0.0     0.0     0.0     7.0     4.0    95.0     0.0     0.0     2.0     1.0
+    67.0     4.0    10.0     8.0   285.0     1.0    23.0     0.0     0.0     0.0
+     0.0    37.0     5.0 13520.0    20.0
+44, , 4155
+     0.0     0.0     0.0     3.0     0.0    54.0     0.0     1.0     0.0     0.0
+    70.0     0.0     0.0     9.0    95.0     0.0     7.0     3.0     0.0     0.0
+     3.0   150.0     5.0 13520.0    20.0
+59, , 5572
+     0.0     0.0     0.0     1.0     0.0   102.0     1.0     0.0     1.0     0.0
+    30.0     0.0     1.0     3.0    61.0     2.0     4.0    26.0     0.0     0.0
+     6.0   405.0     5.0 13520.0    20.0
+69, , 6516
+     1.0     0.0     0.0     8.0     9.0   237.0     0.0     2.0     0.0     0.0
+     5.0     0.0     2.0     1.0    65.0     1.0    12.0     0.0     0.0     0.0
+     0.0   100.0     5.0 13520.0    20.0
+76, , 7177
+     1.0     0.0     0.0     2.0    16.0   324.0     0.0     1.0     0.0     0.0
+     6.0     0.0     2.0     0.0    26.0     0.0    14.0     0.0     0.0     0.0
+     1.0   216.0     5.0 13520.0    20.0
+84, , 7932
+     0.0     0.0     0.0     2.0    18.0   415.0     0.0     0.0     0.0     0.0
+     2.0     0.0     0.0     0.0     4.0     0.0    23.0     9.0    19.0     0.0
+     0.0    13.0     3.0 13520.0    20.0
+89, , 8404
+     0.0     0.0     2.0     0.0     0.0    68.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0    14.0    10.0    14.0     0.0
+     0.0   192.0     5.0 13520.0    20.0
+94, , 8877
+     1.0     0.0     0.0     2.0     3.0   118.0     0.0     0.0     0.0     0.0
+     2.0     0.0     0.0     0.0     2.0     0.0     1.0    31.0     6.0     0.0
+     0.0   118.0     5.0 13520.0    20.0
+104, , 9821
+     3.0     0.0     0.0     2.0     2.0   151.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0    61.0     2.0     0.0
+     0.0     6.0     3.0 13520.0    20.0
+109, , 10293
+     0.0     0.0     0.0     0.0     1.0    40.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     5.0    10.0     2.0     0.0
+     0.0    17.0     5.0 13520.0    20.0
+119, , 11237
+     0.0     0.0     0.0     0.0     1.0   206.0     0.0     0.0     0.0     0.0
+     0.0     0.0     1.0     0.0     0.0     0.0     2.0    73.0     4.0     0.0
+     2.0   172.0     5.0 13520.0    20.0
+124, , 11710
+     0.0     0.0     0.0     0.0     0.0   152.0     0.0     0.0     0.0     0.0
+     1.0     0.0     0.0     1.0     0.0     0.0     9.0     0.0     0.0     0.0
+     0.0   455.0     5.0 13520.0    20.0
+134, , 12654
+     2.0     0.0     0.0     0.0     3.0   103.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     1.0     0.0     7.0    10.0     9.0     0.0
+     0.0   107.0     3.0 13520.0    20.0

@@ -1,0 +1,130 @@
+# GPD ASCII Format
+# 24 Apr 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the Latin American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Primavera
+# Place:          ARG:Neuquén
+# Latitude:       40.40.00S      ( -40.666667)
+# Longitude:      71.11.00W      ( -71.183333)
+# Elevation(m):   800
+# Sigle:          PRIMAVER
+# Entity name:
+# Contact person: Markgraf, V.
+# Entity notes:   amberate deposits from cave walls, with rodent pellets and
+#                 bones
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#     1.0     5    1835    125    125  GX-18069     G    amberat sample #7867
+#     2.0     5    2025     55     55  AA-9316      G    amberat sample #7866
+#     3.0     5    2375    155    155  GX-17157     G    amberat sample #7868
+#     4.0     5    3395     90     90  GX-18249     G    amberat sample #7873
+#     5.0     5    3610    140    140  GX-17154     G    amberat sample #7872
+#     6.0     5    4375    165    165  GX-17156     G    amberat sample #7865
+#
+# Chron name:     LAPD 1
+# Age model:      each sample individually dated
+# Age bounds:     1830 - 4380
+# Chron notes:    Each sample of amberat is individually dated. Samples are
+#                 not from a single stratigraphic section.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     1.0     5    1835   2085   1785   C13
+#     2.0     5    2025   2135   1915   C13
+#     3.0     5    2375   2685   2065   C13
+#     4.0     5    3395   3575   3215   C13
+#     5.0     5    3610   3890   3330   C13
+#     6.0     5    4375   4705   4045   C13
+#
+# Publications:   Markgraf, V., J. Betancourt, and K. Rylander. 1996 (in prep)
+#                 Amberat middens from Rio Limay, Neuquen Province, Argentina.
+#
+46 6
+    1 Ade      A Adesmia
+    2 Anaae    A Anacardiaceae
+    3 Ari      A Aristotelia
+    4 Aus.c    A Austrocedrus chilensis
+    5 Brb      A Berberis
+    6 Bud      A Buddleja
+    7 Eph      A Ephedra
+    8 Ercae    A Ericaceae
+    9 Ecr      A Eucryphia
+   10 Hdr      A Hydrangea
+   11 Lom      A Lomatia
+   12 May      A Maytenus
+   13 Mis      A Misodendrum
+   14 Mytae    A Myrtaceae
+   15 Not      A Nothofagus
+   16 Pod.n    A Podocarpus nubigena
+   17 Rhaae    A Rhamnaceae
+   18 Rib      A Ribes
+   19 Slx      A Salix
+   20 Sxg.c    A Saxegothaea conspicua
+   21 Wei      A Weinmannia
+   22 Apiae.ud B Apiaceae undiff.
+   23 Astae.Au B Asteraceae subf. Asteroideae undiff.
+   24 Astae.Ci B Asteraceae subf. Cichorioideae
+   25 Astae.Mu B Asteraceae tribe Mutisieae
+   26 Azr      B Azorella
+   27 Braae    B Brassicaceae
+   28 Cryae    B Caryophyllaceae
+   29 Ch/Am.ud B Chenopodiaceae/Amaranthaceae undiff.
+   30 Cypae    B Cyperaceae
+   31 Gom      B Gomphrena
+   32 Gun      B Gunnera
+   33 Lilae    B Liliaceae
+   34 Orcae    B Orchidaceae
+   35 Oxa      B Oxalis
+   36 Pha      B Phacelia
+   37 Pln.la   B Plantago lanceolata
+   38 Poaae    B Poaceae
+   39 Qui      B Quinchamalium
+   40 Ranae    B Ranunculaceae
+   41 Rosae    B Rosaceae
+   42 Rum      B Rumex
+   43 Verae    B Verbenaceae
+   44 Vic-t    B Vicia-type
+   45 Polta.m  F Polypodiophyta (monolete)
+   46 ind      X Indeterminable
+1, , 1835
+     4.0     0.0     3.0    15.0     1.0     1.0    10.0     1.0     0.0     0.0
+     0.0     5.0     1.0     0.0    69.0     3.0    14.0     0.0     4.0     3.0
+     2.0     8.0     0.0     0.0     3.0     4.0     7.0     0.0     0.0     1.0
+     0.0     0.0     0.0     1.0     0.0     2.0     0.0     9.0     0.0     0.0
+     0.0     3.0     0.0     0.0     0.0     4.0
+2, , 2025
+     2.0     0.0     0.0    21.0     1.0     2.0     2.0     1.0     0.0     0.0
+     1.0     0.0     4.0     0.0    43.0     1.0     4.0     0.0     0.0     0.0
+     3.0    10.0     2.0     0.0     0.0     0.0    41.0     0.0     1.0     0.0
+     1.0     1.0     2.0     0.0     0.0     5.0     0.0     5.0     1.0     0.0
+     1.0     5.0     1.0     1.0     1.0     6.0
+3, , 2375
+     5.0     2.0     1.0    35.0     0.0     7.0     4.0     0.0     3.0     0.0
+     1.0     0.0     4.0     0.0    51.0     2.0    18.0     1.0     1.0     0.0
+     1.0     4.0     3.0     0.0     2.0     8.0     9.0     1.0     1.0     0.0
+     1.0     1.0     2.0     0.0     1.0     4.0     0.0    16.0     5.0     1.0
+     0.0     5.0     1.0     1.0     1.0     3.0
+4, , 3395
+    12.0     4.0     0.0     6.0     4.0     1.0     0.0     0.0     0.0     0.0
+     1.0     6.0     0.0     0.0    82.0     0.0     6.0     2.0     1.0     0.0
+     0.0    10.0     6.0     2.0     5.0     0.0    41.0     7.0     0.0     0.0
+     3.0     0.0     0.0     0.0     1.0    15.0     1.0    34.0     0.0     0.0
+     1.0     0.0     9.0    10.0     0.0    37.0
+5, , 3610
+     0.0     4.0     0.0    56.0     0.0     2.0     4.0     0.0     1.0     2.0
+     0.0     0.0     1.0     0.0    81.0     0.0    11.0     0.0     0.0     0.0
+     3.0     5.0     1.0     3.0     4.0     0.0     5.0     0.0     7.0     0.0
+     1.0     0.0     0.0     0.0     0.0     1.0     0.0    12.0     0.0     0.0
+     0.0     1.0     0.0     0.0     0.0     4.0
+6, , 4375
+     4.0     2.0     1.0    26.0     0.0     3.0     2.0     1.0     2.0     0.0
+     0.0     0.0     1.0     1.0    41.0     0.0     6.0     0.0     0.0     0.0
+     3.0    13.0     1.0     1.0     1.0     1.0    10.0     0.0     1.0     1.0
+     0.0     0.0     3.0     0.0     0.0     4.0     2.0    10.0     0.0     1.0
+     0.0     4.0     3.0     1.0     1.0     6.0

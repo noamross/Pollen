@@ -1,0 +1,163 @@
+# GPD ASCII Format
+# 25 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Stone Lake Tamarack Swamp
+# Place:          USA:Minnesota
+# Latitude:       44.53.30N      (  44.891667)
+# Longitude:      93.41.30W      ( -93.691667)
+# Elevation(m):   288
+# Sigle:          STONTAM2
+# Entity name:    core 2
+# Contact person: Swain, P.C.
+#
+# Chron name:     NAPD 1
+# Age model:      linear interpolation
+# Age bounds:     150 - 350
+# Chron notes:    Chron uses two pollen stratigraphic dates.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     1.0     1     150    200    100   AMR
+#    50.0     5     300    350    250   POL
+#
+# Publications:   Swain, P.C. 1979. The development of some bogs in eastern
+#                 Minnesota. Dissertation. University of Minnesota,
+#                 Minneapolis, Minnesota, USA.
+#
+58 8
+    1 Ace.ne   A Acer negundo
+    2 Ace.ru   A Acer rubrum
+    3 Ace.sa   A Acer saccharum
+    4 Aln      A Alnus
+    5 Bet      A Betula
+    6 Car      A Carya
+    7 Cor      A Corylus
+    8 Cupae    A Cupressaceae
+    9 Fra.pe-t A Fraxinus pennsylvanica-type
+   10 Jug.c    A Juglans cinerea
+   11 Lar      A Larix
+   12 Os/Ca    A Ostrya/Carpinus
+   13 Pic      A Picea
+   14 Pin.Pi   A Pinus subg. Pinus
+   15 Pin.St   A Pinus subg. Strobus
+   16 Pin.ud   A Pinus undiff.
+   17 Pla      A Platanus
+   18 Pop.tr-t A Populus tremuloides-type
+   19 Que      A Quercus
+   20 Rha      A Rhamnus
+   21 Slx      A Salix
+   22 Sar.v    A Sarcobatus vermiculatus
+   23 Til      A Tilia
+   24 Tsu      A Tsuga
+   25 Ulm      A Ulmus
+   26 Amb-t    B Ambrosia-type
+   27 Amo      B Amorpha
+   28 Apiae    B Apiaceae
+   29 Art      B Artemisia
+   30 Astae.Au B Asteraceae subf. Asteroideae undiff.
+   31 Braae    B Brassicaceae
+   32 Cal-t    B Caltha-type
+   33 Che-t    B Chenopodium-type
+   34 Cypae    B Cyperaceae
+   35 Dal      B Dalea
+   36 Gal      B Galium
+   37 Hu/Ca.s  B Humulus/Cannabis sativa
+   38 Imp      B Impatiens
+   39 Iva.a-t  B Iva annua-type
+   40 Poaae    B Poaceae
+   41 Rosae    B Rosaceae
+   42 Rum      B Rumex
+   43 Tha      B Thalictrum
+   44 Drp-t    F Dryopteris-type
+   45 Equ      F Equisetum
+   46 Ptr      F Pteridium
+   47 Sel.ru   F Selaginella rupestris
+   48 Thl.p    F Thelypteris palustris
+   49 Spg      M Sphagnum
+   50 Pot      Q Potamogeton
+   51 Spa-t    Q Sparganium-type
+   52 Typ.l    Q Typha latifolia
+   53 sp.t     S Spore (trilete)
+   54 ind      X Indeterminable
+   55 unk      X Unknown
+   56 micCn/ml - Microsphere suspension (concentration, number/ml)
+   57 mic.s.ml - Microsphere suspension (volume added, ml)
+   58 mic      - Microspheres (number counted)
+1, , 150
+       0.0       0.0       7.0       5.0       9.0       0.0       0.0       1.0
+      30.0       0.0       3.0       1.0       3.0       5.0       1.0      19.0
+       0.0       4.0      31.0       0.0     192.0       0.0       1.0       0.0
+       3.0      51.0       0.0       0.0       6.0      15.0       0.0       1.0
+      34.0     187.0       0.0       0.0       0.0       4.0       2.0      62.0
+       0.0       1.0       0.0      21.0       0.0       0.0       0.0       9.0
+       0.0       0.0      10.0      26.0       1.0      11.0       0.0  116000.0
+        .5     423.0
+5, , 162
+       0.0       1.0      20.0       1.0       2.0       2.0       2.0       0.0
+      10.0       1.0       3.0       6.0       4.0       1.0       3.0      50.0
+       1.0       0.0      51.0       4.0       4.0       0.0       6.0       0.0
+      12.0      18.0       0.0       1.0       9.0       3.0       0.0       0.0
+       5.0     163.0       0.0       1.0       0.0       0.0       0.0      12.0
+       4.0       1.0       0.0      11.0       0.0       1.0       0.0       0.0
+       1.0       0.0       0.0       1.0       0.0       4.0       1.0  116000.0
+        .5     322.0
+10, , 178
+       1.0       0.0      16.0       6.0      17.0       3.0       2.0       0.0
+       3.0       6.0       0.0      19.0       2.0       2.0       2.0      36.0
+       1.0       0.0     110.0       0.0       7.0       0.0       9.0       0.0
+      18.0      15.0       0.0       0.0       4.0       1.0       0.0       0.0
+       1.0      63.0       0.0       0.0       0.0       0.0       1.0      18.0
+       1.0       0.0       0.0       4.0       0.0       0.0       0.0       0.0
+       0.0       0.0       2.0       3.0       0.0       6.0       0.0  116000.0
+        .5     255.0
+20, , 208
+       0.0       1.0       1.0       1.0       8.0       1.0       0.0       0.0
+       2.0       0.0       0.0       2.0       8.0       6.0       8.0      54.0
+       4.0       0.0      78.0       0.0       8.0       0.0       5.0       1.0
+       5.0      18.0       1.0       0.0      11.0       6.0       0.0       0.0
+       2.0     101.0       0.0       0.0       0.0       0.0       1.0      17.0
+       2.0       0.0       2.0       8.0       1.0       2.0       0.0       0.0
+       0.0       0.0       0.0      12.0       0.0       8.0       1.0  116000.0
+        .5     373.0
+30, , 239
+       0.0       1.0       3.0       6.0       6.0       3.0       0.0       1.0
+       2.0       0.0       0.0      14.0       5.0       1.0       8.0      55.0
+       3.0       1.0      68.0       0.0       7.0       0.0      17.0       0.0
+       8.0      17.0       1.0       1.0       5.0       6.0       1.0       0.0
+       3.0     124.0       0.0       0.0       1.0       0.0       0.0      15.0
+       2.0       0.0       0.0       6.0       0.0       1.0       0.0       0.0
+       1.0       0.0       0.0       8.0       0.0       4.0       0.0  116000.0
+        .5     444.0
+40, , 269
+       0.0       1.0       4.0       5.0       3.0       0.0       0.0       0.0
+       1.0       0.0       0.0       1.0       5.0       4.0       3.0      54.0
+       1.0       2.0     103.0       0.0      24.0       0.0       2.0       0.0
+       3.0      11.0       0.0       1.0       8.0       4.0       0.0       0.0
+       5.0     232.0       0.0       0.0       0.0       0.0       0.0      21.0
+       1.0       0.0       0.0       1.0       1.0       0.0       1.0       0.0
+       1.0       1.0       0.0       3.0       0.0       2.0       2.0  116000.0
+        .5     323.0
+50, , 300
+       0.0       0.0       0.0       0.0       2.0       1.0       0.0       0.0
+       8.0       0.0       1.0       3.0       3.0       8.0       5.0      29.0
+       2.0       0.0     126.0       0.0       2.0       0.0       0.0       0.0
+       1.0      27.0       1.0       0.0       5.0       3.0       0.0       0.0
+       6.0      93.0       1.0       0.0       0.0       0.0       2.0      12.0
+       1.0       0.0       0.0       2.0       1.0       1.0       0.0       0.0
+       0.0       0.0       0.0       7.0       0.0       2.0       0.0  116000.0
+        .5     396.0
+65, , 346
+       0.0       0.0       0.0       3.0       4.0       1.0       5.0       1.0
+       0.0       0.0       0.0       1.0       2.0       7.0       6.0      56.0
+       4.0       1.0      70.0       0.0       0.0       1.0       1.0       0.0
+       7.0      29.0       0.0       0.0      15.0       9.0       0.0       0.0
+       7.0     179.0       0.0       0.0       0.0       0.0       0.0      14.0
+       0.0       0.0       0.0       2.0       0.0       0.0       0.0       0.0
+       1.0      11.0       0.0       8.0       0.0       6.0       0.0  116000.0
+        .5    1107.0

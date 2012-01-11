@@ -1,0 +1,68 @@
+# GPD ASCII Format
+# 24 Apr 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Pinckneyville Creek Site 19
+# Place:          USA:Mississippi
+# Latitude:       31.02.45N      (  31.045833)
+# Longitude:      91.28.46W      ( -91.479444)
+# Elevation(m):   79
+# Sigle:          PINCKV19
+# Entity name:
+# Contact person: Jackson, S.T.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#                 17610    180    180  A-6573       U    Picea wood
+#                 17440    200    200  A-6574       U    Quercus wood
+#
+# Chron name:     Jackson 1994
+# Age model:      snapshot assemblage
+# Age bounds:     17530 - 17530
+# Chron notes:    error-weighted average of two wood dates. Entity is a
+#                 "snapshot" exposure.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0         17530  17790  17270   CAV
+#
+# Publications:   Jackson, S.T., and C.R. Givens. 1994. Late Wisconsinan
+#                 vegetation and environment of the Tunica Hills Region,
+#                 Louisiana/Mississippi. Quaternary Research 41:316-325.
+#
+26 1
+    1 Ace      A Acer
+    2 Car      A Carya
+    3 Crn      A Cornus
+    4 Cupae    A Cupressaceae
+    5 Fra.ni   A Fraxinus nigra
+    6 Mor      A Morus
+    7 Os/Ca    A Ostrya/Carpinus
+    8 Pic      A Picea
+    9 Pin.Pi   A Pinus subg. Pinus
+   10 Pin.ud   A Pinus undiff.
+   11 Que      A Quercus
+   12 Slx      A Salix
+   13 Ulm      A Ulmus
+   14 Amb      B Ambrosia
+   15 Apiae    B Apiaceae
+   16 Art      B Artemisia
+   17 Astae.Au B Asteraceae subf. Asteroideae undiff.
+   18 Cypae    B Cyperaceae
+   19 Dal      B Dalea
+   20 Poaae    B Poaceae
+   21 Rum      B Rumex
+   22 Iso      Q Isoëtes
+   23 sp.m     S Spore (monolete)
+   24 sp.t     S Spore (trilete)
+   25 ind.deP3 X Indeterminable (degraded triporate)
+   26 Un/In.ud X Unknown/Indeterminable undiff.
+0, , 17530
+     2.0     4.0     9.0     6.0     2.0     1.0     1.0   264.0     2.0    29.0
+    10.0     1.0     2.0     3.0     2.0     6.0    27.0     3.0     1.0     4.0
+     1.0     1.0     1.0    11.0     7.0    38.0

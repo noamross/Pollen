@@ -1,0 +1,74 @@
+# GPD ASCII Format
+# 30 Jan 04
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** Pollen Database for Siberia and the Russian Far East.             **
+# ***********************************************************************
+#
+# Site name:      Alazeya River Exposure (9 m Terrace)
+# Place:          RUS:Sakha
+# Latitude:       64.20.00N      (  64.333333)
+# Longitude:      154.30.00E     ( 154.5     )
+# Elevation(m):   40
+# Sigle:          ALAZE1
+# Entity name:
+# Contact person: Lozhkin, A.V.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   349.5     5    4790     40     40  MAG-150      L    in situ wood fragment
+#
+# Chron name:     author preferred
+# Age model:      single sample - single date
+# Age bounds:     4780 - 4800
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#   350.0     5    4790   4830   4750   C14
+#
+# Publications:   Kaplina, T.N., and A.V. Lozhkin. 1982. The history of
+#                 vegetation of the Primorskikh lowland of Yakutia in the
+#                 Holocene. Pages 207-220 in A.A. Velichko, I.I. Spasskaya,
+#                 and N.A. Khotinskiy, editors. Evolution of the environment
+#                 of the territory of the USSR during the late Pleistocene and
+#                 Holocene. Nauka, Moscow. In Russian.
+#
+#                 Anderson, P.M., and A.V. Lozhkin, editors. 2002. Late
+#                 Quaternary Vegetation and Climate of Siberia and the Russian
+#                 Far East (Palynological and Radiocarbon Database). North
+#                 East Science Center, Far East Branch, Russian Academy of
+#                 Sciences, Magadan, Russia.
+#
+26 1
+    1 Aln      A Alnus
+    2 Bet      A Betula
+    3 Ercae    A Ericaceae
+    4 Pin.St   A Pinus subg. Strobus
+    5 Slx      A Salix
+    6 Apiae    B Apiaceae
+    7 Art      B Artemisia
+    8 Astae.ud B Asteraceae undiff.
+    9 Braae    B Brassicaceae
+   10 Cryae    B Caryophyllaceae
+   11 Cheae    B Chenopodiaceae
+   12 Cypae    B Cyperaceae
+   13 Fabae    B Fabaceae
+   14 Lilae    B Liliaceae
+   15 Poaae    B Poaceae
+   16 Ranae    B Ranunculaceae
+   17 San      B Sanguisorba
+   18 Scrae    B Scrophulariaceae
+   19 Val      B Valeriana
+   20 Equ      F Equisetum
+   21 Lyc.an   F Lycopodium annotinum
+   22 Polta    F Polypodiophyta
+   23 Sel.ru   F Selaginella rupestris
+   24 Br:Bryes M Bryales
+   25 Br:Spg   M Sphagnum
+   26 unk      X Unknown
+349.5, , 4790
+   129.0    64.0    14.0     4.0    13.0     2.0    32.0    16.0     2.0    33.0
+     1.0    16.0     1.0     3.0    78.0     7.0     3.0     2.0     1.0     2.0
+     1.0     3.0     4.0    41.0     8.0     9.0

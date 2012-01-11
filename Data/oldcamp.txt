@@ -1,0 +1,121 @@
+# GPD ASCII Format
+# 24 Mar 00
+# Raw Counts - All Pollen Types
+#
+# *****************************************************
+# ** Please acknowledge the contributors and the ??? **
+# ** Pollen Database when using these data.          **
+# *****************************************************
+#
+# Site name:      Old Camp Lake
+# Place:          RUS:Magadan Oblast
+# Latitude:       62.10.00N      (  62.166667)
+# Longitude:      149.30.00E     ( 149.5     )
+# Elevation(m):   870
+# Sigle:          OLDCAMP
+# Entity name:    OC
+# Contact person: Anderson, P.M.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#    40.0    10    3510     90     90  Beta-39567   L    organic silt
+#    96.0    10    3460    100    100  Beta-39568   L    organic silt
+#
+# Chron name:     Anderson 1993
+# Age model:      linear interpolation
+# Age bounds:     0 - 5630
+# Chron notes:    Radiocarbon dates rejected. Basal date at 96 cm is a guess
+#                 based on regional pollen stratigraphy.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0     1       0   1000    -39   TOP
+#    96.0     1    6000   7000   5000   GUE
+#
+36 10
+    1 Aln      A Alnus
+    2 Bet      A Betula
+    3 Csp      A Cassiope
+    4 Erles.ud A Ericales undiff.
+    5 Jun      A Juniperus
+    6 Lar      A Larix
+    7 Pin      A Pinus
+    8 Pop      A Populus
+    9 Rho      A Rhododendron
+   10 Slx      A Salix
+   11 Adr      B Androsace
+   12 Art      B Artemisia
+   13 Cypae    B Cyperaceae
+   14 Gen      B Gentiana
+   15 Poaae    B Poaceae
+   16 Ptl      B Potentilla
+   17 Ranae.ud B Ranunculaceae undiff.
+   18 Rosae.ud B Rosaceae undiff.
+   19 Rbs.c    B Rubus chamaemorus
+   20 Sax.hi   B Saxifraga hieracifolia
+   21 Sax.tr   B Saxifraga tricuspidata
+   22 Saxae.ud B Saxifragaceae undiff.
+   23 Tha      B Thalictrum
+   24 Drp      F Dryopteris
+   25 Equ      F Equisetum
+   26 Lycae.ud F Lycopodiaceae undiff.
+   27 Lyc.a    F Lycopodium annotinum
+   28 Osu      F Osmunda
+   29 Spg      M Sphagnum
+   30 sp.m.ud  S Spore (monolete undiff.)
+   31 sp.t.ud  S Spore (trilete undiff.)
+   32 ind      X Indeterminable
+   33 Euc.spik - Eucalyptus spike (number counted)
+   34 Euc.ta.n - Eucalyptus tablets (added, number)
+   35 EucCn/t  - Eucalyptus tablets (concentration, grains/tablet)
+   36 sa.vo.ml - Sample volume (ml)
+0, , 0
+    86.0    98.0     1.0     6.0     1.0    23.0   124.0     0.0     0.0     3.0
+     0.0     2.0    14.0     0.0     1.0     0.0     0.0     1.0     0.0     2.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     2.0     6.0     1.0
+     0.0     0.0   118.0     2.0 12077.0     1.0
+10, , 625
+   180.0   129.0     0.0     5.0     1.0    22.0   124.0     0.0     0.0     4.0
+     1.0     3.0    34.0     0.0    10.0     0.0     1.0     2.0     0.0     0.0
+     1.0     0.0     1.0     1.0     0.0     0.0     0.0     0.0     3.0     0.0
+     0.0     2.0   110.0     2.0 12077.0     1.0
+20, , 1250
+    68.0    77.0     0.0     4.0     0.0    13.0   318.0     0.0     1.0     3.0
+     0.0     3.0    23.0     1.0     3.0     1.0     3.0     1.0     0.0     1.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0   189.0     2.0 12077.0     1.0
+30, , 1875
+    73.0    84.0     0.0     2.0     0.0    13.0   178.0     1.0     0.0     6.0
+     1.0     0.0    12.0     0.0     3.0     1.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     3.0     0.0
+     0.0     0.0   131.0     2.0 12077.0     1.0
+40, , 2500
+    46.0    75.0     0.0     4.0     0.0     3.0   178.0     1.0     0.0     3.0
+     0.0     2.0    13.0     0.0    14.0     0.0     0.0     0.0     0.0     0.0
+     0.0     2.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0   115.0     2.0 12077.0     1.0
+50, , 3125
+    67.0    78.0     0.0     4.0     1.0    13.0   183.0     0.0     0.0     0.0
+     0.0     0.0    14.0     0.0     8.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     1.0     1.0     0.0     0.0     0.0     3.0     0.0
+     0.0     0.0   132.0     2.0 12077.0     1.0
+60, , 3750
+    83.0   145.0     0.0     4.0     0.0    13.0   167.0     3.0     0.0     4.0
+     0.0     1.0    12.0     0.0     4.0     0.0     0.0     2.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     1.0     1.0     0.0     1.0     0.0
+     1.0     1.0   111.0     2.0 12077.0     1.0
+70, , 4375
+    92.0   102.0     0.0     6.0     2.0    13.0   143.0     0.0     0.0     6.0
+     0.0     2.0    21.0     0.0    16.0     1.0     0.0     1.0     0.0     0.0
+     0.0     0.0     0.0     1.0     3.0     0.0     0.0     0.0     4.0     0.0
+     0.0     0.0   112.0     2.0 12077.0     1.0
+80, , 5000
+    71.0    71.0     0.0     0.0     0.0    16.0   174.0     1.0     0.0     3.0
+     1.0     5.0    18.0     0.0     7.0     0.0     2.0     0.0     1.0     0.0
+     0.0     0.0     0.0     1.0     3.0     0.0     0.0     0.0     4.0     0.0
+     1.0     0.0   143.0     2.0 12077.0     1.0
+90, , 5625
+    74.0    57.0     0.0     2.0     1.0    19.0   148.0     1.0     0.0     5.0
+     0.0     3.0     2.0     0.0     3.0     0.0     0.0     0.0     0.0     0.0
+     1.0     1.0     0.0     1.0     0.0     0.0     0.0     0.0     2.0     1.0
+     0.0     0.0   133.0     2.0 12077.0     1.0

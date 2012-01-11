@@ -1,0 +1,82 @@
+# GPD ASCII Format
+# 24 Apr 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Seminary Site
+# Place:          USA:North Dakota
+# Latitude:       46.55.30N      (  46.925   )
+# Longitude:      96.45.30W      ( -96.758333)
+# Elevation(m):   263
+# Sigle:          SEMINARY
+# Entity name:
+# Contact person: McAndrews, J.H.
+# Entity notes:   pollen is from a 15 cm peat layer between Lake Agassiz I and
+#                 II sediments on the grounds of the Catholic seminary.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#     7.5    15    9900    400    400  W-993        G    wood
+# Dating notes:   Sample collected by J.A. Brophy in 1960 (Radiocarbon 6:45,
+#                 1964).
+#
+# Chron name:     NAPD 1
+# Age model:      no model
+# Age bounds:     9850 - 9950
+# Chron notes:    One date 9900±400 from 15 cm thick peat layer. Dates from a
+#                 number of sites indicate the age of this layer to be very
+#                 close to 9900 BP. The 2 samples assigned ages 9900 ± 50.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0     0    9850   9900   9800   SED
+#    10.0     0    9950  10000   9900   SED
+#
+# Publications:   McAndrews, J.H. 1967. Paleoecology of the Seminary and
+#                 Mirror Pool peat deposits. Pages 253-269 in W.J.
+#                 Mayer-Oakes, editor. Life, Land, and Water, Occasional
+#                 Papers, Department of Anthropology, University of Manitoba
+#                 1. University of Manitoba Press, Manitoba, Canada.
+#
+29 2
+    1 Abi      A Abies
+    2 Aln      A Alnus
+    3 Bet      A Betula
+    4 Cor      A Corylus
+    5 Fra.ni   A Fraxinus nigra
+    6 Lar      A Larix
+    7 Pic      A Picea
+    8 Pin      A Pinus
+    9 Pop      A Populus
+   10 Que      A Quercus
+   11 Slx      A Salix
+   12 Ulm      A Ulmus
+   13 Amb      B Ambrosia
+   14 Apiae    B Apiaceae
+   15 Art      B Artemisia
+   16 Astae.Au B Asteraceae subf. Asteroideae undiff.
+   17 Ch/Am    B Chenopodiaceae/Amaranthaceae
+   18 Cypae    B Cyperaceae
+   19 Iva.x    B Iva xanthifolia
+   20 Poaae    B Poaceae
+   21 Tha      B Thalictrum
+   22 Drp-t    F Dryopteris-type
+   23 Spg      M Sphagnum
+   24 Pot      Q Potamogeton
+   25 Spa-t    Q Sparganium-type
+   26 Typ.l    Q Typha latifolia
+   27 ind      X Indeterminable
+   28 unk      X Unknown
+   29 pQ       Z pre-Quaternary
+0, , 9850
+     1.0     2.0     3.0     1.0     2.0     5.0   218.0     9.0     1.0     1.0
+     6.0     1.0     0.0     0.0     1.0     1.0     3.0   284.0     1.0    22.0
+     0.0     4.0     3.0     1.0     0.0     1.0    50.0     3.0    15.0
+10, , 9950
+     0.0     0.0     0.0     0.0     0.0     0.0   138.0     6.0     0.0     1.0
+     0.0     3.0     1.0     1.0     3.0     1.0     1.0   366.0     0.0    27.0
+     6.0     1.0     2.0     0.0     1.0     3.0    24.0     3.0     8.0

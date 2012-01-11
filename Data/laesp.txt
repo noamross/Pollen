@@ -1,0 +1,108 @@
+# GPD ASCII Format
+# 24 Apr 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the Latin American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      La Esperanza
+# Place:          CHL:
+# Latitude:       46.38.00S      ( -46.633333)
+# Longitude:      72.50.00W      ( -72.833333)
+# Elevation(m):   330
+# Sigle:          LAESP
+# Entity name:
+# Contact person: Graf, K.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   135.0     5       0                ETH-6791     A
+#   235.0     5     210     60     60  ETH-6790     A
+#
+# Chron name:     LAPD 1
+# Age model:      linear interpolation
+# Age bounds:     0 - 240
+# Chron notes:    Chron uses top (0 BP) and one radiocarbon date.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0     0       0    -30      0   TOP
+#   235.0     5     210    330     90   C14
+#
+# Publications:   Graf, K. 1992. Pollendiagramme aus den Anden: Eine Synthese
+#                 zur Klimageschichte und Vegetationsentwicklung seit der
+#                 letzten Eiszeit. Physische Geographie vol. 34. University of
+#                 Zurich, Switzerland.
+#
+25 11
+    1 Dri.w    A Drimys winteri
+    2 Ercae    A Ericaceae
+    3 Not      A Nothofagus
+    4 Pod      A Podocarpus
+    5 Apiae.ud B Apiaceae undiff.
+    6 Astae.Au B Asteraceae subf. Asteroideae undiff.
+    7 Astae.Ci B Asteraceae subf. Cichorioideae
+    8 Astae.Mu B Asteraceae tribe Mutisieae
+    9 Azr      B Azorella
+   10 Braae    B Brassicaceae
+   11 Cryae    B Caryophyllaceae
+   12 Cypae    B Cyperaceae
+   13 Gen-t    B Gentiana-type
+   14 Gerae    B Geraniaceae
+   15 Gun      B Gunnera
+   16 Pln      B Plantago
+   17 Poaae    B Poaceae
+   18 Solae    B Solanaceae
+   19 Lyc.cl   F Lycopodium clavatum
+   20 Plp      F Polypodium
+   21 sp.m.ud  S Spore (monolete undiff.)
+   22 sp.t.ps  S Spore (trilete psilate)
+   23 Fu:      U Fungus
+   24 ot       X Other
+   25 ase.cm2  - Area slide examined (cm²)
+8, , 7
+     0.0     1.0    12.0     7.0     0.0     1.0     8.0     0.0     2.0     0.0
+     1.0    49.0     0.0     0.0     1.0     0.0    13.0     0.0     0.0     0.0
+     0.0     0.0    25.0     4.0      .3
+25, , 22
+     1.0     0.0    40.0     0.0     2.0     0.0     6.0     0.0     0.0     0.0
+     0.0     5.0     0.0     1.0     0.0     0.0     9.0     0.0     0.0     1.0
+     0.0     0.0     5.0     6.0      .3
+40, , 36
+     3.0     1.0    71.0     1.0     0.0     0.0     4.0     0.0     1.0     0.0
+     2.0    10.0     0.0     0.0     0.0     1.0     4.0     0.0     0.0     3.0
+     4.0     1.0    14.0     8.0      .3
+115, , 103
+     1.0     0.0    50.0    12.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0    12.0     0.0     0.0     0.0     0.0     3.0     0.0     1.0     1.0
+    19.0     0.0    37.0     1.0      .3
+135, , 121
+     0.0     1.0    23.0     1.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0    19.0     0.0     0.0     0.0     0.0     2.0     0.0     0.0     0.0
+     0.0     0.0    24.0     1.0      .3
+152, , 136
+     0.0     0.0    31.0     3.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0    20.0     0.0     0.0     0.0     0.0     1.0     0.0     0.0     0.0
+     1.0     0.0     4.0     4.0      .3
+172, , 154
+     0.0     1.0    65.0    10.0     0.0     1.0     0.0     0.0     0.0     0.0
+     0.0    24.0     0.0     0.0     0.0     0.0    13.0     3.0     0.0     0.0
+     0.0     0.0     2.0     4.0      .3
+191, , 171
+     1.0     0.0   128.0     7.0     0.0     0.0     0.0     0.0     0.0     1.0
+     1.0     0.0     0.0     0.0     0.0     0.0     1.0     0.0     0.0     0.0
+     2.0     0.0    10.0     2.0      .3
+225, , 201
+     0.0     8.0   100.0    11.0     0.0     1.0     1.0     1.0     0.0     0.0
+     0.0     0.0     1.0     0.0     0.0     0.0     1.0     0.0     0.0     0.0
+     2.0     0.0    14.0     2.0      .2
+242, , 216
+     0.0     0.0    29.0     3.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     4.0     0.0     0.0     0.0     0.0     4.0     0.0     0.0     0.0
+     0.0     0.0     0.0     1.0      .3
+260, , 232
+     1.0     0.0    13.0     3.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     4.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     4.0     1.0      .3

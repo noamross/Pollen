@@ -1,0 +1,117 @@
+# GPD ASCII Format
+# 23 Feb 05
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** North American Pollen Database.                                   **
+# ***********************************************************************
+#
+# Site name:      Water Conservation Area 3B, Gumbo Limbo Near Tail
+# Place:          USA:Florida
+# Latitude:       25.53.13N      (  25.886944)
+# Longitude:      80.33.41W      ( -80.561389)
+# Elevation(m):   5
+# Sigle:          GUMLIMNT
+# Entity name:    98-04-21-GLNT
+# Contact person: Willard, D.A.
+#
+# Radiocarbon dates:
+#      Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#       22.0     4    2510     70     70
+#       41.0     2    3470     50     50
+#       67.0     2    3510      0      0
+#
+# Chron name:     NAPD1-C14
+# Age model:      linear interpolation
+# Age bounds:     120 - 3490
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0     0     -48    -48    -48   TOP
+#    22.0     4    2510   2580   2440   C14
+#    41.0     2    3470   3520   3420   C14
+#    67.0     2    3510   3510   3510   C14
+#
+# Publications:   Willard, D.A., L.M. Weimer, and W.L. Riegel. 2001. Pollen
+#                 assemblages as paleoenvironmental proxies in the Florida
+#                 Everglades. Review of Paleobotany and Palynology 113:213-235
+#
+#                 Willard, D.A., C.W. Holmes, M.S. Korvela, D. Mason, J.B.
+#                 Murray, W.H. Orem, and D.T. Towles. 2002. Paleoecological
+#                 insights on fixed tree island development in the Florida
+#                 Everglades: 1. Environmental controls. Pages 117-152. F.
+#                 Sklar and A. van der Valk, editors. Tree Islands of the
+#                 Everglades. Kluwer Academic Publishers, Dordrecht, The
+#                 Netherlands.
+#
+25 11
+    1 Car      A Carya
+    2 Cep      A Cephalanthus
+    3 cf.Ace   A cf. Acer
+    4 Cu/Ta    A Cupressaceae/Taxaceae
+    5 Fic/Cel  A Ficus/Celtis
+    6 Myr      A Myrica
+    7 Pin      A Pinus
+    8 Que      A Quercus
+    9 Slx      A Salix
+   10 Wal      A Waltheria
+   11 Astae    B Asteraceae
+   12 Ch/Am    B Chenopodiaceae/Amaranthaceae
+   13 Cypae.ud B Cyperaceae undiff.
+   14 Poaae    B Poaceae
+   15 Polae    B Polygonaceae
+   16 Osu.re   F Osmunda regalis
+   17 Cla      Q Cladium
+   18 Nym      Q Nymphaea
+   19 Sag      Q Sagittaria
+   20 Typ      Q Typha
+   21 Utr      Q Utricularia
+   22 sp.m     S Spore (monolete)
+   23 sp.t     S Spore (trilete)
+   24 unk.C3   X Unknown (tricolpate)
+   25 unk.ud   X Unknown undiff.
+1.5, , 126
+     3.0    10.0     0.0     0.0     0.0     1.0     9.0     2.0     8.0     1.0
+     0.0    12.0     0.0     0.0     2.0    33.0     3.0     0.0     0.0     1.0
+     0.0   210.0    58.0     0.0     3.0
+5.5, , 592
+     2.0     1.0     0.0     0.0     0.0     0.0     5.0     0.0     2.0     0.0
+     3.0    77.0     0.0     0.0     0.0    20.0     3.0     0.0     0.0     0.0
+     0.0    44.0   181.0     1.0     5.0
+10.5, , 1173
+     0.0     3.0     0.0     0.0     0.0     1.0    14.0     0.0     1.0     0.0
+     5.0   166.0     0.0     1.0     2.0     1.0     3.0     0.0     3.0     0.0
+     0.0    61.0    58.0     0.0     6.0
+15.5, , 1754
+     0.0     0.0     0.0     0.0     0.0     0.0    12.0     0.0     0.0     0.0
+     0.0   290.0     0.0     0.0     0.0     1.0     0.0     0.0     2.0     0.0
+     0.0    17.0     8.0     0.0     3.0
+21, , 2394
+     0.0     0.0     0.0     1.0     0.0     0.0     7.0     0.0     0.0     0.0
+     1.0   309.0     0.0     1.0     1.0     0.0     0.0     0.0     2.0     0.0
+     0.0    18.0    15.0     0.0     3.0
+27, , 2763
+     0.0     0.0     0.0     0.0     1.0     0.0     6.0     0.0     0.0     0.0
+     0.0   291.0     1.0     1.0     2.0     0.0     0.0     0.0     3.0     0.0
+     0.0    19.0     2.0     0.0     4.0
+29, , 2864
+     0.0     0.0     0.0     0.0     0.0     0.0    21.0     0.0     0.0     0.0
+     0.0   250.0     0.0     0.0     2.0     0.0     1.0     0.0     2.0     0.0
+     0.0    32.0     2.0     0.0     0.0
+35, , 3167
+     0.0     0.0     0.0     0.0     0.0     0.0    57.0     0.0     1.0     0.0
+     2.0   228.0     0.0     0.0     5.0     0.0     5.0     0.0     0.0     0.0
+     0.0    45.0     4.0     0.0     2.0
+39, , 3369
+     0.0     0.0     0.0     0.0     0.0     0.0    35.0     0.0     0.0     0.0
+     0.0   178.0     1.0     2.0     5.0     0.0    14.0     4.0     1.0     0.0
+     0.0    79.0     0.0     0.0     1.0
+45, , 3476
+     0.0     0.0     0.0     0.0     0.0     0.0    19.0     0.0     0.0     0.0
+     0.0   325.0     0.0     1.0     4.0     0.0     3.0     0.0     9.0     0.0
+     1.0     5.0     1.0     1.0     2.0
+51, , 3485
+     0.0     0.0     1.0     0.0     0.0     1.0    20.0     0.0     0.0     0.0
+     0.0   307.0     0.0     0.0     3.0     0.0     5.0     2.0    10.0     2.0
+     0.0     1.0     0.0     0.0     2.0

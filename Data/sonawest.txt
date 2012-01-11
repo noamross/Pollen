@@ -1,0 +1,94 @@
+# GPD ASCII Format
+# 25 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Sona Lake West
+# Place:          CAN:Newfoundland
+# Latitude:       53.35.00N      (  53.583333)
+# Longitude:      63.57.00W      ( -63.95    )
+# Elevation(m):   436
+# Sigle:          SONAWEST
+# Entity name:
+# Contact person: Morrison, A.
+# Entity notes:   Data read from published pollen diagram as percents
+#                 (Morrison,1970,Can.J.Bot.). Data were input as percents
+#                 using the percent conversion option with a pollen sum of
+#                 1000.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   265.0          5575    250    250
+#
+# Chron name:     COHMAP chron# 1
+# Age model:      linear interpolation
+# Age bounds:     300 - 5500
+# Chron notes:    1 C-14 date in peat at Alnus max. (85%). Possible
+#                 unconformities at 190, 165, 85cm. Age bounds for application
+#                 of the model: top = 300; bottom = 5500.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#    20.0           200    300    100   TOP
+#   265.0          5575   5825   5325   C14
+#
+# Publications:   Morrison, A. 1970. Pollen diagrams from interior Labrador.
+#                 Canadian Journal of Botany 48:1957-1975.
+#
+16 12
+    1 Abi      A Abies
+    2 Aln      A Alnus
+    3 Bet      A Betula
+    4 Ercae    A Ericaceae
+    5 Lar      A Larix
+    6 Pic      A Picea
+    7 Pin      A Pinus
+    8 Slx      A Salix
+    9 Astae    B Asteraceae
+   10 Cypae    B Cyperaceae
+   11 Poaae    B Poaceae
+   12 Equ      F Equisetum
+   13 Lyc-t    F Lycopodium-type
+   14 Polta    F Polypodiophyta
+   15 Sel      F Selaginella
+   16 Spg      M Sphagnum
+25, , 300
+     5.0   125.0   190.0    10.0     0.0   650.0    40.0     0.0    40.0   300.0
+    10.0    40.0    25.0     0.0    40.0    80.0
+50, , 858
+    15.0    60.0   190.0    10.0     0.0   710.0    25.0     0.0    20.0   120.0
+     5.0    40.0    25.0     0.0    20.0    40.0
+75, , 1406
+    20.0    50.0   160.0     5.0     0.0   750.0    20.0     0.0     5.0    50.0
+     0.0    35.0    20.0    10.0     0.0    20.0
+100, , 1955
+    20.0    40.0   110.0     5.0     0.0   810.0    20.0     0.0    10.0    40.0
+     5.0    20.0     5.0    15.0     0.0    20.0
+125, , 2503
+    30.0    30.0   130.0     0.0     0.0   800.0    10.0     0.0    10.0    50.0
+    15.0    20.0    20.0    10.0     0.0    20.0
+150, , 3052
+    30.0    40.0   170.0     0.0     0.0   750.0    10.0     0.0     0.0    60.0
+    20.0    15.0    30.0     5.0     5.0    15.0
+175, , 3600
+    25.0   115.0   320.0     0.0     5.0   520.0    15.0     0.0     0.0    60.0
+     5.0    25.0    25.0    10.0    15.0    10.0
+200, , 4148
+    25.0   300.0   515.0    10.0    10.0   130.0    20.0     0.0     0.0    30.0
+    20.0    10.0    45.0    30.0     5.0     5.0
+225, , 4697
+    15.0   640.0   300.0     0.0     0.0    30.0     5.0    10.0     0.0    30.0
+     5.0     5.0   110.0    30.0     0.0     0.0
+250, , 5245
+     0.0   770.0   180.0     0.0     0.0    30.0    10.0    10.0     0.0    30.0
+    10.0    10.0    90.0    15.0     0.0     0.0
+275, , 5794
+     0.0   880.0   100.0     0.0     0.0    10.0    10.0     0.0     0.0    20.0
+     0.0     5.0    50.0    10.0     0.0     0.0
+285, , 6013
+     0.0   670.0   180.0     0.0     0.0   130.0    20.0     0.0    20.0    40.0
+     0.0    10.0   170.0    40.0     0.0    10.0

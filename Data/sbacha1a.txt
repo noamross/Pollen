@@ -1,0 +1,70 @@
+# GPD ASCII Format
+# 26 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the Latin American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Sierra Bacha
+# Place:          MEX:Sonora
+# Latitude:       29.50.00N      (  29.833333)
+# Longitude:      112.29.00W     (-112.483333)
+# Elevation(m):   220
+# Sigle:          SBACHA1A
+# Entity name:    SB1A
+# Contact person: Anderson, R.S.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#                  9970    150    150  A-5097       G    Midden debris
+# Dating notes:   Midden Sample SB1A
+#
+# Chron name:     R.S. Anderson 1995
+# Age model:      sample directly dated
+# Age bounds:     9960 - 9980
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#  9970.0          9970  10270   9670   C14
+#
+# Publications:   Anderson, R.S., and T.R. Van Devender. 1995. Vegetation
+#                 history of the coastal lowlands of Sonora, Mexico - pollen
+#                 records from packrat middens. Journal of Arid Environments
+#                 30:295-306.
+#
+29 1
+    1 Agv      A Agave
+    2 Bur.m    A Bursera microphylla
+    3 Cci      A Cercidium
+    4 Ece-t    A Encelia-type
+    5 Eph.ne-t A Ephedra nevadensis-type
+    6 Fou.c    A Fouquieria columnaris
+    7 Fou.s    A Fouquieria splendens
+    8 Jun      A Juniperus
+    9 Kra      A Krameria
+   10 Lrr      A Larrea
+   11 Pps      A Prosopis
+   12 Sim.c    A Simmondsia chinensis
+   13 Amb-t    B Ambrosia-type
+   14 Art      B Artemisia
+   15 Ast.As.c B Asteraceae subf. Asteroideae (coarse-spine)
+   16 Cacae.ud B Cactaceae undiff.
+   17 Cng-t    B Carnegiea-type
+   18 Ch/Am    B Chenopodiaceae/Amaranthaceae
+   19 Ecp-t    B Eucrypta-type
+   20 Eup      B Euphorbia
+   21 Fabae.ud B Fabaceae undiff.
+   22 Lamae    B Lamiaceae
+   23 Opu      B Opuntia
+   24 Pln.ov   B Plantago ovata
+   25 Sol      B Solanum
+   26 Sph      B Sphaeralcea
+   27 Trs      B Trixis
+   28 ind.de   X Indeterminable (degraded)
+   29 unk      X Unknown
+9970, , 9970
+     3.0    39.0     6.0    42.0     7.0    51.0     3.0     5.0     1.0     1.0
+     4.0     1.0    13.0    31.0     6.0     9.0    14.0     1.0     1.0    10.0
+     1.0     1.0     3.0     1.0     2.0    11.0     1.0    53.0     5.0

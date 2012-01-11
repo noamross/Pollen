@@ -1,0 +1,144 @@
+# GPD ASCII Format
+# 24 Apr 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Ra Lake
+# Place:          CAN:Northwest Territories
+# Latitude:       65.14.00N      (  65.233333)
+# Longitude:      126.25.00W     (-126.416667)
+# Elevation(m):   330
+# Sigle:          RALAKE
+# Entity name:
+# Contact person: MacDonald, G.M.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   135.0     6    4530     80     80  GSC-3514     G    gyttja
+#   172.5     7    5510    100    100  GSC-3549     G    gyttja
+#
+# Chron name:     NAPD 1
+# Age model:      linear interpolation
+# Age bounds:     -40 - 5190
+# Chron notes:    Chron uses top, 2 C14 dates, and 11500 BP for date of
+#                 deglaciation. Comparison with Lake Mélèze suggests a hiatus
+#                 may exist in the marl below bottom C14 date (5510).
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0     0     -32     50    -32   TOP
+#   135.0     6    4530   4690   4370   C14
+#   172.5     7    5510   5710   5310   C14
+#   240.0     0   11500  12000  11000   DGL
+#
+# Publications:   MacDonald, G.M. 1984. Postglacial plant migration and
+#                 vegetation development in the western Canadian boreal
+#                 forest. Dissertation. University of Toronto, Toronto,
+#                 Ontario, Canada.
+#
+36 13
+    1 Aln.i    A Alnus incana
+    2 Aln.v    A Alnus viridis
+    3 Bet      A Betula
+    4 Cupae    A Cupressaceae
+    5 Erles    A Ericales
+    6 Lar      A Larix
+    7 Myr      A Myrica
+    8 Pic      A Picea
+    9 Pin      A Pinus
+   10 Pop      A Populus
+   11 Slx      A Salix
+   12 She.c    A Shepherdia canadensis
+   13 Art      B Artemisia
+   14 Astae.ud B Asteraceae undiff.
+   15 Braae    B Brassicaceae
+   16 Ch/Am    B Chenopodiaceae/Amaranthaceae
+   17 Cypae    B Cyperaceae
+   18 Epi      B Epilobium
+   19 Pln      B Plantago
+   20 Poaae    B Poaceae
+   21 Ran      B Ranunculus
+   22 Rosae.ud B Rosaceae undiff.
+   23 Rbs      B Rubus
+   24 Sph      B Sphaeralcea
+   25 Equ      F Equisetum
+   26 Lycae    F Lycopodiaceae
+   27 Plpae    F Polypodiaceae
+   28 Myp      Q Myriophyllum
+   29 Pot      Q Potamogeton
+   30 Spa      Q Sparganium
+   31 ind      X Indeterminable
+   32 unk      X Unknown
+   33 pQ       Z pre-Quaternary
+   34 Lyc.spik - Lycopodium spike (number counted)
+   35 Lyc.ta.n - Lycopodium tablets (added, number)
+   36 LycCn/t  - Lycopodium tablets (concentration, grains/tablet)
+0, , -32
+     2.0   173.0   107.0     0.0     1.0     0.0     5.0   241.0     6.0     0.0
+    10.0     0.0     0.0     0.0     0.0     0.0     6.0     0.0     0.0     9.0
+     0.0     0.0     0.0    33.0     0.0     0.0     2.0     0.0     1.0     0.0
+     5.0     2.0     0.0   133.0     2.0 11300.0
+20, , 644
+     5.0   160.0   103.0     0.0     5.0     0.0    10.0   230.0    10.0     0.0
+    10.0     0.0     0.0     0.0     0.0     0.0    10.0     0.0     0.0     7.0
+     0.0     0.0     0.0    45.0     0.0     0.0     4.0     0.0     0.0     0.0
+     3.0     3.0     0.0   130.0     2.0 11300.0
+40, , 1320
+     6.0   147.0   106.0     0.0     2.0     0.0     7.0   225.0     6.0     0.0
+     5.0     0.0     0.0     0.0     0.0     0.0     2.0     0.0     0.0     3.0
+     0.0     0.0     0.0    13.0     0.0     0.0     1.0     0.0     2.0     0.0
+     4.0     2.0     0.0     0.0     2.0 11300.0
+60, , 1996
+     4.0   143.0   103.0     0.0     2.0     0.0     3.0   251.0     3.0     0.0
+    18.0     1.0     1.0     0.0     0.0     0.0     2.0     1.0     1.0     2.0
+     0.0     0.0     0.0    16.0     0.0     0.0     0.0     1.0     0.0     0.0
+     2.0     0.0     0.0   116.0     2.0 11300.0
+80, , 2671
+     5.0   154.0   100.0     0.0     1.0     0.0     6.0   201.0     5.0     0.0
+     3.0     0.0     0.0     0.0     0.0     0.0     3.0     0.0     0.0     2.0
+     1.0     0.0     1.0    17.0     0.0     0.0     0.0     0.0     1.0     0.0
+     3.0     1.0     0.0   115.0     2.0 11300.0
+100, , 3347
+     5.0    90.0   100.0     0.0     0.0     0.0     4.0   226.0     2.0     1.0
+     6.0     1.0     0.0     0.0     0.0     2.0     6.0     0.0     0.0     3.0
+     0.0     1.0     0.0    10.0     2.0     0.0     0.0     0.0     0.0     0.0
+     2.0     0.0     0.0    88.0     2.0 11300.0
+120, , 4023
+    11.0   112.0   100.0     0.0     0.0     2.0     7.0   240.0     4.0     4.0
+     6.0     0.0     1.0     0.0     0.0     0.0    18.0     0.0     0.0     2.0
+     0.0     0.0     0.0     7.0     2.0     1.0     0.0     0.0     0.0     0.0
+     0.0     0.0     1.0    92.0     2.0 11300.0
+140, , 4661
+     9.0   110.0   104.0     0.0     0.0     0.0     5.0   220.0     2.0     3.0
+     6.0     0.0     0.0     0.0     0.0     0.0    12.0     0.0     0.0     3.0
+     0.0     0.0     0.0     7.0     3.0     2.0     0.0     0.0     1.0     0.0
+     0.0     0.0     0.0    95.0     2.0 11300.0
+160, , 5183
+     0.0    66.0    40.0     0.0     0.0     0.0     1.0   140.0     0.0     0.0
+     7.0     0.0     2.0     0.0     0.0     0.0     4.0     1.0     0.0     4.0
+     1.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     2.0     0.0    47.0     2.0 11300.0
+180, , 6176
+     0.0    45.0    45.0     0.0     0.0     0.0     1.0   120.0     0.0     0.0
+     4.0     2.0     1.0     0.0     0.0     0.0     1.0     0.0     0.0     1.0
+     0.0     0.0     0.0     3.0     0.0     0.0     1.0     1.0     0.0     0.0
+     0.0     0.0     0.0    35.0     2.0 11300.0
+200, , 7950
+     0.0    10.0   166.0     1.0     2.0     0.0     0.0    40.0     0.0     0.0
+     2.0     0.0     1.0     1.0     0.0     0.0     4.0     1.0     0.0     7.0
+     0.0     0.0     0.0     1.0     0.0     0.0     1.0     0.0     0.0     0.0
+     0.0     0.0     0.0   189.0     2.0 11300.0
+220, , 9725
+     0.0     1.0   130.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+    10.0     0.0    10.0     0.0     1.0     0.0     2.0     0.0     0.0     7.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     1.0     3.0     0.0   135.0     2.0 11300.0
+240, , 11500
+     0.0     0.0   150.0     3.0     0.0     0.0     0.0     0.0     0.0     0.0
+    20.0     0.0    60.0     1.0     0.0     6.0    12.0     0.0     0.0    15.0
+     1.0     1.0     0.0     0.0     0.0     0.0     1.0     0.0     0.0     1.0
+     3.0     1.0     0.0   360.0     2.0 11300.0

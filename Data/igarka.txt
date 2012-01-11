@@ -1,0 +1,173 @@
+# GPD ASCII Format
+# 04 Mar 04
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** Pollen Database for Siberia and the Russian Far East.             **
+# ***********************************************************************
+#
+# Site name:      Igarka Peat Exposure
+# Place:          RUS:Krasnoyarskiy Kray
+# Latitude:       67.40.00N      (  67.666667)
+# Longitude:      86.00.00E      (  86.0     )
+# Elevation(m):   45
+# Sigle:          IGARKA
+# Entity name:
+# Contact person: Volkova, V.S.
+# Entity notes:   site is located in the lower Yenesei valley 2 km to north of
+#                 the town of Igarka
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#    40.0     3    6030     10     10  GIN-181      L    peat
+#   135.0     3    9200     40     40  GIN-180      L    wood
+#   152.5     3    9480    120    120  GIN-179      L    peat
+#
+# Chron name:     PALE 1
+# Age model:      linear interpolation
+# Age bounds:     5860 - 9600
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#    40.0     3    6030   6040   6020   C14
+#   135.0     3    9200   9240   9160   C14
+#   152.5     5    9480   9600   9360   C14
+#
+# Publications:   Il'ina, N.S., E.I. Lapshina, and N.I. Lavrenko. 1985. The
+#                 vegetation cover of the western Siberia continental plateau.
+#                 Nauka, Siberia Branch, Novosibirsk. In Russian.
+#
+#                 Kats, S.V. 1953. History of vegetation of western Siberia
+#                 during the Holocene. Bulletin of commission for study the
+#                 Quaternary. Volume 13:118-123. Nauka, Moscow. In Russian.
+#
+#                 Levkovskaya, G.M., N.V. Kind, F.S. Zavel'skii, and V.S.
+#                 Forova. 1970. Absolute age of peat from the Igarka region
+#                 and Holocene zonal sequences of western Siberia. Bulletin of
+#                 commission for study the Quaternary. Number 37:94-101.
+#                 Nauka, Moscow. In Russian.
+#
+#                 Orlova, V.V. 1962. Climate of the USSR: western Siberia.
+#                 Gidrometizdat, Leningrad. In Russian.
+#
+#                 Anderson, P.M., and A.V. Lozhkin, editors. 2002. Late
+#                 Quaternary Vegetation and Climate of Siberia and the Russian
+#                 Far East (Palynological and Radiocarbon Database). North
+#                 East Science Center, Far East Branch, Russian Academy of
+#                 Sciences, Magadan, Russia.
+#
+25 22
+    1 Abi      A Abies
+    2 Aln      A Alnus
+    3 Betae.ud A Betulaceae undiff.
+    4 Ercae    A Ericaceae
+    5 Lar      A Larix
+    6 Pic      A Picea
+    7 Pin.si   A Pinus sibirica
+    8 Pin.sy   A Pinus sylvestris
+    9 Slx      A Salix
+   10 Art      B Artemisia
+   11 Cypae    B Cyperaceae
+   12 herbs.ud B Herbs undiff.
+   13 Poaae    B Poaceae
+   14 Dph.al   F Diphasiastrum alpinum
+   15 Dph.co   F Diphasiastrum complanatum
+   16 Equ      F Equisetum
+   17 Lycae.ud F Lycopodiaceae undiff.
+   18 Lyc.an.a F Lycopodium annotinum subsp. alpestre
+   19 Lyc.an.n F Lycopodium annotinum subsp. annotinum
+   20 Lyc.cl   F Lycopodium clavatum
+   21 Plpae    F Polypodiaceae
+   22 Br:Bryes M Bryales
+   23 Br:Spg   M Sphagnum
+   24 Men.tr   Q Menyanthes trifoliata
+   25 Myp      Q Myriophyllum
+5, , 4862
+     0.0    60.0   240.0    80.0     0.0   300.0    60.0     0.0     0.0     0.0
+     0.0     0.0    20.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0
+10, , 5029
+     0.0     0.0     0.0     0.0     0.0   240.0    10.0   360.0     0.0     0.0
+     1.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0    10.0
+     0.0     0.0     0.0     0.0     0.0
+20, , 5363
+     0.0    90.0   250.0     0.0     0.0   180.0     0.0   360.0     0.0     0.0
+     4.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0    15.0
+     0.0     0.0   240.0     0.0     0.0
+30, , 5696
+     0.0    60.0   300.0   120.0     0.0   180.0     0.0   260.0     0.0    30.0
+   150.0     0.0    30.0     0.0     0.0     0.0    20.0     0.0     0.0     0.0
+     0.0     0.0    40.0     0.0    60.0
+35, , 5863
+    60.0   120.0   300.0     0.0     0.0   240.0    20.0    60.0     0.0     0.0
+     0.0   180.0     4.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     2.0
+40, , 6030
+     0.0    60.0   350.0    30.0    10.0     0.0     0.0    30.0     0.0     0.0
+   150.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0
+50, , 6364
+     0.0    30.0   175.0     0.0    15.0   240.0     0.0    30.0     0.0     0.0
+   120.0     0.0   100.0     0.0     0.0    60.0     2.0     0.0     0.0    10.0
+     0.0    40.0     0.0     0.0     0.0
+60, , 6697
+     0.0    70.0   420.0     0.0   103.0   280.0     0.0    35.0     0.0     0.0
+    10.0     0.0     2.0     0.0     0.0   170.0     0.0     0.0     0.0     0.0
+     0.0    25.0    50.0     0.0     0.0
+75, , 7198
+     0.0    65.0   260.0     0.0   150.0   280.0     0.0     0.0     0.0     0.0
+    10.0     0.0     2.0     0.0     0.0   150.0     0.0     0.0     0.0     0.0
+    20.0   120.0    30.0    10.0     0.0
+80, , 7365
+     0.0    20.0   270.0     0.0    18.0   360.0     0.0     0.0     0.0     0.0
+     2.0     0.0     0.0     0.0     0.0   120.0    60.0     0.0     0.0     0.0
+     0.0     0.0   150.0     0.0     0.0
+100, , 8032
+     0.0    60.0   180.0    30.0     9.0   360.0     0.0    30.0     0.0     0.0
+    70.0    20.0     0.0     0.0     0.0    30.0    20.0     0.0     0.0     0.0
+     0.0    30.0   180.0     0.0     0.0
+110, , 8366
+     0.0    75.0   240.0     0.0    10.0   250.0     0.0    50.0     0.0     0.0
+   180.0     0.0     0.0     0.0     0.0   120.0    30.0     0.0     0.0     0.0
+     0.0     0.0   180.0     0.0    30.0
+115, , 8533
+     0.0    55.0   275.0     0.0     0.0   330.0     0.0     0.0     0.0     0.0
+   100.0     0.0    40.0     0.0     0.0   100.0    75.0     0.0    10.0    12.0
+     0.0     0.0     0.0     0.0    70.0
+120, , 8699
+     0.0    60.0   240.0     0.0     0.0   360.0     0.0    30.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0
+125, , 8866
+     0.0     0.0   247.0     0.0    20.0   246.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0   140.0     0.0     0.0     0.0     0.0
+    20.0     0.0    40.0     0.0     0.0
+130, , 9033
+     0.0    30.0   180.0     0.0    30.0   120.0     0.0     0.0     0.0    30.0
+     6.0     0.0     0.0     0.0     0.0   240.0     0.0     0.0     0.0     0.0
+    30.0    50.0    80.0     4.0     0.0
+135, , 9200
+     0.0    80.0   240.0     0.0    25.0   160.0     0.0     0.0     0.0    20.0
+     5.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0    16.0    60.0
+140, , 9280
+     0.0    40.0   300.0    30.0    40.0   180.0     0.0    20.0     0.0    35.0
+   210.0     0.0     0.0     0.0     0.0   150.0     0.0     0.0     0.0    10.0
+     0.0    60.0   105.0     6.0    96.0
+145, , 9360
+     0.0    20.0   110.0   180.0     5.0    90.0     0.0     0.0    10.0    60.0
+   360.0     0.0     0.0     0.0     0.0   100.0     8.0     4.0     0.0     0.0
+     0.0     0.0    30.0     0.0    42.0
+150, , 9440
+     0.0    25.0   300.0    20.0    10.0   225.0     0.0    25.0     0.0    10.0
+     2.0     0.0    20.0     0.0     0.0    20.0    20.0     0.0     0.0     0.0
+     0.0     0.0    60.0     5.0     0.0
+155, , 9520
+     0.0    40.0   288.0    80.0    12.0   192.0     0.0     0.0     0.0    40.0
+   280.0     0.0     0.0     0.0     0.0     4.0    10.0     0.0     0.0     0.0
+     0.0     4.0     0.0     0.0     0.0
+160, , 9600
+     0.0    20.0   300.0     0.0     0.0    80.0     0.0     0.0     0.0    90.0
+   300.0     0.0     0.0     3.0     2.0     8.0     0.0     0.0     3.0     0.0
+     4.0     0.0     6.0     0.0    60.0

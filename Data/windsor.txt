@@ -1,0 +1,124 @@
+# GPD ASCII Format
+# 24 Apr 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Windsor Pond
+# Place:          USA:Massachusetts
+# Latitude:       42.32.00N      (  42.533333)
+# Longitude:      72.59.00W      ( -72.983333)
+# Elevation(m):   496
+# Sigle:          WINDSOR
+# Entity name:
+# Contact person: Patterson, W.A. III
+#
+# Chron name:     NAPD 1
+# Age model:      linear interpolation
+# Age bounds:     0 - 240
+# Chron notes:    Chron uses top and European settlement horizon.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0     0       0     20    -20   TOP
+#    41.0    45     150    250     50   ESH
+#
+60 5
+    1 Abi      A Abies
+    2 Ace.ne   A Acer negundo
+    3 Ace.pe   A Acer pensylvanicum
+    4 Ace.ru   A Acer rubrum
+    5 Ace.sa   A Acer saccharum
+    6 Ace.sp   A Acer spicatum
+    7 Aln.i    A Alnus incana
+    8 Bet      A Betula
+    9 Car      A Carya
+   10 Cas      A Castanea
+   11 Cor      A Corylus
+   12 Cupae    A Cupressaceae
+   13 Ercae    A Ericaceae
+   14 Fag      A Fagus
+   15 Fra.ni   A Fraxinus nigra
+   16 Fra.pe   A Fraxinus pennsylvanica
+   17 Ilx      A Ilex
+   18 Jug.c    A Juglans cinerea
+   19 Myr      A Myrica
+   20 Os/Ca    A Ostrya/Carpinus
+   21 Pic      A Picea
+   22 Pin.st   A Pinus strobus
+   23 Pin.Pi   A Pinus subg. Pinus
+   24 Pin.ud   A Pinus undiff.
+   25 Pla      A Platanus
+   26 Pop      A Populus
+   27 Que      A Quercus
+   28 Slx      A Salix
+   29 Sam      A Sambucus
+   30 Sar.v    A Sarcobatus vermiculatus
+   31 Til      A Tilia
+   32 Tsu      A Tsuga
+   33 Ulm      A Ulmus
+   34 Vib      A Viburnum
+   35 Amb      B Ambrosia
+   36 Astae.Au B Asteraceae subf. Asteroideae undiff.
+   37 Ch/Am.ud B Chenopodiaceae/Amaranthaceae undiff.
+   38 Cypae    B Cyperaceae
+   39 Hu/Ca.s  B Humulus/Cannabis sativa
+   40 Lamae    B Lamiaceae
+   41 Pln.la   B Plantago lanceolata
+   42 Poaae    B Poaceae
+   43 Polae.ud B Polygonaceae undiff.
+   44 Rosae    B Rosaceae
+   45 Rum      B Rumex
+   46 Tha      B Thalictrum
+   47 Urt      B Urtica
+   48 Dph.c    F Diphasiastrum complanatum
+   49 Equ      F Equisetum
+   50 Hup.l    F Huperzia lucidula
+   51 Lyc.cl   F Lycopodium clavatum
+   52 Ptr      F Pteridium
+   53 Spg      M Sphagnum
+   54 Iso      Q Isoëtes
+   55 Pot      Q Potamogeton
+   56 Ty/Sp    Q Typha/Sparganium
+   57 sp.ud    S Spore undiff.
+   58 ind      X Indeterminable
+   59 unk      X Unknown
+   60 Euc.spik - Eucalyptus spike (number counted)
+0, , 0
+     0.0     1.0     2.0     1.0     1.0     0.0    12.0    45.0     3.0     0.0
+     1.0     0.0     1.0     6.0     2.0     1.0     2.0     0.0     0.0     3.0
+     9.5     2.0     2.0     7.0     0.0     1.0    12.0     0.0     1.0     0.0
+     0.0     9.0     3.0     2.0     5.0     3.0     1.0     3.0     0.0     0.0
+     0.0    10.0     0.0     0.0     5.0     1.0     0.0     1.0     1.0     0.0
+     0.0     0.0     1.0     1.0     1.0     0.0    16.0    62.0     1.0   350.0
+9.1, , 33
+     0.0     0.0     0.0     0.0     1.0     1.0    29.0    54.0     1.0     2.0
+     0.0     0.0     0.0     9.0     2.0     1.0     3.0     0.0     4.0     0.0
+     8.0     1.0     3.0     6.5     0.0     1.0     9.0     2.0     0.0     1.0
+     0.0     5.0     0.0     0.0     5.0     2.0     0.0     7.0     1.0     0.0
+     1.0    13.0     1.0     4.0     2.0     0.0     0.0     2.0     0.0     3.0
+     1.0     6.0     2.0     9.0     0.0     0.0     7.0    60.0     1.0   225.0
+14.6, , 53
+     0.0     0.0     0.0     1.0     3.0     0.0    12.0    53.0     1.0     4.0
+     0.0     1.0     0.0     9.0     2.0     0.0     1.0     0.0     0.0     2.0
+     3.5     0.0     2.0     3.5     0.0     2.0     4.0     0.0     0.0     0.0
+     0.0     6.0     1.0     2.0     1.0     5.0     0.0     1.0     0.0     0.0
+     0.0    12.0     0.0     2.0     0.0     0.0     0.0     1.0     0.0     0.0
+     1.0     0.0     0.0     3.0     1.0     0.0    12.0    48.0     0.0    75.0
+18.2, , 67
+     0.0     0.0     0.0     4.0     1.0     0.0    30.0    43.0     2.0     3.0
+     1.0     0.0     1.0    22.0     0.0     1.0     4.0     1.0     0.0     2.0
+     2.5     2.0     1.5     7.5     1.0     1.0    10.0     1.0     0.0     0.0
+     0.0     7.0     1.0     7.0     4.0     1.0     0.0     5.0     0.0     2.0
+     1.0    15.0     0.0     1.0     3.0     0.0     1.0     0.0     0.0     1.0
+     0.0     2.0     4.0     4.0     0.0     0.0    12.0    76.0     1.0    74.0
+63.7, , 233
+      .5     0.0     1.0     0.0     4.0     0.0    17.0    62.0     4.0     3.0
+     0.0     2.0     1.0    52.0     0.0     5.0     4.0     1.0     1.0     5.0
+    19.0     6.0     1.0     3.0     0.0     0.0    10.0     0.0     0.0     0.0
+     1.0    40.0     2.0     1.0     1.0     1.0     0.0     1.0     0.0     0.0
+     0.0     2.0     0.0     0.0     0.0     0.0     1.0     0.0     0.0     1.0
+     0.0     0.0     1.0     8.0     0.0     1.0    16.0    38.0     1.0    55.0

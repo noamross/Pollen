@@ -1,0 +1,142 @@
+# GPD ASCII Format
+# 24 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Horse Pond
+# Place:          USA:Minnesota
+# Latitude:       47.11.25N      (  47.190278)
+# Longitude:      95.52.20W      ( -95.872222)
+# Elevation(m):
+# Sigle:          HORSE
+# Entity name:
+# Contact person: McAndrews, J.H.
+# Entity notes:   Site also called Squirrel Lake.
+#
+# Chron name:     NAPD 1
+# Age model:      linear interpolation
+# Age bounds:     -10 - 250
+# Chron notes:    Chron uses surface date (-15 BP) and the Ambrosia-rise (80
+#                 BP).
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0     0     -15      0    -15   TOP
+#    25.0    10      80    130     30   AMR
+#
+# Publications:   McAndrews, J.H. 1966. Postglacial history of prairie,
+#                 savanna, and forest in northwestern Minnesota. Torrey
+#                 Botanical Club Memoir 22(2):1-72.
+#
+51 8
+    1 Abi      A Abies
+    2 Ace.ne   A Acer negundo
+    3 Ace.sa   A Acer saccharum
+    4 Aln      A Alnus
+    5 Bet      A Betula
+    6 Car      A Carya
+    7 Cor      A Corylus
+    8 Cupae    A Cupressaceae
+    9 Fra.am-t A Fraxinus americana-type
+   10 Jug.c    A Juglans cinerea
+   11 Lar      A Larix
+   12 Os/Ca    A Ostrya/Carpinus
+   13 Pic      A Picea
+   14 Pin      A Pinus
+   15 Pop      A Populus
+   16 Que      A Quercus
+   17 Slx      A Salix
+   18 Sar.v    A Sarcobatus vermiculatus
+   19 Til      A Tilia
+   20 Ulm      A Ulmus
+   21 Vit      A Vitis
+   22 Amb      B Ambrosia
+   23 Apiae    B Apiaceae
+   24 Art      B Artemisia
+   25 Astae.Au B Asteraceae subf. Asteroideae undiff.
+   26 Astae.Ci B Asteraceae subf. Cichorioideae
+   27 Ch/Am.ud B Chenopodiaceae/Amaranthaceae undiff.
+   28 Cypae    B Cyperaceae
+   29 Dal.c-t  B Dalea candida-type
+   30 Hum      B Humulus
+   31 Iva.a    B Iva annua
+   32 Iva.x    B Iva xanthifolia
+   33 Lilae    B Liliaceae
+   34 Poaae    B Poaceae
+   35 Ran      B Ranunculus
+   36 Rosae    B Rosaceae
+   37 Rum      B Rumex
+   38 Tha      B Thalictrum
+   39 Xan      B Xanthium
+   40 Drp-t    F Dryopteris-type
+   41 Equ      F Equisetum
+   42 Lyc-t    F Lycopodium-type
+   43 Ali      Q Alisma
+   44 Myp      Q Myriophyllum
+   45 Nup      Q Nuphar
+   46 Pot.Co   Q Potamogeton subg. Coleogeton
+   47 Pot.ud   Q Potamogeton undiff.
+   48 Sag      Q Sagittaria
+   49 Spa-t    Q Sparganium-type
+   50 Typ.l    Q Typha latifolia
+   51 unk      X Unknown
+1, , -11
+     3.0     2.0     1.0     6.0    23.0     0.0     8.0     1.0     8.0     0.0
+     0.0     7.0     3.0    54.0     5.0    73.0     4.0     1.0     1.0    10.0
+     1.0    44.0     1.0    21.0     5.0     1.0    14.0    30.0     0.0     0.0
+     0.0     4.0     0.0    41.0     0.0     0.0     0.0     2.0     0.0     1.0
+     0.0     1.0     0.0     0.0     0.0     0.0     0.0     0.0     4.0     8.0
+     5.0
+10, , 23
+     2.0     1.0     1.0     5.0    21.0     0.0     9.0     0.0     6.0     0.0
+     0.0    12.0     6.0    80.0     3.0    72.0     7.0     1.0     2.0     3.0
+     1.0    38.0     1.0    23.0    10.0     0.0    20.0    26.0     1.0     0.0
+     0.0     4.0     0.0    31.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     1.0     1.0     0.0     0.0     0.0     0.0     1.0     5.0
+     1.0
+20, , 61
+     1.0     0.0     2.0     5.0    35.0     0.0     9.0     1.0     3.0     0.0
+     1.0    15.0     5.0    77.0     5.0    53.0     6.0     1.0     1.0     9.0
+     0.0    19.0     0.0    19.0     4.0     1.0    16.0    31.0     0.0     0.0
+     0.0     0.0     0.0    15.0     0.0     1.0     1.0     1.0     0.0     1.0
+     0.0     0.0     0.0     4.0     0.0     0.0     0.0     0.0     0.0     4.0
+     9.0
+30, , 99
+     1.0     1.0     2.0    16.0    39.0     0.0     6.0     0.0     6.0     0.0
+     0.0    10.0     8.0    80.0     5.0    56.0     7.0     2.0     2.0     7.0
+     1.0    15.0     0.0    15.0     3.0     0.0     7.0    28.0     1.0     0.0
+     0.0     4.0     1.0    36.0     1.0     0.0     0.0     3.0     0.0     2.0
+     2.0     0.0     0.0     4.0     0.0     0.0     2.0     0.0     1.0     2.0
+     3.0
+40, , 137
+     3.0     0.0     3.0    15.0    39.0     1.0    10.0     0.0     5.0     2.0
+     0.0    10.0     5.0   101.0     5.0    58.0     4.0     0.0     1.0    11.0
+     0.0    13.0     0.0    19.0    11.0     0.0     5.0    36.0     0.0     0.0
+     0.0     0.0     0.0    31.0     0.0     0.0     0.0     3.0     3.0     0.0
+     1.0     0.0     0.0     4.0     1.0     0.0     1.0     0.0     1.0     1.0
+     7.0
+50, , 175
+     3.0     0.0     2.0    10.0    41.0     0.0     9.0     2.0     3.0     0.0
+     1.0    17.0     5.0    97.0     7.0    56.0     8.0     0.0     3.0     9.0
+     0.0     7.0     0.0    31.0    12.0     0.0     8.0    33.0     0.0     1.0
+     0.0     1.0     0.0    35.0     0.0     0.0     0.0     1.0     0.0     1.0
+     0.0     0.0     0.0     4.0     0.0     1.0     0.0     0.0     2.0     2.0
+     4.0
+60, , 213
+     0.0     0.0     0.0    20.0    37.0     0.0     3.0     5.0     3.0     0.0
+     2.0    11.0     5.0    73.0     4.0    64.0     4.0     1.0     1.0     7.0
+     1.0     9.0     0.0    29.0    36.0     0.0     9.0    80.0     0.0     0.0
+     1.0     0.0     0.0    53.0     0.0     0.0     0.0     1.0     0.0     1.0
+     2.0     0.0     0.0     2.0     0.0     0.0     0.0     1.0     0.0     5.0
+     5.0
+70, , 251
+     2.0     0.0     2.0    16.0    35.0     0.0     1.0     0.0     3.0     0.0
+     1.0    20.0     4.0    75.0     5.0    52.0     1.0     0.0     2.0    18.0
+     0.0     6.0     0.0    27.0     8.0     0.0     7.0    53.0     0.0     0.0
+     1.0     1.0     0.0    51.0     0.0     0.0     0.0     1.0     2.0     0.0
+     0.0     0.0     0.0     3.0     0.0     0.0     0.0     0.0     0.0     9.0
+     2.0

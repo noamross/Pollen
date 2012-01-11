@@ -1,0 +1,137 @@
+# GPD ASCII Format
+# 24 Apr 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the Latin American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Veranada Vulkanpickel
+# Place:          ARG:Neuquén
+# Latitude:       36.41.00S      ( -36.683333)
+# Longitude:      70.25.00W      ( -70.416667)
+# Elevation(m):   2800
+# Sigle:          VERNADAV
+# Entity name:
+# Contact person: Schäbitz, F.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   107.5    15    8800   9205   8395  Hv-11830     U    peat
+#
+# Chron name:     Schäbitz 1995
+# Age model:      linear interpolation
+# Age bounds:     30 - 7790
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0     0       0      0      0   TOP
+#   107.5    15    8800   9205   8395   C14
+#
+# Publications:   Schäbitz, F. 1989. Untersuchungen zum aktuellen
+#                 Pollenniederschlag und zur holozänen Klima- und
+#                 Vegetationsentwicklung in den Anden Nord-Neuquéns,
+#                 Argentinien. Bamberger Geographische Schriften 8. Bamberg,
+#                 Germany.
+#
+39 12
+    1 Ade      A Adesmia
+    2 Anaae    A Anacardiaceae
+    3 Aru      A Araucaria
+    4 Caeae    A Caesalpiniaceae
+    5 Eph      A Ephedra
+    6 Erxae    A Erythroxylaceae
+    7 Mimae    A Mimosaceae
+    8 Mytae    A Myrtaceae
+    9 Not.a-t  A Nothofagus antarctica-type
+   10 Not.o-t  A Nothofagus obliqua-type
+   11 Pod      A Podocarpus
+   12 Sntae    A Santalaceae
+   13 Apiae    B Apiaceae
+   14 Astae.Au B Asteraceae subf. Asteroideae undiff.
+   15 Astae.Ci B Asteraceae subf. Cichorioideae
+   16 Astae.Mu B Asteraceae tribe Mutisieae
+   17 Asg      B Astragalus
+   18 Braae    B Brassicaceae
+   19 Cryae    B Caryophyllaceae
+   20 Ch/Am    B Chenopodiaceae/Amaranthaceae
+   21 Cypae    B Cyperaceae
+   22 Fabae.ud B Fabaceae undiff.
+   23 Fabes.ud B Fabales undiff.
+   24 Gerae    B Geraniaceae
+   25 Jncae    B Juncaceae
+   26 Lot-t    B Lotus-type
+   27 Nas      B Nassauvia
+   28 Nycae    B Nyctaginaceae
+   29 Orcae    B Orchidaceae
+   30 Pln      B Plantago
+   31 Poaae    B Poaceae
+   32 Rubae    B Rubiaceae
+   33 Rum      B Rumex
+   34 Saxae    B Saxifragaceae
+   35 Scrae    B Scrophulariaceae
+   36 Urtae    B Urticaceae
+   37 Jcgae    Q Juncaginaceae
+   38 ind      X Indeterminable
+   39 Lilda.ud X Liliopsida undiff.
+.5, , 39
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     2.0     0.0
+     0.0     0.0     3.0    24.0     0.0     1.0     0.0     1.0     2.0     3.0
+     2.0     0.0     1.0     0.0     1.0     0.0     0.0     0.0     0.0    13.0
+    47.0     2.0     0.0     0.0     1.0     3.0     0.0     1.0     0.0
+10.5, , 821
+     6.0     0.0     0.0     2.0     0.0     0.0     0.0     1.0     0.0     0.0
+     0.0     1.0     0.0     4.0     0.0     0.0     0.0     0.0    14.0     0.0
+    24.0     0.0     0.0     0.0     8.0     0.0     0.0     0.0     0.0    11.0
+   123.0     1.0     2.0     0.0     0.0     0.0     0.0     2.0     0.0
+20.5, , 1604
+     1.0     0.0     1.0     0.0     1.0     0.0     1.0     0.0     0.0     1.0
+     0.0     0.0     0.0     9.0     0.0     0.0     0.0     5.0     0.0     1.0
+    49.0     0.0     0.0     1.0    15.0     0.0     0.0     1.0     0.0     7.0
+   107.0     1.0     0.0     0.0    18.0     0.0     0.0     2.0     3.0
+25.5, , 1995
+     3.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     1.0     0.0
+     0.0     0.0     0.0     8.0     0.0     1.0     0.0     0.0     2.0     0.0
+     0.0     0.0     0.0     0.0     5.0     0.0     0.0     0.0     1.0     1.0
+    64.0    10.0     0.0     0.0     0.0     0.0     1.0     4.0     0.0
+35.5, , 2777
+     2.0     0.0     0.0     0.0     4.0     1.0     0.0     0.0     3.0     0.0
+     0.0     0.0     0.0     5.0     0.0     0.0     0.0     0.0     3.0     3.0
+    17.0     1.0     3.0     0.0    15.0     1.0     0.0     0.0     0.0    14.0
+    90.0     2.0     0.0     0.0     0.0     0.0     0.0     4.0     3.0
+40.5, , 3168
+     1.0     0.0     0.0     0.0     1.0     0.0     0.0     0.0     2.0     0.0
+     0.0     0.0     3.0     3.0     0.0     1.0     0.0     1.0     1.0     1.0
+     1.0     0.0     0.0     0.0     6.0     0.0     0.0     0.0     1.0     2.0
+    56.0     3.0     0.0     0.0     0.0     0.0     1.0    17.0     0.0
+50.5, , 3950
+     0.0     0.0     0.0     0.0     4.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     4.0     0.0     0.0     1.0     1.0     1.0     1.0
+     6.0     0.0     3.0     0.0     8.0     0.0     4.0     1.0     0.0     4.0
+    50.0     4.0     0.0     0.0     0.0     0.0     0.0     4.0     4.0
+60.5, , 4732
+     3.0     0.0     0.0     1.0     6.0     0.0     1.0     0.0     0.0     0.0
+     0.0     0.0     2.0     6.0     0.0     2.0     0.0     0.0     7.0     1.0
+     8.0     0.0     0.0     0.0    14.0     0.0     0.0     0.0     1.0     3.0
+    39.0     5.0     0.0     0.0     1.0     0.0     6.0     0.0     0.0
+70.5, , 5515
+     3.0     6.0     0.0     0.0     2.0     0.0     0.0     1.0     7.0     0.0
+     1.0     0.0     3.0    19.0     2.0     2.0     0.0     2.0    10.0     2.0
+    44.0    30.0    44.0     1.0    14.0     0.0     0.0     4.0     0.0     1.0
+   217.0     0.0     0.0     1.0     1.0     0.0     0.0     6.0     1.0
+80.5, , 6297
+    12.0     1.0     0.0     0.0     1.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     6.0     0.0     1.0     0.0     1.0     7.0     2.0
+    58.0     3.0     0.0     0.0    21.0     0.0     0.0     0.0     2.0     0.0
+    79.0     4.0     0.0     0.0     0.0     0.0     7.0     0.0     2.0
+90.5, , 7079
+     7.0     0.0     0.0     0.0     4.0     0.0     0.0     0.0     6.0     2.0
+     0.0     0.0     4.0     7.0     0.0     0.0     0.0     1.0     2.0     2.0
+     5.0     0.0     0.0     1.0     0.0     0.0     0.0     0.0     0.0     1.0
+    52.0     1.0     0.0     0.0     0.0     0.0     0.0     2.0     3.0
+99.5, , 7783
+    10.0     0.0     0.0     0.0     4.0     0.0     0.0     0.0     0.0     0.0
+     0.0     0.0     5.0     7.0     0.0     5.0     0.0     0.0     5.0     1.0
+     1.0     0.0     0.0     0.0     1.0     0.0     0.0     0.0     0.0     1.0
+    47.0     4.0     0.0     0.0     0.0     0.0     4.0     3.0     1.0

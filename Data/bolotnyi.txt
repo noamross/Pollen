@@ -1,0 +1,189 @@
+# GPD ASCII Format
+# 04 Mar 04
+# Raw Counts - All Pollen Types
+#
+# ***********************************************************************
+# ** When using these data please acknowledge the contributors and the **
+# ** Pollen Database for Siberia and the Russian Far East.             **
+# ***********************************************************************
+#
+# Site name:      Bolotnyii Stream Exposure 117
+# Place:          RUS:Primorskiy Kray
+# Latitude:       42.51.00N      (  42.85    )
+# Longitude:      132.47.00E     ( 132.783333)
+# Elevation(m):   4
+# Sigle:          BOLOTNYI
+# Entity name:    P117
+# Contact person: Korotky, A.M.
+# Entity notes:   main broadleaf types include Quercus mongolica, Tilia spp.,
+#                 Acer spp., Fraxinus spp.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   205.0    10   29000    270    270  TIG-209      L    wood
+#   255.0    10   10800    150    150  KI-1053      L    wood
+#   355.0    10    5220    140    140  TIG-54       L    wood
+#   355.0    10   39200    300    300  KI-1054      L    wood
+#
+# Chron name:     GPD 1
+# Age model:      linear interpolation
+# Age bounds:     27300 - 40900
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#   205.0    10   29000  29270  28730   C14
+#   355.0    10   39200  39500  38900   C14
+#
+# Publications:   Anderson, P.M., and A.V. Lozhkin, editors. 2002. Late
+#                 Quaternary Vegetation and Climate of Siberia and the Russian
+#                 Far East (Palynological and Radiocarbon Database). North
+#                 East Science Center, Far East Branch, Russian Academy of
+#                 Sciences, Magadan, Russia.
+#
+50 16
+    1 Pin(re)    Pinus (redeposited)
+    2 Abi      A Abies
+    3 Ace      A Acer
+    4 Aln.ud   A Alnus undiff.
+    5 Aln.vi.f A Alnus viridis subsp. fruticosa
+    6 Bet(sh)  A Betula (shrub)
+    7 Bet.co   A Betula costata
+    8 Bet.da   A Betula dahurica
+    9 Bet.er   A Betula ermanii
+   10 Bet.na.e A Betula nana subsp. exilis
+   11 Bet.ov   A Betula ovalifolia
+   12 Bet.pl   A Betula platyphylla
+   13 Bet.Fr   A Betula sect. Fruticosae
+   14 Bet.ud   A Betula undiff.
+   15 Cpn      A Carpinus
+   16 Cor      A Corylus
+   17 Eph      A Ephedra
+   18 Ercae    A Ericaceae
+   19 Jug      A Juglans
+   20 Lar      A Larix
+   21 Oleae    A Oleaceae
+   22 Pic.Eu   A Picea sect. Eupicea
+   23 Pic.Om   A Picea sect. Omorica
+   24 Pin.ko   A Pinus koraiensis
+   25 Pin.pu   A Pinus pumila
+   26 Pin.P.ud A Pinus subg. Pinus undiff.
+   27 PinSt.ud A Pinus subg. Strobus undiff.
+   28 Pin.sy   A Pinus sylvestris
+   29 Que      A Quercus
+   30 Til      A Tilia
+   31 Ulm      A Ulmus
+   32 Apiae    B Apiaceae
+   33 Art      B Artemisia
+   34 Astae.ud B Asteraceae undiff.
+   35 Braae    B Brassicaceae
+   36 Cryae    B Caryophyllaceae
+   37 Cheae    B Chenopodiaceae
+   38 Cypae    B Cyperaceae
+   39 Fabae    B Fabaceae
+   40 Poaae    B Poaceae
+   41 Polae    B Polygonaceae
+   42 Ranae    B Ranunculaceae
+   43 Saxae    B Saxifragaceae
+   44 Cgr      F Coniogramme
+   45 Lyc.cl   F Lycopodium clavatum
+   46 Lyc-t    F Lycopodium-type
+   47 Osu      F Osmunda
+   48 Plpae    F Polypodiaceae
+   49 Br:Bryes M Bryales
+   50 Br:Spg   M Sphagnum
+150, , 25260
+     0.0     0.0     0.0     1.0     0.0     0.0     4.0    18.0     1.0     0.0
+     0.0    70.0     0.0    24.0     1.0     0.0     0.0     8.0    10.0     3.0
+     0.0    51.0     5.0    50.0     2.0     1.0    73.0     7.0     5.0     2.0
+     6.0     0.0     4.0     0.0     1.0     0.0     0.0     6.0     3.0     0.0
+     9.0     0.0     0.0     1.0     0.0     1.0     3.0    82.0     0.0    72.0
+160, , 25940
+     0.0     6.0     0.0     0.0     0.0     0.0     1.0     2.0     1.0     0.0
+     0.0    45.0     0.0    23.0     1.0     2.0     3.0     0.0    35.0     0.0
+     1.0    10.0     4.0    85.0     0.0     6.0    37.0     6.0    22.0     1.0
+     7.0     0.0    13.0     4.0     0.0     0.0     0.0    67.0     2.0     0.0
+     4.0     0.0     0.0     0.0     0.0     0.0    28.0   210.0    44.0     3.0
+180, , 27300
+     0.0     5.0     1.0     0.0     0.0     0.0     4.0     0.0     8.0     0.0
+     0.0    32.0     0.0     3.0     1.0     1.0     0.0     0.0    12.0     0.0
+     0.0    23.0     6.0   131.0     1.0     4.0    32.0    14.0     9.0     0.0
+     3.0     0.0     8.0     2.0     0.0     0.0     0.0    29.0     0.0     0.0
+     3.0     0.0     0.0     0.0     0.0     0.0    28.0    74.0    12.0     6.0
+210, , 29340
+     0.0     5.0     0.0     2.0     0.0     0.0     4.0     3.0     0.0     0.0
+     0.0    17.0     0.0     9.0     0.0     0.0     2.0     0.0     5.0     0.0
+     0.0    12.0     1.0    37.0     0.0     0.0    78.0     7.0     9.0     0.0
+    11.0     0.0     3.0     0.0     0.0     0.0     0.0    23.0     0.0     0.0
+     2.0     0.0     0.0     0.0     0.0     0.0    23.0   196.0     1.0     0.0
+225, , 30360
+     0.0     7.0     0.0     0.0     0.0     0.0     3.0     1.0     0.0     0.0
+     0.0    22.0     0.0     8.0     2.0     1.0     2.0     0.0    25.0     0.0
+     0.0    16.0     2.0   113.0     0.0     1.0    16.0    14.0    22.0     1.0
+     6.0     0.0     7.0     0.0     0.0     0.0     0.0     6.0     2.0     0.0
+     8.0     0.0     0.0     0.0     0.0     0.0     0.0   195.0    25.0     0.0
+240, , 31380
+     0.0     0.0     0.0     0.0     0.0     0.0     4.0     2.0     0.0     0.0
+     0.0    30.0     0.0    14.0     0.0     1.0     0.0     0.0    18.0     0.0
+     0.0    34.0    19.0    68.0     0.0     4.0    54.0    15.0     7.0     0.0
+    10.0     0.0     1.0     0.0     0.0     0.0     0.0    14.0     0.0     0.0
+    12.0     0.0     3.0     0.0     0.0     0.0     0.0   200.0    10.0     0.0
+275, , 33760
+     0.0     0.0     0.0     0.0     0.0     0.0     1.0     0.0    10.0     0.0
+     0.0    29.0     0.0    20.0     2.0     5.0     0.0     0.0    52.0     0.0
+     4.0    11.0     1.0    69.0     0.0     0.0    30.0    10.0    52.0     0.0
+    14.0     0.0    41.0     0.0     0.0     1.0     3.0    64.0     1.0     1.0
+    12.0     0.0     0.0     0.0     0.0     0.0     0.0    97.0    48.0     0.0
+290, , 34780
+     0.0     0.0     0.0     5.0     1.0     1.0     0.0    11.0     0.0     2.0
+     0.0    46.0    10.0    81.0     0.0     0.0     0.0     5.0     0.0     0.0
+     0.0    36.0    12.0     6.0     0.0     0.0    13.0     0.0     0.0     1.0
+     0.0     0.0    10.0     2.0     2.0     0.0     0.0    31.0     2.0     0.0
+     0.0     1.0     1.0     0.0     0.0     0.0     0.0    13.0    41.0    16.0
+300, , 35460
+     0.0     1.0     0.0     1.0     0.0     0.0    11.0     0.0     0.0     0.0
+     0.0    21.0     0.0    19.0     0.0     0.0     4.0     0.0    26.0     0.0
+     0.0    18.0     4.0    50.0     0.0     1.0    58.0    20.0    12.0     0.0
+     8.0     0.0     7.0     0.0     0.0     0.0     0.0    10.0     0.0     0.0
+    44.0     0.0     0.0     0.0     0.0     0.0     0.0   200.0    50.0     0.0
+310, , 36140
+     0.0     3.0     0.0     2.0     0.0     0.0     1.0     2.0     0.0     0.0
+     0.0    47.0     0.0    20.0     0.0     1.0     1.0     0.0    47.0     0.0
+     0.0    34.0    18.0    36.0     0.0     1.0    40.0    25.0    18.0     0.0
+     5.0     0.0    10.0     5.0     0.0     0.0     0.0     2.0     1.0     2.0
+    29.0     0.0     0.0     0.0     0.0     0.0     0.0   220.0    49.0     1.0
+320, , 36820
+     5.0     5.0     0.0     4.0     1.0     0.0     0.0     6.0     5.0     0.0
+     0.0    30.0     2.0    71.0     0.0     0.0     0.0     7.0     0.0     1.0
+     0.0   111.0    11.0    10.0     0.0     1.0    22.0     0.0     0.0     0.0
+     0.0     0.0     4.0     0.0     0.0     0.0     0.0    93.0     1.0     2.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0    13.0    23.0    47.0
+325, , 37160
+     0.0     2.0     0.0     5.0     0.0     0.0     0.0     0.0     0.0     0.0
+     0.0    20.0     0.0    52.0     0.0     0.0     1.0     0.0    25.0     0.0
+     2.0     8.0     8.0    46.0     0.0     0.0    52.0    23.0    15.0     2.0
+    15.0     0.0     4.0     0.0     0.0     0.0     0.0    25.0     0.0     0.0
+    20.0     0.0     0.0     0.0     0.0     0.0     2.0   170.0    37.0     4.0
+350, , 38860
+     0.0     2.0     0.0     0.0     0.0     0.0     3.0     5.0     0.0     0.0
+     0.0    18.0     0.0    16.0     0.0     1.0     8.0     0.0    43.0     0.0
+     1.0    15.0     8.0   103.0     0.0     1.0    14.0    38.0    26.0     1.0
+    20.0     0.0     9.0     7.0     0.0     0.0     2.0    18.0     3.0     3.0
+    80.0     0.0     0.0     0.0     0.0     0.0     0.0    43.0    50.0     0.0
+355, , 39200
+     0.0     6.0     0.0    21.0     0.0     0.0     1.0    16.0     7.0     0.0
+     0.0    41.0     0.0    98.0     0.0     0.0     0.0     5.0     0.0     0.0
+     0.0    57.0     3.0     8.0     0.0     1.0    23.0     0.0     0.0     0.0
+     0.0     0.0     4.0     1.0     0.0     0.0     0.0    66.0     0.0     0.0
+     0.0     0.0     3.0     0.0     1.0     0.0     0.0     8.0    20.0    41.0
+360, , 39540
+     0.0     2.0     0.0     7.0    11.0     0.0     0.0    15.0     2.0     3.0
+     0.0    49.0    22.0   103.0     0.0     0.0     0.0     4.0     0.0     2.0
+     0.0    65.0     7.0     0.0     0.0     1.0    23.0     1.0     0.0     0.0
+     0.0     0.0     4.0     1.0     0.0     0.0     0.0   109.0     5.0     0.0
+     0.0     3.0     1.0     0.0     0.0     0.0     0.0    10.0    25.0    36.0
+380, , 40900
+     0.0     2.0     0.0     4.0     3.0     0.0     0.0    16.0     0.0     1.0
+     1.0    60.0     1.0   108.0     0.0     0.0     0.0     2.0     0.0     1.0
+     0.0    64.0    20.0    21.0     0.0     0.0    24.0     0.0     0.0     1.0
+     0.0     1.0     0.0     2.0     1.0     0.0     0.0    82.0     0.0     1.0
+     0.0     1.0     2.0     0.0     1.0     0.0     0.0    22.0    35.0   144.0

@@ -1,0 +1,98 @@
+# GPD ASCII Format
+# 23 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Churchill Falls South
+# Place:          CAN:Newfoundland
+# Latitude:       53.35.00N      (  53.583333)
+# Longitude:      64.18.00W      ( -64.3     )
+# Elevation(m):   404
+# Sigle:          CHURCHFS
+# Entity name:
+# Contact person: Morrison, A.
+# Entity notes:   Data read from published pollen diagram as percents
+#                 (Morrison,1970,Can.J.Bot.). Data were input as percents
+#                 using the percent conversion option with a pollen sum of
+#                 1000.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   380.0          5450    200    200
+#
+# Chron name:     COHMAP chron# 1
+# Age model:      linear interpolation
+# Age bounds:     200 - 5000
+# Chron notes:    1 C-14 date. 1 ha fen next to falls. Age bounds for
+#                 application of the model: top = 200; bottom = 5000.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#    60.0           200    300    100   TOP
+#   380.0          5450   5650   5250   C14
+#
+# Publications:   Morrison, A. 1970. Pollen diagrams from interior Labrador.
+#                 Canadian Journal of Botany 48:1957-1975.
+#
+18 13
+    1 Abi      A Abies
+    2 Ace      A Acer
+    3 Aln      A Alnus
+    4 Bet      A Betula
+    5 Ercae    A Ericaceae
+    6 Lar      A Larix
+    7 Pic      A Picea
+    8 Pin      A Pinus
+    9 Slx      A Salix
+   10 Astae    B Asteraceae
+   11 Cypae    B Cyperaceae
+   12 Poaae    B Poaceae
+   13 Equ      F Equisetum
+   14 Lyc-t    F Lycopodium-type
+   15 Polta    F Polypodiophyta
+   16 Sel      F Selaginella
+   17 Spg      M Sphagnum
+   18 ind      X Indeterminable
+60, , 200
+    40.0     5.0   180.0   150.0     0.0     5.0   580.0    40.0     0.0    15.0
+   170.0    40.0   580.0     5.0    20.0    15.0    15.0    30.0
+90, , 692
+    70.0     0.0    80.0   100.0     0.0    20.0   690.0    30.0    10.0    20.0
+    80.0    30.0   440.0     5.0    35.0     0.0     0.0    30.0
+120, , 1184
+   100.0     0.0    90.0   100.0    20.0     0.0   660.0    50.0     0.0    10.0
+   120.0     0.0    40.0    30.0    40.0     0.0     0.0    80.0
+150, , 1676
+    90.0     0.0    70.0   100.0    15.0    10.0   680.0    50.0     0.0     0.0
+   300.0     0.0   170.0     0.0    10.0     0.0     5.0    10.0
+180, , 2168
+   120.0     0.0    50.0   100.0     5.0     5.0   700.0    25.0     0.0     0.0
+   100.0     0.0    70.0     0.0     5.0     0.0     0.0     5.0
+210, , 2660
+    80.0     0.0   140.0   145.0    10.0     5.0   600.0    30.0     0.0     0.0
+   200.0    10.0    70.0    10.0    50.0    10.0     0.0    40.0
+240, , 3153
+   120.0     0.0    60.0   150.0    40.0     5.0   620.0    40.0     5.0     0.0
+   200.0    10.0   110.0     5.0    20.0     5.0     0.0   200.0
+270, , 3645
+    40.0     0.0   100.0   150.0    15.0    20.0   670.0    20.0     0.0     0.0
+   250.0    60.0   170.0    10.0    80.0    40.0     5.0    40.0
+300, , 4137
+    40.0     0.0   180.0   190.0    30.0     0.0   550.0    40.0     0.0     0.0
+   150.0     5.0    10.0    15.0    50.0    15.0    40.0   100.0
+330, , 4629
+     5.0     0.0   340.0   180.0     0.0     0.0   440.0    30.0     5.0    30.0
+   230.0    40.0     5.0     0.0    80.0     0.0    70.0   120.0
+360, , 5121
+     5.0     0.0   390.0   280.0     0.0    25.0   300.0     0.0     0.0    20.0
+   110.0    20.0    30.0     0.0   100.0     0.0     0.0   240.0
+390, , 5614
+     5.0     0.0   580.0   320.0     0.0     0.0    90.0     5.0     0.0     0.0
+    50.0     0.0     0.0    20.0    30.0     0.0     0.0     0.0
+420, , 6106
+     5.0     0.0   840.0   100.0     5.0     0.0    45.0     5.0     5.0    15.0
+    20.0     0.0     0.0    20.0    30.0     0.0     0.0     0.0

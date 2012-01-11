@@ -1,0 +1,59 @@
+# GPD ASCII Format
+# 24 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Little Bayou Sara Site 1B
+# Place:          USA:Louisiana
+# Latitude:       30.55.33N      (  30.925833)
+# Longitude:      91.26.34W      ( -91.442778)
+# Elevation(m):   40
+# Sigle:          LBSARA1B
+# Entity name:
+# Contact person: Jackson, S.T.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#     0.0         23935    535    535  GX-18803     U    Picea wood
+#     0.0         23980   1130    990  A-6865       U    Picea wood
+#
+# Chron name:     Jackson 1994
+# Age model:      snapshot assemblage
+# Age bounds:     23930 - 23940
+# Chron notes:    Spruce wood date (GX-18803). Entity is a "snapshot" exposure
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0         23935  25005  22865   C14
+#
+# Publications:   Jackson, S.T., and C.R. Givens. 1994. Late Wisconsinan
+#                 vegetation and environment of the Tunica Hills Region,
+#                 Louisiana/Mississippi. Quaternary Research 41:316-325.
+#
+19 1
+    1 Ace      A Acer
+    2 Arc      A Arceuthobium
+    3 Bet      A Betula
+    4 Car      A Carya
+    5 Cupae    A Cupressaceae
+    6 Pic      A Picea
+    7 Pin.Pi   A Pinus subg. Pinus
+    8 Pin.St   A Pinus subg. Strobus
+    9 Pin.ud   A Pinus undiff.
+   10 Que      A Quercus
+   11 Amb      B Ambrosia
+   12 Apiae    B Apiaceae
+   13 Astae.Au B Asteraceae subf. Asteroideae undiff.
+   14 Ch/Am    B Chenopodiaceae/Amaranthaceae
+   15 Poaae    B Poaceae
+   16 sp.m     S Spore (monolete)
+   17 sp.t     S Spore (trilete)
+   18 ind.deP3 X Indeterminable (degraded triporate)
+   19 Un/In.ud X Unknown/Indeterminable undiff.
+0, , 23935
+     1.0    14.0     1.0     1.0    54.0   155.0    10.0     1.0    15.0    11.0
+     3.0     1.0    16.0     2.0     6.0     2.0    11.0     2.0    18.0

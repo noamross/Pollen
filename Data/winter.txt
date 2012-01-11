@@ -1,0 +1,129 @@
+# GPD ASCII Format
+# 25 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Winter Gulf Site
+# Place:          USA:New York
+# Latitude:       42.33.40N      (  42.561111)
+# Longitude:      78.56.02W      ( -78.933889)
+# Elevation(m):   248
+# Sigle:          WINTER
+# Entity name:    Section 1
+# Contact person: McAndrews, J.H.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   161.0     1   12610    200    200  I-8022       G    spruce wood
+#   178.0     1   12710    220    220  I-3665       G    woody peat
+#
+# Chron name:     NAPD 1
+# Age model:      linear interpolation
+# Age bounds:     12490 - 12780
+# Chron notes:    Chron uses 2 radiocarbon dates. Ages extrapolated above and
+#                 below dates.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#   161.0     1   12610  13010  12210   C14
+#   178.0     1   12710  13150  12270   C14
+#
+# Publications:   Calkin, P.E., and J.H. McAndrews. 1980. Geology and
+#                 paleontology of two late Wisconsin sites in western New York
+#                 State. Geological Society of America Bulletin 91:295-306.
+#
+35 11
+    1 Abi      A Abies
+    2 Ace.ne   A Acer negundo
+    3 Aln      A Alnus
+    4 Bet      A Betula
+    5 Car      A Carya
+    6 Cupae    A Cupressaceae
+    7 Ela      A Elaeagnus
+    8 Fra.ni   A Fraxinus nigra
+    9 Lar      A Larix
+   10 Os/Ca    A Ostrya/Carpinus
+   11 Pic      A Picea
+   12 Pin      A Pinus
+   13 Pop      A Populus
+   14 Que      A Quercus
+   15 Slx      A Salix
+   16 She.c    A Shepherdia canadensis
+   17 Ulm      A Ulmus
+   18 Vit      A Vitis
+   19 Amb      B Ambrosia
+   20 Art      B Artemisia
+   21 Astae.Au B Asteraceae subf. Asteroideae undiff.
+   22 Cypae    B Cyperaceae
+   23 Hum      B Humulus
+   24 Pln      B Plantago
+   25 Poaae    B Poaceae
+   26 Rosae    B Rosaceae
+   27 Tha      B Thalictrum
+   28 Drp-t    F Dryopteris-type
+   29 Equ      F Equisetum
+   30 Ptr      F Pteridium
+   31 Sel.se   F Selaginella selaginoides
+   32 Spg      M Sphagnum
+   33 Spa-t    Q Sparganium-type
+   34 ind      X Indeterminable
+   35 unk      X Unknown
+140, , 12486
+     0.0     0.0     0.0     2.0     0.0     0.0     0.0     4.0     0.0     4.0
+   152.0    11.0     0.0     3.0     1.0     0.0     0.0     0.0     0.0     1.0
+     2.0   440.0     0.0     0.0    27.0     0.0     0.0     1.0     1.0     0.0
+     8.0     0.0     0.0     9.0     0.0
+145, , 12516
+     0.0     0.0     0.0     0.0     0.0     1.0     0.0     2.0     1.0     4.0
+   180.0    10.0     0.0     3.0     0.0     1.0     0.0     1.0     1.0     2.0
+     1.0    30.0     0.0     0.0     4.0     0.0     0.0     1.0     0.0     0.0
+    15.0     0.0     0.0     6.0     2.0
+150, , 12545
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     3.0     5.0     7.0
+   167.0    10.0     0.0     5.0     0.0     0.0     3.0     0.0     0.0     0.0
+     4.0   142.0     0.0     0.0     6.0     0.0     0.0     2.0     0.0     0.0
+     2.0     0.0     0.0     5.0     0.0
+155, , 12575
+     1.0     0.0     0.0     0.0     0.0     2.0     0.0     0.0     4.0     4.0
+   199.0     5.0     0.0     1.0     0.0     0.0     0.0     0.0     0.0     1.0
+     2.0    89.0     1.0     0.0     7.0     0.0     0.0     1.0     0.0     0.0
+     3.0     0.0     0.0     2.0     1.0
+160, , 12604
+     1.0     0.0     0.0     1.0     0.0     1.0     0.0     2.0     1.0     3.0
+   177.0    12.0     1.0     8.0     0.0     0.0     0.0     0.0     1.0     0.0
+     3.0   274.0     0.0     0.0     6.0     0.0     2.0     0.0     0.0     0.0
+     0.0     1.0     0.0    12.0     2.0
+165, , 12634
+     2.0     0.0     0.0     0.0     0.0     0.0     0.0     1.0     1.0     8.0
+   181.0     7.0     0.0     4.0     0.0     0.0     3.0     0.0     3.0     1.0
+     0.0   302.0     0.0     0.0     5.0     0.0    10.0     3.0     0.0     0.0
+     0.0     0.0     1.0     8.0     1.0
+170, , 12663
+     0.0     0.0     0.0     2.0     0.0    10.0     0.0     2.0     4.0     4.0
+   170.0     2.0     2.0     8.0     1.0     0.0     1.0     0.0     0.0     4.0
+     3.0   100.0     0.0     1.0     9.0     0.0     7.0     3.0     0.0     1.0
+     3.0     0.0     0.0    12.0     1.0
+175, , 12692
+     1.0     1.0     0.0     1.0     0.0     4.0     0.0     4.0     6.0     4.0
+   165.0    11.0     0.0    13.0     2.0     0.0     0.0     0.0     1.0     3.0
+     2.0   162.0     0.0     0.0     0.0     1.0     1.0     0.0     0.0     0.0
+    10.0     0.0     0.0    25.0     1.0
+180, , 12722
+     0.0     0.0     0.0     1.0     0.0    13.0     0.0     1.0     0.0     1.0
+   117.0    17.0     4.0    10.0     2.0     0.0     0.0     0.0     3.0     3.0
+     3.0   237.0     0.0     0.0     6.0     0.0     1.0     1.0     0.0     0.0
+   161.0     0.0     0.0    17.0     1.0
+185, , 12751
+     1.0     0.0     2.0     4.0     1.0    11.0     0.0     8.0     3.0     6.0
+    78.0    34.0     1.0    22.0     8.0     1.0     0.0     0.0     5.0     5.0
+     9.0    94.0     0.0     0.0    17.0     3.0     2.0     2.0     2.0     0.0
+    15.0     0.0     0.0    35.0     1.0
+190, , 12781
+     0.0     0.0     3.0     3.0     0.0     1.0     2.0     1.0     0.0     6.0
+   131.0    11.0     0.0     4.0     1.0     0.0     5.0     0.0     1.0     4.0
+    10.0    58.0     0.0     0.0    10.0     0.0     0.0     3.0     0.0     0.0
+     0.0     0.0     0.0    30.0     3.0

@@ -1,0 +1,88 @@
+# GPD ASCII Format
+# 24 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Jock Lake
+# Place:          CAN:Ontario
+# Latitude:       48.41.00N      (  48.683333)
+# Longitude:      86.27.00W      ( -86.45    )
+# Elevation(m):   290
+# Sigle:          JOCKLAKE
+# Entity name:
+# Contact person: Saarnisto, M.
+# Entity notes:   All counts increased x10 for onesum purposes
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   800.0           540    130    130
+#   900.0          1210    100    100
+#  1000.0          1960    100    100
+#  1100.0          2690    110    110
+#  1200.0          3440    120    120
+#  1300.0          4440    120    120
+#  1400.0          5870    150    150
+#  1460.0          6980    180    180
+#  1500.0          9060    200    200  Hel-402      U
+#
+# Chron name:     COHMAP chron# 1
+# Age model:      linear interpolation
+# Age bounds:     1000 - 6000
+# Chron notes:    9 C-14 dates from Saarnisto, P.C. 1976. Age bounds for
+#                 application of the model: top = 1000; bottom = 6000.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#   715.0             0     20    -20   TOP
+#   800.0           540    670    410   C14
+#   900.0          1210   1310   1110   C14
+#  1000.0          1960   2060   1860   C14
+#  1100.0          2690   2800   2580   C14
+#  1200.0          3440   3560   3320   C14
+#  1300.0          4440   4560   4320   C14
+#  1400.0          5870   6020   5720   C14
+#  1460.0          6980   7160   6800   C14
+#  1500.0          9060   9260   8860   C14
+#
+# Publications:   Saarnisto, M. 1975. Stratigraphical studies on the shoreline
+#                 displacement of Lake Superior. Canadian Journal of Earth
+#                 Sciences 12:300-319.
+#
+15 6
+    1 Abi      A Abies
+    2 Ace      A Acer
+    3 Aln      A Alnus
+    4 Bet      A Betula
+    5 Cupae    A Cupressaceae
+    6 Fra      A Fraxinus
+    7 Os/Ca    A Ostrya/Carpinus
+    8 Pic      A Picea
+    9 Pin.Pi   A Pinus subg. Pinus
+   10 Pin.St   A Pinus subg. Strobus
+   11 Pop      A Populus
+   12 Que      A Quercus
+   13 Slx      A Salix
+   14 Tsu      A Tsuga
+   15 Ulm      A Ulmus
+870, , 1000
+    90.0     0.0    90.0   390.0    50.0     0.0     0.0   160.0   140.0    50.0
+     0.0    20.0     0.0    10.0     0.0
+1010, , 2032
+    20.0    10.0   150.0   350.0    30.0     0.0    10.0   160.0   180.0    50.0
+    10.0    10.0     0.0    20.0     0.0
+1140, , 2989
+    30.0     0.0   170.0   410.0    50.0    20.0     0.0   100.0   130.0    60.0
+     0.0    10.0    10.0     0.0    10.0
+1260, , 4039
+    40.0     0.0   140.0   310.0   130.0     0.0     0.0    90.0   190.0    70.0
+    10.0    10.0     0.0     0.0    10.0
+1340, , 5011
+    40.0    10.0   150.0   270.0   110.0    10.0    10.0    30.0   210.0   100.0
+    10.0    30.0     0.0    10.0    10.0
+1410, , 6054
+    30.0     0.0   140.0   260.0    60.0     0.0    10.0    60.0   310.0    90.0
+    10.0    10.0    10.0     0.0    10.0

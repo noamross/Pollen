@@ -1,0 +1,59 @@
+# GPD ASCII Format
+# 26 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the Latin American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Sierra Bacha
+# Place:          MEX:Sonora
+# Latitude:       29.50.00N      (  29.833333)
+# Longitude:      112.29.00W     (-112.483333)
+# Elevation(m):   220
+# Sigle:          SBACHA1B
+# Entity name:    SB1B
+# Contact person: Anderson, R.S.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#                  9270    160    160  A-5095       G    Midden debris
+# Dating notes:   Midden Sample SB1B
+#
+# Chron name:     R.S. Anderson 1995
+# Age model:      sample directly dated
+# Age bounds:     9260 - 9280
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#  9270.0          9270   9590   8950   C14
+#
+# Publications:   Anderson, R.S., and T.R. Van Devender. 1995. Vegetation
+#                 history of the coastal lowlands of Sonora, Mexico - pollen
+#                 records from packrat middens. Journal of Arid Environments
+#                 30:295-306.
+#
+19 1
+    1 Acc      A Acacia
+    2 Bur.m    A Bursera microphylla
+    3 Ece-t    A Encelia-type
+    4 Eph.ne-t A Ephedra nevadensis-type
+    5 Fou.c    A Fouquieria columnaris
+    6 Fou.s    A Fouquieria splendens
+    7 Pps      A Prosopis
+    8 Amb-t    B Ambrosia-type
+    9 Ast.As.c B Asteraceae subf. Asteroideae (coarse-spine)
+   10 Braae    B Brassicaceae
+   11 Cacae    B Cactaceae
+   12 Ch/Am    B Chenopodiaceae/Amaranthaceae
+   13 Eup      B Euphorbia
+   14 Lot      B Lotus
+   15 Pln.ov   B Plantago ovata
+   16 Sol      B Solanum
+   17 Sph      B Sphaeralcea
+   18 ind.de   X Indeterminable (degraded)
+   19 unk      X Unknown
+9270, , 9270
+     1.0    12.0   173.0     5.0    17.0     3.0    11.0     9.0     7.0    15.0
+    11.0     1.0     1.0     1.0     1.0     1.0     4.0    22.0    15.0

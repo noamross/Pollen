@@ -1,0 +1,171 @@
+# GPD ASCII Format
+# 23 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Ernst Brother's Pit
+# Place:          USA:Wisconsin
+# Latitude:       43.13.59N      (  43.233056)
+# Longitude:      88.02.31W      ( -88.041944)
+# Elevation(m):   244
+# Sigle:          ERNSTPIT
+# Entity name:
+# Contact person: Maher, L.J., Jr.
+#
+# Radiocarbon dates:
+#   Depth   Thk     Age   SDup   SDlo  Lab no.    Basis  Material
+#   236.0     3   12410    100    100  WIS-347      G    Larix root
+#
+# Chron name:     NAPD 1
+# Age model:      linear interpolation
+# Age bounds:     9180 - 12520
+# Chron notes:    Chron uses one C14 date and one pollen stratigraphic date
+#                 correlated to the top of Zone 4 in Seidel Lake, see West
+#                 1961.
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#   122.0    20    9490   9690   9290   POL
+#   236.0     3   12410  12610  12210   C14
+#
+# Publications:   Maher, L.J. Jr., 1970. Two Creeks forest, Valders glaciation
+#                 and pollen grains. Pages D-1 - D-8 in R.F. Black et al.,
+#                 Pleistocene geology of Southern Wisconsin. Wisconsin
+#                 geological and Natural History Survey Information Circular
+#                 No. 15, 175p.
+#
+46 14
+    1 Abi      A Abies
+    2 Ace      A Acer
+    3 Aln      A Alnus
+    4 Bet      A Betula
+    5 Car      A Carya
+    6 Cel      A Celtis
+    7 Crn      A Cornus
+    8 Cor      A Corylus
+    9 Fag      A Fagus
+   10 Fra      A Fraxinus
+   11 Jug      A Juglans
+   12 Jun      A Juniperus
+   13 Lar      A Larix
+   14 Os/Ca    A Ostrya/Carpinus
+   15 Pic      A Picea
+   16 Pin.Pi   A Pinus subg. Pinus
+   17 Pin.St   A Pinus subg. Strobus
+   18 Pin.ud   A Pinus undiff.
+   19 Pop      A Populus
+   20 Que      A Quercus
+   21 Slx      A Salix
+   22 Til      A Tilia
+   23 Tsu      A Tsuga
+   24 Ulm      A Ulmus
+   25 Amb      B Ambrosia
+   26 Apiae    B Apiaceae
+   27 Art      B Artemisia
+   28 Astae.ud B Asteraceae undiff.
+   29 Cheae    B Chenopodiaceae
+   30 Cypae    B Cyperaceae
+   31 Ongae    B Onagraceae
+   32 Poaae    B Poaceae
+   33 Ranae.ud B Ranunculaceae undiff.
+   34 Rosae    B Rosaceae
+   35 Tha      B Thalictrum
+   36 Urtae    B Urticaceae
+   37 Pdi      L Pediastrum
+   38 Myp      Q Myriophyllum
+   39 Nup      Q Nuphar
+   40 Nymae.ud Q Nymphaeaceae undiff.
+   41 Pot      Q Potamogeton
+   42 Typ      Q Typha
+   43 sp.m     S Spore (monolete)
+   44 sp.t     S Spore (trilete)
+   45 ind      X Indeterminable
+   46 Nymae.lh - Nymphaeaceae leaf-hair base
+50, , 7646
+     0.0     8.0     1.0     1.0     1.0     0.0     1.0     1.0     0.0     4.0
+     1.0     3.0     4.0     4.0     1.0     2.0     5.0    51.0     0.0    38.0
+     0.0     8.0     0.0    13.0     3.0    32.0     0.0     2.0     3.0    44.0
+     0.0    15.0     0.0     0.0     0.0     0.0     8.0     0.0     0.0     0.0
+     1.0     1.0     5.0     2.0     7.0     0.0
+80, , 8414
+     1.0     8.0     2.0     5.0     0.0     0.0     0.0     0.0     0.0     5.0
+     0.0     0.0     5.0    11.0     2.0    13.0    21.0   101.0     0.0    37.0
+     0.0     1.0     0.0    20.0     1.0     0.0     1.0     0.0     0.0    41.0
+     0.0     3.0     0.0     0.0     0.0     0.0     2.0     0.0     0.0     0.0
+     2.0     3.0     3.0     3.0     2.0     0.0
+110, , 9183
+     1.0     4.0     0.0     9.0     3.0     0.0     0.0     1.0     0.0    11.0
+     1.0     0.0     3.0    21.0     2.0     7.0     6.0    61.0     0.0    43.0
+     2.0     4.0     0.0    22.0     2.0     0.0     1.0     2.0     0.0    17.0
+     0.0     1.0     1.0     0.0     0.0     1.0     0.0     0.0     0.0     0.0
+     0.0     1.0     0.0     0.0     1.0     1.0
+130, , 9695
+     8.0     0.0     2.0    38.0     2.0     0.0     0.0     5.0     0.0    24.0
+     2.0     3.0     7.0     4.0     7.0    12.0     2.0    43.0     1.0    18.0
+     0.0     1.0     1.0    27.0     0.0     0.0     0.0     3.0     0.0     8.0
+     0.0     1.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     4.0
+     0.0     2.0     2.0     8.0     2.0     5.0
+150, , 10207
+     5.0     0.0     3.0    14.0     0.0     0.0     0.0     5.0     0.0     9.0
+     2.0     2.0     9.0     3.0    47.0    20.0     3.0    52.0     2.0    17.0
+     2.0     1.0     0.0    16.0     0.0     0.0     2.0     1.0     2.0    13.0
+     0.0     5.0     0.0     0.0     0.0     0.0     4.0     2.0     0.0     0.0
+     0.0    12.0     7.0    15.0     0.0     2.0
+180, , 10976
+    15.0     0.0     3.0     3.0     0.0     0.0     0.0     4.0     0.0    11.0
+     2.0     0.0     7.0     4.0    70.0     5.0     1.0    24.0     1.0    19.0
+     1.0     0.0     0.0    35.0     2.0     0.0     3.0     0.0     1.0     2.0
+     0.0     2.0     0.0     0.0     0.0     0.0     9.0     2.0     1.0     0.0
+     2.0     5.0     0.0     1.0     1.0     0.0
+200, , 11488
+     3.0     1.0     2.0     4.0     1.0     0.0     0.0     4.0     0.0    12.0
+     0.0     3.0     4.0     2.0   104.0     0.0     0.0     6.0     8.0    11.0
+     5.0     0.0     0.0     5.0     2.0     0.0    13.0     2.0     2.0    19.0
+     0.0     3.0     0.0     0.0     2.0     0.0    10.0     0.0     1.0     0.0
+     0.0     1.0     0.0    13.0     1.0     5.0
+220, , 12000
+     0.0     0.0     0.0     1.0     1.0     0.0     0.0     0.0     2.0    28.0
+     0.0     2.0     1.0     4.0   113.0     1.0     0.0     5.0     5.0    14.0
+     1.0     0.0     0.0     6.0     7.0     0.0     3.0     0.0     1.0    13.0
+     0.0     3.0     2.0     0.0     0.0     0.0    10.0     1.0     0.0     0.0
+     0.0     0.0     1.0     3.0     4.0     0.0
+240, , 12512
+     2.0     0.0     0.0     2.0     0.0     0.0     0.0     2.0     0.0    19.0
+     2.0     1.0     6.0     0.0   121.0     0.0     0.0     1.0     6.0     9.0
+     1.0     0.0     0.0     5.0     7.0     0.0     5.0     0.0     1.0    18.0
+     0.0     3.0     0.0     0.0     0.0     0.0     1.0     0.0     0.0     0.0
+     0.0     0.0     5.0     0.0     7.0     0.0
+260, , 13025
+     0.0     0.0     3.0     2.0     0.0     0.0     0.0     1.0     0.0    34.0
+     0.0     3.0    13.0    11.0    74.0     0.0     0.0     1.0    16.0    17.0
+     1.0     0.0     0.0     0.0     3.0     0.0     4.0     2.0     2.0    20.0
+     0.0    11.0     0.0     1.0     1.0     0.0     2.0     0.0     1.0     0.0
+     0.0     0.0     5.0     0.0     2.0     0.0
+265, , 13153
+     0.0     1.0     0.0     3.0     0.0     1.0     0.0     1.0     0.0    33.0
+     2.0     3.0     1.0    12.0    90.0     1.0     0.0     3.0     1.0    17.0
+     4.0     0.0     0.0     3.0     3.0     0.0     8.0     0.0     0.0    20.0
+     0.0     6.0     0.0     0.0     0.0     0.0     2.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     4.0     0.0
+270, , 13281
+     1.0     0.0     0.0     0.0     1.0     0.0     0.0     0.0     0.0    23.0
+     0.0     0.0    12.0     1.0   130.0     0.0     0.0     1.0     2.0     2.0
+     8.0     0.0     0.0     0.0     2.0     0.0     0.0     4.0     0.0    20.0
+     0.0     1.0     0.0     0.0     1.0     9.0     2.0     1.0     0.0     0.0
+     0.0    15.0     5.0     0.0     2.0     0.0
+272, , 13332
+     0.0     0.0     3.0     2.0     3.0     0.0     0.0     0.0     0.0    20.0
+     0.0     0.0    20.0     0.0   127.0     0.0     0.0     1.0     0.0     1.0
+     5.0     0.0     0.0     1.0     1.0     0.0     3.0     2.0     1.0    10.0
+     0.0     5.0     0.0     1.0     0.0     0.0     1.0     0.0     0.0     0.0
+     0.0     9.0     1.0     0.0     1.0     0.0
+275, , 13409
+     0.0     2.0     0.0     8.0     0.0     0.0     0.0     0.0     0.0    14.0
+     0.0     2.0     3.0     0.0   101.0     0.0     0.0     0.0     2.0     2.0
+    13.0     0.0     0.0     0.0     3.0     0.0     2.0     0.0     0.0    22.0
+     1.0    32.0     0.0     0.0     0.0     0.0     1.0     0.0     0.0     0.0
+     0.0    21.0     4.0     0.0     4.0     0.0

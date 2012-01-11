@@ -1,0 +1,133 @@
+# GPD ASCII Format
+# 24 Mar 00
+# Raw Counts - All Pollen Types
+#
+# ****************************************************************
+# ** Please acknowledge the contributors and the North American **
+# ** Pollen Database when using these data.                     **
+# ****************************************************************
+#
+# Site name:      Hemo Pond
+# Place:          USA:Minnesota
+# Latitude:       47.13.00N      (  47.216667)
+# Longitude:      95.47.00W      ( -95.783333)
+# Elevation(m):
+# Sigle:          HEMOPOND
+# Entity name:
+# Contact person: McAndrews, J.H.
+#
+# Chron name:     NAPD 1
+# Age model:      linear interpolation
+# Age bounds:     -10 - 120
+# Chron notes:    Chron uses surface date (-15 BP) and the Ambrosia-rise (80
+#                 BP).
+#
+# Age basis:
+#   Depth   Thk     Age  AgeUp  AgeLo  RCode
+#     0.0     0     -15      0    -15   TOP
+#    55.0    10      80    130     30   AMR
+#
+49 9
+    1 Abi      A Abies
+    2 Ace.ne   A Acer negundo
+    3 Ace.sa   A Acer saccharum
+    4 Aln      A Alnus
+    5 Bet      A Betula
+    6 Car      A Carya
+    7 Cor      A Corylus
+    8 Cupae    A Cupressaceae
+    9 Fra.am-t A Fraxinus americana-type
+   10 Fra.ni   A Fraxinus nigra
+   11 Jug.n    A Juglans nigra
+   12 Lar      A Larix
+   13 Os/Ca    A Ostrya/Carpinus
+   14 Pic      A Picea
+   15 Pin      A Pinus
+   16 Pla      A Platanus
+   17 Pop      A Populus
+   18 Que      A Quercus
+   19 Slx      A Salix
+   20 Sar.v    A Sarcobatus vermiculatus
+   21 Til      A Tilia
+   22 Ulm      A Ulmus
+   23 Vit      A Vitis
+   24 Amb      B Ambrosia
+   25 Amo      B Amorpha
+   26 Apiae    B Apiaceae
+   27 Art      B Artemisia
+   28 Astae.Au B Asteraceae subf. Asteroideae undiff.
+   29 Ch/Am.ud B Chenopodiaceae/Amaranthaceae undiff.
+   30 Cypae    B Cyperaceae
+   31 Hum      B Humulus
+   32 Iva.a    B Iva annua
+   33 Iva.x    B Iva xanthifolia
+   34 Lamae    B Lamiaceae
+   35 Pln      B Plantago
+   36 Poaae.ud B Poaceae undiff.
+   37 Rum      B Rumex
+   38 Xan      B Xanthium
+   39 Zea.m    B Zea mays
+   40 Drp-t    F Dryopteris-type
+   41 Equ      F Equisetum
+   42 Ptr      F Pteridium
+   43 Sel.ru   F Selaginella rupestris
+   44 Myp      Q Myriophyllum
+   45 Nup      Q Nuphar
+   46 Pot      Q Potamogeton
+   47 Typ.l    Q Typha latifolia
+   48 ind      X Indeterminable
+   49 unk      X Unknown
+1, , -13
+     1.0     0.0     1.0    13.0    67.0     0.0     8.0     1.0     1.0     1.0
+     0.0     1.0    11.0     6.0   113.0     0.0     4.0    74.0     7.0     1.0
+     2.0    17.0     0.0    31.0     0.0     1.0    20.0     7.0    10.0    41.0
+     0.0     1.0     1.0     0.0     0.0    35.0     0.0     0.0     1.0     0.0
+     0.0     0.0     0.0     0.0     2.0     0.0     4.0    10.0     2.0
+10, , 2
+     1.0     0.0     0.0    15.0    60.0     0.0     5.0     0.0     2.0     1.0
+     1.0     0.0    14.0    10.0    76.0     1.0     3.0    76.0     7.0     0.0
+     1.0    22.0     0.0    45.0     2.0     0.0    16.0     6.0    20.0    43.0
+     1.0     0.0     1.0     0.0     0.0    38.0     1.0     0.0     1.0     0.0
+     0.0     1.0     0.0     0.0     3.0     1.0     5.0    11.0     2.0
+20, , 20
+     2.0     1.0     0.0    19.0    66.0     0.0    13.0     0.0     1.0     4.0
+     0.0     1.0    12.0     5.0   110.0     0.0     1.0    61.0     8.0     1.0
+     3.0     9.0     1.0    32.0     0.0     0.0    16.0     6.0     9.0    49.0
+     0.0     0.0     0.0     0.0     2.0    19.0     0.0     0.0     0.0     0.0
+     0.0     1.0     0.0     0.0     2.0     0.0     2.0     7.0     7.0
+30, , 37
+     2.0     0.0     1.0    14.0    68.0     1.0    18.0     1.0     1.0     1.0
+     0.0     2.0    23.0     9.0   105.0     0.0     2.0    98.0     3.0     0.0
+     3.0    18.0     0.0    32.0     0.0     0.0    22.0     8.0    16.0    58.0
+     0.0     1.0     0.0     0.0     0.0    31.0     0.0     2.0     0.0     0.0
+     0.0     0.0     0.0     1.0     0.0     0.0     5.0     7.0     4.0
+40, , 54
+     0.0     0.0     3.0    11.0    83.0     0.0    17.0     2.0     2.0     1.0
+     0.0     2.0    18.0     5.0   112.0     0.0     4.0    52.0     5.0     2.0
+     0.0     9.0     1.0    16.0     1.0     0.0    27.0    11.0     6.0    45.0
+     0.0     0.0     0.0     0.0     0.0    32.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     5.0     1.0
+50, , 71
+     2.0     0.0     1.0     9.0    46.0     1.0    13.0     3.0     3.0     2.0
+     0.0     1.0    36.0     2.0    80.0     0.0     1.0    81.0     3.0     0.0
+     4.0    22.0     0.0    14.0     0.0     0.0    15.0     5.0     0.0    49.0
+     1.0     0.0     0.0     1.0     0.0    22.0     0.0     0.0     0.0     0.0
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     6.0     2.0
+60, , 89
+     2.0     0.0     1.0    12.0    56.0     0.0    13.0     0.0     2.0     4.0
+     0.0     0.0    27.0     3.0    83.0     1.0     2.0    91.0     2.0     1.0
+     2.0    13.0     0.0     6.0     1.0     0.0    32.0     2.0     6.0    48.0
+     0.0     0.0     0.0     0.0     0.0    24.0     0.0     0.0     0.0     1.0
+     1.0     0.0     0.0     0.0     1.0     0.0     2.0     7.0     3.0
+70, , 106
+     1.0     1.0     1.0    10.0    51.0     0.0     8.0     1.0     1.0     2.0
+     0.0     2.0    27.0     9.0    76.0     0.0     2.0   119.0     0.0     0.0
+     2.0    17.0     0.0     5.0     0.0     0.0    18.0     9.0     4.0    52.0
+     0.0     0.0     0.0     0.0     0.0    25.0     0.0     1.0     0.0     0.0
+     0.0     0.0     1.0     0.0     1.0     2.0     1.0     8.0     1.0
+80, , 123
+     1.0     0.0     0.0    17.0    64.0     0.0    11.0     1.0     0.0     2.0
+     0.0     0.0    32.0     8.0    88.0     1.0     0.0   108.0     5.0     1.0
+     3.0     9.0     0.0    14.0     0.0     0.0    32.0    11.0    11.0   102.0
+     0.0     0.0     0.0     0.0     0.0    43.0     0.0     0.0     0.0     1.0
+     0.0     1.0     3.0     2.0     6.0     0.0     0.0     6.0     1.0
